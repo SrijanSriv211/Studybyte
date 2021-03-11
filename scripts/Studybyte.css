@@ -181,27 +181,6 @@ body
 	transition: 0.8s;
 }
 
-/*Studybyte Search Result Page Links CSS*/
-#links
-{
-	text-decoration: none;
-	color: #f9f9f9;
-	cursor: pointer;
-	font-size: 23px;
-	font-family: Calibri;
-	position: absolute;
-	top: 100px;
-	left: 50px;
-	transition: 0.8s;
-}
-
-#links:hover
-{
-	color: #2c2c2c;
-	font-size: 27px;
-	transition: 0.8s;
-}
-
 /*Studybyte Error Page CSS*/
 .Error_info
 {
@@ -261,6 +240,107 @@ body
 #Searchterm:hover
 {
 	color: #ff5959;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
+/*Studybyte Search Result Page Links CSS*/
+#links1
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	cursor: pointer;
+	font-size: 23px;
+	font-family: Calibri;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	transition: 0.8s;
+}
+
+#links1:hover
+{
+	color: #2c2c2c;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
+#links2
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	cursor: pointer;
+	font-size: 23px;
+	font-family: Calibri;
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	transition: 0.8s;
+}
+
+#links2:hover
+{
+	color: #2c2c2c;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
+#links3
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	cursor: pointer;
+	font-size: 23px;
+	font-family: Calibri;
+	position: absolute;
+	top: 300px;
+	left: 50px;
+	transition: 0.8s;
+}
+
+#links3:hover
+{
+	color: #2c2c2c;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
+#links4
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	cursor: pointer;
+	font-size: 23px;
+	font-family: Calibri;
+	position: absolute;
+	top: 400px;
+	left: 50px;
+	transition: 0.8s;
+}
+
+#links4:hover
+{
+	color: #2c2c2c;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
+#links5
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	cursor: pointer;
+	font-size: 23px;
+	font-family: Calibri;
+	position: absolute;
+	top: 500px;
+	left: 50px;
+	transition: 0.8s;
+}
+
+#links5:hover
+{
+	color: #2c2c2c;
 	font-size: 27px;
 	transition: 0.8s;
 }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Page Not Found</title>
@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="./scripts/Studybyte.css">
 </head>
 <body>
+	<script src="./scripts/Studybyte.js"></script>
 	<div id="Studybyte_result_search">
 		<div>
 			<h4><a href="Studybyte.html">Studybyte<b class="caret"></b></a></h4>
@@ -15,11 +16,9 @@
 			<h4 id="Searchterm">Your search term was</h4>
 			<h5 class="Note">NOTE: The background image is taken from Unsplash.com</h5>
 		</div>
-		<form>
-			<input type="text" placeholder="Search Studybyte" title="Studybyte" id="GetValue"><br>
-			<input type="button" value="Studybyte" id="GetData" onclick="Studybyte_search()">
-		</form>
-		<script src="./scripts/Studybyte.js"></script>
+
+		<input type="text" placeholder="Search Studybyte" title="Studybyte" id="GetValue" onkeydown="IsEnter()"><br>
+		<form><input type="button" value="Studybyte" id="GetData" onclick="Studybyte_search()"></form>
 		<script> Showerror() </script>
 	</div>
 </body>
