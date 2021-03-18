@@ -24,16 +24,12 @@ function Studybyte_result()
 	let Lowercase_Query = localStorage.getItem("Lowercase");
 	document.title = Original_Query + " - Studybyte";
 
+	const NameOfLinks = document.getElementById("LinkList").getElementsByTagName("ul");
+
 	var Link;
-	var Title = [];
-
-	var href;
-	var Key = [];
-	var Keyword = document.getElementById('Database').getElementsByTagName('a');
-
 	var Query = Lowercase_Query;
-	var Chars = [" ", "-", "_"]
-	var Queries = [
+	const Chars = [" ", "-", "_"]
+	const Queries = [
 		["class5", "class-5"],
 		["class6", "class-6"],
 		["class7", "class-7"],
@@ -41,31 +37,14 @@ function Studybyte_result()
 		["class9", "class-9"],
 		["class10", "class-10"],
 		["class11", "class-11"],
-		["class12", "class-12"]
+		["class12", "class-12"],
+		["science", "science"],
+		["evs", "evs"],
+		["maths", "maths"],
+		["maths", "mathmatics"],
+		["english", "english"],
+		["hindi", "hindi"]
 	];
-
-	var Sitename = [
-		[
-		"NCERT Solutions for Class 5 - Learn CBSE",
-		"NCERT Solutions for Class 5 Maths",
-		"NCERT Solutions for Class 5 EVS",
-		"NCERT Solutions for Class 5 English",
-		"NCERT Solutions for Class 5 Hindi"
-		],
-		["Class 6"],
-		["Class 7"],
-		[
-		"NCERT Solutions for Class 8 - Learn CBSE",
-		"NCERT Solutions for Class 8 Maths",
-		"NCERT Solutions for Class 8 Science",
-		"NCERT Solutions for Class 8 English",
-		"NCERT Solutions for Class 8 Hindi"
-		],
-		["Class 9"],
-		["Class 10"],
-		["Class 11"],
-		["Class 12"]
-	]
 
 	for (var Check in Chars)
 	{
@@ -73,40 +52,16 @@ function Studybyte_result()
 		else if (Lowercase_Query.includes(Chars[Check])) Query = Query.split(Chars[Check]).join("");
 	}
 
-	for (var items in Queries)
+	for (var Keys in Queries)
 	{
-		if (Query.includes(Queries[items][0])) Link = Queries[items][1];
+		if (Query.includes(Queries[Keys][0])) Link = Queries[Keys][1];
 	}
 
-	for (var List in Sitename)
+	if (Link == undefined) window.location = "Studybyte_ERROR.html";
+	for (var i = 0; i < NameOfLinks.length; i++)
 	{
-		for (var KeyCode in Queries)
-		{
-			if (Queries[KeyCode][1] == Link) Title[List] = Sitename[KeyCode][List];
-		}
+		if (NameOfLinks[i].id != Link) document.getElementById(NameOfLinks[i].id).style.display = "none";
 	}
-
-	if (Title == undefined || Link == undefined) window.location = "Studybyte_ERROR.html";
-	Array.from(Keyword).forEach(function(element)
-	{
-		href = element.href;
-		if (href.includes(Link)) Key.push(href);
-	})
-
-	document.getElementById("links1").innerHTML = Title[0];
-	document.getElementById("links1").href = Key[0];
-
-	document.getElementById("links2").innerHTML = Title[1];
-	document.getElementById("links2").href = Key[1];
-
-	document.getElementById("links3").innerHTML = Title[2];
-	document.getElementById("links3").href = Key[2];
-
-	document.getElementById("links4").innerHTML = Title[3];
-	document.getElementById("links4").href = Key[3];
-
-	document.getElementById("links5").innerHTML = Title[4];
-	document.getElementById("links5").href = Key[4];
 }
 
 function Showerror()
