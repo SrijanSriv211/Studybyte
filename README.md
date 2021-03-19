@@ -1,6 +1,8 @@
 # Studybyte
 Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.
 
+I'm currently developing search engine named Cpix, which may have the potential to give Google a some-what nice competition, but that's not what we are talking about. Studybyte's most of the search algorithm is taken from Cpix. This is because it's saved me a lot of time to actually setup the whole search system and this means that Studybyte will not take 3-4 years to get completed. Instead it's will be finished in like almost 6-7 months which is really great!
+
 ## Getting Started
 Visual Studio Code is recommended (You can use your desired one), Studybyte is not officially completed yet, but you can still use it to find Study material.
 
