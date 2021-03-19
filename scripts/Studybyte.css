@@ -15,6 +15,26 @@ body
 }
 
 /*Studybyte Home Page CSS*/
+#Studybyte_search .ABOUT
+{
+	text-decoration: none;
+	color: #f9f9f9;
+	font-family: Calibri;
+	font-size: 20px;
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	transform: translate(-2%, -2%);
+	transition: 0.8s;
+}
+
+#Studybyte_search .ABOUT:hover
+{
+	text-decoration: underline;
+	font-size: 27px;
+	transition: 0.8s;
+}
+
 #Studybyte_search img
 {
 	position: absolute;
