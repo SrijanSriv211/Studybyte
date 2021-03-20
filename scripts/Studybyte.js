@@ -17,10 +17,10 @@ function Studybyte_search()
 	{
 		localStorage.setItem("Original", Original_Data);
 		localStorage.setItem("Lowercase", Lowercase_Data);
-		window.location = "Studybyte_RESULTS.html";
+		window.location = "RESULTS.html";
 	}
 
-	catch (err) { window.location = "Studybyte_ERROR.html"; }
+	catch (err) { window.location = "ERROR.html"; }
 }
 
 // This is the main algorithm behind the Studybyte search engine.
@@ -33,14 +33,17 @@ function Studybyte_result()
 
 	// Global variables
 	var CountHiddenLinks = 0;
-	const Chars = [" ", "-", "_", ".", "?", "!"];
+	const Chars = [[" ", "-", "_",], [".", "?", "!"]];
 	const NameOfLinks = document.getElementById("LinkList").children;
 
 	// This For Loop will check and replace all the Chars with "-".
-	for (var Check = 0; Check < Chars.length; Check++)
+	for (var items = 0; items < Chars.length; items++)
 	{
-		// Replace all the Special Chars with empty string.
-		if (Query.includes(Chars[Check])) Query = Query.split(Chars[Check]).join("-");
+		for (var Check = 0; Check < Chars[items].length; Check++)
+		{
+			if (Query.includes(Chars[0][Check])) Query = Query.replace(Chars[0][Check], "-"); // Replace all the Special Chars with empty string.
+			if (Query.includes(Chars[1][Check])) Query = Query.replace(Chars[1][Check], ""); // Replace all the Special Chars with empty string.
+		}
 	}
 
 	// This For Loop will check if there are links for the Query given, and hide others
@@ -55,7 +58,7 @@ function Studybyte_result()
 
 	/*This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined
 	then send to "Studybyte_ERROR" page.*/
-	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
+	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "ERROR.html";
 }
 
 // If you are redirected to "Studybyte_ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
