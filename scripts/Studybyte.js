@@ -12,7 +12,7 @@ function Studybyte_search()
 	var Original_Data = document.getElementById("GetValue").value;
 	var Lowercase_Data = Original_Data.toLowerCase();
 
-	// This piece of code will try to send all of the data to "Studybyte_RESULTS" page, and if it's not possible then send to "Studybyte_ERROR" page.
+	// This piece of code will try to send all of the data to "RESULTS" page, and if it's not possible then send to "ERROR" page.
 	try
 	{
 		localStorage.setItem("Original", Original_Data);
@@ -32,36 +32,39 @@ function Studybyte_result()
 	document.title = Original_Query + " - Studybyte"; // Change the title of the page.
 
 	// Global variables
+	var EndTime = 0
+	var StartTime = 0;
 	var CountHiddenLinks = 0;
-	const Chars = [[" ", "-", "_",], [".", "?", "!"]];
+	const Chars = [" ", "-", "_", ".", "?", "!"];
 	const NameOfLinks = document.getElementById("LinkList").children;
 
-	// This For Loop will check and replace all the Chars with "-".
-	for (var items = 0; items < Chars.length; items++)
+
+	// This piece of code will start a Timer to check the performance and then the For Loop will check and replace all the Chars with empty string.
+	StartTime = performance.now();
+	for (var Check = 0; Check < Chars.length; Check++)
 	{
-		for (var Check = 0; Check < Chars[items].length; Check++)
-		{
-			if (Query.includes(Chars[0][Check])) Query = Query.replace(Chars[0][Check], "-"); // Replace all the Special Chars with empty string.
-			if (Query.includes(Chars[1][Check])) Query = Query.replace(Chars[1][Check], ""); // Replace all the Special Chars with empty string.
-		}
+		if (Query.includes(Chars[Check])) Query = Query.split(Chars[Check]).join(""); // Replace all the Special Chars with empty string.
 	}
 
-	// This For Loop will check if there are links for the Query given, and hide others
+	// This For Loop will check if there are links for the Query given, and hide those links which didn't match.
 	for (var i = 0; i < NameOfLinks.length; i++)
 	{
-		if (NameOfLinks[i].id != Query)
+		if (Query.includes(NameOfLinks[i].id) == false)
 		{
 			document.getElementById(NameOfLinks[i].id).style.display = "none"; // Hide all the links that doesn't match with the Query.
 			CountHiddenLinks++; // Do +1 in CountHiddenLinks variable every single time when it finds that the current link doesn't match the Query.
 		}
 	}
 
-	/*This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined
-	then send to "Studybyte_ERROR" page.*/
+	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
 	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "ERROR.html";
+
+	// This piece of code will stop the Timer, then calculate how many results are rendered and how much time did they took. After that calculation it will render everything.
+	EndTime = performance.now();
+	document.getElementById("TimeTaken").innerHTML = (NameOfLinks.length - CountHiddenLinks) + " Result(s) in " + parseFloat(EndTime - StartTime) + " Seconds.";
 }
 
-// If you are redirected to "Studybyte_ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
+// If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
 function Showerror()
 {
 	// Set the value of search term which was given in the search box.
