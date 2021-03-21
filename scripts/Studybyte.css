@@ -230,25 +230,6 @@ body
 	transition: 0.8s;
 }
 
-#TimeTaken
-{
-	font-family: Calibri;
-	color: #f9f9f9;
-	font-size: 15px;
-	cursor: default;
-	position: absolute;
-	top: 10%;
-	left: 10%;
-	transform: translate(-10%, -10%);
-	transition: 0.8s;
-}
-
-#TimeTaken:hover
-{
-	font-size: 17px;
-	transition: 0.8s;
-}
-
 /*Studybyte Error Page CSS*/
 .Error_info
 {

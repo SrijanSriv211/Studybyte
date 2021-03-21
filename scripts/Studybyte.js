@@ -12,15 +12,15 @@ function Studybyte_search()
 	var Original_Data = document.getElementById("GetValue").value;
 	var Lowercase_Data = Original_Data.toLowerCase();
 
-	// This piece of code will try to send all of the data to "RESULTS" page, and if it's not possible then send to "ERROR" page.
+	// This piece of code will try to send all of the data to "Studybyte_RESULTS" page, and if it's not possible then send to "Studybyte_ERROR" page.
 	try
 	{
 		localStorage.setItem("Original", Original_Data);
 		localStorage.setItem("Lowercase", Lowercase_Data);
-		window.location = "RESULTS.html";
+		window.location = "Studybyte_RESULTS.html";
 	}
 
-	catch (err) { window.location = "ERROR.html"; }
+	catch (err) { window.location = "Studybyte_ERROR.html"; }
 }
 
 // This is the main algorithm behind the Studybyte search engine.
@@ -32,15 +32,12 @@ function Studybyte_result()
 	document.title = Original_Query + " - Studybyte"; // Change the title of the page.
 
 	// Global variables
-	var EndTime = 0
-	var StartTime = 0;
 	var CountHiddenLinks = 0;
 	const Chars = [" ", "-", "_", ".", "?", "!"];
 	const NameOfLinks = document.getElementById("LinkList").children;
 
 
-	// This piece of code will start a Timer to check the performance and then the For Loop will check and replace all the Chars with empty string.
-	StartTime = performance.now();
+	// The For Loop will check and replace all the Chars with empty string.
 	for (var Check = 0; Check < Chars.length; Check++)
 	{
 		if (Query.includes(Chars[Check])) Query = Query.split(Chars[Check]).join(""); // Replace all the Special Chars with empty string.
@@ -56,12 +53,8 @@ function Studybyte_result()
 		}
 	}
 
-	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "ERROR.html";
-
-	// This piece of code will stop the Timer, then calculate how many results are rendered and how much time did they took. After that calculation it will render everything.
-	EndTime = performance.now();
-	document.getElementById("TimeTaken").innerHTML = (NameOfLinks.length - CountHiddenLinks) + " Result(s) in " + parseFloat(EndTime - StartTime) + " Seconds.";
+	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "Studybyte_ERROR" page.
+	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
