@@ -19,6 +19,3 @@ You need to install the following on your machine.
 - Visual Studio Code (or any other IDE)
 
 NOTE: These requirments are only needed if you want to develope Studybyte. To use it you just need a Web browser.
-
-## License
-All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
