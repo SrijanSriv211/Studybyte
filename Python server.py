@@ -1,16 +1,32 @@
+# Python server
+# These IMPORTS are IMPORTANT!
 from colorama import Fore, Back, Style
 from colorama import init
 import socketserver
 import http.server
+import webbrowser
 import os
 
+# Initialize Python server
 init(autoreset = True)
-
 os.system('title Python server')
 print(Fore.GREEN + "Python server")
+class HttpRequestHandler(http.server.SimpleHTTPRequestHandler):
+	def do_GET(self):
+		if self.path == '/': self.path = 'Studybyte.html'
+		return http.server.SimpleHTTPRequestHandler.do_GET(self)
+
+# Create an object of the above class and Create Global variables
+Handler = HttpRequestHandler
+INCOGNITO = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --incognito"
 PORT = 8000
 
-Handler = http.server.SimpleHTTPRequestHandler
-httpd = socketserver.TCPServer(("", PORT), Handler)
-print(f"Server at PORT: {PORT}\n------------------------------------------------------------------------------\n")
-httpd.serve_forever()
+HOST = f"http://localhost:{PORT}"
+
+# Setup the server
+Server = socketserver.TCPServer(("", PORT), Handler)
+print(f"Server at PORT: {HOST}")
+webbrowser.get(INCOGNITO).open(HOST)
+
+# Start the server
+Server.serve_forever()

@@ -230,6 +230,24 @@ body
 	transition: 0.8s;
 }
 
+#NumOfLinks
+{
+	font-family: Calibri;
+	color: #f9f9f9;
+	font-size: 17px;
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	transform: translate(-10%, -10%);
+	transition: 0.8s;
+}
+
+#NumOfLinks:hover
+{
+	font-size: 20px;
+	transition: 0.8s;
+}
+
 /*Studybyte Error Page CSS*/
 .Error_info
 {
@@ -321,7 +339,7 @@ body
 
 #Database a:hover
 {
-	background-color: #2c2c2c;
+	text-decoration: underline;
 	font-size: 30px;
 	transition: 0.8s;
 }
