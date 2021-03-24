@@ -29,6 +29,7 @@ function Studybyte_result()
 	// These variables will receive data from the search box.
 	let Original_Query = localStorage.getItem("Original");
 	let Query = localStorage.getItem("Lowercase");
+	document.title = Original_Query + " · Studybyte"; // Change the title of the page.
 
 	// Global variables
 	let CountHiddenLinks = 0;
@@ -44,7 +45,7 @@ function Studybyte_result()
 	// This For Loop will check if there are links for the Query given, and hide those links which didn't match.
 	for (var i = 0; i < NameOfLinks.length; i++)
 	{
-		if (Query == "" || Query == " " || Query == "#search:all" || Query.includes("  ")) Original_Query = "#search:all";
+		if (Query == "" || Query == " ") break;
 		else if (Query.includes(NameOfLinks[i].id) == false)
 		{
 			document.getElementById(NameOfLinks[i].id).style.display = "none"; // Hide all the links that doesn't match with the Query.
@@ -57,7 +58,6 @@ function Studybyte_result()
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "Studybyte_ERROR" page.
 	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
-	document.title = Original_Query + " · Studybyte"; // Change the title of the page.
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
@@ -67,4 +67,10 @@ function Showerror()
 	let Original_Query = localStorage.getItem("Original");
 	document.getElementById("Searchterm").innerHTML = "Your search term was \"" + Original_Query + "\"."; // Render the QriginalQuery or the Searchterm.
 	document.title = Original_Query + " · Studybyte"; // Change the title of the page.
+}
+
+// This function will Scroll the window to the TOP.
+function SCROLLToTOP()
+{
+	window.scrollTo(0, 0); // This piece of code will scroll the window to the TOP.
 }
