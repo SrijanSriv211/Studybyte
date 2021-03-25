@@ -45,7 +45,7 @@ function Studybyte_result()
 	// This For Loop will check if there are links for the Query given, and hide those links which didn't match.
 	for (var i = 0; i < NameOfLinks.length; i++)
 	{
-		if (Query == "" || Query == " ") break;
+		if (Query == "") break;
 		else if (Query.includes(NameOfLinks[i].id) == false)
 		{
 			document.getElementById(NameOfLinks[i].id).style.display = "none"; // Hide all the links that doesn't match with the Query.
@@ -57,7 +57,7 @@ function Studybyte_result()
 	document.getElementById("NumOfLinks").innerHTML = (NameOfLinks.length - CountHiddenLinks) + " results found!";
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "Studybyte_ERROR" page.
-	if (CountHiddenLinks == NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
+	if (CountHiddenLinks >= NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
