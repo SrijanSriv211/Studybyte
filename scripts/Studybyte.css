@@ -61,7 +61,7 @@ body
 	position: absolute;
 	top: 40%;
 	left: 48%;
-	transform: translate(-40%,-48%);
+	transform: translate(-40%, -48%);
 	text-align: center;
 	font-size: 50px;
 	transition: 0.8s;
@@ -85,13 +85,12 @@ body
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50%, -50%);
 	width: 50%;
 	height: 40px;
-	transition: 0.8s;
-	text-align: center;
-	font-size: 15px;
+	padding-left: 10px;
 	font-family: Calibri;
+	transition: 0.8s;
 }
 
 #GetValue:hover
@@ -100,6 +99,7 @@ body
 	background-color: #f9f9f9;
 	color: #2c2c2c;
 	box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+	font-size: 15px;
 	transition: 0.8s;
 }
 
@@ -118,13 +118,13 @@ body
 	position: absolute;
 	top: 60%;
 	left: 51%;
-	transform: translate(-60%,-51%);
-	width: 13%;
+	transform: translate(-60%, -51%);
 	height: 30px;
-	transition: 0.8s;
+	width: 15%;
 	text-align: center;
 	font-family: Calibri;
 	cursor: pointer;
+	transition: 0.8s;
 }
 
 #GetData:hover
@@ -145,6 +145,7 @@ body
 	position: absolute;
 	bottom: 1%;
 	left: 1%;
+	transform: translate(-1%, -1%);
 	font-size: 12px;
 	transition: 0.8s;
 }
@@ -164,11 +165,8 @@ body
 	position: absolute;
 	top: 2%;
 	left: 2%;
-	text-align: center;
 	font-size: 20px;
 	transition: 0.8s;
-	cursor: pointer;
-	z-index: 999;
 }
 
 #Studybyte_result_search h4 a:hover
@@ -183,18 +181,11 @@ body
 
 #Studybyte_result_search #GetValue
 {
-	background-color: #2c2c2c;
-	color: #f9f9f9;
-	border-radius: 5px;
-	border: none;
 	position: absolute;
 	top: 4%;
 	left: 50%;
-	width: 50%;
 	height: 30px;
 	transition: 0.8s;
-	text-align: center;
-	z-index: 999;
 }
 
 #Studybyte_result_search #GetValue:hover
@@ -207,19 +198,10 @@ body
 
 #Studybyte_result_search #GetData
 {
-	background-color: #2c2c2c;
-	color: #f9f9f9;
-	border-radius: 5px;
-	border: none;
 	position: absolute;
 	top: 4%;
 	left: 92%;
-	width: 13%;
-	height: 30px;
 	transition: 0.8s;
-	text-align: center;
-	cursor: pointer;
-	z-index: 999;
 }
 
 #Studybyte_result_search #GetData:hover
@@ -251,17 +233,18 @@ body
 #ScrollToTop
 {
 	border: none;
-	border-radius: 10px;
+	border-radius: 5px;
 	background-color: #1a1a1a;
 	color: #f9f9f9;
-	width: 50px;
-	height: 50px;
-	font-size: 30px;
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
 	text-align: center;
+	cursor: pointer;
 	position: fixed;
-	bottom: 2%;
-	right: 2%;
-	transform: translate(-2%, -2%);
+	bottom: 1%;
+	right: 1%;
+	transform: translate(-1%, -1%);
 	transition: 0.8s;
 }
 
