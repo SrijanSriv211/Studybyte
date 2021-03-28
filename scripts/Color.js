@@ -8,9 +8,17 @@ function Color(Query, Links)
 
 function MatchingWords(s1, s2)
 {
-	var w1;
-	var w2 = s2.trim().split(" ");
+	var w1 = s1;
+	var w2 = s2;
 	var Rank = 0;
+
+	const Chars = ["-", "|", "/", "·"];
+	for (var Check = 0; Check < Chars.length; Check++)
+	{
+		if (w2.includes(Chars[Check])) w2 = w2.trim().split(Chars[Check]).join(" ");
+	}
+
+	w2 = w2.trim().split(" ")
 	if (s1.includes(" "))
 	{
 		w1 = s1.trim().split(" ");
