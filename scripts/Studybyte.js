@@ -23,7 +23,7 @@ function Studybyte_search()
 	catch (err) { window.location = "Studybyte_ERROR.html"; }
 }
 
-// This is the main algorithm behind the Studybyte search engine.
+// This function is used to Process the Render the Search results.
 function Studybyte_result()
 {
 	// These variables will receive data from the search box.
@@ -32,32 +32,43 @@ function Studybyte_result()
 	document.title = Original_Query + " · Studybyte"; // Change the title of the page.
 
 	// Global variables
-	let CountHiddenLinks = 0;
-	const Chars = [" ", "-", "_", ".", "?", "!"];
+	var NumOFReults = 0;
+	var ListOfLinks = [];
+	var RenderResults = [];
+
+	const Chars = ["-", "_", "|", "/", ":", ".", "?", "!"];
 	const NameOfLinks = document.getElementById("LinkList").getElementsByTagName("li");
 
-	// The For Loop will check and replace all the Chars with empty string.
+	// This For Loop will Format the Query (Check and replace all the Chars with empty string).
 	for (var Check = 0; Check < Chars.length; Check++)
 	{
-		if (Query.includes(Chars[Check])) Query = Query.split(Chars[Check]).join(""); // Replace all the Special Chars with empty string.
+		if (Query.includes(Chars[Check])) Query = Query.trim().split(Chars[Check]).join(""); // Replace all the Special Chars with empty string.
 	}
 
-	// This For Loop will check if there are links for the Query given, and hide those links which didn't match.
+	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 	for (var i = 0; i < NameOfLinks.length; i++)
 	{
-		if (Query == "") break;
-		else if (Query.includes(NameOfLinks[i].id) == false)
+		ListOfLinks.push(NameOfLinks[i].innerText);
+	}
+
+	RenderResults = Color(Query, ListOfLinks);
+	for (var a = 0; a < RenderResults.length; a++)
+	{
+		for (var i = 0; i < NameOfLinks.length; i++)
 		{
-			document.getElementById(NameOfLinks[i].id).style.display = "none"; // Hide all the links that doesn't match with the Query.
-			CountHiddenLinks++; // Do +1 in CountHiddenLinks variable every single time when it finds that the current link doesn't match the Query.
+			if (RenderResults[a][1] == NameOfLinks[i].innerText && RenderResults[a][0] != 0)
+			{
+				ColorRender(NameOfLinks[i]);
+				NumOFReults++;
+			}
 		}
 	}
 
 	// This piece of code will Change the text of item with "NumOFLinks" id to the number of results.
-	document.getElementById("NumOfLinks").innerHTML = (NameOfLinks.length - CountHiddenLinks) + " results found!";
+	document.getElementById("NumOfLinks").innerHTML = NumOFReults + " results found!";
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "Studybyte_ERROR" page.
-	if (CountHiddenLinks >= NameOfLinks.length || Query == undefined) window.location = "Studybyte_ERROR.html";
+	if (NumOFReults == 0 || Query == undefined) window.location = "Studybyte_ERROR.html";
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.

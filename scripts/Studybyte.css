@@ -329,6 +329,11 @@ body
 	margin-top: 100px;
 }
 
+#Database #LinkList
+{
+	display: none;
+}
+
 #Database li
 {
 	padding: 40px 50px;
