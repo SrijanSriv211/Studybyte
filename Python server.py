@@ -21,7 +21,7 @@ Handler = HttpRequestHandler
 INCOGNITO = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --incognito"
 PORT = 8000
 
-HOST = f"http://localhost:{PORT}"
+HOST = f"http://127.0.0.1:{PORT}"
 
 # Setup the server
 Server = socketserver.TCPServer(("", PORT), Handler)

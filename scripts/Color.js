@@ -1,9 +1,9 @@
 // Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 function Color(Query, Links)
 {
-	var RRV = RankResultValues(Query, Links);
-	var MVAR = ColorRank(RRV, Links);
-	return MVAR;
+	var Rrv = RankResultValues(Query, Links);
+	var Cr = ColorRank(Rrv, Links);
+	return Cr;
 }
 
 function MatchingWords(s1, s2)
@@ -50,10 +50,7 @@ function MatchingWords(s1, s2)
 function RankResultValues(Query, Links)
 {
 	var Rank_values = [];
-	for (var Link = 0; Link < Links.length; Link++)
-	{
-		Rank_values.push(MatchingWords(Query, Links[Link]));
-	}
+	for (var Link = 0; Link < Links.length; Link++) { Rank_values.push(MatchingWords(Query, Links[Link])); }
 
 	return Rank_values;
 }
@@ -61,10 +58,7 @@ function RankResultValues(Query, Links)
 function ColorRank(Values, Results)
 {
 	var MergedList = [];
-	for (var i = 0; i < Values.length; i++)
-	{
-		MergedList.push([Values[i], Results[i]]);
-	}
+	for (var i = 0; i < Values.length; i++) { MergedList.push([Values[i], Results[i]]); }
 
 	MergedList.sort().reverse();
 	return MergedList;
