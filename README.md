@@ -17,7 +17,7 @@ That's a pretty good question, well as Studybyte is only optimized to find Study
 
 ## Requirments
 You need to install the following on your machine.
-- Google Chrome
+- Google Chrome (or any other Web Browser, but it must be Up-To-Date)
 - Visual Studio Code (or any other IDE)
 
 NOTE: These requirments are only needed if you want to develope Studybyte. To use it you just need a Web browser.
