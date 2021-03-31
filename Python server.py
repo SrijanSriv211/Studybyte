@@ -13,7 +13,7 @@ os.system('title Python server')
 print(Fore.GREEN + "Python server")
 class HttpRequestHandler(http.server.SimpleHTTPRequestHandler):
 	def do_GET(self):
-		if self.path == '/': self.path = 'Studybyte.html'
+		if self.path == '/': self.path = 'index.html'
 		return http.server.SimpleHTTPRequestHandler.do_GET(self)
 
 # Create an object of the above class and Create Global variables
