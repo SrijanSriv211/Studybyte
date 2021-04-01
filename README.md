@@ -1,6 +1,6 @@
 # Studybyte
-Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.<br>
-[Studybyte](https://light-lens.github.io/Studybyte/) (Click the link to goto Studybyte's official website).
+Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.
+Click [here](https://light-lens.github.io/Studybyte/) (This link will redirect you to Studybyte's official website).
 
 ![Studybyte's Homepage Screenshot](./res/Studybyte-Screenshot.png)
 
