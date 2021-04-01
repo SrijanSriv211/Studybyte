@@ -1,7 +1,11 @@
 // This function will check whether Enter key is pressed or not? And if Enter key is pressed then call "Studybyte_search" function.
 function IsEnter()
 {
-	if (event.keyCode == 13) Studybyte_search();
+	let Original_Data = document.getElementById("GetValue").value;
+	if (Original_Data != "")
+	{
+		if (event.keyCode == 13) Studybyte_search();
+	}
 }
 
 // This function will try to send all of the data to "Studybyte_RESULTS" page.
@@ -12,14 +16,17 @@ function Studybyte_search()
 	let Lowercase_Data = Original_Data.toLowerCase();
 
 	// This piece of code will try to send all of the data to "RESULTS" page, and if it's not possible then send to "ERROR" page.
-	try
+	if (Original_Data != "")
 	{
-		localStorage.setItem("Original", Original_Data);
-		localStorage.setItem("Lowercase", Lowercase_Data);
-		window.location = "RESULTS.html";
-	}
+		try
+		{
+			localStorage.setItem("Original", Original_Data);
+			localStorage.setItem("Lowercase", Lowercase_Data);
+			window.location = "RESULTS.html";
+		}
 
-	catch (err) { window.location = "ERROR.html"; }
+		catch (err) { window.location = "ERROR.html"; }
+	}
 }
 
 // This function is used to Process the Render the Search results.
