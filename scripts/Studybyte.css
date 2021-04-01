@@ -173,28 +173,19 @@
 	font-family: Calibri;
 	color: #f9f9f9;
 	font-size: 17px;
-	position: absolute;
-	top: 10%;
-	left: 10%;
-	transform: translate(-10%, -10%);
-	transition: 0.8s;
-}
-
-#NumOfLinks:hover
-{
-	font-size: 20px;
-	transition: 0.8s;
+	text-align: center;
+	margin-top: 7%;
 }
 
 #ScrollToTop
 {
 	border: none;
 	border-radius: 5px;
-	background-color: #f7f7f7;
-	color: #1a1a1a;
+	background-color: #373737;
+	color: #f9f9f9;
 	width: 40px;
 	height: 40px;
-	font-size: 25px;
+	font-size: 17px;
 	text-align: center;
 	cursor: pointer;
 	position: fixed;
@@ -279,7 +270,7 @@
 /*Studybyte Search Result Page Links CSS*/
 #Database
 {
-	margin-top: 100px;
+	margin-top: 17px;
 }
 
 #Database #LinkList
@@ -289,21 +280,31 @@
 
 #Database li
 {
-	padding: 40px 50px;
+	padding: 50px 50px;
 }
 
-#Database a
+#Database a:link
 {
 	text-decoration: none;
-	color: #f9f9f9;
+	color: #8c8cfa;
 	cursor: pointer;
 	font-size: 25px;
 	font-family: Calibri;
 	transition: 0.8s;
 }
 
+#Database a:visited
+{
+	color: #ac77e7;
+}
+
 #Database a:hover
 {
 	text-decoration: underline;
 	transition: 0.8s;
+}
+
+#Database a:active
+{
+	color: #99bae6;
 }
