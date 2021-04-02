@@ -5,6 +5,11 @@
 	overflow-x: hidden;
 }
 
+html
+{
+	scroll-behavior: smooth;
+}
+
 /*Studybyte Home Page CSS*/
 #Studybyte_search .ABOUT
 {
