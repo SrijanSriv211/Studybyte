@@ -20,9 +20,24 @@ function Studybyte_search()
 	{
 		try
 		{
-			localStorage.setItem("Original", Original_Data);
-			localStorage.setItem("Lowercase", Lowercase_Data);
-			window.location = "RESULTS";
+			if (Lowercase_Data.startsWith("g?"))
+			{
+				var Google_Search_Query = Lowercase_Data.replace("g?", "");
+				window.location = "https://www.google.com/search?q=" + Google_Search_Query;
+			}
+
+			else if (Lowercase_Data.startsWith("yt?"))
+			{
+				var Google_Search_Query = Lowercase_Data.replace("yt?", "");
+				window.location = "https://www.youtube.com/results?search_query=" + Google_Search_Query;
+			}
+
+			else
+			{
+				localStorage.setItem("Original", Original_Data);
+				localStorage.setItem("Lowercase", Lowercase_Data);
+				window.location = "RESULTS";
+			}
 		}
 
 		catch (err) { window.location = "ERROR"; }
