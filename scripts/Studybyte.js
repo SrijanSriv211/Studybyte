@@ -22,10 +22,10 @@ function Studybyte_search()
 		{
 			localStorage.setItem("Original", Original_Data);
 			localStorage.setItem("Lowercase", Lowercase_Data);
-			window.location = "RESULTS.html";
+			window.location = "RESULTS";
 		}
 
-		catch (err) { window.location = "ERROR.html"; }
+		catch (err) { window.location = "ERROR"; }
 	}
 }
 
@@ -77,7 +77,7 @@ function Studybyte_result()
 	}
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFReults == 0 || Query == undefined) window.location = "ERROR.html";
+	if (NumOFReults == 0 || Query == undefined) window.location = "ERROR";
 
 	// This piece of code will Change some window properties.
 	document.getElementById("NumOfLinks").innerHTML = NumOFReults + " results found!";
