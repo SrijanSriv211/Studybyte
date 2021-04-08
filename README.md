@@ -15,7 +15,27 @@ Visual Studio Code is recommended (You can use your desired one). Note that VSCo
 Start by cloning the repository with `git clone https://github.com/Light-Lens/Studybyte`.
 
 ## Why To Use Studybyte?
-That's a pretty good question, well as Studybyte is only optimized to find Study materials from trusted sources. You can find your desired content really quickly and you don't have to do 3-4 Google searches to find the perfect solution. Now obviously I can't compete with Google because it's a really huge company and i'm an individual creator, but i think that this search engine can help a lot of people. And Studybyte has the potential to achive success.
+That's a pretty good question though!
+
+Studybyte is optimized to list you Study related content on it's search results, meaning if you search something like "How to make a Cake" then Studybyte will not give you any results, instead it will redirect to the error page saying "We didn't find any match for your search term(s)". And all the links that will get listed your result page will be only coming from trusted sources, so you don't need to worry about anything.
+
+I don't know whether others have experienced this or not but some times i need to perform almost 3-4 Google searches to find the solution i'm actually looking for. Now obviously Google is a really big and fast search engine, but as we know even Google is not perfect. But i think at this case Studybyte is in lead, i know i can't compete with Google because it's a really huge company and i'm an individual creator, but i think that this search engine can help people a lot more than Google.
+
+### What about Features?
+There are not so many features implemented yet, but we are currently working on it.
+- Studybyte is optimized to only provide Study material on it's search results.
+- Search Tags
+
+and a bit more.
+
+### What are Search Tags?
+Well Search Tags is nothing much, it's just some keywords, if at the start of your Query you use Search Tags then you can perform a search to Google, YouTube or etc.
+
+Currently implemented Search Tags are:
+- Search to Google using `g?`
+- Search to YouTube using `yt?`
+
+in the future more will be added.
 
 ## Requirments
 You need to install the following on your machine.
