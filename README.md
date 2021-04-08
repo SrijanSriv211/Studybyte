@@ -17,25 +17,15 @@ Start by cloning the repository with `git clone https://github.com/Light-Lens/St
 ## Why To Use Studybyte?
 That's a pretty good question though!
 
-Studybyte is optimized to list you Study related content on it's search results, meaning if you search something like "How to make a Cake" then Studybyte will not give you any results, instead it will redirect to the error page saying "We didn't find any match for your search term(s)". And all the links that will get listed your result page will be only coming from trusted sources, so you don't need to worry about anything.
+Studybyte is optimized to list you Study related content on it's search results, meaning if you search something like "How to make a Cake" then Studybyte will not give you any results, instead it will redirect to the error page saying "We didn't find any match for your search term(s)". And all the links that will get listed on your results page will only be coming from trusted sources, so you don't need to worry about anything.
 
-I don't know whether others have experienced this or not but some times i need to perform almost 3-4 Google searches to find the solution i'm actually looking for. Now obviously Google is a really big and fast search engine, but as we know even Google is not perfect. But i think at this case Studybyte is in lead, i know i can't compete with Google because it's a really huge company and i'm an individual creator, but i think that this search engine can help people a lot more than Google.
+I don't know whether others have experienced this or not but some times i need to perform almost 3-4 Google searches to find the solution i'm actually looking for. Now obviously Google is a really big and fast search engine, but as we know even Google is not perfect. But i think at this case Studybyte is in lead, i know i can't compete with Google because it's a really huge company and i'm an individual creator, but i think that this search engine can help people a lot more than Google does.
 
-### What about Features?
-There are not so many features implemented yet, but we are currently working on it.
-- Studybyte is optimized to only provide Study material on it's search results.
-- Search Tags
-
-and a bit more.
-
-### What are Search Tags?
-Well Search Tags is nothing much, it's just some keywords, if at the start of your Query you use Search Tags then you can perform a search to Google, YouTube or etc.
+Studybyte has a lot of features for you all, and one of them are Search Tags. Well Search Tags are nothing much, they are some keywords to use in Studybyte, if at the start of your Query you use any Search Tag then you can perform a search to any search engine like Google, YouTube or etc.
 
 Currently implemented Search Tags are:
 - Search to Google using `g?`
 - Search to YouTube using `yt?`
-
-in the future more will be added.
 
 ## Requirments
 You need to install the following on your machine.
