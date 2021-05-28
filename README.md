@@ -1,8 +1,7 @@
 # Studybyte
 Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.
 
-Note:
-- The search algorithm for Studybyte isn't completed yet, so there are a few bugs and missing features, which will be fixed very soon.
+***Note:- The search algorithm for Studybyte isn't completed yet, so there are a few bugs and missing features, which will be fixed very soon.***
 
 Studybyte's Official Website link: https://light-lens.github.io/Studybyte/
 
