@@ -26,7 +26,7 @@ HOST = f"http://127.0.0.1:{PORT}"
 # Setup the server
 Server = socketserver.TCPServer(("", PORT), Handler)
 print(f"Server at PORT: {HOST}")
-webbrowser.get(INCOGNITO).open(HOST)
+webbrowser.get(INCOGNITO).open(HOST) # This will open the file in Chrome's incognito mode, this will make things run on their default settings.
 
 # Start the server
 Server.serve_forever()
