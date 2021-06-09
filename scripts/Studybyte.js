@@ -13,7 +13,7 @@ function Studybyte_search()
 {
 	// These variables will send data from the search box.
 	let Original_Data = document.getElementById("GetValue").value;
-	let Lowercase_Data = Original_Data.toLowerCase();
+	let Lowercase_Data = Original_Data.toLowerCase().trim();
 
 	// This piece of code will try to send all of the data to "RESULTS" page, and if it's not possible then send to "ERROR" page.
 	if (Original_Data != "")
@@ -53,10 +53,8 @@ function Studybyte_search()
 			}
 		}
 
-		catch (err)
-		{
+		catch(err){
 			window.location = "ERROR";
-			// console.log(err);
 		}
 	}
 }
@@ -123,38 +121,38 @@ function Calc(Operation)
 	let FormatInput = Operation.trim().split(" "); // Remove all the white-spaces from the input.
 
 	// Remove all empty-strings from FormatInput list.
-	FormatInput = FormatInput.filter(function (element)
-	{
-		return element != null;
+	FormatInput = FormatInput.filter(function(element) {
+		return element != "";
 	});
 
-	// Calculate based on operations and numbers.
-	for (var i = 0; i < FormatInput.length; i++)
+	let Calculate = parseFloat(FormatInput[0]); // Set Calculate value to either 0 or the current result of last calculation.
+
+	// This For Loop will peform all the calculations based on the given input.
+	for (var i = 0; i < FormatInput.length; i+=2)
 	{
-		var Calculate = parseFloat(FormatInput[i]);
-		switch (FormatInput[i+1])
+		switch (FormatInput[i+1]) // All the calculations are getting performed here.
 		{
 			case "+":
 				Calculate += parseFloat(FormatInput[i+2]);
-				i += 2;
+				FormatInput[i] = Calculate;
 				break;
 
 			case "-":
 				Calculate -= parseFloat(FormatInput[i+2]);
-				i += 2;
+				FormatInput[i] = Calculate;
 				break;
 
 			case "*":
 				Calculate *= parseFloat(FormatInput[i+2]);
-				i += 2;
+				FormatInput[i] = Calculate;
 				break;
 
 			case "/":
 				Calculate /= parseFloat(FormatInput[i+2]);
-				i += 2;
+				FormatInput[i] = Calculate;
 				break;
 
-			default: break;
+			default: break; // If no case matches then just break.
 		}
 	}
 
