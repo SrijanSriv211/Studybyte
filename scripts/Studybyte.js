@@ -22,34 +22,27 @@ function Studybyte_search()
 		{
 			if (Lowercase_Data.startsWith("g?"))
 			{
-				var Google_Search_Query = Lowercase_Data.replace("g?", "");
+				let Google_Search_Query = Lowercase_Data.replace("g?", "");
 				window.open("https://www.google.com/search?q=" + Google_Search_Query, "_blank");
 			}
 
 			else if (Lowercase_Data.startsWith("yt?"))
 			{
-				var Google_Search_Query = Lowercase_Data.replace("yt?", "");
+				let Google_Search_Query = Lowercase_Data.replace("yt?", "");
 				window.open("https://www.youtube.com/results?search_query=" + Google_Search_Query, "_blank");
+			}
+
+			else if (Lowercase_Data.includes("+") || Lowercase_Data.includes("-") || Lowercase_Data.includes("*") || Lowercase_Data.includes("/"))
+			{
+				var CalculatedData = ColorCalc(Lowercase_Data);
+				alert(Lowercase_Data.trim() + " = " + CalculatedData);
 			}
 
 			else
 			{
-				const Operators = ["+", "-", "*", "/"];
-				for (var i = 0; i < Operators.length; i++)
-				{
-					if (Lowercase_Data.includes(Operators[i]) && i != i.length - 1)
-					{
-						alert(Lowercase_Data.trim() + " = " + Calc(Lowercase_Data));
-						break;
-					}
-
-					else
-					{
-						localStorage.setItem("Original", Original_Data);
-						localStorage.setItem("Lowercase", Lowercase_Data);
-						window.location = "RESULTS";
-					}
-				}
+				localStorage.setItem("Original", Original_Data);
+				localStorage.setItem("Lowercase", Lowercase_Data);
+				window.location = "RESULTS";
 			}
 		}
 
@@ -113,50 +106,6 @@ function Studybyte_result()
 	document.getElementById("NumOfLinks").innerHTML = NumOFReults + " results found!";
 	document.getElementById("GetValue").value = Original_Query;
 	document.title = Original_Query + " - Studybyte"; // Change the title of the page.
-}
-
-// This funtion will peform basic calculations based on your input.
-function Calc(Operation)
-{
-	let FormatInput = Operation.trim().split(" "); // Remove all the white-spaces from the input.
-
-	// Remove all empty-strings from FormatInput list.
-	FormatInput = FormatInput.filter(function(element) {
-		return element != "";
-	});
-
-	let Calculate = parseFloat(FormatInput[0]); // Set Calculate value to either 0 or the current result of last calculation.
-
-	// This For Loop will peform all the calculations based on the given input.
-	for (var i = 0; i < FormatInput.length; i+=2)
-	{
-		switch (FormatInput[i+1]) // All the calculations are getting performed here.
-		{
-			case "+":
-				Calculate += parseFloat(FormatInput[i+2]);
-				FormatInput[i] = Calculate;
-				break;
-
-			case "-":
-				Calculate -= parseFloat(FormatInput[i+2]);
-				FormatInput[i] = Calculate;
-				break;
-
-			case "*":
-				Calculate *= parseFloat(FormatInput[i+2]);
-				FormatInput[i] = Calculate;
-				break;
-
-			case "/":
-				Calculate /= parseFloat(FormatInput[i+2]);
-				FormatInput[i] = Calculate;
-				break;
-
-			default: break; // If no case matches then just break.
-		}
-	}
-
-	return Calculate; // Return result.
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.

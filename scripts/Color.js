@@ -69,3 +69,47 @@ function ColorRender(ResultLinks)
 	var RRL = document.getElementById("RankedResultList");
 	RRL.appendChild(ResultLinks);
 }
+
+// This funtion will peform basic calculations based on your input.
+function ColorCalc(Operation)
+{
+	let FormatInput = Operation.trim().split(" "); // Remove all the white-spaces from the input.
+
+	// Remove all empty-strings from FormatInput list.
+	FormatInput = FormatInput.filter(function(element) {
+		return element != "";
+	});
+
+	let Calculate = parseFloat(FormatInput[0]); // Set Calculate value to either 0 or the current result of last calculation.
+
+	// This For Loop will peform all the calculations based on the given input.
+	for (var i = 0; i < FormatInput.length; i+=2)
+	{
+		switch (FormatInput[i+1]) // All the calculations are getting performed here.
+		{
+			case "+":
+				Calculate += parseFloat(FormatInput[i+2]);
+				FormatInput[i] = Calculate;
+				break;
+
+			case "-":
+				Calculate -= parseFloat(FormatInput[i+2]);
+				FormatInput[i] = Calculate;
+				break;
+
+			case "*":
+				Calculate *= parseFloat(FormatInput[i+2]);
+				FormatInput[i] = Calculate;
+				break;
+
+			case "/":
+				Calculate /= parseFloat(FormatInput[i+2]);
+				FormatInput[i] = Calculate;
+				break;
+
+			default: break; // If no case matches then just break.
+		}
+	}
+
+	return Calculate; // Return result.
+}
