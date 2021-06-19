@@ -1,7 +1,10 @@
-// This function will check whether Enter key is pressed or not? And if Enter key is pressed then call "Studybyte_search" function.
+// This function will check whether Enter key is pressed or not?
 function IsEnter()
 {
 	let Original_Data = document.getElementById("GetValue").value;
+
+	// Call "Studybyte_search" function.
+	// If Enter key is pressed and search query is not an empty string.
 	if (Original_Data != "")
 	{
 		if (event.keyCode == 13) Studybyte_search();
@@ -20,18 +23,29 @@ function Studybyte_search()
 	{
 		try
 		{
-			if (Lowercase_Data.startsWith("g?"))
+			if (Lowercase_Data.startsWith("g?")) // This is the search tag for Google, which will help to search directly to Google from Studybyte.
 			{
 				let Google_Search_Query = Lowercase_Data.replace("g?", "");
 				window.open("https://www.google.com/search?q=" + Google_Search_Query, "_blank");
 			}
 
+			// This is the search tag for YouTube.
+			// This will help user to search directly to YouTube from Studybyte's search box.
 			else if (Lowercase_Data.startsWith("yt?"))
 			{
-				let Google_Search_Query = Lowercase_Data.replace("yt?", "");
-				window.open("https://www.youtube.com/results?search_query=" + Google_Search_Query, "_blank");
+				let YouTube_Search_Query = Lowercase_Data.replace("yt?", "");
+				window.open("https://www.youtube.com/results?search_query=" + YouTube_Search_Query, "_blank");
 			}
 
+			// This is the search tag for Britannica.
+			// This will help user to search directly to Britannica from Studybyte's search box.
+			else if (Lowercase_Data.startsWith("eb?"))
+			{
+				let Britannica_Search_Query = Lowercase_Data.replace("eb?", "");
+				window.open("https://www.britannica.com/search?query=" + Britannica_Search_Query, "_blank");
+			}
+
+			// This is help perform basic calculations in Studybyte.
 			else if (Lowercase_Data.includes("+") || Lowercase_Data.includes("-") || Lowercase_Data.includes("*") || Lowercase_Data.includes("/"))
 			{
 				var CalculatedData = ColorCalc(Lowercase_Data);
@@ -40,13 +54,17 @@ function Studybyte_search()
 
 			else
 			{
+				// None of the other conditions match.
+				// Assume that there is no search tags or mathematical operations running.
+				// Redirect the user to the results page, then rank and show results accordingly.
 				localStorage.setItem("Original", Original_Data);
 				localStorage.setItem("Lowercase", Lowercase_Data);
 				window.location = "RESULTS";
 			}
 		}
 
-		catch(err){
+		catch (err)
+		{
 			window.location = "ERROR";
 		}
 	}
@@ -86,7 +104,9 @@ function Studybyte_result()
 	}
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
-	RenderResults = Color(Query, ListOfLinks);
+	RenderResults = Color(Query, ListOfLinks); // This function will provide you a complete list of all the websites with a ranked value.
+
+	// This will remove the website with the ranked value of 0, then render the rest to the results page.
 	for (var a = 0; a < RenderResults.length; a++)
 	{
 		for (var i = 0; i < NameOfLinks.length; i++)
@@ -94,7 +114,7 @@ function Studybyte_result()
 			if (RenderResults[a][1] == NameOfLinks[i].innerText && RenderResults[a][0] != 0)
 			{
 				ColorRender(NameOfLinks[i]);
-				NumOFReults++;
+				NumOFReults++; // Do +1 every time a new website link is rendered to the page.
 			}
 		}
 	}
@@ -122,5 +142,5 @@ function Showerror()
 // This function will Scroll the window to the TOP.
 function SCROLLToTOP()
 {
-	window.scrollTo(0, 0); // This piece of code will scroll the window to the TOP.
+	window.scrollTo(0, 0);
 }

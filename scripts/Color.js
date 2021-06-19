@@ -1,11 +1,13 @@
 // Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 function Color(Query, Links)
 {
-	var Rrv = RankResultValues(Query, Links);
-	var Cr = ColorRank(Rrv, Links);
-	return Cr;
+	var Rrv = RankResultValues(Query, Links); // This function will give some values, which will be used to rank results.
+	var Cr = ColorRank(Rrv, Links); // This function will use the ranked values and assign them to the most relevant website.
+	return Cr; // Return Cr.
 }
 
+// This function check the search query and title of all websites letter by letter.
+// This will then assign some values to each letter of every website with each letter of the user search query.
 function MatchingWords(s1, s2)
 {
 	var w1 = s1;
@@ -47,6 +49,7 @@ function MatchingWords(s1, s2)
 	return Rank;
 }
 
+// This function will list all the values that were given by the Matching words function to an array.
 function RankResultValues(Query, Links)
 {
 	var Rank_values = [];
@@ -55,6 +58,7 @@ function RankResultValues(Query, Links)
 	return Rank_values;
 }
 
+// This function will then merge all the values with their respected websites and return a Merged list.
 function ColorRank(Values, Results)
 {
 	var MergedList = [];
@@ -64,10 +68,11 @@ function ColorRank(Values, Results)
 	return MergedList;
 }
 
+// This function will help render website to the results page.
 function ColorRender(ResultLinks)
 {
 	var RRL = document.getElementById("RankedResultList");
-	RRL.appendChild(ResultLinks);
+	RRL.appendChild(ResultLinks); // This will render those websites which will get passed to it.
 }
 
 // This funtion will peform basic calculations based on your input.
