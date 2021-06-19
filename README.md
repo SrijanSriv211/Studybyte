@@ -28,6 +28,7 @@ Studybyte has a lot of features for you all, and one of them are Search Tags. We
 Currently implemented Search Tags are:
 - Search to Google using `g?`
 - Search to YouTube using `yt?`
+- Search to Britannica using `eb?`
 
 ## Requirments
 You need to install the following on your machine.
