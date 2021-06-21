@@ -11,6 +11,19 @@ function IsEnter()
 	}
 }
 
+// This function will focus the searchbar when Escape key is pressed.
+function Searchbar_Properties()
+{
+	var Searchbar = document.getElementById("GetValue");
+	document.addEventListener('keydown', function(e)
+	{
+		if (event.keyCode == 27)
+		{
+			Searchbar.focus();
+		}
+	});
+}
+
 // This function will try to send all of the data to "Studybyte_RESULTS" page.
 function Studybyte_search()
 {
