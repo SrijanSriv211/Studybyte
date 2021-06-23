@@ -10,5 +10,8 @@ function RandomBackgroundSelector()
 	}
 
 	RanNum = Math.floor(Math.random() * BGCycle.length);
+	
+	console.log("Test");
 	document.body.style.backgroundImage = 'url("../res/Backgrounds/' + BGCycle[RanNum] + '")';
+	console.log("Test2");
 }
