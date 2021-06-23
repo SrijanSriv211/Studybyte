@@ -4,25 +4,27 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Studybyte</title>
-	<link rel="icon" href="./res/Studybyte.png">
+	<link rel="icon" href="./res/Icons/Studybyte.png">
 	<link rel="stylesheet" href="./scripts/index.css">
 	<link rel="stylesheet" href="./scripts/Studybyte.css">
 	<link rel="stylesheet" href="./scripts/ResponsiveDesign.css">
 </head>
 <body>
+	<script src="./scripts/index.js"></script>
 	<script src="./scripts/Color.js"></script>
 	<script src="./scripts/Studybyte.js"></script>
 	<div id="Studybyte_search">
 		<div>
 			<h4><a href="index">Studybyte<b class="caret"></b></a></h4>
 			<h5 class="Note">Theme images by Unsplash.com</h5>
-			<a title="Follow me on Github" href="https://github.com/Light-Lens" target="_blank"><img src="./res/Github.png"></a>
+			<a title="Follow me on Github" href="https://github.com/Light-Lens" target="_blank"><img src="./res/Icons/Github.png"></a>
 			<a title="About Studybyte!" class="ABOUT" href="https://github.com/Light-Lens/Studybyte" target="_blank">About</a>
 		</div>
 
 		<input type="text" placeholder="Type To Search..." title="Search" id="GetValue" onkeydown="IsEnter()" autocomplete="off" autofocus><br>
 		<input type="button" value="Studybyte" id="GetData" onclick="Studybyte_search()">
 		<script> Searchbar_Properties(); </script>
+		<script> RandomBackgroundSelector(); </script>
 	</div>
 </body>
 </html>

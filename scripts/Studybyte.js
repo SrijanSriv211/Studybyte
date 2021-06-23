@@ -126,7 +126,8 @@ function Studybyte_result()
 		{
 			if (RenderResults[a][1] == NameOfLinks[i].innerText && RenderResults[a][0] != 0)
 			{
-				ColorRender(NameOfLinks[i]);
+				if (NumOFReults == 10) break; // Only the Top 10 Most Relevant Results will be Rendered.
+				ColorRender(NameOfLinks[i]); // Render results.
 				NumOFReults++; // Do +1 every time a new website link is rendered to the page.
 			}
 		}
