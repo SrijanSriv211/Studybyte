@@ -180,6 +180,8 @@
 
 	#ScrollToTop
 	{
+		opacity: 0;
+		visibility: hidden;
 		border: none;
 		outline: none;
 		border-radius: 5px;
@@ -267,7 +269,7 @@
 	/*Studybyte Search Result Page Links CSS*/
 	#Database
 	{
-		margin-top: 30%;
+		margin-top: 20%;
 	}
 
 	#Database #LinkList

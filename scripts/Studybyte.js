@@ -17,10 +17,7 @@ function Searchbar_Properties()
 	var Searchbar = document.getElementById("GetValue");
 	document.addEventListener('keydown', function(e)
 	{
-		if (event.keyCode == 27)
-		{
-			Searchbar.focus();
-		}
+		if (event.keyCode == 27) Searchbar.focus();
 	});
 }
 
@@ -62,7 +59,17 @@ function Studybyte_search()
 			else if (Lowercase_Data.includes("+") || Lowercase_Data.includes("-") || Lowercase_Data.includes("*") || Lowercase_Data.includes("/"))
 			{
 				var CalculatedData = ColorCalc(Lowercase_Data);
-				alert(Lowercase_Data.trim() + " = " + CalculatedData);
+				if (isNaN(CalculatedData))
+				{
+					// None of the other conditions match.
+					// Assume that there is no search tags or mathematical operations running.
+					// Redirect the user to the results page, then rank and show results accordingly.
+					localStorage.setItem("Original", Original_Data);
+					localStorage.setItem("Lowercase", Lowercase_Data);
+					window.location = "RESULTS.html"; // Remove ".html" in Production Version.
+				}
+
+				else if (!isNaN(CalculatedData)) alert(Lowercase_Data.trim() + " = " + CalculatedData);
 			}
 
 			else
@@ -72,7 +79,7 @@ function Studybyte_search()
 				// Redirect the user to the results page, then rank and show results accordingly.
 				localStorage.setItem("Original", Original_Data);
 				localStorage.setItem("Lowercase", Lowercase_Data);
-				window.location = "RESULTS";
+				window.location = "RESULTS.html"; // Remove ".html" in Production Version.
 			}
 		}
 
@@ -156,4 +163,24 @@ function Showerror()
 function SCROLLToTOP()
 {
 	window.scrollTo(0, 0);
+}
+
+// This function will Check if Scrollbar is at the TOP or not.
+function SCROLLToTOP_Properties()
+{
+	var SCROLLToTOP_Button = document.getElementById("ScrollToTop");
+	window.addEventListener('scroll', function()
+	{
+		if (document.documentElement.scrollTop == 0)
+		{
+			SCROLLToTOP_Button.style.opacity = "0";
+			SCROLLToTOP_Button.style.visibility = "hidden";
+		}
+
+		else
+		{
+			SCROLLToTOP_Button.style.visibility = "visible";
+			SCROLLToTOP_Button.style.opacity = "1";
+		}
+	}, true);
 }
