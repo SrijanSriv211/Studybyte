@@ -66,7 +66,7 @@ function Studybyte_search()
 					// Redirect the user to the results page, then rank and show results accordingly.
 					localStorage.setItem("Original", Original_Data);
 					localStorage.setItem("Lowercase", Lowercase_Data);
-					window.location = "RESULTS.html"; // Remove ".html" in Production Version.
+					window.location = "RESULTS";
 				}
 
 				else if (!isNaN(CalculatedData)) alert(Lowercase_Data.trim() + " = " + CalculatedData);
@@ -79,7 +79,7 @@ function Studybyte_search()
 				// Redirect the user to the results page, then rank and show results accordingly.
 				localStorage.setItem("Original", Original_Data);
 				localStorage.setItem("Lowercase", Lowercase_Data);
-				window.location = "RESULTS.html"; // Remove ".html" in Production Version.
+				window.location = "RESULTS";
 			}
 		}
 
