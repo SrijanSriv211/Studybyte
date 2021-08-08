@@ -27,8 +27,13 @@ Studybyte has a lot of features for you all, and one of them are Search Tags. We
 
 Currently implemented Search Tags are:
 - Search to Google using `g?`
+- Search to Google Scholar using `gs?`
 - Search to YouTube using `yt?`
 - Search to Britannica using `eb?`
+- Search to Github using `git?`
+- Search to Bing using `bing?`
+- Search to PDFDrive using `pdfdrive?`
+- Search to DuckDuckGo using `ddg?`
 
 ## Requirments
 You need to install the following on your machine.
