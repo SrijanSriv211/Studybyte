@@ -1,8 +1,6 @@
 # Studybyte
 Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.
 
-Click this image to visit Studybyte.
-
 [![Studybyte's Homepage Screenshot](./res/Branding/Screenshot.png)](https://light-lens.github.io/Studybyte)
 
 I'm currently developing search engine named Cpix, which may have the potential to give Google a some-what nice competition, but that's not what we are talking about. Studybyte's most of the search algorithm is taken from Cpix, and that saved me a lot of time to setup the whole search system. This means that Studybyte will not take 3-4 years, Instead it will be finished in like almost 4-5 months which is a really great news!
