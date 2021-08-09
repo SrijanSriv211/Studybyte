@@ -212,6 +212,16 @@ body
     {
         font-size: 32px;
     }
+
+    #Results
+    {
+        margin-bottom: 150px;
+    }
+
+    #Results li
+    {
+        padding-left: 25px;
+    }
 }
 
 @media screen and (max-width: 500px)
@@ -246,5 +256,15 @@ body
     .Error2
     {
         font-size: 17px;
+    }
+
+    #Results
+    {
+        margin-bottom: 150px;
+    }
+
+    #Results li
+    {
+        padding-left: 25px;
     }
 }
