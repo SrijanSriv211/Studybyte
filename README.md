@@ -21,7 +21,7 @@ Studybyte is optimized for students to find educational content effortlessly. Al
 Now obviously it's nearly impossible to beat Google, but as Studybyte is highly focused to Organise Educational Content at one place, it's in a lead.
 
 ### 2. Is Studybyte Safe?
-Yes, Studybyte is totally safe to use, it collects no user data, and if you still doubt you can review Studybyte's source code.
+Yes, Studybyte is totally safe to use, it neither collects your data nor tracks you, and if you still doubt you can review Studybyte's source code.
 
 ### 3. Is Studybyte Free?
 Yes, Studybyte is totally free and it's open source too. So, if you want then you can download it's source code and contribute to it.
