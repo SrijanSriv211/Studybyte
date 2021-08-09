@@ -14,11 +14,11 @@ Start by cloning the repository with `git clone https://github.com/Light-Lens/St
 
 ## FAQ
 ### Why To Use Studybyte?
-You may have faced the issue where you search on Google for a question and it costs you almost 3-4 searches to find the solution you were actually looking for, but with Studybyte that's not the case.
+You may have faced an issue where you do a Google search for a question and it costs you almost 3-4 searches to find the solution you were actually looking for, but with Studybyte that's not the case.
 
-Studybyte is optimized for students to find educational content effortlessly. All the pages which will be ranking on Studybyte will only be coming from the sources you trust, and all the pages will be ranked organically through it's search algorithm, Color. Color is a search algorithm which was recycled from one of my old search engines, [Cpix](https://www.youtube.com/watch?v=eqpWT9X28Ls), after some major changes in the search algorithm it now only ranks educational content onto it's results page.
+Studybyte is optimized for students to find educational content effortlessly. All the pages which will rank on Studybyte will only be coming from trusted sources, and all the pages will be ranked organically through it's search algorithm, Color. Color is a search algorithm which was recycled from one of my old search engines, [Cpix](https://www.youtube.com/watch?v=eqpWT9X28Ls), after some major changes in the search algorithm it now ranks only educational content onto it's results page.
 
-Now obviously it's nearly impossible to beat Google, but as Studybyte is only focused to Organise Educational Content, Studybyte is in a lead.
+Now obviously it's nearly impossible to beat Google, but as Studybyte is highly focused to Organise Educational Content at one place, it's in a lead.
 
 ### Is Studybyte Safe?
 Yes, Studybyte is totally safe to use, it collects no user data, and if you still doubt you can review Studybyte's source code.
@@ -27,10 +27,10 @@ Yes, Studybyte is totally safe to use, it collects no user data, and if you stil
 Yes, Studybyte is totally free and it's open source too. So, if you want then you can download it's source code and contribute to it.
 
 ### Do I Need To Have An Account To Use Studybyte?
-No, You don't need to have any kind of account to use Studybyte. Just open the site and start exploring the real education.
+No, You don't need to have any kind of account to use Studybyte. Just open the site and start exploring.
 
 ### How Do I Add My Website To Studybyte?
-Currently if you want to add a particular website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But really soon this whole process will be automated with Google Forms and Python.
+Currently if you want to add a website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But really soon this whole process will be automated with Google Forms and Python.
 
 ***
 
