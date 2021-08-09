@@ -23,6 +23,23 @@ body
 	background-position: center;
 }
 
+::-webkit-scrollbar
+{
+    width: 15px;
+    background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: #474747;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover
+{
+    background: #575757;
+}
+
 .SearchAtTop
 {
     display: flex;
@@ -34,7 +51,7 @@ body
 {
     color: #f9f9f9;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: normal;
     cursor: pointer;
     transition: 0.2s;
@@ -85,7 +102,7 @@ body
     border: none;
     border-radius: 5px;
     outline: none;
-    width: 150px;
+    width: 130px;
     height: 40px;
     cursor: pointer;
     transition: 0.2s;
@@ -114,14 +131,13 @@ body
 
 #Results
 {
-    margin-bottom: 50px;
+    margin-top: 125px;
 }
 
 #Results li
 {
-    font-size: 25px;
-    padding-left: 100px;
-    padding-top: 150px;
+    padding-left: 50px;
+    padding-bottom: 125px;
 }
 
 #Results li a:link
@@ -129,7 +145,7 @@ body
 	text-decoration: none;
 	color: #8c8cfa;
 	cursor: pointer;
-	font-size: 25px;
+	font-size: 18px;
 	transition: 0.2s;
 }
 
@@ -140,7 +156,7 @@ body
 
 #Results li a:hover
 {
-    font-size: 30px;
+    font-size: 20px;
 	text-decoration: underline;
 	transition: 0.2s;
 }

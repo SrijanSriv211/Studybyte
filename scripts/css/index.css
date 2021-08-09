@@ -4,7 +4,7 @@
 {
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 body
@@ -21,7 +21,7 @@ body
 nav ul
 {
     display: flex;
-    font-size: 25px;
+    font-size: 18px;
     font-family: "Roboto Thin";
 }
 
@@ -41,7 +41,7 @@ nav ul li a
 nav ul li a:hover
 {
     color: #ff5959;
-    font-size: 27px;
+    font-size: 20px;
     transition: 0.2s;
 }
 
