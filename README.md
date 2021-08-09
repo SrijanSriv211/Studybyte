@@ -1,25 +1,39 @@
 # Studybyte
-Studybyte is a search engine designed to help students find study material effortlessly. As this search engine is open source, anyone can look into the source code, understand and improve it.
+Studybyte is a search engine designed to help students find educational content effortlessly. As this search engine is open source, anyone can look into the source code, understand and improve it.
 
 [![Studybyte's Homepage Screenshot](./res/Branding/Screenshot.png)](https://light-lens.github.io/Studybyte)
 
-I'm currently developing search engine named Cpix, which may have the potential to give Google a some-what nice competition, but that's not what we are talking about. Studybyte's most of the search algorithm is taken from Cpix, and that saved me a lot of time to setup the whole search system. This means that Studybyte will not take 3-4 years, Instead it will be finished in like almost 4-5 months which is a really great news!
-
-Studybyte will always be in developement, obviously as every software is in, but as Study material changes over time, the Search Algorithm for Studybyte must have to get changed with time so that it can be relevant in the market.
-
 ## Getting Started
-Visual Studio Code is recommended (You can use your desired one). Note that VSCode is only needed if you want to develope Studybyte.
+Visual Studio Code is recommended.
+
+<ins>**1. Downloading the repository:**</ins>
 
 Start by cloning the repository with `git clone https://github.com/Light-Lens/Studybyte`.
 
-## Why To Use Studybyte?
-That's a pretty good question though!
+***
 
-Studybyte is optimized to list you Study related content on it's search results, meaning if you search something like "How to make a Cake" then Studybyte will not give you any results, instead it will redirect to the error page saying "We didn't find any match for your search term(s)". And all the links that will get listed on your results page will only be coming from trusted sources, so you don't need to worry about anything.
+## FAQ
+### Why To Use Studybyte?
+You may have faced the issue where you search on Google for a question and it costs you almost 3-4 searches to find the solution you were actually looking for, but with Studybyte that's not the case.
 
-I don't know whether others have experienced this or not but some times i need to perform almost 3-4 Google searches to find the solution i'm actually looking for. Now obviously Google is a really big and fast search engine, but as we know even Google is not perfect. But i think at this case Studybyte is in lead, i know i can't compete with Google because it's a really huge company and i'm an individual creator, but i think that this search engine can help people a lot more than Google does.
+Studybyte is optimized for students to find educational content effortlessly. All the pages which will be ranking on Studybyte will only be coming from the sources you trust, and all the pages will be ranked organically through it's search algorithm, Color. Color is a search algorithm which was recycled from one of my old search engines, ![CPix](https://www.youtube.com/watch?v=eqpWT9X28Ls), after some major changes in the search algorithm it now only ranks educational content onto it's results page.
 
-Studybyte has a lot of features for you all, and one of them are Search Tags. Well Search Tags are nothing much, they are some keywords to use in Studybyte, if at the start of your Query you use any Search Tag then you can perform a search to any search engine like Google, YouTube or etc.
+Now obviously it's nearly impossible to beat Google, but as Studybyte is only focused to Organise Educational Content, Studybyte is in a lead.
+
+### Is Studybyte Safe?
+Yes, Studybyte is totally safe to use, it collects no user data, and if you still doubt you can review Studybyte's source code.
+
+### Is Studybyte Free?
+Yes, Studybyte is totally free and it's open source too. So, if you want then you can download it's source code and contribute to it.
+
+### Do I Need To Have An Account To Use Studybyte?
+No, You don't need to have any kind of account to use Studybyte. Just open the site and start exploring the real education.
+
+### How Do I Add My Website To Studybyte?
+Currently if you want to add a particular website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But really soon we will automate this whole process with the help of Google Forms and Python.
+
+## Features
+Studybyte has a feature known as Search Tags. Search Tags are some keywords which you can use to search instantly on other search engines from Studybyte's search bar. To use this feature you need to add these keywords at the beginning of your query.
 
 Currently implemented Search Tags are:
 - Search to Google using `g?`
@@ -33,14 +47,13 @@ Currently implemented Search Tags are:
 
 ## Requirments
 You need to install the following on your machine.
-- Google Chrome (or any other Web Browser, but it must be Up-To-Date and Javascript must be enabled)
+- Python 3 (Must install all required modules)
+- Google Chrome (or any other Web Browser, it must be Up-To-Date and Javascript must be enabled)
 - Visual Studio Code (or any other IDE)
-
-NOTE: These requirments are only needed if you want to develope Studybyte.
-
 
 ## License and Contributions
 All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
 
 ***
+
 <h1>Thanks to everyone for your AMAZING support! 😃😃😃</h1>
