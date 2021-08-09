@@ -16,7 +16,7 @@ Start by cloning the repository with `git clone https://github.com/Light-Lens/St
 ### Why To Use Studybyte?
 You may have faced the issue where you search on Google for a question and it costs you almost 3-4 searches to find the solution you were actually looking for, but with Studybyte that's not the case.
 
-Studybyte is optimized for students to find educational content effortlessly. All the pages which will be ranking on Studybyte will only be coming from the sources you trust, and all the pages will be ranked organically through it's search algorithm, Color. Color is a search algorithm which was recycled from one of my old search engines, ![CPix](https://www.youtube.com/watch?v=eqpWT9X28Ls), after some major changes in the search algorithm it now only ranks educational content onto it's results page.
+Studybyte is optimized for students to find educational content effortlessly. All the pages which will be ranking on Studybyte will only be coming from the sources you trust, and all the pages will be ranked organically through it's search algorithm, Color. Color is a search algorithm which was recycled from one of my old search engines, [Cpix](https://www.youtube.com/watch?v=eqpWT9X28Ls), after some major changes in the search algorithm it now only ranks educational content onto it's results page.
 
 Now obviously it's nearly impossible to beat Google, but as Studybyte is only focused to Organise Educational Content, Studybyte is in a lead.
 
