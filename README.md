@@ -1,5 +1,5 @@
 # Studybyte
-Studybyte is a Search Engine completely developed from scratch to help Students, find Study material easily on the Internet.
+Studybyte is a search engine designed to help students find study material effortlessly. As this search engine is open source, anyone can look into the source code, understand and improve it.
 
 [![Studybyte's Homepage Screenshot](./res/Branding/Screenshot.png)](https://light-lens.github.io/Studybyte)
 
@@ -37,3 +37,10 @@ You need to install the following on your machine.
 - Visual Studio Code (or any other IDE)
 
 NOTE: These requirments are only needed if you want to develope Studybyte.
+
+
+## License and Contributions
+All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
+
+***
+<h1>Thanks to everyone for your AMAZING support! 😃😃😃</h1>
