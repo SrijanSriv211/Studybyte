@@ -32,6 +32,8 @@ No, You don't need to have any kind of account to use Studybyte. Just open the s
 ### How Do I Add My Website To Studybyte?
 Currently if you want to add a particular website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But really soon this whole process will be automated with Google Forms and Python.
 
+***
+
 ## Features
 Studybyte has a feature known as Search Tags. Search Tags are some keywords which you can use to search instantly on other search engines from Studybyte's search bar. To use this feature you need to add these keywords at the beginning of your query.
 
