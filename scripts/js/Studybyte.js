@@ -59,7 +59,15 @@ function TryToSearch()
 			else if (FormatedQuery.includes("+") || FormatedQuery.includes("-") || FormatedQuery.includes("*") || FormatedQuery.includes("x") || FormatedQuery.includes("/"))
 			{
 				let CalculatedAns = ColorCalc(FormatedQuery);
-				alert(OriginalQuery.replace(/\s+/g, " ").trim() + " = " + CalculatedAns);
+				if (isNaN(CalculatedAns))
+				{
+					// Redirect the user to the results page, then rank and show results accordingly.
+					localStorage.setItem("OriginalQuery", OriginalQuery);
+					localStorage.setItem("FormatedQuery", FormatedQuery);
+					window.location = "r.html";
+				}
+
+				else if (!isNaN(CalculatedData)) alert(OriginalQuery.replace(/\s+/g, " ").trim() + " = " + CalculatedAns);
 			}
 
 			else
@@ -130,4 +138,29 @@ function Showerror()
 
 	document.getElementById("Searchbar").value = Query;
 	document.title = Query + " - Studybyte"; // Change the title of the page.
+}
+
+// This function will Scroll the window to the TOP.
+function ScrollToTOP()
+{
+	window.scrollTo(0, 0);
+}
+
+function ScrollToTOP_Properties()
+{
+	var SCROLLToTOP_Button = document.getElementById("ScrollToTop");
+	window.addEventListener('scroll', function()
+	{
+		if (document.documentElement.scrollTop == 0)
+		{
+			SCROLLToTOP_Button.style.opacity = "0";
+			SCROLLToTOP_Button.style.visibility = "hidden";
+		}
+
+		else
+		{
+			SCROLLToTOP_Button.style.visibility = "visible";
+			SCROLLToTOP_Button.style.opacity = "1";
+		}
+	}, true);
 }

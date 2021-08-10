@@ -24,6 +24,7 @@ def ProcessJson(Filename):
     Json.close()
 
 def GenerateJson(Title, Link):
+    if Link.endswith("/"): Link = Link[:-1]
     if len(Links) > 0:
         for i in Links:
             if i == Link: return None

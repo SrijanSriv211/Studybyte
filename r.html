@@ -16,7 +16,7 @@
     <header>
         <nav>
             <div class="SearchAtTop">
-                <a href="index.html">Studybyte</a>
+                <a href="index.html" title="Studybyte Home">Studybyte</a>
                 <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off">
                 <input type="button" value="Studybyte" id="Searchbtn" onclick="TryToSearch();">
             </div>
@@ -31,7 +31,9 @@
             <!-- All the results will go here. -->
             <!-- <li><a href=""></a></li> This is the template.-->
         </ul>
+        <button id="ScrollToTop" title="Scroll To Top" onclick="ScrollToTOP();">▲</button>
         <script> GetResults(); </script>
+        <script> ScrollToTOP_Properties(); </script>
     </section>
 </body>
 </html>

@@ -1,6 +1,130 @@
 {
     "Pages": [
         {
+            "Title": "Onestate Coding",
+            "URL": "https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA"
+        },
+        {
+            "Title": "How to make a Chatbot using Html, Css and JavaScript ...",
+            "URL": "https://www.youtube.com/watch?v=AuThE5bxpDE"
+        },
+        {
+            "Title": "How To Make Your Windows 10 Look Beautiful??? | Windows ...",
+            "URL": "https://www.youtube.com/watch?v=4wfpfx_6p3A"
+        },
+        {
+            "Title": "Windows 365 - Explained in Hindi - 2021 | Onestate Coding",
+            "URL": "https://www.youtube.com/watch?v=O7OROTmhJwo"
+        },
+        {
+            "Title": "POTENTIAL CALCULATOR FOR LUBRICANT MARKET ...",
+            "URL": "https://www.youtube.com/watch?v=pUBhBnJyfZY"
+        },
+        {
+            "Title": "How to Use Windows 10 in built Video Editor | Onestate Coding ...",
+            "URL": "https://www.youtube.com/watch?v=-HkwarMWn3I"
+        },
+        {
+            "Title": "Onestate Coding - How to Update your Windows Drivers - YouTube",
+            "URL": "https://www.youtube.com/watch?v=_yi_BJXSAVA"
+        },
+        {
+            "Title": "Top 5 Amazing GTA San Andreas Facts in Hindi!!! | Onestate ...",
+            "URL": "https://www.youtube.com/watch?v=VbxBUdJApQs"
+        },
+        {
+            "Title": "Top 5 Awesome Fall Guys Facts | Onestate Coding - YouTube",
+            "URL": "https://www.youtube.com/watch?v=y5sRDdZrJIY"
+        },
+        {
+            "Title": "How to make chatbot using html, css and javascript | Onestate ...",
+            "URL": "https://www.youtube.com/watch?v=tHOQGF8laTc"
+        },
+        {
+            "Title": "How to Create a Random, Strong Password Generator using …",
+            "URL": "https://www.youtube.com/watch?v=MUdpWrw_y-k"
+        },
+        {
+            "Title": "Light-Lens/Studybyte: Studybyte search engine. - GitHub",
+            "URL": "https://github.com/Light-Lens/Studybyte"
+        },
+        {
+            "Title": "Discussions · Light-Lens/Studybyte · GitHub",
+            "URL": "https://github.com/Light-Lens/Studybyte/discussions"
+        },
+        {
+            "Title": "Pull requests · Light-Lens/Studybyte · GitHub",
+            "URL": "https://github.com/Light-Lens/Studybyte/pulls"
+        },
+        {
+            "Title": "Light-Lens (Light-Lens) · GitHub",
+            "URL": "https://github.com/Light-Lens"
+        },
+        {
+            "Title": "Light-Lens/Studybyte - githubmemory",
+            "URL": "https://githubmemory.com/repo/Light-Lens/Studybyte"
+        },
+        {
+            "Title": "Studybyte",
+            "URL": "https://light-lens.github.io/Studybyte"
+        },
+        {
+            "Title": "Light-Lens/AOs: AOs is a terminal based Operating ... - GitHub",
+            "URL": "https://github.com/Light-Lens/AOs"
+        },
+        {
+            "Title": "Light-Lens/Corelet: Corelet is an antivirus! - GitHub",
+            "URL": "https://github.com/Light-Lens/Corelet"
+        },
+        {
+            "Title": "Light-Lens/Hexa: Hexa is an open-source game ... - GitHub",
+            "URL": "https://github.com/Light-Lens/Hexa"
+        },
+        {
+            "Title": "Light-Lens/POTENTIAL-CALCULATOR: POTENTIAL ... - GitHub",
+            "URL": "https://github.com/Light-Lens/POTENTIAL-CALCULATOR"
+        },
+        {
+            "Title": "Use things with one Quote missing · Issue #2 · Light-Lens ...",
+            "URL": "https://github.com/Light-Lens/Glass/issues/2"
+        },
+        {
+            "Title": "GitHub - Wikipediahttps://en.wikipedia.org › wiki › GitHub",
+            "URL": "https://en.wikipedia.org/wiki/GitHub"
+        },
+        {
+            "Title": "GitHub · GitHub",
+            "URL": "https://github.com/Github"
+        },
+        {
+            "Title": "GitHub: Where the world builds software · GitHub",
+            "URL": "https://github.com"
+        },
+        {
+            "Title": "GitHub Desktop | Simple collaboration from your desktop",
+            "URL": "https://desktop.github.com"
+        },
+        {
+            "Title": "GitHub Documentation",
+            "URL": "https://docs.github.com/en"
+        },
+        {
+            "Title": "Home | GitHub Resources",
+            "URL": "https://resources.github.com"
+        },
+        {
+            "Title": "GitHub Pages | Websites for you and your projects, hosted ...",
+            "URL": "https://pages.github.com"
+        },
+        {
+            "Title": "GitHub Copilot · Your AI pair programmer",
+            "URL": "https://copilot.github.com"
+        },
+        {
+            "Title": "The GitHub Blog | Updates, ideas, and inspiration from ...",
+            "URL": "https://github.blog"
+        },
+        {
             "Title": "Google",
             "URL": "http://www.google.com"
         },
@@ -10,19 +134,19 @@
         },
         {
             "Title": "Google - About Google, Our Culture & Company News",
-            "URL": "https://about.google/"
+            "URL": "https://about.google"
         },
         {
             "Title": "Browse All of Google's Products & Services - Google",
-            "URL": "https://about.google/products/"
+            "URL": "https://about.google/products"
         },
         {
             "Title": "Google Account",
-            "URL": "https://account.google.com/"
+            "URL": "https://account.google.com"
         },
         {
             "Title": "Gmail - Google",
-            "URL": "https://www.google.com/gmail/"
+            "URL": "https://www.google.com/gmail"
         },
         {
             "Title": "Google - YouTube",
@@ -38,7 +162,7 @@
         },
         {
             "Title": "Cloud Computing Services | Google Cloud",
-            "URL": "https://cloud.google.com/"
+            "URL": "https://cloud.google.com"
         },
         {
             "Title": "Google Classroom",
@@ -46,15 +170,15 @@
         },
         {
             "Title": "Sign in - Google Accounts",
-            "URL": "https://classroom.google.com/"
+            "URL": "https://classroom.google.com"
         },
         {
             "Title": "Classroom | Google for Education",
-            "URL": "https://edu.google.com/intl/ALL_in/products/classroom/"
+            "URL": "https://edu.google.com/intl/ALL_in/products/classroom"
         },
         {
             "Title": "YouTube",
-            "URL": "https://www.youtube.com/"
+            "URL": "https://www.youtube.com"
         },
         {
             "Title": "YouTube - Wikipedia",
@@ -62,11 +186,11 @@
         },
         {
             "Title": "YouTube India",
-            "URL": "http://in.youtube.com/"
+            "URL": "http://in.youtube.com"
         },
         {
             "Title": "YouTube Music",
-            "URL": "https://music.youtube.com/"
+            "URL": "https://music.youtube.com"
         },
         {
             "Title": "#shorts - YouTube",
@@ -74,15 +198,15 @@
         },
         {
             "Title": "YouTube Official Blog",
-            "URL": "https://blog.youtube/"
+            "URL": "https://blog.youtube"
         },
         {
             "Title": "Class 5 – CBSE Online",
-            "URL": "https://cbse.online/class-5/"
+            "URL": "https://cbse.online/class-5"
         },
         {
             "Title": "NCERT Solutions for Class 5 - Learn CBSE",
-            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5/"
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5"
         },
         {
             "Title": "Class 5 maths (India) | NCERT | Khan Academy",
@@ -90,7 +214,7 @@
         },
         {
             "Title": "New NCERT Solutions for Class 5 - Maths, English, Hindi",
-            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5/"
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5"
         },
         {
             "Title": "NCERT Solutions for Class 5 - All Subjects - Vedantu",
@@ -98,27 +222,23 @@
         },
         {
             "Title": "CBSE Class 5 Syllabus, Solutions, Question Papers Available - Byjus",
-            "URL": "https://byjus.com/cbse/class-5/"
+            "URL": "https://byjus.com/cbse/class-5"
         },
         {
             "Title": "NCERT Solutions For Class 5 Maths - Free Chapterwise PDF - Byjus",
-            "URL": "https://byjus.com/ncert-solutions/ncert-solutions-for-class-5-maths/"
+            "URL": "https://byjus.com/ncert-solutions/ncert-solutions-for-class-5-maths"
         },
         {
             "Title": "NCERT Books For Class 5 All Subjects - Download Free PDFs - Byjus",
-            "URL": "https://byjus.com/ncert-books-for-class-5/"
+            "URL": "https://byjus.com/ncert-books-for-class-5"
         },
         {
             "Title": "Class 5 - Syllabus, Question Papers and Solutions",
-            "URL": "https://www.toppr.com/class/5/"
+            "URL": "https://www.toppr.com/class/5"
         },
         {
             "Title": "NCERT Books For Class 5 Maths- Download Free PDFs - Byjus",
-            "URL": "https://byjus.com/ncert-books-for-class-5-maths/"
-        },
-        {
-            "Title": "New NCERT Solutions for Class 5 - Maths, English, Hindi, EVS",
-            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5/"
+            "URL": "https://byjus.com/ncert-books-for-class-5-maths"
         },
         {
             "Title": "Class 5 - YouTube",
@@ -126,7 +246,7 @@
         },
         {
             "Title": "NCERT Solutions for Class 5 Maths Math Magic (Updated for 2019-20) - Learn CBSE",
-            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-mathematics/"
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-mathematics"
         },
         {
             "Title": "NCERT Solutions for Class 5 Maths Updated for 2020 - 2021 - Vedantu",
@@ -138,11 +258,11 @@
         },
         {
             "Title": "Class 5 Maths Syllabus - Cuemath",
-            "URL": "https://www.cuemath.com/class-5-maths/"
+            "URL": "https://www.cuemath.com/class-5-maths"
         },
         {
             "Title": "NCERT Solutions for Class 5 Math, Free NCERT Solutions - Free NCERT Solutions",
-            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-math/"
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-math"
         },
         {
             "Title": "NCERT Book for Class 5 Maths PDF| Latest Textbook for 2021",
@@ -150,11 +270,11 @@
         },
         {
             "Title": "CBSE Class 5 Maths Syllabus | Videos, Revision, Summary",
-            "URL": "https://www.toppr.com/ask/content/cbse/class-5/maths/"
+            "URL": "https://www.toppr.com/ask/content/cbse/class-5/maths"
         },
         {
             "Title": "NCERT Solutions for Class 5 Mathematics - New Solutions",
-            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-maths/"
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-maths"
         },
         {
             "Title": "Math for Class 5 | Maths Practice, Tests, Worksheets, Quizzes",
@@ -166,7 +286,7 @@
         },
         {
             "Title": "[PDF] NCERT Solutions for Class 5 Maths PDF Free Download",
-            "URL": "https://www.ncertbooks.guru/ncert-solutions-class-5-maths/"
+            "URL": "https://www.ncertbooks.guru/ncert-solutions-class-5-maths"
         },
         {
             "Title": "Maths Guide for Class 5 CBSE",
@@ -174,15 +294,15 @@
         },
         {
             "Title": "CBSE Class 5 Maths - Learn Maths Online",
-            "URL": "http://www.learnmathsonline.org/category/cbse-class-5-maths/"
+            "URL": "http://www.learnmathsonline.org/category/cbse-class-5-maths"
         },
         {
             "Title": "CBSE Class 5 Science - Byjus",
-            "URL": "https://byjus.com/cbse/class-5-science/"
+            "URL": "https://byjus.com/cbse/class-5-science"
         },
         {
             "Title": "NCERT Solutions For Class 5 EVS - CBSE 2020 - Byjus",
-            "URL": "https://byjus.com/ncert-solutions/ncert-solutions-for-class-5-science/"
+            "URL": "https://byjus.com/ncert-solutions/ncert-solutions-for-class-5-science"
         },
         {
             "Title": "NCERT Solutions for Class 5 Science - Extramarks",
@@ -194,11 +314,11 @@
         },
         {
             "Title": "NCERT Solutions for Class 5 EVS Looking Around - Learn CBSE",
-            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-evs/"
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-evs"
         },
         {
             "Title": "Class 5 Science - Fliplearn",
-            "URL": "https://www.fliplearn.com/cbse/class-5-science-2/"
+            "URL": "https://www.fliplearn.com/cbse/class-5-science-2"
         },
         {
             "Title": "Notes for 5th Class Science - Studyadda.com",
@@ -210,23 +330,23 @@
         },
         {
             "Title": "NCERT Books For Class 5 EVS (Science) - Download PDFs Here",
-            "URL": "https://byjus.com/ncert-class-5-science-book/"
+            "URL": "https://byjus.com/ncert-class-5-science-book"
         },
         {
             "Title": "CBSE Class 5 Science Syllabus and Worksheets",
-            "URL": "https://byjus.com/cbse/class-5-science-syllabus/"
+            "URL": "https://byjus.com/cbse/class-5-science-syllabus"
         },
         {
             "Title": "CBSE Class 5 Science Book Free PDF Download @ BYJU'S",
-            "URL": "https://byjus.com/cbse/class-5-science-book/"
+            "URL": "https://byjus.com/cbse/class-5-science-book"
         },
         {
             "Title": "Download ICSE Class 5 Science syllabus- BYJU'S",
-            "URL": "https://byjus.com/icse-class-5-science-syllabus/"
+            "URL": "https://byjus.com/icse-class-5-science-syllabus"
         },
         {
-            "Title": "Class 5 Science Classes Online CBSE | ICSE | NCERT Class 5th Science",
-            "URL": "https://www.takshilalearning.com/course/class-5-science-online-classes/"
+            "Title": "NCERT Class 5 Science Classes Online CBSE | ICSE",
+            "URL": "https://www.takshilalearning.com/course/class-5-science-online-classes"
         },
         {
             "Title": "CBSE Guide for Science Class 5",
@@ -242,7 +362,7 @@
         },
         {
             "Title": "CBSE Class 5 Notes - Learn CBSE",
-            "URL": "https://www.learncbse.in/cbse-class-5-notes/"
+            "URL": "https://www.learncbse.in/cbse-class-5-notes"
         },
         {
             "Title": "Class 5 Science - YouTube",
@@ -254,7 +374,7 @@
         },
         {
             "Title": "COMPLETE SCIENCE CLASS FIVE NOTES | Teacher.co.ke",
-            "URL": "https://teacher.co.ke/complete-science-class-five-notes/"
+            "URL": "https://teacher.co.ke/complete-science-class-five-notes"
         },
         {
             "Title": "CBSE Class 5 Science Sample Question Papers & Worksheets",
@@ -262,11 +382,11 @@
         },
         {
             "Title": "MCQ Questions for Class 5 Science with Answers - NCERT Books",
-            "URL": "https://www.ncertbooks.guru/mcq-questions-for-class-5-science-with-answers/"
+            "URL": "https://www.ncertbooks.guru/mcq-questions-for-class-5-science-with-answers"
         },
         {
             "Title": "ICSE Class 5 Science Revision Notes | Swifearn",
-            "URL": "https://swiflearn.com/revision-notes/icse/class-5/science/"
+            "URL": "https://swiflearn.com/revision-notes/icse/class-5/science"
         },
         {
             "Title": "Download NCERT Class 5 Science Books [CBSE] PDF 2020",
@@ -278,7 +398,7 @@
         },
         {
             "Title": "Class 5 ICSE Science Syllabus",
-            "URL": "https://www.lidolearning.com/syllabus/class5-icse-science/"
+            "URL": "https://www.lidolearning.com/syllabus/class5-icse-science"
         },
         {
             "Title": "Science Olympiad Questions for Class 5",
@@ -290,7 +410,7 @@
         },
         {
             "Title": "MCQ Questions Class 5 SCIENCE Subject Chapter 1 to 10. NCERT...",
-            "URL": "https://biographyinhindi.com/mcq-questions-class-5-science-subject-chapter-1-to-10/"
+            "URL": "https://biographyinhindi.com/mcq-questions-class-5-science-subject-chapter-1-to-10"
         },
         {
             "Title": "5th Class General Science All Chapter... - EASY MCQS QUIZ TEST",
@@ -302,15 +422,15 @@
         },
         {
             "Title": "CBSE NCERT Worksheets for Class 5 Science - WorksheetsBuddy.com",
-            "URL": "https://www.worksheetsbuddy.com/worksheets-for-class-5-science/"
+            "URL": "https://www.worksheetsbuddy.com/worksheets-for-class-5-science"
         },
         {
             "Title": "5th Class NCERT Solutions Science, Maths, SST, English - Class...",
-            "URL": "https://www.2classnotes.com/5th-class/"
+            "URL": "https://www.2classnotes.com/5th-class"
         },
         {
             "Title": "Class 5 science - Home | Facebook",
-            "URL": "https://www.facebook.com/Class-5-science-101746278139054/"
+            "URL": "https://www.facebook.com/Class-5-science-101746278139054"
         },
         {
             "Title": "Science Olympiad for Class 5 | Indian Talent Olympiad",
@@ -329,36 +449,32 @@
             "URL": "https://www.studyadda.com/online-test/5th-class/36/science/5"
         },
         {
-            "Title": "Science Projects For Class 5 Robotic... - School Science Experiments",
-            "URL": "https://schoolscienceexperiments.com/science-projects-for-class-5-robotic-arm/"
-        },
-        {
             "Title": "Cbse Class 5 Science",
-            "URL": "https://clip-share.net/rev/cbse+class+5+science/"
+            "URL": "https://clip-share.net/rev/cbse+class+5+science"
         },
         {
             "Title": "Top 10 Science Experiments for Class 5 kids",
-            "URL": "https://www.zlifeeducation.com/blog/top-10-science-experiments-for-class-5-kids/"
+            "URL": "https://www.zlifeeducation.com/blog/top-10-science-experiments-for-class-5-kids"
         },
         {
             "Title": "NCERT Solutions for Class 5 English Marigold",
-            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-english/"
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-english"
         },
         {
             "Title": "NCERT Solutions for Class 5 English, Free NCERT Solutions",
-            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-english/"
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-english"
         },
         {
             "Title": "NCERT Solutions for Class 5 English access PDF free. - Byjus",
-            "URL": "https://byjus.com/ncert-solutions-class-5-english/"
+            "URL": "https://byjus.com/ncert-solutions-class-5-english"
         },
         {
             "Title": "NCERT Solutions for Class 5 English | myCBSEguide | CBSE",
-            "URL": "https://mycbseguide.com/blog/ncert-solutions-for-class-5-english/"
+            "URL": "https://mycbseguide.com/blog/ncert-solutions-for-class-5-english"
         },
         {
             "Title": "NCERT Solutions for Class 5 English - New Solutions",
-            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-english/"
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-english"
         },
         {
             "Title": "NCERT Book for Class 5 English (Marigold) PDF| Latest",
@@ -370,7 +486,7 @@
         },
         {
             "Title": "NCERT Books for Class 5 English: Download Marigold PDF",
-            "URL": "https://www.embibe.com/exams/ncert-books-for-class-5-english/"
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-5-english"
         },
         {
             "Title": "Class 5 - English / CBSE / School Books: Books - Amazon.in",
@@ -378,19 +494,19 @@
         },
         {
             "Title": "CBSE NCERT Solutions for Class 5 English Grammar for 2021-2022",
-            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/english/grammar/"
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/english/grammar"
         },
         {
             "Title": "CBSE Notes for Class 5 English - Learn CBSE",
-            "URL": "https://www.learncbse.in/cbse-notes-class-5-english/"
+            "URL": "https://www.learncbse.in/cbse-notes-class-5-english"
         },
         {
             "Title": "NCERT Class 5 English Marigold Book PDF Download [Updated …",
-            "URL": "https://www.ncertbooks.guru/ncert-class-5-english-book/"
+            "URL": "https://www.ncertbooks.guru/ncert-class-5-english-book"
         },
         {
             "Title": "CBSE Class 5 English Syllabus 2021-22: Download 5th English …",
-            "URL": "https://www.embibe.com/exams/cbse-class-5-english-syllabus/"
+            "URL": "https://www.embibe.com/exams/cbse-class-5-english-syllabus"
         },
         {
             "Title": "Course: English - Class 5 - Education With Fun",
@@ -398,43 +514,43 @@
         },
         {
             "Title": "NCERT Solutions for Class 5 English Unit 1 Chapter 1 Ice-Cream …",
-            "URL": "https://www.learncbse.in/ncert-solutions-class-5-english-unit-1/"
+            "URL": "https://www.learncbse.in/ncert-solutions-class-5-english-unit-1"
         },
         {
             "Title": "CBSE Class 5 English Syllabus | Videos, Revision, Summary",
-            "URL": "https://www.toppr.com/ask/content/cbse/class-5/english/"
+            "URL": "https://www.toppr.com/ask/content/cbse/class-5/english"
         },
         {
             "Title": "Английский язык - 5 класс - Российская электронная школа",
-            "URL": "https://resh.edu.ru/subject/11/5/"
+            "URL": "https://resh.edu.ru/subject/11/5"
         },
         {
             "Title": "NCERT Solutions for Class 5 Hindi रिमझिम",
-            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-hindi/"
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-hindi"
         },
         {
             "Title": "NCERT Solutions for Class 5 Hindi, Free NCERT Solutions",
-            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-hindi/"
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-5-hindi"
         },
         {
             "Title": "NCERT Solutions for Class 5 Hindi | myCBSEguide | CBSE",
-            "URL": "https://mycbseguide.com/blog/ncert-solutions-for-class-5-hindi/"
+            "URL": "https://mycbseguide.com/blog/ncert-solutions-for-class-5-hindi"
         },
         {
             "Title": "NCERT Solutions for Class 5 Hindi - New Solutions | AglaSem",
-            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-hindi/"
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-5-hindi"
         },
         {
             "Title": "NCERT Books For Class 5 All Subjects, Hindi, English, Maths",
-            "URL": "https://www.tiwariacademy.com/ncert-books/class-5/"
+            "URL": "https://www.tiwariacademy.com/ncert-books/class-5"
         },
         {
             "Title": "CBSE NCERT Solutions for Class 5 Hindi Rimjhim for session",
-            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/hindi/"
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/hindi"
         },
         {
             "Title": "NCERT Solutions for Class 5 Hindi Chapters - ncert books",
-            "URL": "http://ncert-books.in/ncert-solutions-books-for-class-5-hindi-chapters/"
+            "URL": "http://ncert-books.in/ncert-solutions-books-for-class-5-hindi-chapters"
         },
         {
             "Title": "NCERT Book for Class 5 Hindi Rimjhim - Free PDF Download",
@@ -450,15 +566,15 @@
         },
         {
             "Title": "NCERT Books For Class 5 Hindi: Download 'Rimjhim' PDF Now",
-            "URL": "https://www.embibe.com/exams/ncert-books-for-class-5-hindi/"
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-5-hindi"
         },
         {
             "Title": "Hindi Rimjhim Class 5 CBSE - Rankers Study Tutorial",
-            "URL": "https://rstudytutorial.com/cbse-ncert/class-5-cbse/hindi-class-5/"
+            "URL": "https://rstudytutorial.com/cbse-ncert/class-5-cbse/hindi-class-5"
         },
         {
             "Title": "CBSE NCERT Class 5 Hindi Grammar, Hindi Vyakaran for 2021-2022.",
-            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/hindi/grammar/"
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-5/hindi/grammar"
         },
         {
             "Title": "Worksheets for Class 5 Hindi - StudiesToday",
@@ -466,7 +582,7 @@
         },
         {
             "Title": "Class 5 Hindi Worksheets Download Pdf with Solutions",
-            "URL": "https://cbsencertsolutions.com/class-5-hindi-worksheets/"
+            "URL": "https://cbsencertsolutions.com/class-5-hindi-worksheets"
         },
         {
             "Title": "Class 5 Hindi (2214) - YouTube",
@@ -481,20 +597,16 @@
             "URL": "https://educationwithfun.com/course/view.php?id=28"
         },
         {
-            "Title": "Class 5 Hindi Online Classes & Live CBSE | ICSE | NCERT Class 5th...",
-            "URL": "https://www.takshilalearning.com/course/class-5-hindi-online-classes/"
-        },
-        {
-            "Title": "CBSE Class 5 Hindi Syllabus 2021-22 PDF: Get 5th Class Hindi...",
-            "URL": "https://www.embibe.com/exams/cbse-class-5-hindi-syllabus/"
+            "Title": "Class 5 Hindi Online Classes & Live CBSE | ICSE |",
+            "URL": "https://www.takshilalearning.com/course/class-5-hindi-online-classes"
         },
         {
             "Title": "[PDF] NCERT Solutions for Class 5 Hindi PDF Free Download",
-            "URL": "https://www.ncertbooks.guru/ncert-solutions-class-5-hindi/"
+            "URL": "https://www.ncertbooks.guru/ncert-solutions-class-5-hindi"
         },
         {
             "Title": "best Class 5 moral stories hindi | Mauryamotivation.com",
-            "URL": "https://mauryamotivation.com/class-5-moral-stories-hindi/"
+            "URL": "https://mauryamotivation.com/class-5-moral-stories-hindi"
         },
         {
             "Title": "class 5 Hindi language chap1 Armaan L2 on Vimeo",
@@ -510,7 +622,7 @@
         },
         {
             "Title": "UP Board Solutions for Class 5 Hindi हिन्दी कलरव - UP Board Solutions",
-            "URL": "https://www.upboardsolutions.com/class-5-hindi/"
+            "URL": "https://www.upboardsolutions.com/class-5-hindi"
         },
         {
             "Title": "CBSE Class 5 Hindi Worksheets & Sample Question Papers",
@@ -518,7 +630,7 @@
         },
         {
             "Title": "NCERT Books for Class 5 Hindi PDF Download",
-            "URL": "https://ncertbooks.solutions/ncert-books-class-5/hindi/"
+            "URL": "https://ncertbooks.solutions/ncert-books-class-5/hindi"
         },
         {
             "Title": "Download NCERT Class 5 Hindi Books [CBSE] PDF 2020",
@@ -526,35 +638,1323 @@
         },
         {
             "Title": "Download CBSE Class 5 Hindi Worksheets in PDF 2021-22.",
-            "URL": "https://school.edufever.com/cbse/cbse-class-5-hindi-worksheets/"
+            "URL": "https://school.edufever.com/cbse/cbse-class-5-hindi-worksheets"
         },
         {
             "Title": "Download CBSE Syllabus for Class 5 Hindi Academic Year 2020-2021",
-            "URL": "https://byjus.com/cbse-class-5-hindi-syllabus/"
+            "URL": "https://byjus.com/cbse-class-5-hindi-syllabus"
         },
         {
             "Title": "Class 5 Hindi Solutions for Chapter 3-Khilaunewala - हिन्दी ज्ञान सागर",
-            "URL": "https://www.hindigyansagar.com/class-5-hindi-solution-for-chapter-3/"
-        },
-        {
-            "Title": "7 Best Hindi Moral Stories For Class 5 | Hindi Moral Stories",
-            "URL": "https://aavomi.com/hindi-moral-stories-for-class-5/"
+            "URL": "https://www.hindigyansagar.com/class-5-hindi-solution-for-chapter-3"
         },
         {
             "Title": "NCERT Book Class 5 Hindi | AglaSem Schools",
-            "URL": "https://schools.aglasem.com/ncert/ncert-books-class-5-hindi/"
+            "URL": "https://schools.aglasem.com/ncert/ncert-books-class-5-hindi"
         },
         {
             "Title": "RBSE Solutions for Class 5 Hindi हिन्द",
-            "URL": "https://www.rbsesolutions.com/class-5-hindi/"
+            "URL": "https://www.rbsesolutions.com/class-5-hindi"
         },
         {
             "Title": "Hindi: NCERT Books Class 5 PDF Download - NCERT Books...",
-            "URL": "https://freehomedelivery.net/ncert-book-class-5-hindi/"
+            "URL": "https://freehomedelivery.net/ncert-book-class-5-hindi"
         },
         {
             "Title": "Class 5 HINDI worksheet",
             "URL": "https://www.liveworksheets.com/nv1215473iy"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi -Vasant & Durva - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for class 6 Hindi Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi Vasant - Free PDF - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-hindi-vasant"
+        },
+        {
+            "Title": "Textbooks PDF (I-XII) - NCERT",
+            "URL": "https://ncert.nic.in/textbook.php?fhvs1=0-17"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi - Latest Solutions ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi, Free NCERT Solutions ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-6-hindi"
+        },
+        {
+            "Title": "Class 6 Hindi NCERT books: Download Hindi Solutions PDF",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi | myCBSEguide | CBSE ...",
+            "URL": "https://mycbseguide.com/blog/ncert-solutions-for-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Books For Class 6 Hindi PDF: Download NCERT Textbook …",
+            "URL": "https://www.vedantu.com/ncert-books/ncert-books-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Hindi",
+            "URL": "https://ncertsolutions.app/ncert/class-6/hindi"
+        },
+        {
+            "Title": "NCERT Books Class 6 Hindi - Download Free PDFs Here",
+            "URL": "https://myncert.com/cbse-ncert-books-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Class 6 Hindi Books PDF Download [Updated 2021-22]",
+            "URL": "https://www.ncertbooks.guru/ncert-class-6-hindi-books"
+        },
+        {
+            "Title": "CBSE Syllabus For Class 6 Hindi For Academic Year 2020 ...",
+            "URL": "https://byjus.com/cbse-class-6-hindi-syllabus"
+        },
+        {
+            "Title": "CBSE NCERT Worksheets for Class 6 Hindi - WorksheetsBuddy.com",
+            "URL": "https://www.worksheetsbuddy.com/cbse-worksheets-for-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Book Class 6 Hindi Vasant Chapter 1 वह चिड़िया जो ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-books-class-6-hindi-chapter-1"
+        },
+        {
+            "Title": "Class 6 Hindi Assignments Download Pdf with Solutions",
+            "URL": "https://cbsencertsolutions.com/class-6-hindi-assignments"
+        },
+        {
+            "Title": "Class-6. - Kendriya Vidyalaya No.2 Jaipur(Online Study ...",
+            "URL": "https://kvno2jaipur.wordpress.com/class-6-2"
+        },
+        {
+            "Title": "NCERT ebook pdf For Class 6 Hindi - Vasant - Free PDF ...",
+            "URL": "https://www.saralstudy.com/ncert-ebook-pdf-for-class-6-hindi-vasant"
+        },
+        {
+            "Title": "Class 6th Hindi - Video Tutorial - Magnet Brains",
+            "URL": "https://www.magnetbrains.com/course/class-6th-hindi"
+        },
+        {
+            "Title": "Class 6 Hindi Worksheets Download Pdf with Solutions",
+            "URL": "https://cbsencertsolutions.com/class-6-hindi-worksheets"
+        },
+        {
+            "Title": "CBSE Notes for Class 6 Hindi - Learn CBSE",
+            "URL": "https://www.learncbse.in/cbse-notes-class-6-hindi"
+        },
+        {
+            "Title": "NCERT Books for Class 6 all subjects Hindi, English Maths - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-books/class-6"
+        },
+        {
+            "Title": "RBSE Solutions for Class 6 Hindi हिंदी",
+            "URL": "https://www.rbsesolutions.com/class-6-hindi"
+        },
+        {
+            "Title": "NCERT Solutions For Class 6 Hindi Chapter Wise Solutions ...",
+            "URL": "https://www.entrancei.com/ncert-solutions-for-class-6-hindi"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 Hindi with Answers Vasant Bhag 1",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-6-hindi-with-answers"
+        },
+        {
+            "Title": "CBSE Sample Papers Class 6 Hindi PDF Solutions Download",
+            "URL": "https://www.studiestoday.com/sample-paper/71/hindi.html"
+        },
+        {
+            "Title": "Navodaya Model Paper In Hindi Medium Class 6 - Navodaya study",
+            "URL": "https://navodayastudy.com/navodaya-model-paper-in-hindi-medium-class-6"
+        },
+        {
+            "Title": "NCERT Books For Class 6 PDF Of All Subjects - Download Now.",
+            "URL": "https://byjus.com/ncert-books-class-6"
+        },
+        {
+            "Title": "CBSE 6th Class Hindi Syllabus for Vasant, Durva & Bal Ram ...",
+            "URL": "https://www.embibe.com/exams/cbse-class-6-hindi-syllabus"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 Hindi Chapter 1 वह चिड़िया जो ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-6-hindi-chapter-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English (Updated for 2020-21) - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions class 6 English Honeysuckle & A pact with - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English Honeysuckle 2020 - 21 - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-english-honeysuckle"
+        },
+        {
+            "Title": "Class 6th English NCERT Books: Download English Textbook",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English, Free NCERT Solutions ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English (Honeysuckle and A ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-6-english"
+        },
+        {
+            "Title": "NCERT Books for Class 6 English in PDF| Download latest ...",
+            "URL": "https://www.jagranjosh.com/articles/ncert-books-for-class-6-english-pdf-1606919455-1"
+        },
+        {
+            "Title": "NCERT Books Class 6 English - Download PDF",
+            "URL": "https://byjus.com/ncert-books-class-6-english"
+        },
+        {
+            "Title": "ICSE Syllabus For Class 6 English | Latest Syllabus For the Year 2020",
+            "URL": "https://byjus.com/icse/icse-class-6-english-syllabus"
+        },
+        {
+            "Title": "Class 6 English Online Classes CBSE | ICSE",
+            "URL": "https://www.takshilalearning.com/course/class-6-english-online-classes"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English Grammar - (Updated for 2020 …",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-english-grammar"
+        },
+        {
+            "Title": "NCERT Books for Class 6 English 2020-21 - Download pdf here",
+            "URL": "https://school.careers360.com/articles/ncert-books-for-class-6-english"
+        },
+        {
+            "Title": "Class 6 English Grammar verbs, modals, noun, etc, for 2021-2022.",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/english/grammar"
+        },
+        {
+            "Title": "Grade 6 English Lessons, English Teaching and Learning ...",
+            "URL": "https://www.kidsworldfun.com/learn-english/english-lessons-for-grade-6.php"
+        },
+        {
+            "Title": "Class 6 - English - DAV PUBLIC SCHOOL",
+            "URL": "https://davbrsonline.wordpress.com/class-6-english"
+        },
+        {
+            "Title": "NCTB Class 6 English Book PDF 2021 | English for Today ...",
+            "URL": "https://bdexamresults.com/class-6-english-book"
+        },
+        {
+            "Title": "Class 6 English Assignment 8th Week Answer 2021 - All New ...",
+            "URL": "https://allnewjobcircular.com/class-6-english-assignment"
+        },
+        {
+            "Title": "English Assignment Class 6, 7, 8, 9 Answer 2021 (All Week)",
+            "URL": "https://bdnewresults.com/english-assignment"
+        },
+        {
+            "Title": "Unseen Passage for Class 6 - Learn CBSE",
+            "URL": "https://www.learncbse.in/unseen-passage-for-class-6"
+        },
+        {
+            "Title": "English Grammar for Class 6, 7, 8, 9, 10, 11 and 12 for ...",
+            "URL": "https://www.learncbse.in/english-grammar"
+        },
+        {
+            "Title": "CBSE Question Papers Class 6 English PDF Solutions Download",
+            "URL": "https://www.studiestoday.com/question-papers/70/english.html"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 English",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-english"
+        },
+        {
+            "Title": "8th Week Assignment Answer Class 6 (English & Arts and Crafts)",
+            "URL": "https://newresultbd.com/8th-week-assignment-class-6"
+        },
+        {
+            "Title": "NCERT Solutions For Class 6 English Unit 1 - Who Did ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-english/unit-1-who-did-patricks-homework"
+        },
+        {
+            "Title": "Swiflearn | English Grammar for Class 6 (CBSE & ICSE) All ...",
+            "URL": "https://swiflearn.com/revision-notes/english-grammar/class-6"
+        },
+        {
+            "Title": "CBSE Syllabus for Class 6 English 2020-2021 Examination",
+            "URL": "https://www.vedantu.com/syllabus/cbse-class-6-english-syllabus"
+        },
+        {
+            "Title": "KSEEB Solutions for Class 6 English Karnataka State ...",
+            "URL": "https://www.kseebsolutions.com/kseeb-solutions-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions For Class 6 English Unit 3 - The Shepherd ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-english/supplementary-chapter-3"
+        },
+        {
+            "Title": "Class 6th English - Video Tutorial - Magnet Brains",
+            "URL": "https://www.magnetbrains.com/course/class-6th-english-video-tutorial"
+        },
+        {
+            "Title": "English Grammar for Class 6, 7, 8, 9, 10, 11 and 12 ...",
+            "URL": "https://www.learncram.com/english/english-grammar"
+        },
+        {
+            "Title": "RBSE Solutions for Class 6 English अंग्रेज़ी",
+            "URL": "https://www.rbsesolutions.com/class-6-english"
+        },
+        {
+            "Title": "CBSE NCERT Worksheets for Class 6 English ...",
+            "URL": "https://www.worksheetsbuddy.com/cbse-worksheets-for-class-6-english"
+        },
+        {
+            "Title": "NCERT Solutions For Class 6 English Unit 3 - Taro's Reward ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-english/unit-3-taros-reward"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 English with Answers Honeysuckle ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-6-english-with-answers"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science updated for 2021 - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/social-science"
+        },
+        {
+            "Title": "NCERT Books for Class 6 Social Science Free PDF Download ...",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Books for Class 6 Social Science (PDF): History ...",
+            "URL": "https://www.jagranjosh.com/articles/ncert-books-for-class-6-social-science-1593111206-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science - Latest Solutions ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science - Meritnation",
+            "URL": "https://www.meritnation.com/cbse-class-6/social-science/ncert-solutions/8_8"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science, Free NCERT ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Social Science Book For Class 6 - Download now.",
+            "URL": "https://byjus.com/ncert-books-class-6-social-science"
+        },
+        {
+            "Title": "Access CBSE Class 6 Social Science Notes - BYJUS",
+            "URL": "https://byjus.com/cbse-notes/class-6-social-science-notes"
+        },
+        {
+            "Title": "Class 6 Social Science - Ace Lessons",
+            "URL": "https://acelessons.com/class-6-social-science"
+        },
+        {
+            "Title": "NCERT Syllabus Class 6 Social Science Updated for 2021- 22 ...",
+            "URL": "https://byjus.com/ncert-solutions/ncert-syllabus-for-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Book for Class 6 Social Science Download PDF",
+            "URL": "https://www.ncertbooksolutions.com/ncert-book-for-class-6-social-science-download-pdf"
+        },
+        {
+            "Title": "Worksheets For Class 6 Social Science - WorksheetsBag.com",
+            "URL": "https://worksheetsbag.com/worksheets-for-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Book Class 6 Social Science | AglaSem Schools",
+            "URL": "https://schools.aglasem.com/ncert/ncert-books-class-6-social-science"
+        },
+        {
+            "Title": "CBSE Class 6 Social Science Revision Notes - Learn CBSE",
+            "URL": "https://www.learncbse.in/cbse-notes-class-6-social"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 Social Science with Answers PDF ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-6-social-science-with-answers"
+        },
+        {
+            "Title": "CBSE NCERT Books for Class 6 Social Science - Free PDF ...",
+            "URL": "https://www.getmyuni.com/articles/ncert-books-for-class-6-social-science"
+        },
+        {
+            "Title": "Extra Questions for Class 6 Social Science - Learn CBSE",
+            "URL": "https://www.learncbse.in/extra-questions-for-class-6-social-science"
+        },
+        {
+            "Title": "CBSE Class 6 Social Science Notes - Learn Insta",
+            "URL": "https://www.learninsta.com/class-6-social-science-notes"
+        },
+        {
+            "Title": "CBSE Syllabus for Class 6 Social Science 2020-2021 Examination",
+            "URL": "https://www.vedantu.com/syllabus/cbse-class-6-social-science-syllabus"
+        },
+        {
+            "Title": "class 6 | Learning Excellence Record | social science ...",
+            "URL": "https://www.youtube.com/watch?v=yPeU_MTkpOg"
+        },
+        {
+            "Title": "MCQs For NCERT Class 6 Social Science With Answers",
+            "URL": "https://www.ncertbooksolutions.com/mcqs-for-ncert-class-6-social-science-with-answers"
+        },
+        {
+            "Title": "Extra Questions for Class 6 Social Science with Answers ...",
+            "URL": "https://www.thestudypath.com/class-6/extra-questions/social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science Chapter 1 PDF ...",
+            "URL": "https://www.toppr.com/guides/ncert-solutions-for-class-6-social-science-chapter-1"
+        },
+        {
+            "Title": "Class 6 Social Science Assignments Download Pdf with Solutions",
+            "URL": "https://cbsencertsolutions.com/class-6-social-science-assignments"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Social Science in Hindi PDF ...",
+            "URL": "https://ncertsolutions.guru/ncert-solutions-for-class-6-social-science-in-hindi"
+        },
+        {
+            "Title": "Class 6 NCERT Social Science History Chapter 2? - Tiwari ...",
+            "URL": "https://www.tiwariacademy.com/discussion/question/class-6-ncert-social-science-history-chapter-2"
+        },
+        {
+            "Title": "KSEEB Solutions for Class 6 Social Science Karnataka State ...",
+            "URL": "https://www.kseebsolutions.com/kseeb-solutions-class-6-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science (Updated for 2020-21) - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Updated for 2021-22 - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-6-science"
+        },
+        {
+            "Title": "Science - NCERT",
+            "URL": "https://ncert.nic.in/textbook.php?fesc1=0-16"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science (Updated for 2021-2022) - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science - Free PDF Download",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-science"
+        },
+        {
+            "Title": "NCERT Book for Class 6 Science (2021-2022)| Download in ...",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-6-science-1563364410-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science - Latest Solutions ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-6-science"
+        },
+        {
+            "Title": "Class 6th Science NCERT Books: Download Free PDFs Here!",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-6-science"
+        },
+        {
+            "Title": "NCERTBooks For Class 6 Science - Click to Download Free PDF",
+            "URL": "https://byjus.com/ncert-books-class-6-science"
+        },
+        {
+            "Title": "CBSE Notes for Class 6 Science - Free PDF Download for All Chapters",
+            "URL": "https://byjus.com/cbse-notes/class-6-science-notes"
+        },
+        {
+            "Title": "CBSE Class 6 Science Revision Notes - Free Download - Vedantu",
+            "URL": "https://www.vedantu.com/revision-notes/cbse-class-6-science-notes"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 1 - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-6-science/chapter-1-food-where-does-it-come-from"
+        },
+        {
+            "Title": "CBSE Class 6 Science Notes - Free PDF Download for All Chapters - Learn CBSE",
+            "URL": "https://www.learncbse.in/cbse-notes-class-6-science"
+        },
+        {
+            "Title": "CBSE Guide for Science Class 6",
+            "URL": "https://science.olympiadsuccess.com/class-6"
+        },
+        {
+            "Title": "Class 6 Science Notes and Questions | Primary School - EsomaKe",
+            "URL": "https://esomake.co.ke/primary/class-6/science"
+        },
+        {
+            "Title": "Science class 6 | Quiz - Quizizz",
+            "URL": "https://quizizz.com/admin/quiz/5ea3b45a0315f6001bcfceb7/science-class-6"
+        },
+        {
+            "Title": "Class 6 Science Worksheets with Answers | Entrancei",
+            "URL": "https://www.entrancei.com/class-6-science"
+        },
+        {
+            "Title": "UP Board Solutions for Class 6 Science विज्ञान : आओ समझें ...",
+            "URL": "https://www.upboardsolutions.com/class-6-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 2 Components ...",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6th-science-chapter-2-components-of-food"
+        },
+        {
+            "Title": "CBSE Class 6 Science Worksheets - Free & Printable",
+            "URL": "https://blog.ribblu.com/class-6-science-worksheets"
+        },
+        {
+            "Title": "NCERT ebook pdf For Class 6 Science - Free PDF Download ...",
+            "URL": "https://www.saralstudy.com/ncert-ebook-pdf-for-class-6-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 11 Light ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-science/chapter-11-light-shadow-and-reflection"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 5 Separation ...",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6th-science-chapter-5-separation-of-substances"
+        },
+        {
+            "Title": "Important Questions for CBSE Class 6 Science, Chapter wise ...",
+            "URL": "https://www.vedantu.com/cbse/important-questions-class-6-science"
+        },
+        {
+            "Title": "Science | Khan Academy",
+            "URL": "https://www.khanacademy.org/science"
+        },
+        {
+            "Title": "Class 6 - EDUREV.IN",
+            "URL": "https://edurev.in/cbse/class-6"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 7 Getting to ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6th-science-chapter-7-getting-to-know-plants"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Science Chapter 1 Food: Where ... - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-science-chapter-1"
+        },
+        {
+            "Title": "Class 6 Science Chapter 3 MCQ (Multiple Choice Questions ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/science/chapter-3/mcq"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 Science with Answers PDF ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-6-science-with-answers"
+        },
+        {
+            "Title": "MCQ Questions for Class 6 Science Chapter 1 Food Where ...",
+            "URL": "https://www.learncram.com/cbse/mcq-questions-for-class-6-science-chapter-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths (Updated for 2020-21) - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-maths-solutions"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Updated for 2021-22 - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-6-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths (Session 2021-2022) - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-6/maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Updated for 2021-22 - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths, Free NCERT Solutions ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-6-math"
+        },
+        {
+            "Title": "NCERT Solutions for CBSE Class 6 Maths TopperLearning",
+            "URL": "https://www.topperlearning.com/ncert-solutions/cbse-class-6-mathematics"
+        },
+        {
+            "Title": "CBSE Class 6 Maths Questions & Answers - Chapter-Wise ...",
+            "URL": "https://www.embibe.com/exams/cbse-ncert-solutions-for-class-6-maths"
+        },
+        {
+            "Title": "NCERT Books For Class 6 Maths - Downlaod Free PDF By Clicking …",
+            "URL": "https://byjus.com/ncert-books-class-6-maths"
+        },
+        {
+            "Title": "Math for Class 6 | Maths Practice, Tests, Worksheets, Quizzes ...",
+            "URL": "https://in.edugain.com/math/grade-6"
+        },
+        {
+            "Title": "CBSE Syllabus for Class 6 Maths Exam 2020-2021 - Byjus",
+            "URL": "https://byjus.com/cbse/class-6-maths-syllabus"
+        },
+        {
+            "Title": "RS Aggarwal Solutions Class 6 Maths - VEDANTU",
+            "URL": "https://www.vedantu.com/rs-aggarwal-solutions/rs-aggarwal-class-6-solutions"
+        },
+        {
+            "Title": "NCERT Solutions Class 6 Maths Chapter 1 Knowing Our Numbers …",
+            "URL": "https://byjus.com/ncert-solutions-class-6-maths/chapter-1-knowing-our-numbers"
+        },
+        {
+            "Title": "RS Aggarwal Solutions Class 6 PDF Download - A Plus Topper",
+            "URL": "https://www.aplustopper.com/rs-aggarwal-class-6-solutions"
+        },
+        {
+            "Title": "Class 6 maths (India) | NCERT | Khan Academy",
+            "URL": "https://www.khanacademy.org/math/in-in-class-6th-math-cbse"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths - With Videos - Teachoo",
+            "URL": "https://www.teachoo.com/subjects/cbse-maths/class-6"
+        },
+        {
+            "Title": "Sixth grade math worksheets - free & printable | K5 Learning",
+            "URL": "https://www.k5learning.com/free-math-worksheets/sixth-grade-6"
+        },
+        {
+            "Title": "NCERT Books for Class 6 Maths PDF Download",
+            "URL": "https://www.ncertbooks.guru/ncert-books-class-6-maths"
+        },
+        {
+            "Title": "NCERT Book for Class 6 Maths PDF| Download for 2021-22",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-6-maths-pdf-1562240436-1"
+        },
+        {
+            "Title": "CBSE Sample Paper for Class 6 Maths - Download Free PDF",
+            "URL": "https://byjus.com/cbse-sample-paper-for-class-6-maths"
+        },
+        {
+            "Title": "Class 6 Mathematics - SlideShare",
+            "URL": "https://www.slideshare.net/AbhishekBhartee/class-6-mathematics"
+        },
+        {
+            "Title": "Course: Mathematics - Class 6",
+            "URL": "https://educationwithfun.com/course/view.php?id=35"
+        },
+        {
+            "Title": "Maths Quiz For Grade 6 With Answers - ProProfs Quiz",
+            "URL": "https://www.proprofs.com/quiz-school/story.php?title=mathematics-quiz-class-6"
+        },
+        {
+            "Title": "CBSE NCERT Class 6 Maths Syllabus 2021-22: Details Here",
+            "URL": "https://www.embibe.com/exams/cbse-syllabus-for-class-6-mathematics"
+        },
+        {
+            "Title": "NCERT Solutions Class 6 Maths Chapter 2 Whole Numbers ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-maths/chapter-2-whole-numbers"
+        },
+        {
+            "Title": "NCERT Solutions Class 6 Maths Chapter 3 Playing With ...",
+            "URL": "https://byjus.com/ncert-solutions-class-6-maths/chapter-3-playing-with-numbers"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Chapter 7 Fractions",
+            "URL": "https://byjus.com/ncert-solutions-class-6-maths/chapter-7-fractions"
+        },
+        {
+            "Title": "Important Questions for CBSE Class 6 Maths, Chapter wise ...",
+            "URL": "https://www.vedantu.com/cbse/important-questions-class-6-maths"
+        },
+        {
+            "Title": "Grade 6 mathematics Questions and Answer Solutions | LIDO",
+            "URL": "https://www.lidolearning.com/ncert-solutions-grade-6/mathematics"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Chapter 1 Knowing Our ...",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-maths-knowing-our-numbers-exercise-1-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Chapter 3 Playing With ...",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-maths-playing-with-numbers-exercise-3-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 (Updated for 2020-21)",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-6"
+        },
+        {
+            "Title": "NCERT Solutions for Class 6 Maths Chapter 2 Whole Numbers",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-6-maths-whole-numbers-exercise-2-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science (Updated for 2020 - 2021) - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Updated for 2021-22 - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 Science Updated for 2020-21 - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science in PDF format for 2021-22. - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/science"
+        },
+        {
+            "Title": "NCERT Book for Class 7 Science PDF: 2021-22 - Jagran Josh",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-7-science-pdf-hindi-english-1591706810-1"
+        },
+        {
+            "Title": "NCERT Solutions for CBSE Class 7 Science TopperLearning",
+            "URL": "https://www.topperlearning.com/ncert-solutions/cbse-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 Science - Extramarks",
+            "URL": "https://www.extramarks.com/ncert-solutions/cbse-class-7/science"
+        },
+        {
+            "Title": "NCERT Books For Class 7 Science in Eng and हिन्दी - Free PDF - Byjus",
+            "URL": "https://byjus.com/ncert-books-for-class-7-science"
+        },
+        {
+            "Title": "CBSE Class 7 Science Notes - Get Chapter wise Notes for Free - Byjus",
+            "URL": "https://byjus.com/cbse-notes/cbse-class-7-science-notes"
+        },
+        {
+            "Title": "CBSE Sample Papers for Class 7 Science - Click to Download Free - Byjus",
+            "URL": "https://byjus.com/cbse-sample-paper-for-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 2 Nutrition in Animals - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-science/chapter-2-nutrition-in-animals"
+        },
+        {
+            "Title": "NCERT Solutions Class 7 Science Chapter 5 Acid Base and Salt Free - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-science/chapter-5-acid-base-and-salt"
+        },
+        {
+            "Title": "NCERT Book Class 7 Science | AglaSem Schools",
+            "URL": "https://schools.aglasem.com/ncert/ncert-books-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 4 Heat - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-class-7-science-chapter-4-heat"
+        },
+        {
+            "Title": "NCERT Books for Class 7 Science PDF Download",
+            "URL": "https://www.ncertbooks.guru/ncert-books-class-7-science"
+        },
+        {
+            "Title": "Grade 7 | Science | Kullabs",
+            "URL": "https://kullabs.com/class-7/science-1"
+        },
+        {
+            "Title": "CBSE NCERT Worksheets for Class 7 Science ...",
+            "URL": "https://www.worksheetsbuddy.com/cbse-worksheets-for-class-7-science"
+        },
+        {
+            "Title": "Extra Questions for Class 7 Science with Answers - Study Path",
+            "URL": "https://www.thestudypath.com/class-7/extra-questions/science"
+        },
+        {
+            "Title": "Class 7th Science - Video Tutorials In Hindi | Magnet Brains",
+            "URL": "https://www.magnetbrains.com/course/class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 4 Heat - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-science/chapter-4-heat"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 6 Physical and ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-class-7-science-chapter-6-physical-and-chemical-changes"
+        },
+        {
+            "Title": "Science Assignment for Class 7 Answer 4th Week 2021 (সপ্তম ...",
+            "URL": "https://allresultbd.com/science-assignment-class-7"
+        },
+        {
+            "Title": "CBSE Class 7 Science Worksheets with Answers - Vedantu",
+            "URL": "https://www.vedantu.com/cbse/class-7-science-worksheets"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 6 Physical and ... - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-science/chapter-6-physical-and-chemical-changes"
+        },
+        {
+            "Title": "NCERT Revised Books for Class 7 Science 2021: Check Here",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 2 Nutrition in ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-class-7-science-chapter-2-nutrition-in-animals"
+        },
+        {
+            "Title": "CBSE Class 7 Science Syllabus 2021-22: Check Here on Embibe",
+            "URL": "https://www.embibe.com/exams/cbse-syllabus-for-class-7-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 1 Nutrition in ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-class-7-science-chapter-1-nutrition-in-plants"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Science Chapter 5 Acids Bases ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-class-7-science-chapter-5-acids-bases-salts"
+        },
+        {
+            "Title": "Important Questions for CBSE Class 7 Science, Chapter wise ... - Vedantu",
+            "URL": "https://www.vedantu.com/cbse/important-questions-class-7-science"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Science with Answers PDF ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-science-with-answers"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Science Chapter 4 Heat with ...",
+            "URL": "https://www.learncram.com/cbse/mcq-questions-for-class-7-science-chapter-4"
+        },
+        {
+            "Title": "UP Board Solutions for Class 7 Science विज्ञान : आओ समझें ...",
+            "URL": "https://www.upboardsolutions.com/class-7-science"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Science Chapter 4 Heat with Answers",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-science-chapter-4"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Science Chapter 2 Nutrition in ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-science-chapter-2"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths (Updated for 2020 - 2021) - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Updated for 2021-22 - Byjus",
+            "URL": "https://byjus.com/ncert-solutions-class-7-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths in PDF for session 2021 - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/maths"
+        },
+        {
+            "Title": "Mathematics Class VII - YouTube",
+            "URL": "https://www.youtube.com/channel/UCcdlZGFCT-pJv3-SQwAQ-5Q"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Updated for 2021-22 - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-maths"
+        },
+        {
+            "Title": "Class 7 maths (India) | NCERT | Khan Academy",
+            "URL": "https://www.khanacademy.org/math/in-in-class-7th-math-cbse"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths [Updated PDF for 2021-22] - Cuemath",
+            "URL": "https://www.cuemath.com/ncert-solutions/class-7-maths"
+        },
+        {
+            "Title": "NCERT Solutions for CBSE Class 7 Maths TopperLearning",
+            "URL": "https://www.topperlearning.com/ncert-solutions/cbse-class-7-mathematics"
+        },
+        {
+            "Title": "NCERT Books For Class 7 Maths in English and Hindi - Byjus",
+            "URL": "https://byjus.com/ncert-books-class-7-maths"
+        },
+        {
+            "Title": "Class 7 Maths Index (All Chapters) - BYJUS",
+            "URL": "https://byjus.com/maths/class-7-maths-index"
+        },
+        {
+            "Title": "CBSE Notes Class 7 Maths - Updated As Per The Latest Prescribed - BYJUS",
+            "URL": "https://byjus.com/cbse-notes/cbse-notes-class-7-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 1 Integers access free - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-maths/chapter-1-integers"
+        },
+        {
+            "Title": "Math for Class 7 | Maths Practice, Tests, Worksheets, Quizzes ...",
+            "URL": "https://in.edugain.com/math/grade-7"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 Maths Chapter 3 Data Handling - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-maths/chapter-3-data-handling"
+        },
+        {
+            "Title": "NCERT Books for Class 7 Maths PDF Download",
+            "URL": "https://www.ncertbooks.guru/ncert-books-class-7-maths"
+        },
+        {
+            "Title": "CBSE NCERT Books for Class 7 Maths 2021: Check Here",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-7-maths"
+        },
+        {
+            "Title": "Class 7 NCERT Solutions Maths - Teachoo (All chapters with ...",
+            "URL": "https://www.teachoo.com/subjects/cbse-maths/class-7"
+        },
+        {
+            "Title": "Latest CBSE Class 7 Mathematics Study Material & Practice ...",
+            "URL": "https://edusaksham.com/cbse-maths-study-material-class-7"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 2 Fractions and ... - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-maths/chapter-2-fractions-and-decimals"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 12 Algebraic ... - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-maths/chapter-12-algebraic-expressions"
+        },
+        {
+            "Title": "CBSE Worksheets for Class 7 Maths | MCQ Questions for ...",
+            "URL": "https://www.worksheetsbuddy.com/cbse-worksheets-for-class-7-maths"
+        },
+        {
+            "Title": "Class 7 Mathematics Notes, Revision Questions and Answers ...",
+            "URL": "https://esomake.co.ke/primary/class-7/maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 2 Fractions and ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-maths-chapter-2-fractions-and-decimals-ex-2-1"
+        },
+        {
+            "Title": "RS Aggarwal Maths Book Class 7 Solutions PDF Download - A ...",
+            "URL": "https://www.aplustopper.com/rs-aggarwal-class-7-solutions"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Maths with Answers PDF Download ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-maths-with-answers"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 1 Integers - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-maths-integers-exercise-1-1"
+        },
+        {
+            "Title": "NCERT Class 7 Maths Book PDF - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-books/ncert-books-class-7-maths"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Maths Chapter 1 Integers with ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-maths-chapter-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths Chapter 2 Fractions and ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/maths/chapter-2"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Maths Chapter 2 Fractions and ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-maths-chapter-2"
+        },
+        {
+            "Title": "CBSE Class 7 Maths Worksheets | Worksheet with Answers",
+            "URL": "https://www.entrancei.com/class-7-maths-worksheet"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 Maths Chapter 2 Fractions and ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-maths-fractions-and-decimals-exercise-2-3"
+        },
+        {
+            "Title": "Class 7th Maths - Video Tutorials In Hindi | Magnet Brains",
+            "URL": "https://www.magnetbrains.com/course/class-7-maths"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Updated for 2021-22 - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-english-honeycomb"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Honeycomb for session Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English (Honeycomb, Alien ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-7-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English, Free NCERT Solutions ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-7-english"
+        },
+        {
+            "Title": "NCERT English Books for Class 7: Free PDF Download Now!",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-7-english"
+        },
+        {
+            "Title": "CBSE Class 7 English - Sample Papers, Syllabus, Textbook - TopperLearning",
+            "URL": "https://www.topperlearning.com/cbse-class-7-english"
+        },
+        {
+            "Title": "NCERT Books Class 7 English - Download PDF! - BYJUS",
+            "URL": "https://byjus.com/ncert-books-class-7-english"
+        },
+        {
+            "Title": "CBSE Class 7 English Lesson Explanation, Summary, Difficult words",
+            "URL": "https://www.successcds.net/learn-english/class-7"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 English Honeycomb - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-english-honeycomb-2"
+        },
+        {
+            "Title": "CBSE Class 7 English Notes - Learn CBSE",
+            "URL": "https://www.learncbse.in/cbse-notes-class-7-english"
+        },
+        {
+            "Title": "Class 7 English Grammar All chapters updated for new ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/english/grammar"
+        },
+        {
+            "Title": "Class 7 English Assignment Answer 2021 8th Week & 6th Week ...",
+            "URL": "https://examresultbd.com/class-7-english-assignment"
+        },
+        {
+            "Title": "UP Board Solutions for Class 7 English Rainbow",
+            "URL": "https://www.upboardsolutions.com/class-7-english"
+        },
+        {
+            "Title": "Class 7 English? - Tiwari Academy Discussion - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/discussion/question/class-7-english"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7th English Chapter 2 A Gift of ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7th-english-chapter-2-a-gift-of-chappals"
+        },
+        {
+            "Title": "UP Board Solutions for Class 7 English Rainbow - UP Board ...",
+            "URL": "https://www.upboardguide.com/class-7-english"
+        },
+        {
+            "Title": "Class 7 English: Expert Tips to Help Your Ace the Exam ...",
+            "URL": "https://hammburg.com/class-7-english-expert-tips-to-help-your-ace-the-exam"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Unit 5 Quality - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-english/unit-5-quality"
+        },
+        {
+            "Title": "41 Short English Poems For Kids - Class 1 to 7th",
+            "URL": "https://www.momjunction.com/articles/english-poems-for-kids_00461956"
+        },
+        {
+            "Title": "Class 7 English Assignment Answer 2021- 8th week",
+            "URL": "https://chakrirkhobor.net/class-7-english-assignment-answer"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Honeycomb Chapter 1 ... - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-english-honeycomb-chapter-1"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 English with Answers Honeycomb ...",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-english-with-answers"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Honeycomb Chapter 2 ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/english/chapter-2"
+        },
+        {
+            "Title": "Class 7th English - Video Tutorial - Magnet Brains",
+            "URL": "https://www.magnetbrains.com/course/class-7th-english"
+        },
+        {
+            "Title": "English Assignment Class 6, 7, 8, 9 Answer 2021 (All Week)",
+            "URL": "https://bdnewresults.com/english-assignment"
+        },
+        {
+            "Title": "Class 7 Assignment 8th Week 2021 Answer English & Charu O ...",
+            "URL": "https://allnewjobcircular.com/class-7-assignment-8th-week-2021"
+        },
+        {
+            "Title": "MCQs Class 7 English with Answers PDF Download",
+            "URL": "https://www.studiestoday.com/multiple-choice-questions/86/english.html"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 English Honeycomb Poem 1 The ...",
+            "URL": "https://www.cbsetuts.com/ncert-solutions-for-class-7-english-honeycomb-poem-1"
+        },
+        {
+            "Title": "Course: English Literature - Class 7",
+            "URL": "https://educationwithfun.com/course/view.php?id=40"
+        },
+        {
+            "Title": "CBSE Sample Paper for Class 7 English Based on Revised ...",
+            "URL": "https://www.studiestoday.com/sample-paper/86/english.html"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi (Updated for ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi Vasant - All Chaterwise ... - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-hindi-vasant"
+        },
+        {
+            "Title": "Class 7 Hindi NCERT Solutions Vasant, Durva, Question ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi - Vasant, Durva ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi, Free NCERT Solutions ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi, वसंत, भाग 2 - Meritnation",
+            "URL": "https://www.meritnation.com/cbse-class-7/hindi/वसंत,-भाग-2-ncert-solutions/ncert-solutions/9_3_1291"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi (All Chapters Free PDF ...",
+            "URL": "https://www.learninsta.com/ncert-solutions-for-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for CBSE Class 7 Hindi TopperLearning",
+            "URL": "https://www.topperlearning.com/ncert-solutions/cbse-class-7-hindi"
+        },
+        {
+            "Title": "Class 7 Hindi NCERT Books: Download Latest Version Now!",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi - Free PDF Download",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-hindi"
+        },
+        {
+            "Title": "Class 7 Hindi Lessons Explanation, Summary, Difficult words",
+            "URL": "https://www.successcds.net/class7/hindi"
+        },
+        {
+            "Title": "NCERT books for Class 7 all subjects in PDF form for session 2020 …",
+            "URL": "https://www.vedantu.com/ncert-books/ncert-books-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi - Meritnation",
+            "URL": "https://www.meritnation.com/cbse-class-7/hindi/ncert-solutions/9_3"
+        },
+        {
+            "Title": "CBSE Notes for Class 7 Hindi - Learn CBSE",
+            "URL": "https://www.learncbse.in/cbse-notes-class-7-hindi"
+        },
+        {
+            "Title": "Class 7 Hindi - Eduniz",
+            "URL": "https://eduniz.com/course/class-7-hindi"
+        },
+        {
+            "Title": "Worksheets For Class 7 Hindi - WorksheetsBag.com",
+            "URL": "https://worksheetsbag.com/worksheets-for-class-7-hindi"
+        },
+        {
+            "Title": "Class 7 Hindi Assignments Download Pdf with Solutions",
+            "URL": "https://cbsencertsolutions.com/class-7-hindi-assignments"
+        },
+        {
+            "Title": "UP Board - Class 7 - Hindi - Chapter 1 - Part 1 - YouTube",
+            "URL": "https://www.youtube.com/watch?v=1T0eMMsBz2Y"
+        },
+        {
+            "Title": "NCERT Class 7 Hindi : Free Audio : Free Download, Borrow ...",
+            "URL": "https://archive.org/details/podcast_ncert-class-7-hindi_1441461284"
+        },
+        {
+            "Title": "UP Board Solutions for Class 7 Hindi हिन्दी : मंजरी, महान ...",
+            "URL": "https://www.upboardsolutions.com/class-7-hindi"
+        },
+        {
+            "Title": "Hindi Class 7 - YouTube",
+            "URL": "https://www.youtube.com/c/HindiClass7"
+        },
+        {
+            "Title": "CBSE Sample Questions Paper for Class 7 Hindi with Solutions - Vedantu",
+            "URL": "https://www.vedantu.com/sample-papers/cbse-sample-papers-for-class-7-hindi"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Hindi with Answers Vasant Bhag 2",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-hindi-with-answers"
+        },
+        {
+            "Title": "Hindi Grammar CBSE Class 6, 7, 8, 9, 10, 11 and 12 for ... - Learn CBSE",
+            "URL": "https://www.learncbse.in/hindi-grammar"
+        },
+        {
+            "Title": "Class 7 (Foundation) - Hindi | Math | Khan Academy",
+            "URL": "https://www.khanacademy.org/math/in-class-7-math-foundation-hindi"
+        },
+        {
+            "Title": "Class 7 Hindi NCERT Solutions Sample papers Question ...",
+            "URL": "https://www.studiestoday.com/cbse-class-vii-hindi-87.html"
+        },
+        {
+            "Title": "Class 7 Hindi Archives - PGRMS Education",
+            "URL": "https://www.pgrmseducation.com/category/class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi Chapter 5 मीठाईवाला - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-hindi-chapter-5-मीठाईवाला"
+        },
+        {
+            "Title": "RBSE Solutions for Class 7 Hindi हिंदी",
+            "URL": "https://www.rbsesolutions.com/class-7-hindi"
+        },
+        {
+            "Title": "Unseen Poem Class 7 in Hindi | Latest Unseen poem",
+            "URL": "https://unseenpassage.com/hindi/unseen-poems-for-class-7"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Hindi Durva - Arinjay Academy",
+            "URL": "https://arinjayacademy.com/ncert-solutions-for-class-7-hindi-durva"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Maths In Hindi - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-maths-in-hindi"
+        },
+        {
+            "Title": "Algebra (Hindi) | Class 7 (Foundation) - Hindi | Math ...",
+            "URL": "https://www.khanacademy.org/math/in-class-7-math-foundation-hindi/xeacf28af88e15b77:algebra-hindi"
+        },
+        {
+            "Title": "NCERT 7th Class Hindi Solutions 2022 Pdf Download",
+            "URL": "https://boardmodelpaper.com/ncert-solutions-for-class-7-hindi"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science - Learn CBSE",
+            "URL": "https://www.learncbse.in/ncert-solutions-for-class-7-social-sciences"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science Updated for ... - BYJUS",
+            "URL": "https://byjus.com/ncert-solutions-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Solutions Class 7 Social Science Free PDFs - Vedantu",
+            "URL": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Book for Class 7 Social Science 2021-22| Download ...",
+            "URL": "https://www.jagranjosh.com/articles/class-7-social-science-ncert-book-1592832502-1"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science: History, Civics ... - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/ncert-solutions/class-7/social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science - Meritnation",
+            "URL": "https://www.meritnation.com/cbse-class-7/social-science/ncert-solutions/9_8"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science, Free NCERT ...",
+            "URL": "https://www.freencertsolutions.com/ncert-solutions-for-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Revised Books for Class 7 Social Science 2021 ...",
+            "URL": "https://www.embibe.com/exams/ncert-books-for-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science - History, Civics ...",
+            "URL": "https://schools.aglasem.com/ncert/ncert-solutions-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Social Science Book Class 7 Download PDF - BYJUS",
+            "URL": "https://byjus.com/ncert-books-class-7-social-science"
+        },
+        {
+            "Title": "NCERT Books for Class 7 Social Science PDF Download [Updated …",
+            "URL": "https://www.ncertbooks.guru/ncert-books-for-class-7-social-science"
+        },
+        {
+            "Title": "CBSE Notes Class 7 Social Science - Access for Free! - BYJUS",
+            "URL": "https://byjus.com/cbse-notes/class-7-social-science-notes"
+        },
+        {
+            "Title": "Class 7 Social Science – Tiwari Academy Discussion - Tiwari Academy",
+            "URL": "https://www.tiwariacademy.com/discussion/question-category/class-7-social-science"
+        },
+        {
+            "Title": "MCQ Questions for Class 7 Social Science with Answers PDF …",
+            "URL": "https://www.learninsta.com/mcq-questions-for-class-7-social-science-with-answers"
+        },
+        {
+            "Title": "CBSE Syllabus for Class 7 Social Science for Academic Year ... - BYJUS",
+            "URL": "https://byjus.com/cbse-class-7-social-science-syllabus"
+        },
+        {
+            "Title": "NCERT Solutions for Class 7 Social Science (2021-2022 ...",
+            "URL": "https://www.jagranjosh.com/articles/ncert-solutions-for-class-7-social-science-in-pdf-1593791368-1"
+        },
+        {
+            "Title": "Extra Questions for Class 7 Social Science with Answers ...",
+            "URL": "https://www.thestudypath.com/class-7/extra-questions/social-science"
+        },
+        {
+            "Title": "KSEEB Solutions for Class 7 Social Science Karnataka State ...",
+            "URL": "https://www.kseebsolutions.com/kseeb-solutions-class-7-social-science"
+        },
+        {
+            "Title": "Class 7 Social Science Assignments Download Pdf with Solutions",
+            "URL": "https://cbsencertsolutions.com/class-7-social-science-assignments"
+        },
+        {
+            "Title": "NCERT Books for Class 7 Geography (Social Science - Our ...",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-7-social-science-geography-our-environment-all-chapters-1593001099-1"
+        },
+        {
+            "Title": "NCERT ebook pdf For Class 7 Social Science - Our ...",
+            "URL": "https://www.saralstudy.com/ncert-ebook-pdf-for-class-7-social-science-our-environment-geography"
+        },
+        {
+            "Title": "NCERT Book for Class 7 History (Social Science) 2021-22: PDF",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-7-history-social-science-pdf-all-chapters-1592564985-1"
+        },
+        {
+            "Title": "NCERT Solutions For Class 7 Civics Social Science Chapter ...",
+            "URL": "https://byjus.com/ncert-solutions-class-7-social-science-civics-chapter-3-how-the-state-government-works"
+        },
+        {
+            "Title": "Rocks and Minerals -Inside Our Earth - Class 7 Social ...",
+            "URL": "https://www.takshilalearning.com/rocks-and-minerals-inside-our-earth-class-7-social-science"
+        },
+        {
+            "Title": "CBSE Class 7 Social Science Syllabus 2021-22: Check Here ...",
+            "URL": "https://www.embibe.com/exams/cbse-syllabus-for-class-7-social-science"
+        },
+        {
+            "Title": "CBSE Class 7 Social Science Notes - Learn Insta",
+            "URL": "https://www.learninsta.com/class-7-social-science-notes"
+        },
+        {
+            "Title": "Kerala SCERT Class 7 Social Science Question Answer",
+            "URL": "https://www.netexplanations.com/kerala-scert-class-7-social-science-question-answer"
+        },
+        {
+            "Title": "RBSE Solutions for Class 7 Social Science सामाजिक विज्ञान",
+            "URL": "https://www.rbsesolutions.com/class-7-social-science"
+        },
+        {
+            "Title": "NCERT Books for Class 7 Social Science - Civics: 2021-22",
+            "URL": "https://www.jagranjosh.com/articles/ncert-book-for-class-7-social-science-civics-social-and-political-life-ii-all-chapters-1592304037-1"
+        },
+        {
+            "Title": "Worksheets for Class 7 Social Science - StudiesToday",
+            "URL": "https://www.studiestoday.com/worksheets/322/social-science.html"
+        },
+        {
+            "Title": "Gujarat State Board Class 7 Social Science Ch 3 Government ...",
+            "URL": "https://www.netexplanations.com/gujarat-state-board-class-7-social-science-ch-3-government-solution"
         }
     ]
 }
