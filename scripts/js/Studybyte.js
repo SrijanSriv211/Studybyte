@@ -80,41 +80,46 @@ function TryToSearch()
 
 function GetResults()
 {
-	// Retrive the query and indexed pages.
-	var SearchIndex = Database();
-	let OriginalQuery = localStorage.getItem("OriginalQuery");
-	let FormatedQuery = localStorage.getItem("FormatedQuery");
-
-	// Change the title of the page.
-	document.title = OriginalQuery + " - Studybyte";
-	let NumOFReults = 0;
-	let ListResults = [];
-	let ListOfSites = [];
-
-	// Get all the links and titles of all indexed pages.
-	for (let i = 0; i < SearchIndex.length; i++)
-	{
-		ListOfSites.push(SearchIndex[i][0]);
-	}
-
-	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
-	ListResults = Color(FormatedQuery, ListOfSites);
-	for (let i = 0; i < ListResults.length; i++)
-	{
-		for (let a = 0; a < ListOfSites.length; a++)
+	var SearchIndex = [];
+	fetch("scripts/CrawledPages.json").then(response => response.json()).then(data =>
 		{
-			if (ListResults[i][1] == ListOfSites[a])
-			{
-				ColorRender(SearchIndex[a][0], SearchIndex[a][1]);
-				NumOFReults++;
-			}
-		}
-	}
+			for (let i = 0; i < (data.Pages).length; i++)
+				SearchIndex.push([data.Pages[i].Title, data.Pages[i].URL]);
 
-	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFReults == 0 || FormatedQuery == undefined) window.location = "e.html";
-	document.getElementById("NumOfResults").innerHTML = NumOFReults + " results found!"; // This piece of code will Change some window properties.
-	document.getElementById("Searchbar").value = OriginalQuery;
+			// Retrive the query.
+			let OriginalQuery = localStorage.getItem("OriginalQuery");
+			let FormatedQuery = localStorage.getItem("FormatedQuery");
+			
+			// Change the title of the page.
+			document.title = OriginalQuery + " - Studybyte";
+			let NumOFReults = 0;
+			let ListResults = [];
+			let ListOfSites = [];
+			
+			// Get all the links and titles of all indexed pages.
+			for (let i = 0; i < SearchIndex.length; i++)
+				ListOfSites.push(SearchIndex[i][0]);
+			
+			// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
+			ListResults = Color(FormatedQuery, ListOfSites);
+			for (let i = 0; i < ListResults.length; i++)
+			{
+				for (let a = 0; a < ListOfSites.length; a++)
+				{
+					if (ListResults[i][1] == ListOfSites[a])
+					{
+						ColorRender(SearchIndex[a][0], SearchIndex[a][1]);
+						NumOFReults++;
+					}
+				}
+			}
+			
+			// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
+			if (NumOFReults == 0 || FormatedQuery == undefined) window.location = "e.html";
+			document.getElementById("NumOfResults").innerHTML = NumOFReults + " results found!"; // This piece of code will Change some window properties.
+			document.getElementById("Searchbar").value = OriginalQuery;
+		});
+
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.

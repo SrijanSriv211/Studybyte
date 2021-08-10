@@ -28,17 +28,19 @@ function RemoveSpecialChars(String)
 // This will then assign some values to each letter of every website with each letter of the user search query.
 function MatchingWords(Query, ResultLinks)
 {
-	let Rank = 0;
-
 	// Retrive and format the query and all indexed page links.
-	Query = RemoveSpecialChars(Query).toLowerCase().split(" ");
-	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase().split(" ");
-	for (let i = 0; i < Query.length; i++)
+	Query = RemoveSpecialChars(Query).toLowerCase();
+	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase();
+	
+	let Rank = 0;
+	let FormatedQuery = Query.split(" ");
+	let FormatedLinks = ResultLinks.split(" ");
+	for (let i = 0; i < FormatedQuery.length; i++)
 	{
-		for (let a = 0; a < ResultLinks.length; a++)
+		for (let a = 0; a < FormatedLinks.length; a++)
 		{
-			if (Query[0] == ResultLinks[0] && Query.length == 1 && ResultLinks.length == 1) Rank+=2;
-			else if (Query[i] == ResultLinks[a]) Rank++;
+			if (Query == ResultLinks) Rank+=9;
+			else if (FormatedQuery[i] == FormatedLinks[a]) Rank++;
 		}
 	}
 

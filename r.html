@@ -12,13 +12,12 @@
 </head>
 <body>
     <script src="./scripts/js/Color.js"></script>
-    <script src="./scripts/js/Database.js"></script>
     <script src="./scripts/js/Studybyte.js"></script>
     <header>
         <nav>
             <div class="SearchAtTop">
                 <a href="index.html">Studybyte</a>
-                <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off" autofocus>
+                <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off">
                 <input type="button" value="Studybyte" id="Searchbtn" onclick="TryToSearch();">
             </div>
             <script> FocusSearchbarOnEsc(); </script>
@@ -30,7 +29,7 @@
     <section>
         <ul id="Results">
             <!-- All the results will go here. -->
-            <!-- <li><a href=""></a></li> -->
+            <!-- <li><a href=""></a></li> This is the template.-->
         </ul>
         <script> GetResults(); </script>
     </section>
