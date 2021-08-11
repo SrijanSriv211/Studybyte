@@ -1,0 +1,34 @@
+<!-- e stands for Error -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studybyte</title>
+
+    <link rel="icon" href="./res/Icons/Studybyte.png">
+    <link rel="stylesheet" href="./scripts/css/style.css">
+</head>
+<body>
+    <script src="./scripts/js/Color.js"></script>
+    <script src="./scripts/js/Database.js"></script>
+    <script src="./scripts/js/Studybyte.js"></script>
+    <header>
+        <nav>
+            <div class="SearchAtTop">
+                <a href="index.html" title="Studybyte Home">Studybyte</a>
+                <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off">
+                <input type="button" value="Studybyte" id="Searchbtn" onclick="TryToSearch();">
+            </div>
+            <script> FocusSearchbarOnEsc(); </script>
+        </nav>
+    </header>
+    <section>
+        <h4 class="Error">We are really sorry! 😯</h4>
+        <br>
+        <h4 class="Error2">We didn't find any match for your search term(s).</h4>
+    </section>
+    <script>Showerror();</script>
+</body>
+</html>
