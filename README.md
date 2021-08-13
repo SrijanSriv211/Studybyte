@@ -1,5 +1,5 @@
 # Studybyte
-Studybyte is a search engine designed to help students find educational content effortlessly. As this search engine is open source, anyone can look into the source code, understand and improve it.
+Studybyte is a search engine designed to help students find educational content effortlessly. As it is open source, you can freely look into it's source code, understand and improve it.
 
 [![Studybyte's Homepage Screenshot](./res/Branding/Screenshot.png)](https://light-lens.github.io/Studybyte)
 
@@ -9,6 +9,12 @@ Visual Studio Code is recommended.
 <ins>**1. Downloading the repository:**</ins>
 
 Start by cloning the repository with `git clone https://github.com/Light-Lens/Studybyte`.
+
+<ins>**2. Web Crawler**</ins>
+
+***NOTE: The Web crawler that is used in Studybyte was not created by me.***
+1. The Web crawler was created by [tasos-py](https://github.com/tasos-py).
+2. Check out [Search-Engines-Scraper](https://github.com/tasos-py/Search-Engines-Scraper) on GitHub
 
 ***
 
