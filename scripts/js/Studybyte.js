@@ -70,6 +70,15 @@ function TryToSearch()
 				else if (!isNaN(CalculatedAns)) alert(OriginalQuery.replace(/\s+/g, " ").trim() + " = " + CalculatedAns);
 			}
 
+			else if (FormatedQuery == "studybyte.old") window.location = "Studybyte.Old.html";
+			else if (FormatedQuery == "studybyte in 2007") alert("Back in 2007 the Creator of Studybyte was born, but the Idea of Studybyte was not born yet.");
+			else if ((FormatedQuery.includes("coin") && FormatedQuery.includes("flip")) || (FormatedQuery.includes("coin") && FormatedQuery.includes("toss")))
+			{
+				let Random_num = Math.round(Math.random());
+				if (Random_num == 0) alert("Coin flip: Heads");
+				else alert("Coin flip: Tales");
+			}
+
 			else
 			{
 				// Redirect the user to the results page, then rank and show results accordingly.
