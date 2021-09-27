@@ -26,7 +26,7 @@ function Database()
             "URL": "https://www.youtube.com/watch?v=pUBhBnJyfZY"
         },
         {
-            "Title": "How to Use Windows 10 in built Video Editor | Onestate Coding ... | Onestate Coding",
+            "Title": "How to Use Windows 10 in built Video Editor | Onestate Coding ...",
             "URL": "https://www.youtube.com/watch?v=-HkwarMWn3I"
         },
         {
