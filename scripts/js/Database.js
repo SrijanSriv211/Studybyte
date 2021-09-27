@@ -6,11 +6,15 @@ function Database()
             "URL": "https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA"
         },
         {
-            "Title": "How to make a Chatbot using Html, Css and JavaScript ...",
+            "Title": "srijan_ocn72 - Instagram | Onestate Coding",
+            "URL": "https://www.instagram.com/srijan_ocn72/"
+        },
+        {
+            "Title": "How to make a Chatbot using Html, Css and JavaScript ... | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=AuThE5bxpDE"
         },
         {
-            "Title": "How To Make Your Windows 10 Look Beautiful??? | Windows ...",
+            "Title": "How To Make Your Windows 10 Look Beautiful??? | Windows ... | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=4wfpfx_6p3A"
         },
         {
@@ -18,11 +22,11 @@ function Database()
             "URL": "https://www.youtube.com/watch?v=O7OROTmhJwo"
         },
         {
-            "Title": "POTENTIAL CALCULATOR FOR LUBRICANT MARKET ...",
+            "Title": "POTENTIAL CALCULATOR FOR LUBRICANT MARKET ... | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=pUBhBnJyfZY"
         },
         {
-            "Title": "How to Use Windows 10 in built Video Editor | Onestate Coding ...",
+            "Title": "How to Use Windows 10 in built Video Editor | Onestate Coding ... | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=-HkwarMWn3I"
         },
         {
@@ -30,7 +34,7 @@ function Database()
             "URL": "https://www.youtube.com/watch?v=_yi_BJXSAVA"
         },
         {
-            "Title": "Top 5 Amazing GTA San Andreas Facts in Hindi!!! | Onestate ...",
+            "Title": "Top 5 Amazing GTA San Andreas Facts in Hindi!!! | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=VbxBUdJApQs"
         },
         {
@@ -38,11 +42,11 @@ function Database()
             "URL": "https://www.youtube.com/watch?v=y5sRDdZrJIY"
         },
         {
-            "Title": "How to make chatbot using html, css and javascript | Onestate ...",
+            "Title": "How to make chatbot using html, css and javascript | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=tHOQGF8laTc"
         },
         {
-            "Title": "How to Create a Random, Strong Password Generator using …",
+            "Title": "How to Create a Random, Strong Password Generator using | Onestate Coding",
             "URL": "https://www.youtube.com/watch?v=MUdpWrw_y-k"
         },
         {
@@ -3536,6 +3540,138 @@ function Database()
         {
             "Title": "NCERT Solutions for Class 9 Social Science Geography ...",
             "URL": "https://www.yosearch.net/ncert-solutions/ncert-solutions-for-class-9-social-science-geography-physical-features-of-india"
+        },
+        {
+            "Title": "Green Revolution - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Green_Revolution"
+        },
+        {
+            "Title": "Green Revolution: Impacts, limits, and the path ahead | PNAS",
+            "URL": "https://www.pnas.org/content/109/31/12302"
+        },
+        {
+            "Title": "The Next Green Revolution - National Geographic",
+            "URL": "https://www.nationalgeographic.com/foodfeatures/green-revolution"
+        },
+        {
+            "Title": "green revolution | Definition, Advantages, Importance, & Facts",
+            "URL": "https://www.britannica.com/event/green-revolution"
+        },
+        {
+            "Title": "The impact of the Green Revolution on indigenous crops of India",
+            "URL": "https://journalofethnicfoods.biomedcentral.com/articles/10.1186/s42779-019-0011-9"
+        },
+        {
+            "Title": "Green Revolution - Drishti IAS",
+            "URL": "https://www.drishtiias.com/to-the-points/paper3/green-revolution-1"
+        },
+        {
+            "Title": "History and Overview of the Green Revolution - ThoughtCo",
+            "URL": "https://www.thoughtco.com/green-revolution-overview-1434948"
+        },
+        {
+            "Title": "Green Revolution - an overview | ScienceDirect Topics",
+            "URL": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/green-revolution"
+        },
+        {
+            "Title": "Towards a New Green Revolution - FAO",
+            "URL": "http://www.fao.org/3/x0262e/x0262e06.htm"
+        },
+        {
+            "Title": "Green Revolution - Meaning, Schemes & Impact of …",
+            "URL": "https://byjus.com/free-ias-prep/green-revolution"
+        },
+        {
+            "Title": "Green Revolution – Introduction, Beneficial Impact and …",
+            "URL": "https://www.vedantu.com/commerce/green-revolution"
+        },
+        {
+            "Title": "What Is the Green Revolution? - Definition, Benefits, …",
+            "URL": "https://study.com/academy/lesson/what-is-the-green-revolution-definition-benefits-and-issues.html"
+        },
+        {
+            "Title": "What is Green Revolution …",
+            "URL": "https://www.javatpoint.com/green-revolution-in-india"
+        },
+        {
+            "Title": "Green Revolution: Impacts, limits, and the path ahead",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3411969"
+        },
+        {
+            "Title": "Green Revolution: Introduction, HYV Seeds, Impact on …",
+            "URL": "https://www.toppr.com/guides/economics/indian-economy-1950-1990/green-revolution"
+        },
+        {
+            "Title": "Green Revolution in India - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Green_Revolution_in_India"
+        },
+        {
+            "Title": "Green Revolution | World History Project - YouTube",
+            "URL": "https://www.youtube.com/watch?v=015HH9zbWHQ"
+        },
+        {
+            "Title": "15 Green Revolution Pros and Cons to Know",
+            "URL": "https://www.ourendangeredworld.com/eco/green-revolution-pros-and-cons"
+        },
+        {
+            "Title": "Green Revolution: History, Features, Pros & Cons - Leverage Edu",
+            "URL": "https://leverageedu.com/blog/green-revolution"
+        },
+        {
+            "Title": "30 Important Facts About The Green Revolution - Facts.net",
+            "URL": "https://facts.net/green-revolution-facts"
+        },
+        {
+            "Title": "The Green Revolution",
+            "URL": "http://edugreen.teri.res.in/explore/bio/green.htm"
+        },
+        {
+            "Title": "Timeline of the Green Revolution - SourceWatch",
+            "URL": "https://www.sourcewatch.org/index.php/Timeline_of_the_Green_Revolution"
+        },
+        {
+            "Title": "22 Big Pros and Cons of the Green Revolution - BrandonGaille.com",
+            "URL": "https://brandongaille.com/22-big-pros-and-cons-of-the-green-revolution"
+        },
+        {
+            "Title": "The Violence of the Green Revolution: Third World Agriculture...",
+            "URL": "https://www.jstor.org/stable/j.ctt19dzdcp"
+        },
+        {
+            "Title": "The History of the Green Revolution - Bright Hub",
+            "URL": "https://www.brighthub.com/environment/science-environmental/articles/2207"
+        },
+        {
+            "Title": "The Green Revolution - coolgeography",
+            "URL": "https://www.coolgeography.co.uk/A-level/AQA/Year 12/Food supply/Managing food supply/Green Revolution.htm"
+        },
+        {
+            "Title": "Effects and Limitations of the Green Revolution",
+            "URL": "https://www.economicsdiscussion.net/essays/green-revolution-effects-and-limitations-of-the-green-revolution/2096"
+        },
+        {
+            "Title": "Green Revolution - Myers APHuG",
+            "URL": "https://www.sites.google.com/a/g.coppellisd.com/aphug-taylor/chapter-10-agriculture/green-revolution"
+        },
+        {
+            "Title": "What is Green Revolution? - Geography for Kids | Mocomi",
+            "URL": "https://mocomi.com/green-revolution"
+        },
+        {
+            "Title": "14 Foremost Pros and Cons of the Green Revolution - Green Garage",
+            "URL": "https://greengarageblog.org/14-foremost-pros-and-cons-of-the-green-revolution"
+        },
+        {
+            "Title": "The Green Revolution Had Many Causes and... | Bartleby",
+            "URL": "https://www.bartleby.com/essay/The-Green-Revolution-Had-Many-Causes-and-F3TXTA57KU4Z"
+        },
+        {
+            "Title": "Green Revolution Flashcards | Quizlet",
+            "URL": "https://quizlet.com/132304532/green-revolution-flash-cards"
+        },
+        {
+            "Title": "Green Revolution",
+            "URL": "https://www.crystalinks.com/greenrevolution.html"
         }
     ];
 
