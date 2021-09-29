@@ -99,7 +99,7 @@ function ColorCalc(arithmetic)
 {
 	let Calculate = 0;
 	let Operators = "+-*x/";
-	let Tokens = arithmetic.trim();
+	let Tokens = arithmetic.replace(/[!"#$%&'(),:;<=>?@[\]^_`{|}~]/g, "").trim();
 
 	// The code below will split all the split all the numbers and operations.
 	for (let a = 0; a < arithmetic.length; a++)
@@ -132,10 +132,6 @@ function ColorCalc(arithmetic)
 				break;
 
 			case "*":
-				Calculate *= parseFloat(Tokens[i+2]);
-				Tokens[i] = Calculate;
-				break;
-
 			case "x":
 				Calculate *= parseFloat(Tokens[i+2]);
 				Tokens[i] = Calculate;

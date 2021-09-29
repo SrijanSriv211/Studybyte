@@ -181,13 +181,13 @@ body
 	right: 10px;
 	bottom: 10px;
 	cursor: pointer;
-	transition: 0.8s;
+	transition: 0.2s;
 }
 
 #ScrollToTop:hover
 {
-	border-radius: 50px;
-	transition: 0.8s;
+	box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+	transition: 0.2s;
 }
 
 .Error

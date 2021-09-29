@@ -67,7 +67,14 @@ function TryToSearch()
 					window.location = "r.html";
 				}
 
-				else if (!isNaN(CalculatedAns)) alert(OriginalQuery.replace(/\s+/g, " ").trim() + " = " + CalculatedAns);
+				else if (!isNaN(CalculatedAns))
+				{
+					let Expr = OriginalQuery.replace(/\s+/g, " ").trim();
+					localStorage.setItem("OriginalQuery", OriginalQuery);
+					localStorage.setItem("FormatedQuery", FormatedQuery);
+					document.title = Expr + " - Studybyte";
+					alert(Expr + " = " + CalculatedAns);
+				}
 			}
 
 			else if (FormatedQuery == "studybyte.old") window.location = "Studybyte.Old.html";
@@ -160,16 +167,16 @@ function ScrollToTOP_Properties()
 	var SCROLLToTOP_Button = document.getElementById("ScrollToTop");
 	window.addEventListener('scroll', function()
 	{
-		if (document.documentElement.scrollTop == 0)
-		{
-			SCROLLToTOP_Button.style.opacity = "0";
-			SCROLLToTOP_Button.style.visibility = "hidden";
-		}
-
-		else
+		if (document.documentElement.scrollTop > 500)
 		{
 			SCROLLToTOP_Button.style.visibility = "visible";
 			SCROLLToTOP_Button.style.opacity = "1";
+		}
+		
+		else
+		{
+			SCROLLToTOP_Button.style.opacity = "0";
+			SCROLLToTOP_Button.style.visibility = "hidden";
 		}
 	}, true);
 }
