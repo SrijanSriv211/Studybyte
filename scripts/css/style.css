@@ -136,8 +136,8 @@ body
 
 #Results li
 {
-    padding-left: 50px;
-    padding-bottom: 125px;
+    margin-left: 50px;
+    margin-bottom: 125px;
 }
 
 #Results li a:link
@@ -145,7 +145,7 @@ body
 	text-decoration: none;
 	color: #8c8cfa;
 	cursor: pointer;
-	font-size: 18px;
+	font-size: 20px;
 	transition: 0.2s;
 }
 
@@ -156,7 +156,6 @@ body
 
 #Results li a:hover
 {
-    font-size: 20px;
 	text-decoration: underline;
 	transition: 0.2s;
 }
@@ -230,6 +229,69 @@ body
 {
     color: #2c2c2c;
     background: #f9f9f9;
+    transition: 0.2s;
+}
+
+.History-SearchAtTop a
+{
+    font-family: "Roboto Thin";
+    color: #f9f9f9;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: normal;
+    cursor: pointer;
+    position: fixed;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -2%);
+    transition: 0.2s;
+}
+
+.History-SearchAtTop a:hover
+{
+    color: #ff5959;
+    transition: 0.2s;
+}
+
+#ListHistory
+{
+    display: inline-block;
+    margin-top: 125px;
+}
+
+#ListHistory li
+{
+    margin-left: 50px;
+    margin-bottom: 125px;
+	text-decoration: none;
+	color: #99bae6;
+	cursor: pointer;
+	font-size: 20px;
+	transition: 0.2s;
+}
+
+#ListHistory li:hover
+{
+	text-decoration: underline;
+	transition: 0.2s;
+}
+
+#NoSearchHistory
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: default;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: "Roboto Thin";
+    transition: 0.2s;
+}
+
+#NoSearchHistory:hover
+{
+    color: #ff5959;
     transition: 0.2s;
 }
 

@@ -105,8 +105,9 @@ function TryToSearch()
 function GetResults()
 {
 	// Retrive all indexed pages.
-	var Data = Database();	
+	let Data = Database();
 	let SearchIndex = [];
+	let History = [];
 
 	// Convert that indexed pages dict into a list.
 	for (let i = 0; i < Data.length; i++)
@@ -124,7 +125,7 @@ function GetResults()
 
 	// Get all the links and titles of all indexed pages.
 	for (let i = 0; i < SearchIndex.length; i++)
-	ListOfSites.push(SearchIndex[i][0]);
+		ListOfSites.push(SearchIndex[i][0]);
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 	ListResults = Color(FormatedQuery, ListOfSites);
@@ -144,6 +145,18 @@ function GetResults()
 	if (NumOFReults == 0 || FormatedQuery == undefined) window.location = "e.html";
 	document.getElementById("NumOfResults").innerHTML = NumOFReults + " results found!"; // This piece of code will Change some window properties.
 	document.getElementById("Searchbar").value = OriginalQuery;
+
+	// Save everything in the History.
+	// Retrive the search history.
+	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
+		History = JSON.parse(localStorage.getItem("UserHistory"));
+
+	History.push(OriginalQuery);
+	History = History.filter(function(item, index, inputarr) {
+		return inputarr.indexOf(item) == index;
+	})
+
+	localStorage.setItem("UserHistory", JSON.stringify(History));
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.
@@ -162,9 +175,10 @@ function ScrollToTOP()
 	window.scrollTo(0, 0);
 }
 
+// This function will make the scroll to top button visible or invisivle
 function ScrollToTOP_Properties()
 {
-	var SCROLLToTOP_Button = document.getElementById("ScrollToTop");
+	let SCROLLToTOP_Button = document.getElementById("ScrollToTop");
 	window.addEventListener('scroll', function()
 	{
 		if (document.documentElement.scrollTop > 500)
@@ -179,4 +193,28 @@ function ScrollToTOP_Properties()
 			SCROLLToTOP_Button.style.visibility = "hidden";
 		}
 	}, true);
+}
+
+// This function will retrive the user history and list it on the history page.
+function GetHistory()
+{
+	let NoHistory = document.getElementById("NoSearchHistory");
+	NoHistory.style.visibility = "hidden";
+
+	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
+	{
+		let HistoryList = JSON.parse(localStorage.getItem("UserHistory")); // Retrive the history list.
+		
+		// This will render the history.
+		for (let i = 0; i < HistoryList.length; i++)
+		{
+			var li = document.createElement("li");
+			var SearchList = document.getElementById("ListHistory");
+
+			li.textContent = HistoryList[i];
+			SearchList.appendChild(li);
+		}
+	}
+
+	else NoHistory.style.visibility = "visible";
 }
