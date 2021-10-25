@@ -33,14 +33,19 @@ function MatchingWords(Query, ResultLinks)
 	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase();
 	
 	let Rank = 0;
-	let FormatedQuery = Query.split(" ");
-	let FormatedLinks = ResultLinks.split(" ");
-	for (let i = 0; i < FormatedQuery.length; i++)
+	let FormattedQuery = Query.split(" ");
+	let FormattedLinks = ResultLinks.split(" ");
+	for (let i = 0; i < FormattedQuery.length; i++)
 	{
-		for (let a = 0; a < FormatedLinks.length; a++)
+		for (let a = 0; a < FormattedLinks.length; a++)
 		{
-			if (Query == ResultLinks) Rank+=9;
-			else if (FormatedQuery[i] == FormatedLinks[a]) Rank++;
+			if (Query == ResultLinks)
+			{
+				Rank+=9;
+				return Rank;
+			}
+
+			else if (FormattedQuery[i] == FormattedLinks[a]) Rank++;
 		}
 	}
 

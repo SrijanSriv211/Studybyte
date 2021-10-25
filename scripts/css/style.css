@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
 *
 {
@@ -43,7 +43,7 @@ body
 .SearchAtTop
 {
     display: flex;
-    font-family: "Roboto Thin";
+    font-weight: 400;
     margin: 10px 10px;
 }
 
@@ -94,15 +94,15 @@ body
 .SearchAtTop #Searchbtn
 {
 
-    font-family: "Roboto Thin";
+    font-weight: 400;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     color: #f9f9f9;
     background: #373737;
     border: none;
     border-radius: 5px;
     outline: none;
-    width: 130px;
+    width: 150px;
     height: 40px;
     cursor: pointer;
     transition: 0.2s;
@@ -126,7 +126,7 @@ body
     cursor: default;
     font-size: 20px;
     text-align: center;
-    font-weight: normal;
+    font-weight: 100;
 }
 
 #Results
@@ -200,7 +200,7 @@ body
     cursor: default;
     font-size: 50px;
     font-weight: normal;
-    font-family: "Roboto Thin";
+    font-weight: 400;
     transition: 0.2s;
 }
 
@@ -221,7 +221,6 @@ body
     cursor: default;
     font-size: 40px;
     font-weight: normal;
-    font-family: "Roboto";
     transition: 0.2s;
 }
 
@@ -234,13 +233,13 @@ body
 
 .History-SearchAtTop a
 {
-    font-family: "Roboto Thin";
+    font-weight: 400;
     color: #f9f9f9;
     text-decoration: none;
     font-size: 32px;
     font-weight: normal;
     cursor: pointer;
-    position: fixed;
+    position: absolute;
     top: 2%;
     left: 50%;
     transform: translate(-50%, -2%);
@@ -263,10 +262,9 @@ body
 {
     margin-left: 50px;
     margin-bottom: 125px;
-	text-decoration: none;
-	color: #99bae6;
+	color: #ac77e7;
 	cursor: pointer;
-	font-size: 20px;
+	font-size: 22px;
 	transition: 0.2s;
 }
 
@@ -283,9 +281,8 @@ body
     left: 50%;
     transform: translate(-50%, -50%);
     cursor: default;
+    font-weight: 100;
     font-size: 50px;
-    font-weight: normal;
-    font-family: "Roboto Thin";
     transition: 0.2s;
 }
 

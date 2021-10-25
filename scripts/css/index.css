@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
 *
 {
@@ -22,7 +22,7 @@ nav ul
 {
     display: flex;
     font-size: 18px;
-    font-family: "Roboto Thin";
+    font-weight: 400;
 }
 
 nav ul li
@@ -52,8 +52,8 @@ section h3
     transform: translate(-50%, -50%);
     margin-top: -100px;
     cursor: default;
-    font-size: 57px;
-    font-weight: bold;
+    font-size: 75px;
+    font-weight: 100;
     text-align: center;
 }
 
@@ -93,7 +93,7 @@ section h3
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Roboto Thin";
+    font-weight: 400;
     text-align: center;
     font-size: 15px;
     color: #f9f9f9;
@@ -118,15 +118,6 @@ section h3
 {
 	box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
 	transition: 0.2s;
-}
-
-footer
-{
-    font-family: "Roboto Thin";
-    position: fixed;
-    left: 7px;
-    bottom: 7px;
-    cursor: default;
 }
 
 /*This will make the site responsive*/

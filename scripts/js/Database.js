@@ -3672,6 +3672,186 @@ function Database()
         {
             "Title": "Green Revolution",
             "URL": "https://www.crystalinks.com/greenrevolution.html"
+        },
+        {
+            "Title": "The Education System in India - GNU Project - Free Software ...",
+            "URL": "https://www.gnu.org/education/edu-system-india.en.html"
+        },
+        {
+            "Title": "Education in India - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Education_in_India"
+        },
+        {
+            "Title": "Education - Study in India",
+            "URL": "https://www.studyinindia.gov.in/whyindiaeducation"
+        },
+        {
+            "Title": "Explore: The education system in India - FutureLearn",
+            "URL": "https://www.futurelearn.com/info/futurelearn-international/explore-india-education-system"
+        },
+        {
+            "Title": "Education System in India - Scholaro",
+            "URL": "https://www.scholaro.com/pro/Countries/India/Education-System"
+        },
+        {
+            "Title": "How the school and college education change after National ...",
+            "URL": "https://timesofindia.indiatimes.com/home/education/news/how-the-school-and-college-education-change-after-national-education-policy-2020/articleshow/77262107.cms"
+        },
+        {
+            "Title": "Education in India - WENR - WES",
+            "URL": "https://wenr.wes.org/2018/09/education-in-india"
+        },
+        {
+            "Title": "National Education Policy 2020",
+            "URL": "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
+        },
+        {
+            "Title": "Education | UNICEF India",
+            "URL": "https://www.unicef.org/india/what-we-do/education"
+        },
+        {
+            "Title": "Indian Education System - Issues And Challenges",
+            "URL": "https://byjus.com/free-ias-prep/indian-education-system-issues-and-challenges"
+        },
+        {
+            "Title": "Education in India - A Detailed Analysis - ClearIAS",
+            "URL": "https://www.clearias.com/education-in-india"
+        },
+        {
+            "Title": "Speech on the Education System in India in English for …",
+            "URL": "https://www.vedantu.com/english/speech-on-the-education-system-in-india"
+        },
+        {
+            "Title": "Ancient Education System of India - NCERT",
+            "URL": "https://ncert.nic.in/textbook/pdf/heih111.pdf"
+        },
+        {
+            "Title": "The Indian Education System : Features, Pros, Cons and …",
+            "URL": "https://www.sociologygroup.com/indian-education-system-features-pros-cons"
+        },
+        {
+            "Title": "7 immediate changes needed in the Indian education …",
+            "URL": "https://www.indiatoday.in/education-today/featurephilia/story/7-immediate-changes-needed-in-the-indian-education-system-1579167-2019-08-09"
+        },
+        {
+            "Title": "Education in India: A Guide for International Students",
+            "URL": "https://www.educations.com/study-guides/asia/study-in-india"
+        },
+        {
+            "Title": "Education system in India ExaHunt",
+            "URL": "https://exahunt.co/education-system-in-india"
+        },
+        {
+            "Title": "INDIAN EDUCATION SYSTEM IS A ŚÇÂM | Lucifer - YouTube",
+            "URL": "https://www.youtube.com/watch?v=74O0HGn1sbI"
+        },
+        {
+            "Title": "Indian Education System | Value of Knowledge",
+            "URL": "https://www.rsnews.site/indian-education-system-value-of-knowledge-education"
+        },
+        {
+            "Title": "Indian Education System: More Changes Required or... - Trend Khabar",
+            "URL": "https://trendkhabar.com/?p=2421"
+        },
+        {
+            "Title": "The Advantages of Indian Systems of Global Education",
+            "URL": "https://indiansharemarket.in/study-in-india-the-advantages-of-indian-systems-of-global-education"
+        },
+        {
+            "Title": "National Digital Library of India",
+            "URL": "https://ndl.iitkgp.ac.in"
+        },
+        {
+            "Title": "Undergraduate education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Undergraduate_education"
+        },
+        {
+            "Title": "indian education: Latest News & Videos, Photos about ...",
+            "URL": "https://economictimes.indiatimes.com/topic/indian-education"
+        },
+        {
+            "Title": "Indian education system - DHRUV NARANG TALKS",
+            "URL": "https://dhruv.business.blog/tag/indian-education-system"
+        },
+        {
+            "Title": "Drawback of Indian education system",
+            "URL": "https://www.indiastudychannel.com/resources/181017-executive-mba-program-admisssion-in-indian-institute-of-technology-madras"
+        },
+        {
+            "Title": "20 Best Education System in the World - Edsys",
+            "URL": "https://www.edsys.in/best-education-system-in-the-world"
+        },
+        {
+            "Title": "Indian Medical Education System",
+            "URL": "https://www.online-study.net/study/indian-medical-education-system"
+        },
+        {
+            "Title": "What is wrong with the Indian education system? Quora",
+            "URL": "https://www.educationstudy.net/study/indian-reservation-education-problems"
+        },
+        {
+            "Title": "What is India's caste system? - BBC News",
+            "URL": "https://www.bbc.com/news/world-asia-india-35650616"
+        },
+        {
+            "Title": "Ranked: The 25 Smartest Countries In The World",
+            "URL": "https://www.forbes.com/sites/duncanmadden/2019/01/11/ranked-the-25-smartest-countries-in-the-world"
+        },
+        {
+            "Title": "Indira Gandhi National Open University",
+            "URL": "https://ignouadmission.samarth.edu.in"
+        },
+        {
+            "Title": "Computer Science (CS) Education in Indian Schools: Situation...",
+            "URL": "https://amrita.edu/publication/computer-science-cs-education-in-indian-schools-situation-analysis-using-darmstadt-model"
+        },
+        {
+            "Title": "India | History, Map, Population, Economy, & Facts | Britannica",
+            "URL": "https://www.britannica.com/place/India"
+        },
+        {
+            "Title": "Home - National Scholarship Portal",
+            "URL": "https://scholarships.gov.in"
+        },
+        {
+            "Title": "indian education system | Cioandleader",
+            "URL": "https://mindyourbusiness.in/article-tags/indian-education-system"
+        },
+        {
+            "Title": "India News, India News Live and Breaking News... | Hindustan Times",
+            "URL": "https://www.hindustantimes.com/india-news"
+        },
+        {
+            "Title": "Study abroad | Types of higher education | Tuition fees overseas",
+            "URL": "https://www.unipage.net/en/education_countries"
+        },
+        {
+            "Title": "Latest News, India News, UP assembly Election News, Breaking News...",
+            "URL": "https://indianexpress.com"
+        },
+        {
+            "Title": "Education In India Mp3 Download - Basave",
+            "URL": "https://basave.org/new/education-in-india.html"
+        },
+        {
+            "Title": "Global Edtech Landscape 2021: Thriving in New Normal",
+            "URL": "https://www.mindk.com/blog/global-edtech-landscape"
+        },
+        {
+            "Title": "D65H23 -2021-11 | Bureau of Indian Education",
+            "URL": "https://www.bie.edu/jobposting/d65h23-2021-11"
+        },
+        {
+            "Title": "India News - Latest News, Breaking News and Headlines from India",
+            "URL": "https://www.indiatoday.in/india"
+        },
+        {
+            "Title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market...",
+            "URL": "https://www.nseindia.com"
+        },
+        {
+            "Title": "Get Latest News, India News, Breaking News... - NDTV.com",
+            "URL": "https://www.ndtv.com"
         }
     ];
 

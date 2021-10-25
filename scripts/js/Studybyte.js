@@ -40,7 +40,7 @@ function TryToSearch()
 {
 	// These variables will send data from the search box.
 	let OriginalQuery = document.getElementById("Searchbar").value;
-	let FormatedQuery = OriginalQuery.toLowerCase().trim();
+	let FormattedQuery = OriginalQuery.toLowerCase().trim();
 
 	// This piece of code will try to send all of the data to results page,
 	// and if it's not possible then send to error page.
@@ -48,22 +48,22 @@ function TryToSearch()
 	{
 		try
 		{
-			if (SearchTags(FormatedQuery, "g?", "https://www.google.com/search?q="));
-			else if (SearchTags(FormatedQuery, "yt?", "https://www.youtube.com/results?search_query="));
-			else if (SearchTags(FormatedQuery, "eb?", "https://www.britannica.com/search?query="));
-			else if (SearchTags(FormatedQuery, "git?", "https://github.com/search?q="));
-			else if (SearchTags(FormatedQuery, "bing?", "https://www.bing.com/search?q="));
-			else if (SearchTags(FormatedQuery, "pdfdrive?", "https://www.pdfdrive.com/search?q="));
-			else if (SearchTags(FormatedQuery, "ddg?", "https://duckduckgo.com/?q="));
-			else if (SearchTags(FormatedQuery, "gs?", "https://scholar.google.com/scholar?q="));
-			else if (FormatedQuery.includes("+") || FormatedQuery.includes("-") || FormatedQuery.includes("*") || FormatedQuery.includes("x") || FormatedQuery.includes("/"))
+			if (SearchTags(FormattedQuery, "g?", "https://www.google.com/search?q="));
+			else if (SearchTags(FormattedQuery, "yt?", "https://www.youtube.com/results?search_query="));
+			else if (SearchTags(FormattedQuery, "eb?", "https://www.britannica.com/search?query="));
+			else if (SearchTags(FormattedQuery, "git?", "https://github.com/search?q="));
+			else if (SearchTags(FormattedQuery, "bing?", "https://www.bing.com/search?q="));
+			else if (SearchTags(FormattedQuery, "pdfdrive?", "https://www.pdfdrive.com/search?q="));
+			else if (SearchTags(FormattedQuery, "ddg?", "https://duckduckgo.com/?q="));
+			else if (SearchTags(FormattedQuery, "gs?", "https://scholar.google.com/scholar?q="));
+			else if (FormattedQuery.includes("+") || FormattedQuery.includes("-") || FormattedQuery.includes("*") || FormattedQuery.includes("x") || FormattedQuery.includes("/"))
 			{
-				let CalculatedAns = ColorCalc(FormatedQuery);
+				let CalculatedAns = ColorCalc(FormattedQuery);
 				if (isNaN(CalculatedAns))
 				{
 					// Redirect the user to the results page, then rank and show results accordingly.
 					localStorage.setItem("OriginalQuery", OriginalQuery);
-					localStorage.setItem("FormatedQuery", FormatedQuery);
+					localStorage.setItem("FormattedQuery", FormattedQuery);
 					window.location = "r.html";
 				}
 
@@ -71,15 +71,15 @@ function TryToSearch()
 				{
 					let Expr = OriginalQuery.replace(/\s+/g, " ").trim();
 					localStorage.setItem("OriginalQuery", OriginalQuery);
-					localStorage.setItem("FormatedQuery", FormatedQuery);
+					localStorage.setItem("FormattedQuery", FormattedQuery);
 					document.title = Expr + " - Studybyte";
 					alert(Expr + " = " + CalculatedAns);
 				}
 			}
 
-			else if (FormatedQuery == "studybyte.old") window.location = "Studybyte.Old.html";
-			else if (FormatedQuery == "studybyte in 2007") alert("Back in 2007 the Creator of Studybyte was born, but the Idea of Studybyte was not born yet.");
-			else if ((FormatedQuery.includes("coin") && FormatedQuery.includes("flip")) || (FormatedQuery.includes("coin") && FormatedQuery.includes("toss")))
+			else if (FormattedQuery == "studybyte.old") window.location = "Studybyte.Old.html";
+			else if (FormattedQuery == "studybyte in 2007") alert("Back in 2007 the Creator of Studybyte was born, but the Idea of Studybyte was not born yet.");
+			else if ((FormattedQuery.includes("coin") && FormattedQuery.includes("flip")) || (FormattedQuery.includes("coin") && FormattedQuery.includes("toss")))
 			{
 				let Random_num = Math.round(Math.random());
 				if (Random_num == 0) alert("Coin flip: Heads");
@@ -90,7 +90,7 @@ function TryToSearch()
 			{
 				// Redirect the user to the results page, then rank and show results accordingly.
 				localStorage.setItem("OriginalQuery", OriginalQuery);
-				localStorage.setItem("FormatedQuery", FormatedQuery);
+				localStorage.setItem("FormattedQuery", FormattedQuery);
 				window.location = "r.html";
 			}
 		}
@@ -120,15 +120,19 @@ function GetResults()
 
 	// Retrive the query.
 	let OriginalQuery = localStorage.getItem("OriginalQuery");
-	let FormatedQuery = localStorage.getItem("FormatedQuery");
+	let FormattedQuery = localStorage.getItem("FormattedQuery");
 	document.title = OriginalQuery + " - Studybyte";
+
+	// Check for any edge cases.
+	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined)
+		window.location = "index.html";
 
 	// Get all the links and titles of all indexed pages.
 	for (let i = 0; i < SearchIndex.length; i++)
 		ListOfSites.push(SearchIndex[i][0]);
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
-	ListResults = Color(FormatedQuery, ListOfSites);
+	ListResults = Color(FormattedQuery, ListOfSites);
 	for (let i = 0; i < ListResults.length; i++)
 	{
 		for (let a = 0; a < ListOfSites.length; a++)
@@ -142,7 +146,7 @@ function GetResults()
 	}
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFReults == 0 || FormatedQuery == undefined) window.location = "e.html";
+	if (NumOFReults == 0 || FormattedQuery == undefined || FormattedQuery == null) window.location = "e.html";
 	document.getElementById("NumOfResults").innerHTML = NumOFReults + " results found!"; // This piece of code will Change some window properties.
 	document.getElementById("Searchbar").value = OriginalQuery;
 
@@ -208,10 +212,19 @@ function GetHistory()
 		// This will render the history.
 		for (let i = 0; i < HistoryList.length; i++)
 		{
-			var li = document.createElement("li");
-			var SearchList = document.getElementById("ListHistory");
+			let li = document.createElement("li");
+			let SearchList = document.getElementById("ListHistory");
 
 			li.textContent = HistoryList[i];
+			li.addEventListener("click", function()
+			{
+				let OriginalQuery = HistoryList[i];
+				let FormattedQuery = HistoryList[i].toLowerCase().trim();
+				localStorage.setItem("OriginalQuery", OriginalQuery);
+				localStorage.setItem("FormattedQuery", FormattedQuery);
+				window.location = "r.html";
+			});
+
 			SearchList.appendChild(li);
 		}
 	}
