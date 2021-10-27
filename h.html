@@ -13,9 +13,17 @@
 <body>
     <script src="./scripts/js/Studybyte.js"></script>
     <header>
-        <nav class="History-SearchAtTop">
-            <a href="index.html" title="Studybyte Home">Studybyte</a>
+        <nav>
+            <div class="SearchAtTop">
+                <a href="index.html" title="Studybyte Home">Studybyte</a>
+                <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off">
+                <input type="button" value="Studybyte" id="Searchbtn" onclick="TryToSearch();">
+            </div>
+            <script> FocusSearchbarOnEsc(); </script>
         </nav>
+        <footer>
+            <input type="button" id="ClearHistory" value="Clear history" onclick="ClearUserHistory();">
+        </footer>
     </header>
     <section>
         <h1 id="NoSearchHistory">You have no recent searches.</h1>
