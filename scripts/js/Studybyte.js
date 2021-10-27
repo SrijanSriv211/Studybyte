@@ -205,6 +205,9 @@ function GetHistory()
 	let NoHistory = document.getElementById("NoSearchHistory");
 	NoHistory.style.visibility = "hidden";
 
+	let ClearHistoryBtn = document.getElementById("ClearHistory");
+	ClearHistoryBtn.style.visibility = "visible";
+
 	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
 	{
 		let HistoryList = JSON.parse(localStorage.getItem("UserHistory")); // Retrive the history list.
@@ -229,5 +232,15 @@ function GetHistory()
 		}
 	}
 
-	else NoHistory.style.visibility = "visible";
+	else
+	{
+		NoHistory.style.visibility = "visible";
+		ClearHistoryBtn.style.visibility = "hidden";
+	}
+}
+
+function ClearUserHistory()
+{
+	localStorage.removeItem("UserHistory");
+	window.location.reload();
 }
