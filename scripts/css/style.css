@@ -231,27 +231,6 @@ body
     transition: 0.2s;
 }
 
-.History-SearchAtTop a
-{
-    font-weight: 400;
-    color: #f9f9f9;
-    text-decoration: none;
-    font-size: 32px;
-    font-weight: normal;
-    cursor: pointer;
-    position: absolute;
-    top: 2%;
-    left: 50%;
-    transform: translate(-50%, -2%);
-    transition: 0.2s;
-}
-
-.History-SearchAtTop a:hover
-{
-    color: #ff5959;
-    transition: 0.2s;
-}
-
 #ListHistory
 {
     display: inline-block;
@@ -290,6 +269,30 @@ body
 {
     color: #ff5959;
     transition: 0.2s;
+}
+
+#ClearHistory
+{
+    font-size: 15px;
+	color: #f9f9f9;
+	background-color: #373737;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+    width: 135px;
+    height: 35px;
+	cursor: pointer;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-50%, -7%);
+    transition: 0.2s;
+}
+
+#ClearHistory:hover
+{
+	box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+	transition: 0.2s;
 }
 
 /*This will make the site responsive*/
