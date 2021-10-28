@@ -13,14 +13,15 @@ LinksToExclude = ["facebook", "twitter", "reddit", "quora", "instagram", "amazon
 
 # The main code.
 def ProcessJson(Filename):
-    open("Pages.log", "w").write("") # Clear the Pages.log file.
+    # open("Pages.log", "w").write("") # Clear the Pages.log file.
 
     # Read the Json file.
     Json = open(f"{Filename}.json", "r", encoding="utf-8")
     Content = json.load(Json)
     for Data in Content["results"]:
         for i in Content["results"][Data]:
-            GenerateJson(i["title"], i["link"])
+            SiteTitle = i["title"].split("http")[0]
+            GenerateJson(SiteTitle, i["link"])
 
     # Close the Json file and Delete the Pages.json file.
     Json.close()
@@ -46,6 +47,11 @@ os.system(f"python Crawler.py -e google,bing,duckduckgo -p 1 -i -q \"{Query}\" -
 ProcessJson("Pages")
 
 # Exit the program.
-os.system("echo|set /p=\"Continue.\"")
-os.system("pause>nul")
-sys.exit()
+if len(sys.argv) >= 3:
+    if sys.argv[2].lower() == "-q":
+        os.system("echo|set /p=\"Continue.\"")
+        os.system("pause>nul")
+        sys.exit()
+
+    else:
+        print(f"Incorrect Flag.")
