@@ -158,7 +158,7 @@ function GetResults()
 	History.push(OriginalQuery);
 	History = History.filter(function(item, index, inputarr) {
 		return inputarr.indexOf(item) == index;
-	})
+	});
 
 	localStorage.setItem("UserHistory", JSON.stringify(History));
 }

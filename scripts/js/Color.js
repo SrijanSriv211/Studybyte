@@ -35,6 +35,14 @@ function MatchingWords(Query, ResultLinks)
 	let Rank = 0;
 	let FormattedQuery = Query.split(" ");
 	let FormattedLinks = ResultLinks.split(" ");
+	FormattedQuery = FormattedQuery.filter(function(item, index, inputarr) {
+		return inputarr.indexOf(item) == index;
+	});
+
+	FormattedLinks = FormattedLinks.filter(function(item, index, inputarr) {
+		return inputarr.indexOf(item) == index;
+	});
+
 	for (let i = 0; i < FormattedQuery.length; i++)
 	{
 		for (let a = 0; a < FormattedLinks.length; a++)
