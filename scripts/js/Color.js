@@ -33,27 +33,25 @@ function MatchingWords(Query, ResultLinks)
 	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase();
 	
 	let Rank = 0;
-	let FormattedQuery = Query.split(" ");
-	let FormattedLinks = ResultLinks.split(" ");
-	FormattedQuery = FormattedQuery.filter(function(item, index, inputarr) {
-		return inputarr.indexOf(item) == index;
-	});
-
-	FormattedLinks = FormattedLinks.filter(function(item, index, inputarr) {
-		return inputarr.indexOf(item) == index;
-	});
-
-	for (let i = 0; i < FormattedQuery.length; i++)
+	if (Query == ResultLinks) Rank+=9;
+	else
 	{
-		for (let a = 0; a < FormattedLinks.length; a++)
+		let FormattedQuery = Query.split(" ");
+		let FormattedLinks = ResultLinks.split(" ");
+		FormattedQuery = FormattedQuery.filter(function(item, index, inputarr) {
+			return inputarr.indexOf(item) == index;
+		});
+	
+		FormattedLinks = FormattedLinks.filter(function(item, index, inputarr) {
+			return inputarr.indexOf(item) == index;
+		});
+	
+		for (let i = 0; i < FormattedQuery.length; i++)
 		{
-			if (Query == ResultLinks)
+			for (let a = 0; a < FormattedLinks.length; a++)
 			{
-				Rank+=9;
-				return Rank;
+				if (FormattedQuery[i] == FormattedLinks[a]) Rank++;
 			}
-
-			else if (FormattedQuery[i] == FormattedLinks[a]) Rank++;
 		}
 	}
 

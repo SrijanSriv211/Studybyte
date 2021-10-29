@@ -14,10 +14,21 @@ function IsEnter()
 // This function will focus the searchbar when Escape key is pressed.
 function FocusSearchbarOnEsc()
 {
-	var Searchbar = document.getElementById("Searchbar");
-	document.addEventListener('keydown', function(e)
+	let Searchbar = document.getElementById("Searchbar");
+	document.addEventListener("keyup", function(e)
 	{
-		if (event.keyCode == 27) Searchbar.focus();
+		let isFocused = (document.activeElement === Searchbar);
+		if (!isFocused)
+		{
+			if (event.keyCode == 191)
+				Searchbar.focus();
+		}
+
+		else if (isFocused)
+		{
+			if (event.keyCode == 27)
+				Searchbar.blur();
+		}
 	});
 }
 
@@ -114,7 +125,7 @@ function GetResults()
 		SearchIndex.push([Data[i].Title, Data[i].URL]);
 
 	// Change the Title.
-	let NumOFReults = 0;
+	let NumOFResults = 0;
 	let ListResults = [];
 	let ListOfSites = [];
 
@@ -127,12 +138,13 @@ function GetResults()
 	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined)
 		window.location = "index.html";
 
-	// Get all the links and titles of all indexed pages.
+	// Get all the titles of all indexed pages.
 	for (let i = 0; i < SearchIndex.length; i++)
 		ListOfSites.push(SearchIndex[i][0]);
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 	ListResults = Color(FormattedQuery, ListOfSites);
+	NumOFResults = ListResults.length;
 	for (let i = 0; i < ListResults.length; i++)
 	{
 		for (let a = 0; a < ListOfSites.length; a++)
@@ -140,14 +152,13 @@ function GetResults()
 			if (ListResults[i][1] == ListOfSites[a])
 			{
 				ColorRender(SearchIndex[a][0], SearchIndex[a][1]);
-				NumOFReults++;
 			}
 		}
 	}
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFReults == 0 || FormattedQuery == undefined || FormattedQuery == null) window.location = "e.html";
-	document.getElementById("NumOfResults").innerHTML = NumOFReults + " results found!"; // This piece of code will Change some window properties.
+	if (NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null) window.location = "e.html";
+	document.getElementById("NumOfResults").innerHTML = NumOFResults + " results found!"; // This piece of code will Change some window properties.
 	document.getElementById("Searchbar").value = OriginalQuery;
 
 	// Save everything in the History.
@@ -156,6 +167,7 @@ function GetResults()
 		History = JSON.parse(localStorage.getItem("UserHistory"));
 
 	History.push(OriginalQuery);
+	History.reverse();
 	History = History.filter(function(item, index, inputarr) {
 		return inputarr.indexOf(item) == index;
 	});
