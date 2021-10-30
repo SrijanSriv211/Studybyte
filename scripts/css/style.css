@@ -282,10 +282,10 @@ body
     width: 135px;
     height: 35px;
 	cursor: pointer;
+    margin-top: 7px;
     position: absolute;
-    top: 7%;
     left: 50%;
-    transform: translate(-50%, -7%);
+    transform: translate(-50%);
     transition: 0.2s;
 }
 
