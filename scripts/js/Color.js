@@ -1,8 +1,8 @@
 // Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 function Color(Query, Links)
 {
-	var Rrv = RankResultValues(Query, Links); // This function will give some values, which will be used to rank results.
-	var Cr = ColorRank(Rrv, Links); // This function will use the ranked values and assign them to the most relevant website.
+	let Rrv = RankResultValues(Query, Links); // This function will give some values, which will be used to rank results.
+	let Cr = ColorRank(Rrv, Links); // This function will use the ranked values and assign them to the most relevant website.
 	return Cr; // Return Cr.
 }
 
@@ -10,15 +10,10 @@ function Color(Query, Links)
 function RemoveSpecialChars(String)
 {
 	const Chars = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~·";
-	for (let i = 0; i < String.length; i++)
+	for (let i in Chars)
 	{
-		for (let a = 0; a < Chars.length; a++)
-		{
-			if (String[i] == Chars[a])
-			{
-				String = String.replaceAll(Chars[a], " ").replace(/\s+/g, " ").trim();
-			}
-		}
+		if (String.includes(Chars[i]))
+			String = String.replaceAll(Chars[i], " ").replace(/\s+/g, " ").trim();
 	}
 
 	return String;
@@ -29,9 +24,9 @@ function RemoveSpecialChars(String)
 function MatchingWords(Query, ResultLinks)
 {
 	// Retrive and format the query and all indexed page links.
-	Query = RemoveSpecialChars(Query).toLowerCase();
+	Query = RemoveSpecialChars(Query);
 	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase();
-	
+
 	let Rank = 0;
 	if (Query == ResultLinks) Rank+=9;
 	else
@@ -41,17 +36,15 @@ function MatchingWords(Query, ResultLinks)
 		FormattedQuery = FormattedQuery.filter(function(item, index, inputarr) {
 			return inputarr.indexOf(item) == index;
 		});
-	
+
 		FormattedLinks = FormattedLinks.filter(function(item, index, inputarr) {
 			return inputarr.indexOf(item) == index;
 		});
-	
-		for (let i = 0; i < FormattedQuery.length; i++)
+
+		for (let i of FormattedQuery)
 		{
-			for (let a = 0; a < FormattedLinks.length; a++)
-			{
-				if (FormattedQuery[i] == FormattedLinks[a]) Rank++;
-			}
+			if (FormattedLinks.includes(i))
+				Rank++;
 		}
 	}
 
@@ -61,11 +54,9 @@ function MatchingWords(Query, ResultLinks)
 // This function will list all the values that were given by the Matching words function to an array.
 function RankResultValues(Query, Links)
 {
-	var Rank_values = [];
-	for (var Link = 0; Link < Links.length; Link++)
-	{
+	let Rank_values = [];
+	for (let Link in Links)
 		Rank_values.push(MatchingWords(Query, Links[Link]));
-	}
 
 	return Rank_values;
 }
@@ -73,17 +64,16 @@ function RankResultValues(Query, Links)
 // This function will then merge all the values with their respected websites and return a Merged list.
 function ColorRank(Values, Results)
 {
-	var MergedList = [];
-	var ResultsOnlyToRank = [];
-	for (var i = 0; i < Values.length; i++)
-	{
+	let MergedList = [];
+	let ResultsOnlyToRank = [];
+	for (let i in Values)
 		MergedList.push([Values[i], Results[i]]);
-	}
 
 	MergedList.sort().reverse();
-	for (let i = 0; i < MergedList.length; i++)
+	for (let i in MergedList)
 	{
-		if (MergedList[i][0] > 0) ResultsOnlyToRank.push(MergedList[i]);
+		if (MergedList[i][0] > 0)
+			ResultsOnlyToRank.push(MergedList[i]);
 	}
 
 	return ResultsOnlyToRank;
@@ -92,9 +82,9 @@ function ColorRank(Values, Results)
 // This function will help render website to the results page.
 function ColorRender(ResultTitle, ResulstLink)
 {
-	var a = document.createElement("a");
-	var li = document.createElement("li");
-	var SiteList = document.getElementById("Results");
+	const a = document.createElement("a");
+	const li = document.createElement("li");
+	const SiteList = document.getElementById("Results");
 
 	// li.innerHTML = ResultTitle.link(ResulstLink);
 	a.textContent = ResultTitle;
@@ -105,57 +95,15 @@ function ColorRender(ResultTitle, ResulstLink)
 	SiteList.appendChild(li);
 }
 
-// This funtion will peform basic arithmetic calculations based on your input.
+// This funtion will peform basic arithmetic calculations based on given expression input.
 function ColorCalc(arithmetic)
 {
-	let Calculate = 0;
-	let Operators = "+-*x/";
-	let Tokens = arithmetic.replace(/[!"#$%&'(),:;<=>?@[\]^_`{|}~]/g, "").trim();
+	let MultiplySign = arithmetic.replace("x", "*");
+	let Operators = MultiplySign.replace(/[+\/*-]/g, "");
+	const Numbers = parseFloat(Operators).toString();
+	if (Numbers.length == Operators.length)
+		return Function("return " + MultiplySign)();
 
-	// The code below will split all the split all the numbers and operations.
-	for (let a = 0; a < arithmetic.length; a++)
-	{
-		for (let o = 0; o < Operators.length; o++)
-		{
-			if (arithmetic[a] == Operators[o])
-			{
-				Tokens = Tokens.replaceAll(Operators[o], " " + Operators[o] + " ").replace(/\s+/g, " ").trim();
-			}
-		}
-	}
-	Tokens = Tokens.split(" ");
-
-	// The code below will peform all the calculations based on the given input.
-	// Set Calculate value to either 0 or the current result of last calculation.
-	Calculate = parseFloat(Tokens[0]);
-	for (let i = 0; i < Tokens.length; i+=2)
-	{
-		switch (Tokens[i+1]) // All the calculations are getting performed here.
-		{
-			case "+":
-				Calculate += parseFloat(Tokens[i+2]);
-				Tokens[i] = Calculate;
-				break;
-
-			case "-":
-				Calculate -= parseFloat(Tokens[i+2]);
-				Tokens[i] = Calculate;
-				break;
-
-			case "*":
-			case "x":
-				Calculate *= parseFloat(Tokens[i+2]);
-				Tokens[i] = Calculate;
-				break;
-
-			case "/":
-				Calculate /= parseFloat(Tokens[i+2]);
-				Tokens[i] = Calculate;
-				break;
-
-			default: break; // If no case matches then just break.
-		}
-	}
-
-	return Calculate; // Return result.
+	else
+		return NaN;
 }

@@ -1,20 +1,21 @@
 // This function will check whether Enter key is pressed or not?
 function IsEnter()
 {
-	let Original_Data = document.getElementById("Searchbar").value;
+	const Original_Data = document.getElementById("Searchbar");
 
 	// Call "Studybyte_search" function.
 	// If Enter key is pressed and search query is not an empty string.
-	if (Original_Data != "")
+	if (Original_Data.value != "")
 	{
-		if (event.keyCode == 13) TryToSearch();
+		if (event.keyCode == 13)
+			TryToSearch();
 	}
 }
 
 // This function will focus the searchbar when Escape key is pressed.
 function FocusSearchbarOnEsc()
 {
-	let Searchbar = document.getElementById("Searchbar");
+	const Searchbar = document.getElementById("Searchbar");
 	document.addEventListener("keyup", function(e)
 	{
 		let isFocused = (document.activeElement === Searchbar);
@@ -50,8 +51,8 @@ function SearchTags(Query, SearchTag, Link)
 function TryToSearch()
 {
 	// These variables will send data from the search box.
-	let OriginalQuery = document.getElementById("Searchbar").value;
-	let FormattedQuery = OriginalQuery.toLowerCase().trim();
+	const OriginalQuery = document.getElementById("Searchbar").value;
+	const FormattedQuery = OriginalQuery.toLowerCase().trim();
 
 	// This piece of code will try to send all of the data to results page,
 	// and if it's not possible then send to error page.
@@ -80,7 +81,8 @@ function TryToSearch()
 
 				else if (!isNaN(CalculatedAns))
 				{
-					let Expr = OriginalQuery.replace(/\s+/g, " ").trim();
+					const Expr = OriginalQuery.replace(/\s+/g, " ").trim();
+
 					localStorage.setItem("OriginalQuery", OriginalQuery);
 					localStorage.setItem("FormattedQuery", FormattedQuery);
 					document.title = Expr + " - Studybyte";
@@ -116,49 +118,51 @@ function TryToSearch()
 function GetResults()
 {
 	// Retrive all indexed pages.
-	let Data = Database();
+	const Data = Database();
 	let SearchIndex = [];
 	let History = [];
-
-	// Convert that indexed pages dict into a list.
-	for (let i = 0; i < Data.length; i++)
-		SearchIndex.push([Data[i].Title, Data[i].URL]);
 
 	// Change the Title.
 	let NumOFResults = 0;
 	let ListResults = [];
 	let ListOfSites = [];
+	let indexOfSite;
 
 	// Retrive the query.
-	let OriginalQuery = localStorage.getItem("OriginalQuery");
-	let FormattedQuery = localStorage.getItem("FormattedQuery");
+	const OriginalQuery = localStorage.getItem("OriginalQuery");
+	const FormattedQuery = localStorage.getItem("FormattedQuery");
 	document.title = OriginalQuery + " - Studybyte";
 
 	// Check for any edge cases.
-	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined)
+	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined || FormattedQuery == NaN)
 		window.location = "index.html";
 
-	// Get all the titles of all indexed pages.
-	for (let i = 0; i < SearchIndex.length; i++)
-		ListOfSites.push(SearchIndex[i][0]);
+	// Convert that indexed pages dict into a list.
+	for (let i = 0; i < Data.length; i++)
+		SearchIndex.push([Data[i].Title, Data[i].URL]);
+
+	// Code snippet from:
+	// https://stackoverflow.com/questions/7848004/get-column-from-a-two-dimensional-array/63860734
+	const arrayColumn = (arr, n) => arr.map(x => x[n]);
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
+	ListOfSites = arrayColumn(SearchIndex, 0);
 	ListResults = Color(FormattedQuery, ListOfSites);
 	NumOFResults = ListResults.length;
-	for (let i = 0; i < ListResults.length; i++)
+
+	// Render results.
+	for (let i of ListResults)
 	{
-		for (let a = 0; a < ListOfSites.length; a++)
+		if (ListOfSites.includes(i[1]))
 		{
-			if (ListResults[i][1] == ListOfSites[a])
-			{
-				ColorRender(SearchIndex[a][0], SearchIndex[a][1]);
-			}
+			indexOfSite = arrayColumn(SearchIndex, 0).indexOf(i[1]);
+			ColorRender(SearchIndex[indexOfSite][0], SearchIndex[indexOfSite][1]);
 		}
 	}
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
 	if (NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null) window.location = "e.html";
-	document.getElementById("NumOfResults").innerHTML = NumOFResults + " results found!"; // This piece of code will Change some window properties.
+	document.getElementById("NumOfResults").innerHTML = NumOFResults + " Results found!"; // This piece of code will Change some window properties.
 	document.getElementById("Searchbar").value = OriginalQuery;
 
 	// Save everything in the History.
@@ -166,6 +170,7 @@ function GetResults()
 	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
 		History = JSON.parse(localStorage.getItem("UserHistory"));
 
+	// Save the search query in History.
 	History.push(OriginalQuery);
 	History.reverse();
 	History = History.filter(function(item, index, inputarr) {
@@ -179,10 +184,18 @@ function GetResults()
 function Showerror()
 {
 	// Set the value of search term which was given in the search box.
-	let Query = localStorage.getItem("OriginalQuery");
+	const OriginalQuery = localStorage.getItem("OriginalQuery");
+	const FormattedQuery = localStorage.getItem("FormattedQuery");
 
-	document.getElementById("Searchbar").value = Query;
-	document.title = Query + " - Studybyte"; // Change the title of the page.
+	// Check for any edge cases.
+	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined || FormattedQuery == NaN)
+		window.location = "index.html";
+
+	else
+	{
+		document.getElementById("Searchbar").value = OriginalQuery;
+		document.title = OriginalQuery + " - Studybyte"; // Change the title of the page.
+	}
 }
 
 // This function will Scroll the window to the TOP.
@@ -194,7 +207,7 @@ function ScrollToTOP()
 // This function will make the scroll to top button visible or invisivle
 function ScrollToTOP_Properties()
 {
-	let SCROLLToTOP_Button = document.getElementById("ScrollToTop");
+	const SCROLLToTOP_Button = document.getElementById("ScrollToTop");
 	window.addEventListener('scroll', function()
 	{
 		if (document.documentElement.scrollTop > 500)
@@ -202,7 +215,7 @@ function ScrollToTOP_Properties()
 			SCROLLToTOP_Button.style.visibility = "visible";
 			SCROLLToTOP_Button.style.opacity = "1";
 		}
-		
+
 		else
 		{
 			SCROLLToTOP_Button.style.opacity = "0";
@@ -214,16 +227,16 @@ function ScrollToTOP_Properties()
 // This function will retrive the user history and list it on the history page.
 function GetHistory()
 {
-	let NoHistory = document.getElementById("NoSearchHistory");
+	const NoHistory = document.getElementById("NoSearchHistory");
 	NoHistory.style.visibility = "hidden";
 
-	let ClearHistoryBtn = document.getElementById("ClearHistory");
+	const ClearHistoryBtn = document.getElementById("ClearHistory");
 	ClearHistoryBtn.style.visibility = "visible";
 
 	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
 	{
 		let HistoryList = JSON.parse(localStorage.getItem("UserHistory")); // Retrive the history list.
-		
+
 		// This will render the history.
 		for (let i = 0; i < HistoryList.length; i++)
 		{
@@ -254,5 +267,7 @@ function GetHistory()
 function ClearUserHistory()
 {
 	localStorage.removeItem("UserHistory");
+	localStorage.removeItem("OriginalQuery");
+	localStorage.removeItem("FormattedQuery");
 	window.location.reload();
 }
