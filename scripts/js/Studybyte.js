@@ -120,15 +120,11 @@ function GetResults()
 	// Retrive all indexed pages.
 	const Data = Database();
 	let SearchIndex = [];
-	let History = [];
-
-	// Change the Title.
-	let NumOFResults = 0;
 	let ListResults = [];
 	let ListOfSites = [];
-	let indexOfSite;
+	let History = [];
 
-	// Retrive the query.
+	// Retrive the query and Change the Title.
 	const OriginalQuery = localStorage.getItem("OriginalQuery");
 	const FormattedQuery = localStorage.getItem("FormattedQuery");
 	document.title = OriginalQuery + " - Studybyte";
@@ -147,32 +143,68 @@ function GetResults()
 
 	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
 	ListOfSites = arrayColumn(SearchIndex, 0);
-	ListResults = Color(FormattedQuery, ListOfSites);
-	NumOFResults = ListResults.length;
+	let StartTime = performance.now();
 
-	// Render results.
-	for (let i of ListResults)
+	ListResults = Color(FormattedQuery, ListOfSites);
+
+	let EndTime = performance.now();
+	let NumOFResults = ListResults.length;
+
+	// Render all matching results.
+	function RenderResults(StartNum, InitMaxResults)
 	{
-		if (ListOfSites.includes(i[1]))
+		let IterNum = StartNum + InitMaxResults;
+		for (let i = StartNum; i < IterNum; i++)
 		{
-			indexOfSite = arrayColumn(SearchIndex, 0).indexOf(i[1]);
-			ColorRender(SearchIndex[indexOfSite][0], SearchIndex[indexOfSite][1]);
+			if (ListOfSites.includes(ListResults[i][1]))
+			{
+				let indexOfSite = arrayColumn(SearchIndex, 0).indexOf(ListResults[i][1]);
+				ColorRender(SearchIndex[indexOfSite][0], SearchIndex[indexOfSite][1]);
+			}
 		}
 	}
 
+	// Handle the scrollbar for infinite scroll.
+	function HandleScroll(InitMaxResults)
+	{
+		let RenderResultsIteration = InitMaxResults;
+		document.addEventListener("scroll", function(e)
+		{
+			if (document.scrollingElement.scrollTop + document.scrollingElement.clientHeight >= document.body.clientHeight - 1)
+			{
+				RenderResults(RenderResultsIteration, InitMaxResults);
+				RenderResultsIteration += InitMaxResults;
+			}
+		});
+	}
+
+	// Render all matching results.
+	// If the number of ranked pages is smaller than Maximum results,
+	// then just render results. Else enable infinite scrolling too.
+	let MaxResults = 10;
+	if (NumOFResults <= MaxResults) RenderResults(0, NumOFResults);
+	else
+	{
+		RenderResults(0, MaxResults);
+		HandleScroll(MaxResults);
+	}
+
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null) window.location = "e.html";
-	document.getElementById("NumOfResults").innerHTML = NumOFResults + " Results found!"; // This piece of code will Change some window properties.
+	if (NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null || FormattedQuery == NaN) window.location = "e.html";
+
+	// This piece of code will Change some window properties.
+	let TimeTaken = EndTime - StartTime;
+	let Seconds = (((TimeTaken % 60000) / 1000).toFixed(2));
+	document.getElementById("NumOfResults").innerHTML = "About " + NumOFResults + " results (" + Seconds + " seconds)";
 	document.getElementById("Searchbar").value = OriginalQuery;
 
-	// Save everything in the History.
-	// Retrive the search history.
+	// Retrive and Save the Search History.
 	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
 		History = JSON.parse(localStorage.getItem("UserHistory"));
 
 	// Save the search query in History.
 	History.push(OriginalQuery);
-	History.reverse();
+	History.unshift(History.pop());
 	History = History.filter(function(item, index, inputarr) {
 		return inputarr.indexOf(item) == index;
 	});

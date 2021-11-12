@@ -9,13 +9,7 @@ function Color(Query, Links)
 // This function will remove all special chars from the string.
 function RemoveSpecialChars(String)
 {
-	const Chars = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~·";
-	for (let i in Chars)
-	{
-		if (String.includes(Chars[i]))
-			String = String.replaceAll(Chars[i], " ").replace(/\s+/g, " ").trim();
-	}
-
+	String = String.replace(/[!\"#$%&'()*+,-./:;<=>?@[\\\]^_`{|}~·]/g, " ").trim()
 	return String;
 }
 
@@ -28,7 +22,8 @@ function MatchingWords(Query, ResultLinks)
 	ResultLinks = RemoveSpecialChars(ResultLinks).toLowerCase();
 
 	let Rank = 0;
-	if (Query == ResultLinks) Rank+=9;
+	if (Query === ResultLinks) Rank += 72;
+	else if (ResultLinks.startsWith(Query)) Rank += 70;
 	else
 	{
 		let FormattedQuery = Query.split(" ");
@@ -99,7 +94,7 @@ function ColorRender(ResultTitle, ResulstLink)
 function ColorCalc(arithmetic)
 {
 	let MultiplySign = arithmetic.replace("x", "*");
-	let Operators = MultiplySign.replace(/[+\/*-]/g, "");
+	let Operators = MultiplySign.replace(/[+/*-]/g, "");
 	const Numbers = parseFloat(Operators).toString();
 	if (Numbers.length == Operators.length)
 		return Function("return " + MultiplySign)();
