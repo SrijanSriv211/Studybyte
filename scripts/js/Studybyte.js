@@ -170,10 +170,21 @@ function GetResults()
 		let RenderResultsIteration = InitMaxResults;
 		document.addEventListener("scroll", function(e)
 		{
-			if (document.scrollingElement.scrollTop + document.scrollingElement.clientHeight >= document.body.clientHeight - 1)
+			let WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
+			let ScrollbarHeight = document.body.clientHeight - 1;
+			if ((WindowHeight >= ScrollbarHeight))
 			{
-				RenderResults(RenderResultsIteration, InitMaxResults);
-				RenderResultsIteration += InitMaxResults;
+				try
+				{
+					RenderResults(RenderResultsIteration, InitMaxResults);
+					RenderResultsIteration += InitMaxResults;
+				}
+
+				catch (err)
+				{
+					RenderResults(RenderResultsIteration, NumOFResults - RenderResultsIteration);
+					RenderResultsIteration += InitMaxResults;
+				}
 			}
 		});
 	}
