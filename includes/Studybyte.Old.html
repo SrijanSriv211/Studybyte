@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studybyte</title>
+
+    <link rel="icon" href="../res/Icons/Studybyte.Old.png">
+    <style>
+        @import url("https://fonts.googleapis.com/css?family=Roboto");
+
+        *
+        {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        body
+        {
+            font-family: "Roboto";
+            color: #f9f9f9;
+            background-image: url("../res/Background/Background.Old.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+
+        nav ul
+        {
+            display: flex;
+            font-size: 18px;
+            font-family: "Roboto Thin";
+        }
+
+        nav ul li
+        {
+            margin: 10px 20px;
+            cursor: pointer;
+        }
+
+        nav ul li img
+        {
+            position: fixed;
+            top: 2%;
+            right: 2%;
+            width: 50px;
+            height: 50px;
+            transition: 0.8s;
+        }
+
+        nav ul li img:hover
+        {
+            width: 70px;
+            height: 70px;
+            transition: 0.8s;
+        }
+
+        nav ul li a
+        {
+            font-size: 20px;
+            position: fixed;
+            top: 2%;
+            left: 2%;
+            color: #f9f9f9;
+            text-decoration: none;
+            transition: 0.8s;
+        }
+
+        nav ul li a:hover
+        {
+            font-size: 27px;
+            transition: 0.8s;
+        }
+
+        section h3
+        {
+            color: #2c2c2c;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            margin-top: -100px;
+            cursor: default;
+            font-size: 57px;
+            cursor: pointer;
+            font-weight: bold;
+            text-align: center;
+            transition: 0.8s;
+        }
+
+        section h3:hover
+        {
+            color: #f9f9f9;
+            transition: 0.8s;
+        }
+
+        #Searchbar
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding-left: 12px;
+            color: #f9f9f9;
+            background: #373737;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+            width: 700px;
+            height: 40px;
+            transition: 0.8s;
+        }
+
+        #Searchbar:hover
+        {
+            border-radius: 50px;
+            color: #2c2c2c;
+            background: #f9f9f9;
+            font-size: 15px;
+            box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+            transition: 0.8s;
+        }
+
+        #Searchbar:focus
+        {
+            box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+            transition: 0.8s;
+        }
+
+        #Searchbtn
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: "Roboto Thin";
+            text-align: center;
+            font-size: 15px;
+            color: #f9f9f9;
+            background: #373737;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+            width: 200px;
+            height: 40px;
+            margin-top: 70px;
+            cursor: pointer;
+            transition: 0.8s;
+        }
+
+        #Searchbtn:hover
+        {
+            border-radius: 50px;
+            color: #2c2c2c;
+            background: #f9f9f9;
+            box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+            transition: 0.8s;
+        }
+
+        #Searchbtn:focus
+        {
+            box-shadow: 0px 1px 5px rgba(0, 0, 0, 1);
+            transition: 0.2s;
+        }
+
+        footer
+        {
+            font-family: "Roboto Thin";
+            position: fixed;
+            left: 7px;
+            bottom: 7px;
+            cursor: default;
+        }
+
+        /*This will make the site responsive*/
+        @media screen and (max-width: 800px)
+        {
+            nav ul
+            {
+                font-size: 20px;
+            }
+            
+            nav ul li
+            {
+                margin: 10px 20px;
+            }
+
+            section h3
+            {
+                font-size: 70px;
+            }
+
+            #Searchbar
+            {
+                font-size: 25px;
+                width: 550px;
+                height: 70px;
+            }
+
+            #Searchbtn
+            {
+                font-size: 25px;
+                width: 200px;
+                height: 60px;
+                margin-top: 80px;
+            }
+        }
+
+        @media screen and (max-width: 500px)
+        {
+            nav ul
+            {
+                font-size: 20px;
+            }
+            
+            nav ul li
+            {
+                margin: 10px 20px;
+            }
+
+            section h3
+            {
+                font-size: 50px;
+            }
+
+            #Searchbar
+            {
+                font-size: 15px;
+                width: 300px;
+                height: 40px;
+            }
+
+            #Searchbtn
+            {
+                font-size: 17px;
+                width: 150px;
+                height: 40px;
+                margin-top: 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <script src="../scripts/js/Color.js"></script>
+    <script src="../scripts/js/Studybyte.js"></script>
+    <header>
+        <nav>
+            <ul>
+                <li><a title="About Studybyte!" href="https://github.com/Light-Lens/Studybyte" target="_blank">About</a></li>
+                <li><a title="Follow me on Github." href="https://github.com/Light-Lens" target="_blank"><img src="../res/Icons/Github.png"></a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div>
+            <h3>Studybyte</h3>
+            <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off" autofocus>
+            <input type="button" value="Studybyte" id="Searchbtn" onclick="TryToSearch();">
+        </div>
+        <script> FocusSearchbarOnEsc(); </script>
+    </section>
+    <footer>
+        Theme image by Unsplash.com
+    </footer>
+</body>
+</html>
