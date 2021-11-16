@@ -47956,6 +47956,10526 @@ function Database()
         {
             "Title": "Stress and reduction of vowels",
             "URL": "http://www.study-languages-online.com/stress-reduction.html"
+        },
+        {
+            "Title": "CRITICAL THINKING: The main goal, a way to reach the goal ...",
+            "URL": "https://journals.sagepub.com/doi/abs/10.1177/010740839601600304"
+        },
+        {
+            "Title": "The development of critical thinking as the primary goal of ...",
+            "URL": "https://www.rockforreading.org/2018/10/educational-process"
+        },
+        {
+            "Title": "The Development Of Critical Thinking As The ... - siliconindia",
+            "URL": "https://education.siliconindia.com/management/viewpoint/last-word/the-development-of-critical-thinking-as-the-primary-goal-of-the-educational-process-nwid-19804.html"
+        },
+        {
+            "Title": "The Development Of Critical Thinking As The Primary Goal Of ...",
+            "URL": "https://ukacademicwritinghelpers.wordpress.com/2019/06/27/the-development-of-critical-thinking-as-the-primary-goal-of-educational-process"
+        },
+        {
+            "Title": "Problem-Based Learning on Students' Critical Thinking Skills ...",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1058610.pdf"
+        },
+        {
+            "Title": "(PDF) Critical Thinking and it's Importance in Education",
+            "URL": "https://www.researchgate.net/publication/339433132_Critical_Thinking_and_it's_Importance_in_Education"
+        },
+        {
+            "Title": "The Development of Critical Thinking in Primary School",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1877042814034922/pdf?md5=066dfc48eae4187576ba2c51066c77ab&pid=1-s2.0-S1877042814034922-main.pdf"
+        },
+        {
+            "Title": "DEVELOPMENT OF CRITICAL THINKING AS THE PRIMARY ...",
+            "URL": "http://publications.anveshanaindia.com/wp-content/uploads/2019/07/DEVELOPMENT-OF-CRITICAL-THINKING-AS-THE-PRIMARY-GOAL-OF-EDUCATIONAL-PROCESS.pdf"
+        },
+        {
+            "Title": "View of The Development of Critical Thinking as the Primary ...",
+            "URL": "https://www.tojqi.net/index.php/journal/article/view/788/239"
+        },
+        {
+            "Title": "The development of critical thinking as the primary ... - Brainly.in",
+            "URL": "https://brainly.in/question/32969292"
+        },
+        {
+            "Title": "Development Of Critical Thinking As The Primary Goal Of …",
+            "URL": "https://www.theabhisheksingh.com/Development-Of-Critical-Thinking-As-The-Primary-Goal-Of-Educational-Process.php"
+        },
+        {
+            "Title": "How to develop critical thinking in education - Classcraft Blog",
+            "URL": "https://www.classcraft.com/blog/how-to-develop-critical-thinking-in-education"
+        },
+        {
+            "Title": "Critical Thinking: How to Develop and Improve",
+            "URL": "https://logiclike.com/en/blog/critical-thinking-skills"
+        },
+        {
+            "Title": "Methodology of critical thinking development in the process of...",
+            "URL": "https://cyberleninka.ru/article/n/methodology-of-critical-thinking-development-in-the-process-of-teaching-a-foreign-language-in-secondary-school"
+        },
+        {
+            "Title": "Rkmchp technology. development of critical thinking through reading...",
+            "URL": "https://en.sodiummedia.com/3926623-rwct-technology-developing-critical-thinking-through-reading-and-writing"
+        },
+        {
+            "Title": "Using the technology of critical thinking at lessons. procedure of...",
+            "URL": "https://articlekz.com/en/article/19372"
+        },
+        {
+            "Title": "Critical thinking: an essential skill for every student",
+            "URL": "https://www.acc.edu.au/blog/critical-thinking-essential-skill"
+        },
+        {
+            "Title": "10 Ways Critical Thinking Plays an Important Role in Education",
+            "URL": "https://www.edsys.in/10-ways-critical-thinking-plays-an-important-role-in-education"
+        },
+        {
+            "Title": "What is critical thinking? Examples and comparison with maths",
+            "URL": "https://www.cuemath.com/learn/endow-child-critical-thinking-skills"
+        },
+        {
+            "Title": "The Importance Of Critical Thinking, and how to improve it",
+            "URL": "https://www.uopeople.edu/blog/why-is-critical-thinking-important"
+        },
+        {
+            "Title": "Critical Thinking (Stanford Encyclopedia of Philosophy)",
+            "URL": "https://plato.stanford.edu/entries/critical-thinking"
+        },
+        {
+            "Title": "Critical Thinking Development: A Stage Theory",
+            "URL": "https://www.criticalthinking.org/pages/critical-thinking-development-a-stage-theory/483"
+        },
+        {
+            "Title": "Educational Psychology Interactive: Critical thinking",
+            "URL": "http://edpsycinteractive.org/topics/cogsys/critthnk.html"
+        },
+        {
+            "Title": "Critical Thinking: Teaching Methods & Strategies",
+            "URL": "https://studylib.net/doc/5827444/critical-thinking--teaching-methods-and-strategies"
+        },
+        {
+            "Title": "7 Ways to Teach Critical Thinking in Elementary Education",
+            "URL": "https://www.waldenu.edu/online-bachelors-programs/bs-in-elementary-education/resource/seven-ways-to-teach-critical-thinking-in-elementary-education"
+        },
+        {
+            "Title": "PDF Using the Technology of Critical Thinking Development",
+            "URL": "https://kpfu.ru/staff_files/F816414216/Using.pdf"
+        },
+        {
+            "Title": "Teaching students to think critically (opinion)",
+            "URL": "https://www.insidehighered.com/views/2020/03/02/teaching-students-think-critically-opinion"
+        },
+        {
+            "Title": "Critical Thinking strategies for students and teachers — Innovative...",
+            "URL": "https://www.innovativeteachingideas.com/blog/critical-thinking-for-teachers-and-students"
+        },
+        {
+            "Title": "[C01] What is critical thinking?",
+            "URL": "https://philosophy.hku.hk/think/critical/ct.php"
+        },
+        {
+            "Title": "PDF Microsoft Word - JEP-Vol.8 No.20 2017",
+            "URL": "https://files.eric.ed.gov/fulltext/ED575667.pdf"
+        },
+        {
+            "Title": "Critical Thinking In Education",
+            "URL": "https://www.slideshare.net/erusten/critical-thinking-in-education"
+        },
+        {
+            "Title": "PDF Critical Thinking",
+            "URL": "https://www.aft.org/sites/default/files/periodicals/Crit_Thinking.pdf"
+        },
+        {
+            "Title": "Critical and Creative Thinking | The Australian Curriculum",
+            "URL": "https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/critical-and-creative-thinking"
+        },
+        {
+            "Title": "PDF Critical thinking: A literature review",
+            "URL": "https://images.pearsonassessments.com/images/tmrs/CriticalThinkingReviewFINAL.pdf"
+        },
+        {
+            "Title": "Critical Thinking | SkillsYouNeed",
+            "URL": "https://www.skillsyouneed.com/learn/critical-thinking.html"
+        },
+        {
+            "Title": "Session 3: Critical and analytical thinking... - Open University - SPS_1",
+            "URL": "https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&section=4"
+        },
+        {
+            "Title": "PDF An overview of critical thinking in nursing and education",
+            "URL": "https://aijcrnet.com/journals/Vol_1_No_2_September_2011/25.pdf"
+        },
+        {
+            "Title": "Critical Thinking Definition | The Glossary of Education Reform",
+            "URL": "https://www.edglossary.org/critical-thinking"
+        },
+        {
+            "Title": "The Evolution of Approaches to Education Throughout History",
+            "URL": "http://www.ignited.in/I/a/304076"
+        },
+        {
+            "Title": "The evolution of approaches to education throughout history",
+            "URL": "https://www.rockforreading.org/2018/12/education-throughout-history"
+        },
+        {
+            "Title": "The Evolution of Educational Means. A historical Perspective",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1877042815014482/pdf?md5=89b2a0865fe358aeb724b8c15294f1dc&pid=1-s2.0-S1877042815014482-main.pdf"
+        },
+        {
+            "Title": "History and evolution of educational approaches - swiftheadline",
+            "URL": "https://swiftheadline.com/history-and-evolution-of-educational-approaches"
+        },
+        {
+            "Title": "(PDF) The Evolution of Educational Means. A historical ...",
+            "URL": "https://www.researchgate.net/publication/277934803_The_Evolution_of_Educational_Means_A_historical_Perspective"
+        },
+        {
+            "Title": "History of education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_education"
+        },
+        {
+            "Title": "Educational History and Educational Change - jstor",
+            "URL": "https://www.jstor.org/stable/368606"
+        },
+        {
+            "Title": "The Evolution of Approaches to Education Throughout History",
+            "URL": "https://nb.aotter.net/p/11792/the-evolution-of-approaches-to-education-throughout-history"
+        },
+        {
+            "Title": "The evolution of education - blockchain – Academy Xi",
+            "URL": "https://discover.academyxi.com/blog/the-evolution-of-education"
+        },
+        {
+            "Title": "The Evolution of Education - Matt Church",
+            "URL": "https://www.mattchurch.com/talkingpoint/education-evolution"
+        },
+        {
+            "Title": "EVOLUTION OF APPROACHES TO EDUCATION THROUGHOUT …",
+            "URL": "https://lifelearners.ng/evolution-of-approaches-to-education-throughout-history"
+        },
+        {
+            "Title": "Discuss the evolution of approaches to education throughout the …",
+            "URL": "https://topassignmenthelp.com/discuss-the-evolution-of-approaches-to-education-throughout-the-history"
+        },
+        {
+            "Title": "Education Throughout History",
+            "URL": "https://study-education.com/education-throughout-history"
+        },
+        {
+            "Title": "Education Throughout History",
+            "URL": "https://www.educationstudy.net/study/education-throughout-history"
+        },
+        {
+            "Title": "How Education Approaches Changed Throughout History",
+            "URL": "https://www.tastefulspace.com/blog/2020/02/20/how-education-approaches-changed-throughout-history"
+        },
+        {
+            "Title": "The evolution of approaches to education throughout history",
+            "URL": "https://www.coursef.com/education-throughout-history"
+        },
+        {
+            "Title": "Evolution of Child Education Throughout History timeline | Timetoast",
+            "URL": "https://www.timetoast.com/timelines/changes-in-child-care-throughout-history"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "education | Definition, Development, History, Types... | Britannica",
+            "URL": "https://www.britannica.com/topic/education"
+        },
+        {
+            "Title": "History Of Education Timeline | Preceden",
+            "URL": "https://www.preceden.com/timelines/331186-history-of-education"
+        },
+        {
+            "Title": "Education - New World Encyclopedia | Education history",
+            "URL": "https://www.newworldencyclopedia.org/entry/Education"
+        },
+        {
+            "Title": "Progressive Education in Transition: An Intellectual History",
+            "URL": "https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1508&context=etd"
+        },
+        {
+            "Title": "History of education",
+            "URL": "https://lingo.life/texts/history_of_education"
+        },
+        {
+            "Title": "PDF Different countries, different approaches",
+            "URL": "https://www.ibo.org/globalassets/dulfer-jta-final-report-en.pdf"
+        },
+        {
+            "Title": "Topic 13B - History of the evolution of the teaching of... - Oposinet",
+            "URL": "https://www.oposinet.com/temario-primaria-ingles/temario-2-educacion-primaria-ingles/topic-13-history-of-the-evolution-of-the-teaching-of-foreign-languages-the-grammar-translation-methods-to-current-approaches"
+        },
+        {
+            "Title": "Effects of the Black Death on Europe - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1543/effects-of-the-black-death-on-europe"
+        },
+        {
+            "Title": "Diachronic and Synchronic approaches - Английский язык",
+            "URL": "https://multiurok.ru/blog/diachronic-and-synchronic-approaches.html"
+        },
+        {
+            "Title": "chapter 2 - ens 403 Flashcards | Quizlet",
+            "URL": "https://quizlet.com/151386089/chapter-2-ens-403-flash-cards"
+        },
+        {
+            "Title": "From the history of the development of methods of teaching foreign...",
+            "URL": "https://moluch.ru/th/4/archive/114/3901"
+        },
+        {
+            "Title": "(PDF) THE MODERNIZATION OF FOREIGN... - Academia.edu",
+            "URL": "https://www.academia.edu/21856191/THE_MODERNIZATION_OF_FOREIGN_LANGUAGE_EDUCATION_THE_LINGUOCULTURAL_COMMUNICATIVE_APPROACH"
+        },
+        {
+            "Title": "Why is It Important to Study History? | Nord Anglia Education",
+            "URL": "https://www.nordangliaeducation.com/news/2020/04/29/why-is-it-important-to-study-history"
+        },
+        {
+            "Title": "EDUCATION IN RUSSIA 1 Ancient Rus was one of the early feudal...",
+            "URL": "https://vk.com/wall-75367958_27"
+        },
+        {
+            "Title": "Throughout the history of education the most common means of...",
+            "URL": "https://ru4.ilovetranslation.com/YDr_M4y4E5X=d"
+        },
+        {
+            "Title": "Traditional methods and approaches of language...",
+            "URL": "https://www.sites.google.com/site/knowledgeispawer/traditional-methods-and-approaches-of-language-teaching"
+        },
+        {
+            "Title": "(PDF) Science Education in U.S. Natural History Museums...",
+            "URL": "https://www.researchgate.net/publication/225849711_Science_Education_in_US_Natural_History_Museums_A_Historical_Perspective"
+        },
+        {
+            "Title": "Cultural evolutionary theory: How culture evolves and why it matters",
+            "URL": "https://www.pnas.org/content/114/30/7782"
+        },
+        {
+            "Title": "The Evolution of Morality | Evolution: Education and Outreach",
+            "URL": "https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-009-0167-7"
+        },
+        {
+            "Title": "Education and modern technologies, their positive and ...",
+            "URL": "https://www.indiatoday.in/education-today/featurephilia/story/education-and-modern-technologies-their-positive-and-negative-impact-1496718-2019-04-08"
+        },
+        {
+            "Title": "Education and Modern Technologies, Their Positive ... - SSRN",
+            "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857719"
+        },
+        {
+            "Title": "Education and Modern Technologies ... - Ignited Minds Journals",
+            "URL": "http://www.ignited.in/I/a/304077"
+        },
+        {
+            "Title": "EDUCATION AND MODERN TECHNOLOGIES, THEIR ...",
+            "URL": "https://turkjphysiotherrehabil.org/pub/pdf/322/32-2-476.pdf"
+        },
+        {
+            "Title": "Impact of modern technology in education - ResearchGate",
+            "URL": "https://www.researchgate.net/publication/325086709_Impact_of_modern_technology_in_education"
+        },
+        {
+            "Title": "Education and Modern Technologies, Their Positive ... - Prezi",
+            "URL": "https://prezi.com/p/y0q2gxnktef8/education-and-modern-technologies-their-positive-and-negative-impact-on-students"
+        },
+        {
+            "Title": "Education and Modern Technologies, their Positive ... - ProQuest",
+            "URL": "https://search.proquest.com/openview/430210178e8b1e81d4a03895d4b24154/1?pq-origsite=gscholar&cbl=1876338"
+        },
+        {
+            "Title": "Impact of modern technology on Education – positive and ...",
+            "URL": "http://neevshiksha.com/2019/03/07/impact-of-technology-on-education"
+        },
+        {
+            "Title": "Positive and Negative Impacts of Technology on Education    ",
+            "URL": "https://techbaji.com/positive-negative-impact-of-technology-on-education"
+        },
+        {
+            "Title": "Top 10 Positive and Negative Impacts of Modern Technology ...",
+            "URL": "https://techstonz.com/positive-negative-impacts-technology-education"
+        },
+        {
+            "Title": "Education and modern technologies, their positive and …",
+            "URL": "https://www.whatiswhatis.com/education-modern-technologies-positive-negative-impact"
+        },
+        {
+            "Title": "Education and Modern Technologies, Their Positive and Negative …",
+            "URL": "http://ignited.in/I/a/304077"
+        },
+        {
+            "Title": "Positive and Negative Effects of Technology on Education",
+            "URL": "https://positivenegativeimpact.com/technology-on-education"
+        },
+        {
+            "Title": "The Positive and Negative Effects of Technology on Education...",
+            "URL": "http://www.dezzain.com/technology/technology-effects-on-education"
+        },
+        {
+            "Title": "Positive and Negative Impact of Social Media on Education",
+            "URL": "https://tis.edu.in/blog/positive-and-negative-impact-of-social-media-on-education"
+        },
+        {
+            "Title": "Positive and Negative effects of technology | Essay and speech",
+            "URL": "https://www.positivenegativeeffects.com/technology"
+        },
+        {
+            "Title": "Positive and Negative Effects of Technology on Children | MentalUP",
+            "URL": "https://www.mentalup.co/blog/positive-and-negative-effects-of-technology-on-children"
+        },
+        {
+            "Title": "Positive And Negative Impacts Of Education By HabaKeiee",
+            "URL": "https://animals-care.info/positive-impacts-of-education"
+        },
+        {
+            "Title": "Negative Impact of Technology on Learning",
+            "URL": "https://www.assignmentexpert.com/blog/negative-impact-of-technology-on-learning"
+        },
+        {
+            "Title": "19 Pros and Cons of Technology in Education | Impact in Health",
+            "URL": "https://honestproscons.com/pros-and-cons-of-technology-in-education"
+        },
+        {
+            "Title": "How Has Technology Changed Education | Purdue Online",
+            "URL": "https://online.purdue.edu/blog/education/how-has-technology-changed-education"
+        },
+        {
+            "Title": "Positive and Negative Effects Of Technology On Our Lives - Impacts",
+            "URL": "https://mydailyalerts.com/positive-negative-effects-technology-lives"
+        },
+        {
+            "Title": "Impact of Technology on Education",
+            "URL": "https://www.tekshapers.com/blog/Impact-of-Technology-on-Education"
+        },
+        {
+            "Title": "5 Surprising Negative Technology Effects You Don't Suspect",
+            "URL": "https://kidslox.com/blog/top-5-negative-effects-of-technology-you-even-dont-suspect"
+        },
+        {
+            "Title": "How Technology Has Changed Education - Vista College",
+            "URL": "https://www.vistacollege.edu/blog/resources/how-technology-has-changed-education"
+        },
+        {
+            "Title": "Technological Innovations in Education - How has Technology...",
+            "URL": "https://www.scientificworldinfo.com/2020/03/technological-innovations-in-education.html"
+        },
+        {
+            "Title": "How Digital Technology has Changed Modern Education - Anadea",
+            "URL": "https://anadea.info/blog/how-digital-technology-has-changed-modern-education"
+        },
+        {
+            "Title": "How Technology In The Classroom Can Impact Student... - Top Hat",
+            "URL": "https://tophat.com/blog/how-does-technology-impact-student-learning"
+        },
+        {
+            "Title": "How New Technologies Are Helping Students Learn",
+            "URL": "https://interestingengineering.com/how-new-technologies-are-helping-students-learn"
+        },
+        {
+            "Title": "How Technology Has Changed Education?",
+            "URL": "https://www.techprevue.com/technology-changing-education"
+        },
+        {
+            "Title": "Technology in Our Life Today and How It Has... - AgingInPlace.org",
+            "URL": "https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed"
+        },
+        {
+            "Title": "The Impact of Technology in Our Lives and The... - Total Phase Blog",
+            "URL": "https://www.totalphase.com/blog/2017/05/impact-technology-lives-future-technology"
+        },
+        {
+            "Title": "Results Page 24 for Educational technology | Bartleby",
+            "URL": "https://www.bartleby.com/topics/educational-technology/23"
+        },
+        {
+            "Title": "The importance of educational technology in teaching | КиберЛенинка",
+            "URL": "https://cyberleninka.ru/article/n/the-importance-of-educational-technology-in-teaching"
+        },
+        {
+            "Title": "Impact of technology on people's relations and their positive and...",
+            "URL": "https://ielts69.com/essay/impact-of-technology-on-peoples-relations-and-their-positive-and-negative-developments-5LV0P"
+        },
+        {
+            "Title": "Will Technology Ruin Your Children's Development? | Medium",
+            "URL": "https://medium.com/thrive-global/will-technology-ruin-your-childrens-development-663351c76974"
+        },
+        {
+            "Title": "Impact Of Technology On Our Society - Positive & Negative",
+            "URL": "https://myessaypoint.com/how-technology-effects-our-society"
+        },
+        {
+            "Title": "Information technologies and education",
+            "URL": "http://www.infotaste.com/information-technologies-and-education"
+        },
+        {
+            "Title": "What is the future of technology in education? | The Guardian",
+            "URL": "https://www.theguardian.com/teacher-network/teacher-blog/2013/jun/19/technology-future-education-cloud-social-learning"
+        },
+        {
+            "Title": "8 Innovative Ways To Use Technology in Education",
+            "URL": "https://www.hippovideo.io/blog/10-ways-can-use-technology-in-education"
+        },
+        {
+            "Title": "Virtual Reality and Its Applications in Education: Survey - MDPI",
+            "URL": "https://www.mdpi.com/2078-2489/10/10/318/htm"
+        },
+        {
+            "Title": "(PDF) LEARNING IN VIRTUAL WORLDS: RESEARCH AND ...",
+            "URL": "https://www.researchgate.net/publication/303989392_LEARNING_IN_VIRTUAL_WORLDS_RESEARCH_AND_APPLICATIONS"
+        },
+        {
+            "Title": "Real learning in a virtual world. Virtual Reality in Education",
+            "URL": "https://xarpie.com/visualization/real-learning-in-a-virtual-world"
+        },
+        {
+            "Title": "20 Uses For Virtual Worlds In The Classroom - TeachThought",
+            "URL": "https://www.teachthought.com/the-future-of-learning/20-uses-for-virtual-worlds-in-the-classroom"
+        },
+        {
+            "Title": "Virtual Reality Applied in Distance Education | IntechOpen",
+            "URL": "https://www.intechopen.com/chapters/39196"
+        },
+        {
+            "Title": "Learning together apart: Distance education in a virtual world",
+            "URL": "https://firstmonday.org/ojs/index.php/fm/article/download/2178/2033"
+        },
+        {
+            "Title": "Educational Uses of Virtual Reality Technology - Cumincad",
+            "URL": "http://papers.cumincad.org/data/works/att/94ea.content.pdf"
+        },
+        {
+            "Title": "How virtual reality can be applied in schools | Harvard Graduate",
+            "URL": "https://www.gse.harvard.edu/news/21/05/learning-digital-worlds"
+        },
+        {
+            "Title": "Virtual worlds and social and educational inclusion - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1127212.pdf"
+        },
+        {
+            "Title": "(PDF) Virtual Reality in Education - Find and share research",
+            "URL": "https://www.researchgate.net/publication/272677840_Virtual_Reality_in_Education"
+        },
+        {
+            "Title": "VIRTUAL REALITY AS A TOOL IN THE EDUCATION",
+            "URL": "https://files.eric.ed.gov/fulltext/ED542830.pdf"
+        },
+        {
+            "Title": "Virtual Reality Creates New Worlds for Education Students …",
+            "URL": "https://www.ithaca.edu/news/virtual-reality-creates-new-worlds-education-students"
+        },
+        {
+            "Title": "Virtual Reality (VR) in Education: A Complete Guide - E …",
+            "URL": "https://e-student.org/virtual-reality-in-education"
+        },
+        {
+            "Title": "Virtual Reality in Education - ClassVR",
+            "URL": "https://www.classvr.com/virtual-reality-in-education"
+        },
+        {
+            "Title": "(PDF) Virtual Reality Challenges in Education and Training",
+            "URL": "https://www.researchgate.net/publication/312213416_Virtual_Reality_Challenges_in_Education_and_Training"
+        },
+        {
+            "Title": "Education and virtual worlds - Virtual Reality Society",
+            "URL": "https://www.vrs.org.uk/virtual-reality-education/virtual-worlds.html"
+        },
+        {
+            "Title": "Virtual Reality In Education: Use in The Classroom",
+            "URL": "https://useoftechnology.com/virtual-reality-education-use-classroom"
+        },
+        {
+            "Title": "Effectiveness of virtual reality-based instruction on …",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0360131513002108"
+        },
+        {
+            "Title": "How VR Education Will Change How We Learn... | Adobe XD Ideas",
+            "URL": "https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach"
+        },
+        {
+            "Title": "Virtual Reality in Education: Features, Uses, Development",
+            "URL": "https://program-ace.com/blog/vr-in-education-features-use-cases-implementation"
+        },
+        {
+            "Title": "Virtual Reality in Education - Everything You Should Know About",
+            "URL": "https://www.goodcore.co.uk/blog/virtual-reality-in-education"
+        },
+        {
+            "Title": "Virtual Reality for Schools - ClassVR | VR In Education & Industry",
+            "URL": "https://www.classvr.com"
+        },
+        {
+            "Title": "The Use Of Virtual Learning Environment In Education | SCAND Blog",
+            "URL": "https://scand.com/company/blog/the-use-of-virtual-learning-environment-in-education"
+        },
+        {
+            "Title": "PDF Learning In Virtual Worlds Research And Applications",
+            "URL": "http://www.nodeguide.com/learning_in_virtual_worlds_research_and_applications.pdf"
+        },
+        {
+            "Title": "Virtual Reality (VR) in Education Market Size, Research, Growth...",
+            "URL": "https://www.fortunebusinessinsights.com/industry-reports/virtual-reality-in-education-market-101696."
+        },
+        {
+            "Title": "Virtual reality in the lessons | Skyteach",
+            "URL": "https://skyteach.ru/2018/11/27/virtual-reality-in-the-lessons"
+        },
+        {
+            "Title": "Augmented Reality and VR / AR Technology",
+            "URL": "https://avada-media.ua/en/services/vr-ar"
+        },
+        {
+            "Title": "Perception as Expression: Virtual Reality in the Classroom",
+            "URL": "https://www.researchgate.net/publication/356177671_Perception_as_Expression_Virtual_Reality_in_the_Classroom"
+        },
+        {
+            "Title": "Best Virtual Reality Courses in 2021",
+            "URL": "https://sensoriumxr.com/articles/best-vr-courses-in-2021"
+        },
+        {
+            "Title": "6 Ways to Effectively Use Virtual Reality in Education - FE News",
+            "URL": "https://www.fenews.co.uk/exclusive/103536-6-ways-to-effectively-use-virtual-reality-in-education"
+        },
+        {
+            "Title": "How Smartphones Help Study - News - IQ: Research and Education...",
+            "URL": "https://iq.hse.ru/en/news/201806836.html"
+        },
+        {
+            "Title": "Top 6 Digital Transformation Trends In Education",
+            "URL": "https://www.forbes.com/sites/danielnewman/2017/07/18/top-6-digital-transformation-trends-in-education"
+        },
+        {
+            "Title": "Virtual reality in education | Jamaica Monitor",
+            "URL": "https://www.jamaicamonitor.com/virtual-reality-education-854"
+        },
+        {
+            "Title": "Virtual reality - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Virtual_reality"
+        },
+        {
+            "Title": "Create Your Own Virtual Apartment in 1:1 Scale on Oculus Quest...",
+            "URL": "https://www.youtube.com/watch?v=TcyOVd6awZY"
+        },
+        {
+            "Title": "A New Reality: How VR Actually Works | by Zaynah Bhanji | Medium",
+            "URL": "https://medium.com/predict/a-new-reality-how-vr-actually-works-663210bdff72"
+        },
+        {
+            "Title": "Global Virtual Reality (VR) in Gaming, Education, and Simulations...",
+            "URL": "https://www.businesswire.com/news/home/20210222005725/en/Global-Virtual-Reality-VR-in-Gaming-Education-and-Simulations-Report-2021-2026---ResearchAndMarkets.com"
+        },
+        {
+            "Title": "Virtual Reality Archives - Education Ecosystem Blog",
+            "URL": "https://blog.education-ecosystem.com/category/virtual-reality"
+        },
+        {
+            "Title": "English_Grade 10_Unit 3_Virtual Reality | CLASS: 10",
+            "URL": "https://infourok.ru/english-grade-10-unit-3-virtual-reality-4642146.html"
+        },
+        {
+            "Title": "What is Virtual Reality? VR Definition and Examples | Marxent",
+            "URL": "https://www.marxentlabs.com/what-is-virtual-reality"
+        },
+        {
+            "Title": "Virtual Reality in Education - VR for K-10",
+            "URL": "https://fotonvr.com/?googleTagID=G-1Q9T1SWLV6"
+        },
+        {
+            "Title": "What is virtual reality? — Jasoren",
+            "URL": "https://jasoren.com/what-virtual-reality-is-and-how-it-works-the-complete-guide"
+        },
+        {
+            "Title": "virtual reality Archives - Global Tech Council",
+            "URL": "https://www.globaltechcouncil.org/virtual-reality"
+        },
+        {
+            "Title": "The Overview of The Main Modern Approaches to Education",
+            "URL": "https://www.paisley.org.uk/2019/01/the-overview-of-the-main-modern-approaches-to-education"
+        },
+        {
+            "Title": "Overview of the Main Modern Approaches to Education",
+            "URL": "https://brewminate.com/overview-of-the-main-modern-approaches-to-education"
+        },
+        {
+            "Title": "The overview of the main modern approaches to education ...",
+            "URL": "https://urbanengine.io/the-overview-of-the-main-moder-copy"
+        },
+        {
+            "Title": "Modern Approaches to Education. - DataDrivenInvestor",
+            "URL": "https://medium.datadriveninvestor.com/modern-approaches-to-education-e43eedef6707"
+        },
+        {
+            "Title": "Modern Trends In Education: Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-in-education"
+        },
+        {
+            "Title": "Modern Teaching Methods | Importance and Application",
+            "URL": "https://eduvoice.in/modern-teaching-methods"
+        },
+        {
+            "Title": "Advantages of Modern Approaches in Higher Education and ...",
+            "URL": "https://www.researchgate.net/publication/341115434_Advantages_of_Modern_Approaches_in_Higher_Education_and_Distance_Learning"
+        },
+        {
+            "Title": "Modern Education: A Significant Leap Forward - Leverage Edu",
+            "URL": "https://leverageedu.com/blog/modern-education"
+        },
+        {
+            "Title": "OVERVIEW OF THE MAIN MODERN APPROACHES OF ...",
+            "URL": "http://publications.anveshanaindia.com/sdm_downloads/overview-main-modern-approaches-education"
+        },
+        {
+            "Title": "modern approaches to teaching and learning physiology",
+            "URL": "https://journals.physiology.org/doi/full/10.1152/advances.2001.25.1.64"
+        },
+        {
+            "Title": "Traditional Education | Modern Education | Comparison | Methods",
+            "URL": "https://targetstudy.com/articles/traditional-education-vs-modern-education.html"
+        },
+        {
+            "Title": "Modern Trends In Education: 50 Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-education-50-different-approaches-learning"
+        },
+        {
+            "Title": "Modern Approaches To Education",
+            "URL": "https://study-education.com/modern-approaches-to-education"
+        },
+        {
+            "Title": "Modern education system vs traditional education system",
+            "URL": "https://xpertcube.com/modern-education-system"
+        },
+        {
+            "Title": "Modern approaches to development of education system in the...",
+            "URL": "https://www.researchgate.net/publication/331930312_Modern_approaches_to_development_of_education_system_in_the_United_States"
+        },
+        {
+            "Title": "The modernization of foreign language education: the linguoc",
+            "URL": "https://prezi.com/4x-3gzvqdt9o/the-modernization-of-foreign-language-education-the-linguoc"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Top 8 modern education problems and ways to solve them - World...",
+            "URL": "https://world.edu/top-8-modern-education-problems-ways-solve"
+        },
+        {
+            "Title": "Top 24 Educational Trends for 2020 [Updated] | Edsys",
+            "URL": "https://www.edsys.in/educational-trends-for-2019"
+        },
+        {
+            "Title": "The Future of Education 2050: 7 Things That Will Change...",
+            "URL": "https://nerdymates.com/blog/education-future"
+        },
+        {
+            "Title": "Modern approaches to teaching a foreign language. education system",
+            "URL": "https://articlekz.com/en/article/33423"
+        },
+        {
+            "Title": "Teaching with modern and traditional methods",
+            "URL": "https://www.indiastudychannel.com/resources/146615-Teaching-with-modern-and-traditional-methods.aspx"
+        },
+        {
+            "Title": "Статья; Modern Teaching Methods of Teaching Foreign...",
+            "URL": "https://infourok.ru/statya-modern-teacing-metods-of-teacing-foreign-languages-2761021.html"
+        },
+        {
+            "Title": "PDF Modern approaches to the",
+            "URL": "https://isg-konf.com/wp-content/uploads/2020/03/X-Conference-30-31-San-Francisco-USA.pdf"
+        },
+        {
+            "Title": "Alternative education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Alternative_education"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "Modern educational technologies in teaching a foreign language",
+            "URL": "https://moluch.ru/archive/147/41269"
+        },
+        {
+            "Title": "PDF Modern approaches to the",
+            "URL": "https://www.hse.ru/data/2014/12/22/1103231629/21PA2014.pdf"
+        },
+        {
+            "Title": "PDF Icts in education for people",
+            "URL": "https://iite.unesco.org/pics/publications/en/files/3214644.pdf"
+        },
+        {
+            "Title": "Use of Technology in Education for Learning and Teaching",
+            "URL": "https://www.intel.com/content/www/us/en/education/technology-in-education-for-learning-and-teaching.html"
+        },
+        {
+            "Title": "PDF Problems and Prospects of Higher Education System",
+            "URL": "https://mgimo.ru/upload/iblock/bfc/2017-xx-4-b-9_2018_01_06_18_54_42.pdf"
+        },
+        {
+            "Title": "Modern Teacher: Essential Skills and Methods",
+            "URL": "https://blog.noplag.com/modern-teaching-skills-and-methods"
+        },
+        {
+            "Title": "Globalization of Modern Education",
+            "URL": "https://www.assignmentexpert.com/blog/globalization-of-modern-education"
+        },
+        {
+            "Title": "Competency Based Education: What is it, And How Your School Can...",
+            "URL": "https://www.prodigygame.com/main-en/blog/competency-based-education"
+        },
+        {
+            "Title": "PDF Microsoft Word - Layout-IES-p183",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1070819.pdf"
+        },
+        {
+            "Title": "Approaches and methods of teaching english grammar",
+            "URL": "https://videouroki.net/razrabotki/approaches-and-methods-of-teaching-english-grammar-1.html"
+        },
+        {
+            "Title": "Information technologies and education",
+            "URL": "http://www.infotaste.com/information-technologies-and-education"
+        },
+        {
+            "Title": "Approaches and Methods in Language Teaching: CLT, TPR...",
+            "URL": "https://eslspeaking.org/approaches-methods-language-teaching"
+        },
+        {
+            "Title": "Sex Education In Schools: 21 Pros and Cons - TheNextFind ...",
+            "URL": "https://thenextfind.com/pros-cons-of-sex-education-in-schools"
+        },
+        {
+            "Title": "Sex Education in Schools Pros and Cons - college tips & blogs",
+            "URL": "https://www.youniversitytv.com/college-tips/sex-education-schools-pros-cons"
+        },
+        {
+            "Title": "Shaping A Future: Pros and Cons of Sex Education in Schools",
+            "URL": "https://www.onlymyhealth.com/sex-education-in-schools-pros-and-cons-1310535352"
+        },
+        {
+            "Title": "Sex Education in Schools, Meaning, History, Pros & Cons",
+            "URL": "http://studylecturenotes.com/sex-education-in-schools-meaning-history-pros-cons"
+        },
+        {
+            "Title": "Pros and Cons of Sex Education in School Children: Review",
+            "URL": "https://www.idosr.org/wp-content/uploads/2020/02/IDOSR-JAS-51-42-45-2020.-UN.pdf"
+        },
+        {
+            "Title": "Pros And Cons Of Sex Education - Lifestyle Lounge",
+            "URL": "http://lifestyle.iloveindia.com/lounge/pros-and-cons-of-sex-education-9472.html"
+        },
+        {
+            "Title": "Sex Education Pros and Cons - Journal of Critical Reviews",
+            "URL": "http://www.jcreview.com/fulltext/197-1595101205.pdf"
+        },
+        {
+            "Title": "Sex Education in Schools Pros and Cons - Opinion Front",
+            "URL": "https://opinionfront.com/sex-education-in-schools-pros-cons"
+        },
+        {
+            "Title": "Sex Education in Schools Pros and Cons - Onhike",
+            "URL": "https://onhike.com/sex-education-in-schools-pros-and-cons/133758"
+        },
+        {
+            "Title": "Pros and Cons of Sex Education - The Charles Street Times",
+            "URL": "https://lindynews.org/4233/opinion/pro-con/pros-and-cons-of-sex-education"
+        },
+        {
+            "Title": "Sex Education: 4 Major Pros and Cons – Bedossier",
+            "URL": "https://www.bedossier.com/4-major-pros-and-cons-of-sex-education"
+        },
+        {
+            "Title": "THE PROS AND CONS OF SEX EDUCATION IN CHILDREN  …",
+            "URL": "https://awagindia.org/the-pros-and-cons-of-sex-education-in-children"
+        },
+        {
+            "Title": "Single-sex education: the pros and cons",
+            "URL": "https://www.greatschools.org/gk/articles/single-sex-education-the-pros-and-cons"
+        },
+        {
+            "Title": "Single-sex Schools for Children - Pros and Cons That Parents Should...",
+            "URL": "https://parenting.firstcry.com/articles/single-sex-education-for-children-pros-and-cons-that-parents-should-know"
+        },
+        {
+            "Title": "Why comprehensive sexuality education is important",
+            "URL": "https://en.unesco.org/news/why-comprehensive-sexuality-education-important"
+        },
+        {
+            "Title": "PDF Sexuality Education",
+            "URL": "https://www.euro.who.int/__data/assets/pdf_file/0008/379043/Sexuality_education_Policy_brief_No_1.pdf"
+        },
+        {
+            "Title": "Should Boys and Girls Attend Separate or Coed... - Blog In2English",
+            "URL": "https://in2english.net/2019/01/08/should-boys-and-girls-attend-separate-or-coed-schools"
+        },
+        {
+            "Title": "Single-sex education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Single-sex_education"
+        },
+        {
+            "Title": "Homepage - ProCon.org",
+            "URL": "https://www.procon.org"
+        },
+        {
+            "Title": "20 Pros and cons of homeschooling and family education - VKool",
+            "URL": "https://vkool.com/pros-and-cons-of-homeschooling"
+        },
+        {
+            "Title": "25 Debate Topics for the ESL Classroom - EnglishPost.org",
+            "URL": "https://englishpost.org/debate-topics-esl-classroom"
+        },
+        {
+            "Title": "Sex Education (TV Series 2019- ) - IMDb",
+            "URL": "https://www.imdb.com/title/tt7767422"
+        },
+        {
+            "Title": "What is education in Russia like? A U.S. teacher investigates",
+            "URL": "https://www.rbth.com/education/330304-education-in-russia"
+        },
+        {
+            "Title": "Proper sex education - Translation into Russian... | Reverso Context",
+            "URL": "https://context.reverso.net/translation/english-russian/Proper+sex+education"
+        },
+        {
+            "Title": "Pros and Cons of Studying as a Distance Learning Student - Owlcation",
+            "URL": "https://owlcation.com/academia/distance-education-colleges_online-undergraduate-degree_pros-and-cons"
+        },
+        {
+            "Title": "18 Pros & Cons of Online Education/Learning - Cognition Today",
+            "URL": "https://cognitiontoday.com/pros-and-cons-of-online-education-and-learning"
+        },
+        {
+            "Title": "Pros and Cons of Online Education | NC State Industry Expansion...",
+            "URL": "https://www.ies.ncsu.edu/resources/white-papers/pros-and-cons-of-online-education"
+        },
+        {
+            "Title": "Pros and Cons of Online Education vs Traditional Education",
+            "URL": "https://www.classgap.com/en/blog/online-education-traditional-education-which-one-better-for"
+        },
+        {
+            "Title": "Pros and Cons of E-Learning",
+            "URL": "http://www.articlesfactory.com/articles/education/pros-and-cons-of-e-learning.html"
+        },
+        {
+            "Title": "Watch Sex Education | Netflix Official Site",
+            "URL": "https://www.netflix.com/ru-en/title/80197526"
+        },
+        {
+            "Title": "What are academies - and what are their pros and cons?",
+            "URL": "https://www.telegraph.co.uk/education-and-careers/0/academies-pros-cons"
+        },
+        {
+            "Title": "Sex Education - Rotten Tomatoes",
+            "URL": "https://www.rottentomatoes.com/tv/sex_education"
+        },
+        {
+            "Title": "a comparison of the effect of single-sex versus mixed-sex",
+            "URL": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.581.706&rep=rep1&type=pdf"
+        },
+        {
+            "Title": "(PDF) Students from single-sex schools are more gender ...",
+            "URL": "https://www.researchgate.net/publication/329493102_Students_from_single-sex_schools_are_more_gender-salient_and_more_anxious_in_mixed-gender_situations_Results_from_high_school_and_college_samples"
+        },
+        {
+            "Title": "EDUCATION AND GENDER: SAME SEX SCHOOL AND ...",
+            "URL": "http://publications.anveshanaindia.com/wp-content/uploads/2019/07/EDUCATION-AND-GENDER-SAME-SEX-SCHOOL-AND-THEIR-COMPARISON-WITH-MIXED-SEX-ONES.pdf"
+        },
+        {
+            "Title": "Students from single-sex schools are more gender-salient and ...",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286141"
+        },
+        {
+            "Title": "Full article: Mixed schools versus single-sex schools - Taylor ...",
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/13603116.2015.1079269"
+        },
+        {
+            "Title": "The roles of attitudes towards learning and opposite sex as a ...",
+            "URL": "https://www.nature.com/articles/s41599-020-0457-9"
+        },
+        {
+            "Title": "Effects of Single-Sex versus Co-Educational Classes ... - jstor",
+            "URL": "https://www.jstor.org/stable/4128691"
+        },
+        {
+            "Title": "Mixed Gender vs. Single Gender Schools - The Oarsman",
+            "URL": "https://veniceoarsman.com/2867/opinion/mixed-gender-vs-single-gender-schools"
+        },
+        {
+            "Title": "Co-ed versus single-sex schools: 'It's about more than ...",
+            "URL": "https://www.theguardian.com/australia-news/2019/oct/26/co-ed-versus-single-sex-schools-its-about-more-than-academic-outcomes"
+        },
+        {
+            "Title": "EDUCATION AND GENDER: SAME SEX SCHOOL AND THEIR …",
+            "URL": "http://publications.anveshanaindia.com/sdm_downloads/education-gender-sex-school-comparison-mixed-sex-ones"
+        },
+        {
+            "Title": "Education and gender: same-sex school and their comparison to …",
+            "URL": "https://homeworkwritingbay.com/2020/11/14/education-and-gender-same-sex-school-and-their-comparison-to-the-mixed-sex-ones"
+        },
+        {
+            "Title": "Mixed or same sex schools: Before you choose | by Osorhor …",
+            "URL": "https://medium.com/@osorhormichael/mixed-or-same-sex-schools-before-you-choose-f18296377c59"
+        },
+        {
+            "Title": "Same-sex Schooling versus Co-educational Schooling and Their …",
+            "URL": "https://archives.evergreen.edu/masterstheses/Accession89-10MIT/Herrick_LMITthesis2009.pdf"
+        },
+        {
+            "Title": "Single-Sex Or Mixed Gender Schools: What Is Better For The …",
+            "URL": "https://gradesfixer.com/free-essay-examples/single-sex-or-mixed-gender-schools-what-is-better-for-the-students"
+        },
+        {
+            "Title": "Co-Ed Schools and Single Gender Schools | Merits | Comparison",
+            "URL": "https://targetstudy.com/articles/single-sex-school-vs-co-ed-schools.html"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "A single sex school or a mixed school? - Schoolsmith",
+            "URL": "https://www.schoolsmith.co.uk/mixed-single-sex-school"
+        },
+        {
+            "Title": "19 Advantages and Disadvantages of Mixed Gender Schools",
+            "URL": "https://connectusfund.org/6-advantages-and-disadvantages-of-mixed-gender-schools"
+        },
+        {
+            "Title": "Eduction — Single sex and mixed school Flashcards | Quizlet",
+            "URL": "https://quizlet.com/vn/640674756/eduction-single-sex-and-mixed-school-flash-cards"
+        },
+        {
+            "Title": "Should Boys and Girls Attend Separate or Coed Schools?",
+            "URL": "https://in2english.net/2019/01/08/should-boys-and-girls-attend-separate-or-coed-schools"
+        },
+        {
+            "Title": "The Benefits and Limitations of Single-Sex Education - The Atlantic",
+            "URL": "https://www.theatlantic.com/education/archive/2015/12/the-resurgence-of-single-sex-education/421560"
+        },
+        {
+            "Title": "Are single-sex or mixed schools the way forward?",
+            "URL": "https://www.telegraph.co.uk/education/educationopinion/11476686/Are-single-sex-or-mixed-schools-the-way-forward.html"
+        },
+        {
+            "Title": "in many countries today, parents are able to choose to send their...",
+            "URL": "https://writing9.com/text/6190f185b7076300198727c6-in-many-countries-today-parents-are-able-to-choose-to"
+        },
+        {
+            "Title": "Mixed-sex education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Mixed-sex_education"
+        },
+        {
+            "Title": "Single Sex Education: Advantages, Disadvantages & more",
+            "URL": "https://parenting.firstcry.com/articles/single-sex-education-for-children-pros-and-cons-that-parents-should-know"
+        },
+        {
+            "Title": "Same-sex Parents and Their Children",
+            "URL": "https://www.aamft.org/Consumer_Updates/Same-sex_Parents_and_Their_Children.aspx"
+        },
+        {
+            "Title": "Single-sex education: the pros and cons",
+            "URL": "https://www.greatschools.org/gk/articles/single-sex-education-the-pros-and-cons"
+        },
+        {
+            "Title": "Netflix's Sex Education is doing sex... - Somewhere Between",
+            "URL": "https://somewherebetween.co/netflixs-sex-education-doing-better-than-most-schools"
+        },
+        {
+            "Title": "Sex and Gender Lecture Notes - Also in reference to... - StuDocu",
+            "URL": "https://www.studocu.com/en-gb/document/university-of-birmingham/gender-and-the-law/sex-and-gender-lecture-notes/12827877"
+        },
+        {
+            "Title": "Why comprehensive sexuality education is important",
+            "URL": "https://en.unesco.org/news/why-comprehensive-sexuality-education-important"
+        },
+        {
+            "Title": "Single sex or mixed - Decisions Decisions!",
+            "URL": "https://www.linkedin.com/pulse/single-sex-mixed-decisions-steve-spriggs"
+        },
+        {
+            "Title": "Sex and gender",
+            "URL": "https://www.coe.int/en/web/gender-matters/sex-and-gender"
+        },
+        {
+            "Title": "Sex Differences and Similarities, gender-Role Development, an",
+            "URL": "https://studydeets.com/study/practice/sex-differences-and-similarities-gender-338939"
+        },
+        {
+            "Title": "Answers to your questions for a better understanding of sexual...",
+            "URL": "https://www.apa.org/topics/lgbtq/orientation"
+        },
+        {
+            "Title": "Watch Sex Education - Season 3 Full Movie English Sub | Fmovies",
+            "URL": "https://fmovies2.cx/watch/sex-education-season-3-episode-1.html"
+        },
+        {
+            "Title": "Sex Education - Yseries TV",
+            "URL": "https://yseries.tv/tv-show/sex-education"
+        },
+        {
+            "Title": "PDF Sexuality Education",
+            "URL": "https://www.euro.who.int/__data/assets/pdf_file/0008/379043/Sexuality_education_Policy_brief_No_1.pdf"
+        },
+        {
+            "Title": "Gender Identity Development in Children - HealthyChildren.org",
+            "URL": "https://healthychildren.org/English/ages-stages/gradeschool/Pages/Gender-Identity-and-Gender-Confusion-In-Children.aspx"
+        },
+        {
+            "Title": "Sex Education Season 1",
+            "URL": "https://kissseries.me/sex-education-season-1"
+        },
+        {
+            "Title": "How Netflix show Sex Education does a much better job of depicting...",
+            "URL": "https://en.news7todays.com/how-netflix-show-sex-education-does-a-much-better-job-of-depicting-sex-and-sexuality-than-most-school-based-sex-lessons"
+        },
+        {
+            "Title": "Student suspended for saying there are 'only two genders' sues school",
+            "URL": "https://forums.mixedmartialarts.com/t/student-suspended-for-saying-there-are-only-two-genders-sues-school/3697977"
+        },
+        {
+            "Title": "Sexual Orientation List - All Types of Sexualities | New Idea Magazine",
+            "URL": "https://www.newidea.com.au/sexual-orientation-list-all-types-of-sexualities"
+        },
+        {
+            "Title": "Sex Education Watch Online Free Season 3 Episode 1 123movies",
+            "URL": "https://aa01.net/tv/watch-sex-education-free-39515.1197502"
+        },
+        {
+            "Title": "Gender Identity & Roles | Feminine Traits & Stereotypes",
+            "URL": "https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity/what-are-gender-roles-and-stereotypes"
+        },
+        {
+            "Title": "13 Shocking Sexual Traditions From Around The World",
+            "URL": "https://www.oddee.com/item_98435.aspx"
+        },
+        {
+            "Title": "Sex Education season 3 - Release date, cast, plot and more",
+            "URL": "https://www.digitalspy.com/tv/a30543403/sex-education-season-3-release-date-trailer-cast-plot"
+        },
+        {
+            "Title": "Theoretical Knowledge Vs Practical Application - VESIM",
+            "URL": "https://www.vesim.ves.ac.in/vesimblog/student-blog/185-theoretical-knowledge-vs-practical-application.html"
+        },
+        {
+            "Title": "(PDF) Theoretical Education vs Practical Education",
+            "URL": "https://www.researchgate.net/publication/338831615_Theoretical_Education_vs_Practical_Education"
+        },
+        {
+            "Title": "Education: Practical vs Theoretical – scienceandfunforkids",
+            "URL": "https://scienceandfunforkids.wordpress.com/2015/07/16/education-practical-vs-theoretical"
+        },
+        {
+            "Title": "Theoretical vs. Practical Education - Track2Training",
+            "URL": "https://track2training.com/2021/07/28/theoretical-vs-practical-education"
+        },
+        {
+            "Title": "10 Reasons why Practical Education is more Important than ...",
+            "URL": "https://www.outputeducation.com/10-reasons-why-practical-education-is-more-important-than-theoretical"
+        },
+        {
+            "Title": "Theoretical education v/s practical education - Augusta Free ...",
+            "URL": "https://augustafreepress.com/theoretical-education-v-s-practical-education-an-insight-through-the-indian-lens"
+        },
+        {
+            "Title": "Education: Practical vs Theoretical - Upasna Sunil Wadhwani",
+            "URL": "https://creativeexpressionsundefined.wordpress.com/2020/10/30/education-practical-vs-theoretical"
+        },
+        {
+            "Title": "Practical V/S Theoretical Education from Career Prospect",
+            "URL": "https://sirtbhopal.medium.com/practical-v-s-theoretical-education-from-career-prospect-c4e81eb7dbfb"
+        },
+        {
+            "Title": "Practical education vs Theoretical education - India Study ...",
+            "URL": "https://www.indiastudychannel.com/resources/156522-Education-Practical-education-Theoretical-education.aspx"
+        },
+        {
+            "Title": "Theoretical Education versus Practical Education in India - …",
+            "URL": "https://www.edutrics.com/theoretical-education-versus-practical-education-in-india"
+        },
+        {
+            "Title": "Theoretical Education Vs Practical Education - AB Content Writers",
+            "URL": "https://www.abcontentwriters.com/2021/03/Theoretical-Education-Vs-Practical-Education.html"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education Free Essay Example",
+            "URL": "https://studymoose.com/practical-education-vs-theoretical-education-essay"
+        },
+        {
+            "Title": "Free Essay: Practical Education vs Theoretical Education",
+            "URL": "https://www.studymode.com/essays/Practical-Education-Vs-Theoretical-Education-1353064.html"
+        },
+        {
+            "Title": "10 Reasons why Practical Education is more Important …",
+            "URL": "http://listdose.co/10-reasons-practical-education-more-important-theoretical"
+        },
+        {
+            "Title": "10 Reasons why Practical Education is more Important than...",
+            "URL": "https://listdose.co/10-reasons-practical-education-more-important-theoretical"
+        },
+        {
+            "Title": "The Value of Theoretical And Practical Knowledge - Vanseo Design",
+            "URL": "https://vanseodesign.com/whatever/theoretical-practical-knowledge"
+        },
+        {
+            "Title": "practical education vs theoretical education",
+            "URL": "http://www.sbyfproject.com/uadyej/practical-education-vs-theoretical-education"
+        },
+        {
+            "Title": "Theoretical Education Vs Practical Education",
+            "URL": "https://study-education.com/theoretical-education-vs-practical-education"
+        },
+        {
+            "Title": "Difference Between Theoretical And Practical Knowledge - edulize.com",
+            "URL": "https://www.edulize.com/difference-between-theoretical-and-practical-knowledge"
+        },
+        {
+            "Title": "Practical Education Vs Theoretical Education/Which One Is Better",
+            "URL": "http://viralsuperfast.com/education/practical-education-vs-theoretical-education"
+        },
+        {
+            "Title": "SOLUTION: SJSU: Theoretical Education vs Practical... - Studypool",
+            "URL": "https://www.studypool.com/discuss/15527993/learning-strategy-vs-length-of-study"
+        },
+        {
+            "Title": "Theoretical vs. Practical Knowledge in Masters Studies",
+            "URL": "https://www.accessmasterstour.com/articles/view/theoretical-vs-practical-knowledge-in-masters-studies"
+        },
+        {
+            "Title": "Essay Writing on practical learning vs theoretical learning - Q4Interview",
+            "URL": "https://q4interview.com/essay-topic-answers.php?t=395"
+        },
+        {
+            "Title": "PRACTICAL EDUCATION IS MORE IMPORTANT THAN... - YouTube",
+            "URL": "https://www.youtube.com/watch?v=8Tt2BfqBnQE"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education | Education",
+            "URL": "https://essay-a.com/post-essay/practical-education-vs-theoretical-education-409-education.html"
+        },
+        {
+            "Title": "Theoretical Vs Practical Education - 07/2021",
+            "URL": "https://www.coursef.com/theoretical-vs-practical-education"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education / myLot",
+            "URL": "https://www.mylot.com/post/3377690/practical-education-vs-theoretical-education"
+        },
+        {
+            "Title": "theoretical education vs practical education - Bing",
+            "URL": "https://www.mkpef.org/theoretical+education+vs+practical+education&FORM=RSQBK4"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education | Visual.ly",
+            "URL": "https://visual.ly/community/Infographics/education/practical-education-vs-theoretical-education"
+        },
+        {
+            "Title": "Theoretical Education Vs Practical Education - XpCourse",
+            "URL": "https://www.xpcourse.com/theoretical-education-vs-practical-education"
+        },
+        {
+            "Title": "Theoretical knowledge vs practical skills | Shahnawaz Alam's Blog",
+            "URL": "https://shahnawazalam.wordpress.com/2010/05/18/theoretical-knowledge-vs-practical-skills"
+        },
+        {
+            "Title": "Ishika Jain: Practical vs Theoretical Education",
+            "URL": "https://toistudent.timesofindia.indiatimes.com/news/i-say/ishika-jain-practical-vs-theoretical-education/10527.html"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education Essay ..",
+            "URL": "https://www.educationstudy.net/study/practical-vs-theoretical-learning"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education | Datuto.com",
+            "URL": "https://datuto.com/essays-examples/practical-education-vs-theoretical-education-409-education.html"
+        },
+        {
+            "Title": "Practical Education vs Theoretical Education | Education",
+            "URL": "https://gi-fashion.com/custom-essays/practical-education-vs-theoretical-education-409-education.html"
+        },
+        {
+            "Title": "The Phenomenon of Apprenticeship and Its Role in ...",
+            "URL": "https://www.testmagzine.biz/index.php/testmagzine/article/view/1662"
+        },
+        {
+            "Title": "(PDF) The Phenomenon of Apprenticeship and Its Role in ...",
+            "URL": "https://www.researchgate.net/publication/338831620_The_Phenomenon_of_Apprenticeship_and_Its_Role_in_Developing_Systems_of_Education"
+        },
+        {
+            "Title": "The Phenomenon of Apprenticeship and Its ... - IOSR Journal",
+            "URL": "https://www.iosrjournals.org/iosr-jhss/papers/Vol. 24 Issue12/Series-7/L2412078894.pdf"
+        },
+        {
+            "Title": "The Phenomenon of Apprenticeship and ... - Semantic Scholar",
+            "URL": "https://www.semanticscholar.org/paper/The-Phenomenon-of-Apprenticeship-and-Its-Role-in-of-Riyad-Pramana/291f067529c9fbe3aa19d8c11865315e47e60d00"
+        },
+        {
+            "Title": "Educational theory of apprenticeship - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Educational_theory_of_apprenticeship"
+        },
+        {
+            "Title": "3.5 Apprenticeship: learning by doing (1) - BC Open Textbooks",
+            "URL": "https://opentextbc.ca/teachinginadigitalage/chapter/3-5-apprenticeship-learning-by-doing-1"
+        },
+        {
+            "Title": "Overview: Making apprenticeships work - OECD iLibrary",
+            "URL": "https://www.oecd-ilibrary.org/overview-making-apprenticeships-work_5j8k016dd1d6.pdf?itemId=/content/component/9789264306486-3-en&mimeType=pdf"
+        },
+        {
+            "Title": "Apprenticeship - an overview | ScienceDirect Topics",
+            "URL": "https://www.sciencedirect.com/topics/social-sciences/apprenticeship"
+        },
+        {
+            "Title": "The Phenomenon of Apprenticeship and Its Role in …",
+            "URL": "https://www.researchgate.net/profile/Muhamad-Riyad/publication/338831620_The_Phenomenon_of_Apprenticeship_and_Its_Role_in_Developing_Systems_of_Education/links/5e2d9b12a6fdcc70a14d4047/The-Phenomenon-of-Apprenticeship-and-Its-Role-in-Developing-Systems-of-Education.pdf"
+        },
+        {
+            "Title": "OVERVIEW OF APPRENTICESHIP SYSTEMS AND ISSUES …",
+            "URL": "http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---ifp_skills/documents/genericdocument/wcms_190188.pdf"
+        },
+        {
+            "Title": "UPGRADING INFORMAL APPRENTICESHIP SYSTEMS",
+            "URL": "http://www.ilo.org/wcmsp5/groups/public/---ed_emp/documents/genericdocument/wcms_166495.pdf"
+        },
+        {
+            "Title": "Systems thinking practitioner / Institute for …",
+            "URL": "https://www.instituteforapprenticeships.org/apprenticeship-standards/systems-thinking-practitioner"
+        },
+        {
+            "Title": "(PDF) The role of apprenticeship in the cultivation of soft skills and...",
+            "URL": "https://www.researchgate.net/publication/316867190_The_role_of_apprenticeship_in_the_cultivation_of_soft_skills_and_dispositions"
+        },
+        {
+            "Title": "The Phenomenon of Apprenticeship and Its Role in Developing...",
+            "URL": "https://testmagzine.biz/index.php/testmagzine/article/view/1662"
+        },
+        {
+            "Title": "Apprenticeship - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Apprenticeship"
+        },
+        {
+            "Title": "apprenticeship | Britannica",
+            "URL": "https://www.britannica.com/topic/apprenticeship"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about... - Elimu Centre",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "The role of modern pedagogical technologies in the education system",
+            "URL": "https://cyberleninka.ru/article/n/the-role-of-modern-pedagogical-technologies-in-the-education-system"
+        },
+        {
+            "Title": "Theories of the role and functions of education Flashcards | Quizlet",
+            "URL": "https://quizlet.com/gb/641282597/theories-of-the-role-and-functions-of-education-flash-cards"
+        },
+        {
+            "Title": "Importance of Education in Life | Salient Features of Education",
+            "URL": "https://www.theasianschool.net/blog/importance-of-education"
+        },
+        {
+            "Title": "Importance of Education (15 Reasons) - ExamPlanning %",
+            "URL": "https://examplanning.com/importance-of-education-comprehensive-article"
+        },
+        {
+            "Title": "Sustainability | Free Full-Text | The Role of Education in the...",
+            "URL": "https://www.mdpi.com/2071-1050/12/6/2320"
+        },
+        {
+            "Title": "TechnoFunc - How to Improve Education System",
+            "URL": "https://www.technofunc.com/index.php/domain-knowledge/education-domain/item/how-to-improve-education-system"
+        },
+        {
+            "Title": "Basic didactic teaching principles - Colleges and universities 2021",
+            "URL": "https://en.sodiummedia.com/4262410-basic-didactic-teaching-principles"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "The modernization of foreign language education: the linguoc",
+            "URL": "https://prezi.com/4x-3gzvqdt9o/the-modernization-of-foreign-language-education-the-linguoc"
+        },
+        {
+            "Title": "Importance Of Education Essay - Why is Education So Important?",
+            "URL": "https://pteacademicexam.com/importance-of-education-essay"
+        },
+        {
+            "Title": "Theories of Education",
+            "URL": "https://www.cliffsnotes.com/study-guides/sociology/education/theories-of-education"
+        },
+        {
+            "Title": "PDF Integration of education",
+            "URL": "http://edumag.mrsu.ru/content/pdf/17-3.pdf"
+        },
+        {
+            "Title": "Modern Trends In Education: 50 Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-education-50-different-approaches-learning"
+        },
+        {
+            "Title": "On the methodological concept of foreign language education",
+            "URL": "https://articlekz.com/en/article/29849"
+        },
+        {
+            "Title": "PDF Problems and Prospects of Higher Education System",
+            "URL": "https://mgimo.ru/upload/iblock/bfc/2017-xx-4-b-9_2018_01_06_18_54_42.pdf"
+        },
+        {
+            "Title": "PDF Theories of Higher Education",
+            "URL": "https://ioe.hse.ru/data/2018/06/25/1153175126/Brint Theories of Higher Education VI Summer Institute 5.25.18.pdf"
+        },
+        {
+            "Title": "Information technologies and education",
+            "URL": "http://www.infotaste.com/information-technologies-and-education"
+        },
+        {
+            "Title": "(PDF) The Use of Social Networking in Education... - Academia.edu",
+            "URL": "https://www.academia.edu/3059622/The_Use_of_Social_Networking_in_Education_Challenges_and_Opportunities"
+        },
+        {
+            "Title": "The Role of Education in Economic Development... :: SSRN",
+            "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1137541"
+        },
+        {
+            "Title": "REPORT on modernisation of education in the EU",
+            "URL": "https://www.europarl.europa.eu/doceo/document/A-8-2018-0173_EN.html"
+        },
+        {
+            "Title": "20 Ways Parents Play a Role in the Education of Their Children - Edsys",
+            "URL": "https://www.edsys.in/parents-play-role-education-children"
+        },
+        {
+            "Title": "The important role of technology in education",
+            "URL": "http://journalpro.ru/articles/the-important-role-of-technology-in-education"
+        },
+        {
+            "Title": "Education around the World | Introduction to Sociology",
+            "URL": "https://courses.lumenlearning.com/sociology/chapter/education-around-the-world"
+        },
+        {
+            "Title": "20 Best Education System in the World - Edsys",
+            "URL": "https://www.edsys.in/best-education-system-in-the-world"
+        },
+        {
+            "Title": "List of primary education systems by country - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/List_of_primary_education_systems_by_country"
+        },
+        {
+            "Title": "BASIC EDUCATION - Department of Foreign Affairs and Trade",
+            "URL": "https://www.dfat.gov.au/sites/default/files/basic-education-practitioner-level.pdf"
+        },
+        {
+            "Title": "Education Systems Around The World: A Comparison - LinkedIn",
+            "URL": "https://www.linkedin.com/pulse/education-systems-around-world-comparison-sashi-gundala"
+        },
+        {
+            "Title": "Basic Education (Primary and Lower Secondary Education)",
+            "URL": "https://eacea.ec.europa.eu/national-policies/eurydice/content/single-structure-education-integrated-primary-and-lower-secondary-education-24_en"
+        },
+        {
+            "Title": "Most impressive education system features of 10 foreign ...",
+            "URL": "https://www.indiatoday.in/education-today/featurephilia/story/most-impressive-education-system-features-of-10-foreign-countries-that-will-blow-your-mind-1723874-2020-09-21"
+        },
+        {
+            "Title": "Issues in Basic Education in Developing Countries",
+            "URL": "https://cice.hiroshima-u.ac.jp/wp-content/uploads/2014/03/8-1-11.pdf"
+        },
+        {
+            "Title": "Schools Around The World - How Does Education Differ From ...",
+            "URL": "https://restavekfreedom.org/2018/06/14/schools-around-the-world-how-does-education-differ-from-country-to-country"
+        },
+        {
+            "Title": "Education System In Different Countries Of The World ...",
+            "URL": "https://www.uniassignment.com/essay-samples/education/education-system-in-different-countries-of-the-world-education-essay.php"
+        },
+        {
+            "Title": "Comparison of Education in Different Countries",
+            "URL": "https://drpfconsults.com/comparison-of-education-in-different-countries"
+        },
+        {
+            "Title": "Basic education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Basic_education"
+        },
+        {
+            "Title": "Education Rankings By Country 2021 - 2021 World …",
+            "URL": "https://worldpopulationreview.com/country-rankings/education-rankings-by-country"
+        },
+        {
+            "Title": "Basic education vs higher education – where should …",
+            "URL": "https://www.alliancemagazine.org/feature/basic-education-vs-higher-education-where-should-support-be-going"
+        },
+        {
+            "Title": "Best Country: Education in the different countries",
+            "URL": "https://www.best-country.com/education-in-different-countries"
+        },
+        {
+            "Title": "School Education in Countries of the World",
+            "URL": "https://www.assignmentexpert.com/blog/school-education-systems-in-different-countries"
+        },
+        {
+            "Title": "Amazing Facts About Learning From All Over the World",
+            "URL": "https://unicheck.com/blog/amazing-facts-education"
+        },
+        {
+            "Title": "The 3 Types of Education | Formal, Informal, Non-formal | Advantages",
+            "URL": "https://www.cuemath.com/learn/3-types-of-education"
+        },
+        {
+            "Title": "The best educational systems in the world on example of European",
+            "URL": "https://www.researchgate.net/publication/322894587_The_best_educational_systems_in_the_world_on_example_of_European_and_Asian_countries"
+        },
+        {
+            "Title": "4․Education in different countries - YouTube",
+            "URL": "https://www.youtube.com/playlist?list=PL3ftueyDKi_LQ0-vCjDMXoAcO2f-Ebudi"
+        },
+        {
+            "Title": "Secondary education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Secondary_education"
+        },
+        {
+            "Title": "School and higher education in different countries: where is better?",
+            "URL": "https://BigAppleSchool.com/podcast/school-and-higher-education-in-different-countries-where-is-better"
+        },
+        {
+            "Title": "10 Best Countries for Education Around The World",
+            "URL": "https://www.globalcitizen.org/en/content/best-countries-education"
+        },
+        {
+            "Title": "The education systems in Russia, the United Kingdom and the United...",
+            "URL": "https://nsportal.ru/ap/library/drugoe/2017/05/10/the-education-systems-in-russia-the-united-kingdom-and-the-united"
+        },
+        {
+            "Title": "Study abroad | Types of higher education | Tuition fees overseas",
+            "URL": "https://www.unipage.net/en/education_countries"
+        },
+        {
+            "Title": "Russian vs UK Education System",
+            "URL": "https://studyinrussia.ru/en/actual/articles/russian-vs-british-education"
+        },
+        {
+            "Title": "7 ways Russian schools differ from those in other countries",
+            "URL": "https://www.rbth.com/lifestyle/328199-russian-schools-differ-from-american"
+        },
+        {
+            "Title": "The advantages of foreign education - Cambrige International School",
+            "URL": "https://cisedu.com/en-gb/world-of-cis/articles-education/advantages-foreign-education"
+        },
+        {
+            "Title": "List of 21 Most Educated Countries in the World - WiseStep",
+            "URL": "https://content.wisestep.com/list-educated-countries-world"
+        },
+        {
+            "Title": "Similar to the education system in different countries",
+            "URL": "https://studymoose.com/similar-to-the-education-system-in-different-countries-essay"
+        },
+        {
+            "Title": "Education in developing countries",
+            "URL": "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/human_rights-droits_homme/education.aspx?lang=eng"
+        },
+        {
+            "Title": "Comparison of British and American schools: differences and...",
+            "URL": "https://smapse.com/comparison-of-british-and-american-schools-differences-and-characteristics"
+        },
+        {
+            "Title": "Education In Different Countries - XpCourse",
+            "URL": "https://www.xpcourse.com/education-in-different-countries"
+        },
+        {
+            "Title": "Economic Issues No. 33 - Educating Children in Poor Countries",
+            "URL": "https://www.imf.org/external/pubs/ft/issues/issues33"
+        },
+        {
+            "Title": "Global Education - Our World in Data",
+            "URL": "https://ourworldindata.org/global-education"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "(PDF) Preschool Education: Knowledge or Social Skills",
+            "URL": "https://www.researchgate.net/publication/338831625_Preschool_Education_Knowledge_or_Social_Skills"
+        },
+        {
+            "Title": "Preschool Education: Knowledge or Social Skills - Semantic ...",
+            "URL": "https://www.semanticscholar.org/paper/Preschool-Education:-Knowledge-or-Social-Skills-Fadilah-Sari/326c918d8952de757b1c8c29a7aa8aef3bccda1d"
+        },
+        {
+            "Title": "(PDF) Preschool Education: Knowledge or Social Skills - Desklib",
+            "URL": "https://desklib.com/document/education-and-social-science-research"
+        },
+        {
+            "Title": "Preschool Education: Knowledge or Social Skills - Journal of ...",
+            "URL": "http://www.jcreview.com/?mno=20196"
+        },
+        {
+            "Title": "Social Skills in Preschool Children from Teachers' Perspectives",
+            "URL": "https://www.mdpi.com/2227-9067/6/5/64/htm"
+        },
+        {
+            "Title": "Social Skills in Children at Home and in Preschool - NCBI",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6681026"
+        },
+        {
+            "Title": "6 Vital Social Skills to Teach to Pre-School Children",
+            "URL": "https://www.emergingedtech.com/2018/08/vital-social-skills-to-teach-pre-school-children"
+        },
+        {
+            "Title": "Preschool and Learning-Related Skills - Encyclopedia on ...",
+            "URL": "https://www.child-encyclopedia.com/preschool-programs/according-experts/preschool-and-learning-related-skills"
+        },
+        {
+            "Title": "Social Skills as Important as Academics Beginning in Preschool",
+            "URL": "https://tlcofevergreen.com/social-skills-as-important-as-academics-beginning-in-preschool"
+        },
+        {
+            "Title": "PRESCHOOL EDUCATIONAL PRACTICE - OECD",
+            "URL": "http://www.oecd.org/education/school/48990155.pdf"
+        },
+        {
+            "Title": "Preschool Education: Knowledge or Social Skills (PDF)",
+            "URL": "https://desklib.com/document/education-and-social-science-research-pyc5"
+        },
+        {
+            "Title": "What is needed for preschool education? Knowledge or social …",
+            "URL": "https://thekashmirhorizon.com/2021/09/08/what-is-needed-for-preschool-education-knowledge-or-social-skills"
+        },
+        {
+            "Title": "Preschool Education Knowledge Or Social Skills - KnowledgeWalls",
+            "URL": "https://knowledgewalls.blogspot.com/2020/09/preschool-education-knowledge-or-social.html"
+        },
+        {
+            "Title": "13 Social Skills Activities for Preschoolers + Milestones - …",
+            "URL": "https://empoweredparents.co/social-skills-activities"
+        },
+        {
+            "Title": "6 Important Social Skills to Teach Preschoolers - Education",
+            "URL": "https://www.rightstepseducation.com/6-important-social-skills-to-teach-preschoolers"
+        },
+        {
+            "Title": "Preschool Readiness: 5 Ways to Build Social Skills | …",
+            "URL": "https://www.scholastic.com/parents/school-success/learning-toolkit-blog/preschool-readiness-5-ways-to-build-social-skills.html"
+        },
+        {
+            "Title": "PDF Preschool Education: Knowledge",
+            "URL": "http://sipeg.unj.ac.id/repository/upload/similarity/Preschool_Education__Knowledge_or_Social_Skills.pdf"
+        },
+        {
+            "Title": "Preschool Education - Importance & How to Select One",
+            "URL": "https://parenting.firstcry.com/articles/importance-of-preschool-education-for-your-kid"
+        },
+        {
+            "Title": "Pros and cons of preschool | OurKids.net | Skills learned",
+            "URL": "https://www.ourkids.net/school/preschool-benefits"
+        },
+        {
+            "Title": "Preschool Education: Knowledge or Social Skills",
+            "URL": "https://testmagzine.biz/index.php/testmagzine/article/view/1663"
+        },
+        {
+            "Title": "Preschool education - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/preschool_education"
+        },
+        {
+            "Title": "Preschool - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Preschool"
+        },
+        {
+            "Title": "PDF The Preschool",
+            "URL": "https://ncert.nic.in/dee/pdf/Combined_Pre_school_curriculumEng.pdf"
+        },
+        {
+            "Title": "PDF Preschool Educational",
+            "URL": "https://www.oecd.org/education/school/48990155.pdf"
+        },
+        {
+            "Title": "Preschool Education: Knowledge or Social Skills (PDF)",
+            "URL": "https://skills-ware.com/preschool-social-skills-pdf"
+        },
+        {
+            "Title": "Preschool Education | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/social-sciences-and-law/education/education-terms-and-concepts/preschool-education"
+        },
+        {
+            "Title": "Preschool Curriculum: What Kids Learn in Preschool",
+            "URL": "https://www.verywellfamily.com/all-about-preschool-curriculum-2764977"
+        },
+        {
+            "Title": "preschool education | Britannica",
+            "URL": "https://www.britannica.com/topic/preschool-education"
+        },
+        {
+            "Title": "Social-Emotional Development: Preschool Children | VLS",
+            "URL": "https://www.virtuallabschool.org/preschool/social-emotional/lesson-2"
+        },
+        {
+            "Title": "10 good reasons your child should attend preschool | Parenting",
+            "URL": "https://www.greatschools.org/gk/articles/why-preschool"
+        },
+        {
+            "Title": "Top 10 Preschool Curriculum Options | Homeschool.com",
+            "URL": "https://www.homeschool.com/blog/2019/08/top-10-preschool-curriculum-options"
+        },
+        {
+            "Title": "Preschool — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Preschool"
+        },
+        {
+            "Title": "Preschool - average, Definition, Description, Common problems",
+            "URL": "http://www.healthofchildren.com/P/Preschool.html"
+        },
+        {
+            "Title": "PDF Formation of Communication Skills in Preschool Children",
+            "URL": "https://kpfu.ru/staff_files/F453247775/IJESE_363_article_575d8e9eedc74.pdf"
+        },
+        {
+            "Title": "Preschool Education Research Papers - Academia.edu",
+            "URL": "https://www.academia.edu/Documents/in/Preschool_Education"
+        },
+        {
+            "Title": "Early Childhood Education",
+            "URL": "https://teach.com/careers/become-a-teacher/where-can-i-teach/grade-levels/early-childhood"
+        },
+        {
+            "Title": "PDF Effects of Preschool Curriculum Programs on School Readiness",
+            "URL": "https://ies.ed.gov/ncer/pubs/20082009/pdf/20082009_rev.pdf"
+        },
+        {
+            "Title": "Modern pedagogical technologies in training and education of children...",
+            "URL": "https://articlekz.com/en/article/29898"
+        },
+        {
+            "Title": "(PDF) Preschool Education: Knowledge or Social Skills",
+            "URL": "https://www.web2pdf.net/data/preschool-education-pdf"
+        },
+        {
+            "Title": "PDF Curriculum of Preschool Education: Swedish Approach",
+            "URL": "https://www.ijbssnet.com/journals/Vol_3_No_22_Special_Issue_November_2012/22.pdf"
+        },
+        {
+            "Title": "Shall the development of emotional intelligence be a goal of ...",
+            "URL": "https://www.edviseme.in/shall-the-development-of-emotional-intelligence-be-a-goal-of-modern-education"
+        },
+        {
+            "Title": "The Importance of Emotional Intelligence in Education - Study ...",
+            "URL": "https://study.com/academy/lesson/the-importance-of-emotional-intelligence-in-education.html"
+        },
+        {
+            "Title": "Emotional Intelligence (EI) as one of the goals of modern ...",
+            "URL": "https://www.pressreader.com/philippines/sunstar-baguio/20181228/281595241650816"
+        },
+        {
+            "Title": "Emotional intelligence in Education | Request PDF",
+            "URL": "https://www.researchgate.net/publication/228389182_Emotional_intelligence_in_Education"
+        },
+        {
+            "Title": "Developing Emotional Intelligence for Secondary School ...",
+            "URL": "http://ijll-net.com/journals/ijll/Vol_6_No_1_June_2018/4.pdf"
+        },
+        {
+            "Title": "Emotional Intelligence of Students in Smart School - idosi.org",
+            "URL": "https://www.idosi.org/mejsr/mejsr18(9)13/14.pdf"
+        },
+        {
+            "Title": "Emotional intelligence: why it matters and how to teach it - The ...",
+            "URL": "https://www.theguardian.com/teacher-network/2017/nov/03/emotional-intelligence-why-it-matters-and-how-to-teach-it"
+        },
+        {
+            "Title": "Development of Emotional Skills through Interdisciplinary ...",
+            "URL": "https://www.hindawi.com/journals/edri/2017/6089859"
+        },
+        {
+            "Title": "Improving Emotional Intelligence (EQ) - HelpGuide.org",
+            "URL": "https://www.helpguide.org/articles/mental-health/emotional-intelligence-eq.htm"
+        },
+        {
+            "Title": "EMOTIONAL INTELLIGENCE: COMPONENT OF MODERN …",
+            "URL": "https://scicomm.in/education/emotional-intelligence-component-of-modern-education"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research | …",
+            "URL": "https://taylorandwales.com/journals/JETMR"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "EMOTIONAL INTELLIGENCE AND TEACHER EFFECTIVENESS …",
+            "URL": "http://www.voiceofresearch.org/doc/Sep-2013/Sep-2013_5.pdf"
+        },
+        {
+            "Title": "The Effect of Emotional Intelligence on Student Success",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1072926.pdf"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "THE ROLE AND IMPORTANCE OF EMOTIONAL INTELLIGENCE IN …",
+            "URL": "https://issbs.si/press/ISBN/978-961-6813-10-5/papers/ML12_148.pdf"
+        },
+        {
+            "Title": "(PDF) Emotional Intelligence and Education: A critical review",
+            "URL": "https://www.researchgate.net/publication/233473746_Emotional_Intelligence_and_Education_A_critical_review"
+        },
+        {
+            "Title": "What Is Emotional Intelligence? | Later Developments",
+            "URL": "https://www.verywellmind.com/what-is-emotional-intelligence-2795423"
+        },
+        {
+            "Title": "Development of emotional intelligence in primary...",
+            "URL": "https://cyberleninka.ru/article/n/development-of-emotional-intelligence-in-primary-school-age"
+        },
+        {
+            "Title": "PDF Emotional intelligence and",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1301926.pdf"
+        },
+        {
+            "Title": "5 Ways To Develop Your Emotional Intelligence",
+            "URL": "https://www.forbes.com/sites/ashleystahl/2018/05/29/5-ways-to-develop-your-emotional-intelligence"
+        },
+        {
+            "Title": "Emotional intelligence - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Emotional_intelligence"
+        },
+        {
+            "Title": "Emotional Intelligence - Develop your soft skills at MindTools.com",
+            "URL": "https://www.mindtools.com/pages/article/newCDV_59.htm"
+        },
+        {
+            "Title": "PDF Paavola, Lilla Evelin | 3.3.2 What is emotional intelligence?",
+            "URL": "https://www.theseus.fi/bitstream/handle/10024/131619/BA Thesis of Lilla Paavola.pdf?sequence=1"
+        },
+        {
+            "Title": "Emotional intelligence - 1261 Words | Essay Example",
+            "URL": "https://ivypanda.com/essays/emotional-intelligence-4"
+        },
+        {
+            "Title": "Emotional Intelligence - It also involves predicting how... - StuDocu",
+            "URL": "https://www.studocu.com/en-za/document/university-of-limpopo/foundation-in-life-skills/emotional-intelligence/6403157"
+        },
+        {
+            "Title": "What Is Emotional Intelligence and Its Importance [Updated]",
+            "URL": "https://www.simplilearn.com/emotional-intelligence-what-why-and-how-article"
+        },
+        {
+            "Title": "PDF Microsoft Word - rez1.doc",
+            "URL": "https://doctorat.ubbcluj.ro/sustinerea_publica/rezumate/2010/psihologie/Anghel_Teodora_en.pdf"
+        },
+        {
+            "Title": "Key Names in Emotional Intelligence Research",
+            "URL": "https://positivepsychology.com/emotional-intelligence-goleman-research"
+        },
+        {
+            "Title": "Emotional Intelligence and ELT | TeachingEnglish | British Council",
+            "URL": "https://www.teachingenglish.org.uk/article/emotional-intelligence-elt"
+        },
+        {
+            "Title": "Why Emotional Intelligence Is Crucial to Effective Leadership",
+            "URL": "https://www.americanexpress.com/en-us/business/trends-and-insights/articles/why-emotional-intelligence-is-crucial-to-effective-leadership"
+        },
+        {
+            "Title": "Emotional Intelligence - Genos International",
+            "URL": "https://www.genosinternational.com/emotional-intelligence"
+        },
+        {
+            "Title": "Daniel Goleman Introduces Emotional Intelligence - YouTube",
+            "URL": "https://www.youtube.com/watch?v=Y7m9eNoB3NU"
+        },
+        {
+            "Title": "PDF Emotional Intelligence Predicts Academic Performance",
+            "URL": "https://www.apa.org/pubs/journals/releases/bul-bul0000219.pdf"
+        },
+        {
+            "Title": "Emotional Intelligence: Why it Can Matter More Than IQ - PDF Drive",
+            "URL": "https://www.pdfdrive.com/emotional-intelligence-why-it-can-matter-more-than-iq-e196172061.html"
+        },
+        {
+            "Title": "Application of Emotional Intelligence in Elementary Education...",
+            "URL": "https://epublications.regis.edu/cgi/viewcontent.cgi?article=1082&context=theses"
+        },
+        {
+            "Title": "Frontiers | Emotional Intelligence in Elementary School Children.",
+            "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01882/full"
+        },
+        {
+            "Title": "(PDF) Emotional Intelligence Why it Can Matter More... - Academia.edu",
+            "URL": "https://www.academia.edu/37329006/Emotional_Intelligence_Why_it_Can_Matter_More_Than_IQ_by_Daniel_Goleman"
+        },
+        {
+            "Title": "10 Ways to Increase Your Emotional Intelligence | Inc.com",
+            "URL": "https://www.inc.com/young-entrepreneur-council/10-ways-to-increase-your-emotional-intelligence.html"
+        },
+        {
+            "Title": "Theories of Intelligence Flashcards | Quizlet",
+            "URL": "https://quizlet.com/343840166/theories-of-intelligence-flash-cards"
+        },
+        {
+            "Title": "How to Develop Emotional Intelligence (EQ) in Kids",
+            "URL": "https://parenting.firstcry.com/articles/emotional-intelligenceeq-in-children-importance-and-tips-to-develop"
+        },
+        {
+            "Title": "Emotional Intelligence: Applications, Opportunities, and Criticism",
+            "URL": "https://hrdailyadvisor.blr.com/2019/08/19/emotional-intelligence-applications-opportunities-and-criticism"
+        },
+        {
+            "Title": "The Educational, Psychological, and Soci.. | migrationpolicy.org",
+            "URL": "https://www.migrationpolicy.org/research/educational-psychological-and-social-impact-discrimination-immigrant-child"
+        },
+        {
+            "Title": "children from immigrant families - Migration Policy Institute",
+            "URL": "https://www.migrationpolicy.org/sites/default/files/publications/FCD-Adair.pdf"
+        },
+        {
+            "Title": "and social impact of discrimination on the immigrant child",
+            "URL": "https://www.issuelab.org/resources/22382/22382.pdf"
+        },
+        {
+            "Title": "Discrimination in Education | Children's Legal Centre Wales",
+            "URL": "https://childrenslegalcentre.wales/discrimination-in-education"
+        },
+        {
+            "Title": "Discrimination in education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Discrimination_in_education"
+        },
+        {
+            "Title": "The Problem of education-based discrimination - ResearchGate",
+            "URL": "https://www.researchgate.net/publication/44839453_The_Problem_of_education-based_discrimination"
+        },
+        {
+            "Title": "Discrimination - Mentally Healthy Schools",
+            "URL": "https://www.mentallyhealthyschools.org.uk/risks-and-protective-factors/vulnerable-children/discrimination"
+        },
+        {
+            "Title": "Research: Discrimination Impacts Educational Outcomes for ...",
+            "URL": "https://salud-america.org/research-discrimination-impacts-educational-outcomes-for-latinos"
+        },
+        {
+            "Title": "A Comparative Study of Discrimination in Education - IAFOR",
+            "URL": "https://iafor.org/journal/iafor-journal-of-education/volume-4-issue-2/article-2"
+        },
+        {
+            "Title": "A Comparative Study of Discrimination in Education - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1142070.pdf"
+        },
+        {
+            "Title": "Research.docx - -TOPIC Educational discrimination and its …",
+            "URL": "https://www.coursehero.com/file/89643852/Researchdocx"
+        },
+        {
+            "Title": "Racism/discrimination and how it affects the achievement …",
+            "URL": "https://www.kingsnews.org/articles/racism-discrimination-and-how-it-affects-the-achievement-of-pupils-1fr"
+        },
+        {
+            "Title": "Discrimination in Education",
+            "URL": "https://childlawadvice.org.uk/information-pages/discrimination-in-education"
+        },
+        {
+            "Title": "Female Education in KPK.edited.docx - Educational …",
+            "URL": "https://www.coursehero.com/file/103621332/Female-Education-in-KPKediteddocx"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Types Of Educational Opportunities Discrimination",
+            "URL": "https://www.justice.gov/crt/types-educational-opportunities-discrimination"
+        },
+        {
+            "Title": "Recommendation against Discrimination in Education",
+            "URL": "http://portal.unesco.org/en/ev.php-URL_ID=13065&URL_DO=DO_TOPIC&URL_SECTION=201.html"
+        },
+        {
+            "Title": "Overview of discrimination in education - Citizens Advice",
+            "URL": "https://www.citizensadvice.org.uk/family/education/overview-of-discrimination-in-education"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about... - Elimu Centre",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "PDF Migrants, minorities and",
+            "URL": "https://ab.gov.tr/files/ardb/evt/1_avrupa_birligi/1_9_politikalar/1_9_5_azinlik_politikasi/EUMC_-_2004_-_Migrants_Minorities_and_Education_Documenting_Discrimination_And_Integration_In_15_Member_States_Of_The_European_Union.pdf"
+        },
+        {
+            "Title": "Write a report about Educational Discrimination and | Chegg.com",
+            "URL": "https://www.chegg.com/homework-help/questions-and-answers/write-report-educational-discrimination-impact-future-pupils-abstract-introduction-literat-q83183912"
+        },
+        {
+            "Title": "(PDF) Educational aspirations among ethnic minority youth in Brussels...",
+            "URL": "https://www.researchgate.net/publication/235939203_Educational_aspirations_among_ethnic_minority_youth_in_Brussels_Does_the_perception_of_ethnic_discrimination_in_the_labour_market_matter_A_mixed-method_approach"
+        },
+        {
+            "Title": "Education Discrimination Articles",
+            "URL": "https://study-education.com/education-discrimination-articles"
+        },
+        {
+            "Title": "The Most Important Education Issues Today",
+            "URL": "https://www.ranker.com/list/most-important-education-issues/lauren-slocum"
+        },
+        {
+            "Title": "PDF The impact of | COVID-19 and educational institutions",
+            "URL": "https://www.oecd.org/education/the-impact-of-covid-19-on-education-insights-education-at-a-glance-2020.pdf"
+        },
+        {
+            "Title": "Discrimination and Intolerance",
+            "URL": "https://www.coe.int/en/web/compass/discrimination-and-intolerance"
+        },
+        {
+            "Title": "PDF Ethnic Discrimination and Educational Inequality",
+            "URL": "https://biblio.ugent.be/publication/6969821/file/6969846.pdf"
+        },
+        {
+            "Title": "PDF Education",
+            "URL": "https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_policy_brief_covid-19_and_education_august_2020.pdf"
+        },
+        {
+            "Title": "Impact of Psychological Climate in the Classroom on the Educational...",
+            "URL": "https://www.art-talant.org/publikacii/22231-impact-of-psychological-climate-in-the-classroom-on-the-educational-activities-of-elementary-schoolchildren"
+        },
+        {
+            "Title": "Teens choose their future career independently - News - IQ...",
+            "URL": "https://iq.hse.ru/en/news/177667309.html"
+        },
+        {
+            "Title": "Education: From disruption to recovery",
+            "URL": "https://en.unesco.org/covid19/educationresponse"
+        },
+        {
+            "Title": "The Future of Education 2050: 7 Things That Will Change...",
+            "URL": "https://nerdymates.com/blog/education-future"
+        },
+        {
+            "Title": "Education System Essays | IELTS buddy",
+            "URL": "https://www.ieltsbuddy.com/education-system-essays1.html"
+        },
+        {
+            "Title": "A Quality Approach to School Funding - Center for American Progress",
+            "URL": "https://www.americanprogress.org/issues/education-k-12/reports/2018/11/13/460397/quality-approach-school-funding"
+        },
+        {
+            "Title": "What is the future of technology in education? | The Guardian",
+            "URL": "https://www.theguardian.com/teacher-network/teacher-blog/2013/jun/19/technology-future-education-cloud-social-learning"
+        },
+        {
+            "Title": "Distance Learning During The Coronavirus Pandemic: Equity And...",
+            "URL": "https://www.forbes.com/sites/colinseale/2020/03/17/distance-learning-during-the-coronavirus-pandemic-equity-and-access-questions-for-school-leaders"
+        },
+        {
+            "Title": "3 Defining Discrimination | Measuring Racial Discrimination",
+            "URL": "https://www.nap.edu/read/10887/chapter/6"
+        },
+        {
+            "Title": "Positive and Negative Impact of Social Media on Education",
+            "URL": "https://tis.edu.in/blog/positive-and-negative-impact-of-social-media-on-education"
+        },
+        {
+            "Title": "What is discrimination - its types, the main features and how to deal...",
+            "URL": "https://rowladyland.com/psihologiya/83967-chto-takoe-diskriminaciya-ee-vidy-osnovnye-priznaki-i-kak-borotsya-s-diskriminaciey.html"
+        },
+        {
+            "Title": "The Use of Dialects in Education and Its Impacts on Students...",
+            "URL": "https://article.sciencepublishinggroup.com/html/10.11648.j.edu.20150405.22.html"
+        },
+        {
+            "Title": "Globalization and Its Impact On Education | PDF | Economic...",
+            "URL": "https://www.scribd.com/doc/48392155/Globalization-and-Its-Impact-on-Education"
+        },
+        {
+            "Title": "Education and Socialization of Mentally Challenged People ...",
+            "URL": "https://www.researchgate.net/publication/341816254_Education_and_Socialization_of_Mentally_Challenged_People_and_Similarities_and_Differences"
+        },
+        {
+            "Title": "Education and Socialization of Mentally Challenged People",
+            "URL": "https://www.iosrjournals.org/iosr-jhss/papers/Vol. 23 Issue12/Version-1/N2312018894.pdf"
+        },
+        {
+            "Title": "Education and Socialization of Mentally Challenged People ...",
+            "URL": "https://www.psychosocial.com/article/PR280168/16611"
+        },
+        {
+            "Title": "Education and socialisation of mentally challenged people",
+            "URL": "https://www.bestassignmenthelp.co.uk/blog/education-and-socialisation-of-mentally-challenged-people"
+        },
+        {
+            "Title": "Similarities and differences in behaviour between mentally ...",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/4075504"
+        },
+        {
+            "Title": "Socialization Effect of Physical Activity in Students Who Need ...",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1172860.pdf"
+        },
+        {
+            "Title": "Education And Socialization Of Mentally ... - admision camp",
+            "URL": "http://admision2.unap.edu.pe/sugihbareng/education.and.socialization.of.mentally.challenged.people.similarities.and.differences.xhtml"
+        },
+        {
+            "Title": "Education And Socialization Of Mentally Challenged People...",
+            "URL": "https://www.youtube.com/watch?v=IHBfcuFmrAs"
+        },
+        {
+            "Title": "Education and Socialization of Mentally Challenged People",
+            "URL": "https://essaypro.help/2021/03/05/education-and-socialization-of-mentally-challenged-people"
+        },
+        {
+            "Title": "2015, chapter 4 sociology : education and socialization",
+            "URL": "https://www.slideshare.net/ssuserc37676/chapter-4-socialization-and-education"
+        },
+        {
+            "Title": "What is the Difference Between Socialization and... - Pediaa.Com",
+            "URL": "https://pediaa.com/what-is-the-difference-between-socialization-and-enculturation"
+        },
+        {
+            "Title": "Similarities And Differences Pdf Education",
+            "URL": "https://study-education.com/similarities-and-differences-pdf"
+        },
+        {
+            "Title": "PDF Sociology of Education",
+            "URL": "https://ddceutkal.ac.in/Syllabus/MA_SOCIOLOGY/Paper-16.pdf"
+        },
+        {
+            "Title": "The Role of Socialization | Boundless Sociology",
+            "URL": "https://courses.lumenlearning.com/boundless-sociology/chapter/the-role-of-socialization"
+        },
+        {
+            "Title": "Chapter 3 Enculturation Flashcards | Quizlet",
+            "URL": "https://quizlet.com/533181075/chapter-3-enculturation-flash-cards"
+        },
+        {
+            "Title": "Sociology of education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Sociology_of_education"
+        },
+        {
+            "Title": "DOC Unit Four",
+            "URL": "https://portal.tpu.ru/SHARED/m/MATVEEVA/eng/academic/Tab/UnitFour.doc"
+        },
+        {
+            "Title": "Socialization - an overview | ScienceDirect Topics",
+            "URL": "https://www.sciencedirect.com/topics/social-sciences/socialization"
+        },
+        {
+            "Title": "The Importance of Socialization in Society",
+            "URL": "https://www.sociologydiscussion.com/socialization/the-importance-of-socialization-in-society/2200"
+        },
+        {
+            "Title": "Teaching Diversity, Differences, and Similarities as Elements of...",
+            "URL": "https://www.onecommunityglobal.org/teaching-diversity-differences-and-similarities"
+        },
+        {
+            "Title": "Concept, Theories and Process of Socialization",
+            "URL": "https://bohatala.com/concept-theories-and-process-of-socialization"
+        },
+        {
+            "Title": "PDF Conditions of Formation of | Basic concepts in inclusive education",
+            "URL": "https://kpfu.ru/staff_files/F1077906242/ijese_2015_268a.pdf"
+        },
+        {
+            "Title": "Эссе на тему «There are people who are physically and mentally...»",
+            "URL": "https://nsportal.ru/ap/library/drugoe/2014/01/03/esse-na-temu-there-are-people-who-are-physically-and-mentally-challenged-and"
+        },
+        {
+            "Title": "Similarities and Differences: The Synoptic... | The Bart Ehrman Blog",
+            "URL": "https://ehrmanblog.org/similarities-differences-synoptic-problem"
+        },
+        {
+            "Title": "Male and female ability differences down to socialisation, not genetics",
+            "URL": "https://www.theguardian.com/world/2010/aug/15/girls-boys-think-same-way"
+        },
+        {
+            "Title": "PDF Theories of Higher Education",
+            "URL": "https://ioe.hse.ru/data/2018/06/25/1153175126/Brint Theories of Higher Education VI Summer Institute 5.25.18.pdf"
+        },
+        {
+            "Title": "Society's Attitude Toward People with Disabilities » Paul Burtner »...",
+            "URL": "https://paul-burtner.dental.ufl.edu/oral-health-care-for-persons-with-disabilities/societys-attitude-toward-people-with-disabilities"
+        },
+        {
+            "Title": "Traditional and Online Learning: Similarities and Differences",
+            "URL": "https://www.sites.google.com/site/traditionalvsonlinebfallaw"
+        },
+        {
+            "Title": "Different nationalities really have different personalities - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20170413-different-nationalities-really-have-different-personalities"
+        },
+        {
+            "Title": "Inclusive Classes: How Do Pupils in Such Classes Perform in ...",
+            "URL": "https://www.researchgate.net/publication/338828785_Inclusive_Classes_How_Do_Pupils_in_Such_Classes_Perform_in_Comparison_with_Non-Inclusive_Ones"
+        },
+        {
+            "Title": "Learner Diversity in Inclusive Classrooms - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1150435.pdf"
+        },
+        {
+            "Title": "Inclusive Classrooms: A Primer for Teachers | Reading Rockets",
+            "URL": "https://www.readingrockets.org/teaching/inclusive-classrooms"
+        },
+        {
+            "Title": "Definition, Examples, and Classroom Strategies - Resilient ...",
+            "URL": "https://resilienteducator.com/classroom-resources/inclusive-education"
+        },
+        {
+            "Title": "The Effects of Inclusion on the Academic Achievement of ...",
+            "URL": "https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1369&context=etd"
+        },
+        {
+            "Title": "Inclusive classroom - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Inclusive_classroom"
+        },
+        {
+            "Title": "The Value of Inclusive Education - Open Society Foundations",
+            "URL": "https://www.opensocietyfoundations.org/explainers/value-inclusive-education"
+        },
+        {
+            "Title": "Inclusive education | UNICEF",
+            "URL": "https://www.unicef.org/education/inclusive-education"
+        },
+        {
+            "Title": "Inclusive Classroom Climate - Yale Center for Teaching and ...",
+            "URL": "https://poorvucenter.yale.edu/ClassClimates"
+        },
+        {
+            "Title": "4 Benefits of Inclusion Classrooms | Understood",
+            "URL": "https://www.understood.org/articles/en/4-benefits-of-inclusive-classrooms"
+        },
+        {
+            "Title": "Inclusive Classes: How Do Pupils in Such Classes Perform in …",
+            "URL": "http://www.testmagzine.biz/index.php/testmagzine/article/view/1655"
+        },
+        {
+            "Title": "www.researchgate.net",
+            "URL": "https://www.researchgate.net/profile/Cipta-Pramana/publication/338828785_Inclusive_Classes_How_Do_Pupils_in_Such_Classes_Perform_in_Comparison_with_Non-Inclusive_Ones/links/5e2d3e4aa6fdcc70a14bd956/Inclusive-Classes-How-Do-Pupils-in-Such-Classes-Perform-in-Comparison-with-Non-Inclusive-Ones"
+        },
+        {
+            "Title": "View of Inclusive Classes: How Do Pupils in Such Classes Perform …",
+            "URL": "http://testmagzine.biz/index.php/testmagzine/article/view/1655/1496"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Inclusive Classroom:How Do Pupils In Classes Perform vs With...",
+            "URL": "https://www.youtube.com/watch?v=DN8GhoTzlfk"
+        },
+        {
+            "Title": "Inclusive Classes: How Do Pupils in Such Classes Perform in...",
+            "URL": "https://testmagzine.biz/index.php/testmagzine/article/view/1655"
+        },
+        {
+            "Title": "5 Types of Instructional Adaptations for Your Inclusive Classroom",
+            "URL": "https://blog.brookespublishing.com/5-types-of-instructional-adaptations-for-your-inclusive-classroom"
+        },
+        {
+            "Title": "Inclusive Classroom Learning: 3 Ways to Create the Right Environment",
+            "URL": "https://onlinedegrees.sandiego.edu/3-ways-to-create-inclusive-learning"
+        },
+        {
+            "Title": "Inclusion (education) - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Inclusion_(education)"
+        },
+        {
+            "Title": "How to build an inclusive classroom environment - Classcraft Blog",
+            "URL": "https://www.classcraft.com/blog/inclusive-classroom-environment"
+        },
+        {
+            "Title": "The Inclusive Class",
+            "URL": "http://www.theinclusiveclass.com"
+        },
+        {
+            "Title": "Research Topics In Education - Research & Ph.D Guide Success...",
+            "URL": "https://researchphd.in/research-topics-in-education"
+        },
+        {
+            "Title": "Non Inclusion Classroom Definition - 11/2021",
+            "URL": "https://www.coursef.com/non-inclusion-classroom-definition"
+        },
+        {
+            "Title": "PDF Literature Review of the Principles and Practices relating to Inclusive...",
+            "URL": "https://ncse.ie/wp-content/uploads/2014/10/NCSE_Inclusion.pdf"
+        },
+        {
+            "Title": "PDF Creating an inclusive",
+            "URL": "https://www.teachingenglish.org.uk/sites/teacheng/files/J157_Creating an inclusive school environment report_FINAL_web.pdf"
+        },
+        {
+            "Title": "What is inclusive learning and teaching and why is it important? | Staff",
+            "URL": "https://www.imperial.ac.uk/staff/educational-development/teaching-toolkit/inclusive-learning-and-teaching/what-is-inclusive-learning-and-teaching-and-why-is-it-important"
+        },
+        {
+            "Title": "How to include children with special educational... | British Council",
+            "URL": "https://www.britishcouncil.org/voices-magazine/how-include-children-special-educational-needs-and-disabilities"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu Centre",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research...",
+            "URL": "http://journalseeker.researchbib.com/view/issn/2652-4813"
+        },
+        {
+            "Title": "Inclusive Education and Classroom Practice in Secondary Education 4",
+            "URL": "https://www.scribd.com/document/473353746/inclusive-education-and-effective-classroom-practice-IECP-secondary-Literature-Review-pdf"
+        },
+        {
+            "Title": "Teaching large classes: problems and suggested tips",
+            "URL": "https://www.myenglishpages.com/blog/teaching-large-classes-problems-and-suggested-techniques"
+        },
+        {
+            "Title": "Study highlights benefits of home learning | Schools | The Guardian",
+            "URL": "https://www.theguardian.com/education/2002/oct/05/schools.uk"
+        },
+        {
+            "Title": "Education Flashcards | Quizlet",
+            "URL": "https://quizlet.com/524947857/education-flash-cards"
+        },
+        {
+            "Title": "Learning Difficulties In The ELT Classroom: How To Identify Them...",
+            "URL": "https://oupeltglobalblog.com/2018/06/15/learning-difficulties-elt"
+        },
+        {
+            "Title": "Bell Curve Grading | K12 Academics",
+            "URL": "https://www.k12academics.com/education-assessment-evaluation/bell-curve-grading"
+        },
+        {
+            "Title": "the sociology of education and bell curve controversy",
+            "URL": "https://archives.palarch.nl/index.php/jae/article/download/4765/4698/9167"
+        },
+        {
+            "Title": "Bell Curve: Definition & Impact on Grades - Study.com",
+            "URL": "https://study.com/academy/lesson/bell-curve-definition-impact-on-grades.html"
+        },
+        {
+            "Title": "Why We Should Stop Grading Students on a Curve - The New ...",
+            "URL": "https://www.nytimes.com/2016/09/11/opinion/sunday/why-we-should-stop-grading-students-on-a-curve.html"
+        },
+        {
+            "Title": "(PDF) The Impact of Grading on the Curve: A Simulation ...",
+            "URL": "https://www.researchgate.net/publication/268299412_The_Impact_of_Grading_on_the_Curve_A_Simulation_Analysis"
+        },
+        {
+            "Title": "Why the Bell Curve system for giving grades needs reform",
+            "URL": "https://www.universityworldnews.com/post.php?story=20211019082700738"
+        },
+        {
+            "Title": "Students' Conceptions of Bell Curve Grading Fairness in ...",
+            "URL": "https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1919&context=ij-sotl"
+        },
+        {
+            "Title": "Grading on a Curve",
+            "URL": "https://www.austincc.edu/sziser/Biol 2404/Grading on a Curve.pdf"
+        },
+        {
+            "Title": "Bell curve grading | Psychology Wiki | Fandom",
+            "URL": "https://psychology.wikia.org/wiki/Bell_curve_grading"
+        },
+        {
+            "Title": "The Merits and Demerits of Grading on a Bell Curve | The …",
+            "URL": "https://cubelogger.wordpress.com/2011/07/15/the-merits-and-demerits-of-grading-on-a-bell-curve"
+        },
+        {
+            "Title": "Use of Bell Curve in Performance Appraisals – Good or …",
+            "URL": "https://empxtrack.com/blog/bell-curve-for-performance-appraisal"
+        },
+        {
+            "Title": "The Bell Curve Controversy - Explorable",
+            "URL": "https://explorable.com/bell-curve-controversy"
+        },
+        {
+            "Title": "Grade Curve Calculator - CalcuNation.com",
+            "URL": "http://www.calcunation.com/calculator/bell-curve-grade.php"
+        },
+        {
+            "Title": "The sociology of education and bell curve...",
+            "URL": "https://archives.palarch.nl/index.php/jae/article/view/4765"
+        },
+        {
+            "Title": "How To Grade on a Bell Curve in 5 Steps - YouTube",
+            "URL": "https://www.youtube.com/watch?v=uexhLXeAnbQ"
+        },
+        {
+            "Title": "How to Create a Bell Curve Chart",
+            "URL": "https://support.microsoft.com/en-us/office/how-to-create-a-bell-curve-chart-eaa398ef-ac0c-4f8e-b19a-65978bbfb9db"
+        },
+        {
+            "Title": "How to Make a Bell Curve in Excel (Step-by-step Guide)",
+            "URL": "https://trumpexcel.com/bell-curve"
+        },
+        {
+            "Title": "How to Grade on a Bell Curve | Sciencing",
+            "URL": "https://sciencing.com/grade-bell-curve-8786404.html"
+        },
+        {
+            "Title": "Bell Curve (Formula, Examples)| What is Bell Shaped Graph?",
+            "URL": "https://www.wallstreetmojo.com/bell-curve"
+        },
+        {
+            "Title": "Calculate a grade for a normal curve with this Grade Curve Calculator.",
+            "URL": "https://www.calcunation.com/calculator/bell-curve-grade.php"
+        },
+        {
+            "Title": "An Introduction to the Bell Curve",
+            "URL": "https://www.thoughtco.com/introduction-to-the-bell-curve-3126337"
+        },
+        {
+            "Title": "How To Bell Curve Calculator Grade",
+            "URL": "https://www.how-use.com/bell-curve-calculator-grade"
+        },
+        {
+            "Title": "What Is Bell Curve Grading? | How is bell curve calculated?",
+            "URL": "https://lwgportlandharbor.org/what-is-bell-curve-grading"
+        },
+        {
+            "Title": "bell curve grading calculator",
+            "URL": "https://otoplenie-expert.com/qtvt30p/bell-curve-grading-calculator"
+        },
+        {
+            "Title": "Bell Curve Definition | How Is the Bell Curve Used in Finance?",
+            "URL": "https://www.investopedia.com/terms/b/bell-curve.asp"
+        },
+        {
+            "Title": "The Bell Curve - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/The_Bell_Curve"
+        },
+        {
+            "Title": "How to Create a Normal Distribution Bell Curve in Excel",
+            "URL": "https://www.automateexcel.com/charts/bell-curve-plot-template"
+        },
+        {
+            "Title": "How To Create A Bell Curve?",
+            "URL": "https://highlandsartgarage.com/how-to-create-a-bell-curve"
+        },
+        {
+            "Title": "Define What is a Bell curve in performance appraisal system?",
+            "URL": "https://www.hrhelpboard.com/performance-management/bell-curve-appraisal.htm"
+        },
+        {
+            "Title": "Why you should not grade your employees on a bell curve",
+            "URL": "https://yourstory.com/2017/02/disadvantages-of-bell-curve/amp"
+        },
+        {
+            "Title": "How to create a bell curve in Excel",
+            "URL": "https://www.spreadsheetweb.com/bell-curve-in-excel"
+        },
+        {
+            "Title": "How to Make a Bell Curve in Google Sheets? | Productivity Spot",
+            "URL": "https://productivityspot.com/bell-curve-google-sheets"
+        },
+        {
+            "Title": "Normal Distribution (Bell Curve) | How to reference this article",
+            "URL": "https://www.simplypsychology.org/normal-distribution.html"
+        },
+        {
+            "Title": "How to Curve Grades: 8 Steps (with Pictures) - wikiHow",
+            "URL": "https://www.wikihow.com/Curve-Grades"
+        },
+        {
+            "Title": "The Bell Curve - RationalWiki",
+            "URL": "https://rationalwiki.org/wiki/The_Bell_Curve"
+        },
+        {
+            "Title": "Assessment, Standards and the Bell Curve | teacherhead",
+            "URL": "https://teacherhead.com/2013/07/17/assessment-standards-and-the-bell-curve"
+        },
+        {
+            "Title": "The Myth Of The Bell Curve: Look For The Hyper-Performers",
+            "URL": "https://www.forbes.com/sites/joshbersin/2014/02/19/the-myth-of-the-bell-curve-look-for-the-hyper-performers"
+        },
+        {
+            "Title": "Do We Still Need Grades In The Modern Educational System?",
+            "URL": "https://wrytin.com/fundyfunky/do-we-still-need-grades-in-the-modern-educational-system-jyrcbfey"
+        },
+        {
+            "Title": "Do we still need grades in the modern education system?",
+            "URL": "https://www.bestassignmenthelp.co.uk/blog/do-we-still-need-grades-in-the-modern-education-system"
+        },
+        {
+            "Title": "Do We Still Need Grades in the Modern Education System?",
+            "URL": "https://beecomunicacion.com/do-we-still-need-grades-in-the-modern-education-system"
+        },
+        {
+            "Title": "3 reasons grades are bad for education - THNK School of ...",
+            "URL": "https://www.thnk.org/blog/3-reasons-grades-bad-education"
+        },
+        {
+            "Title": "Grades in a Modern Education System | Forbes and Fifth",
+            "URL": "https://www.forbes5.pitt.edu/article/grades-modern-education-system"
+        },
+        {
+            "Title": "Do Students Really Need Grades? Teachers Are Divided",
+            "URL": "https://www.edweek.org/teaching-learning/do-students-really-need-grades-teachers-are-divided/2018/01"
+        },
+        {
+            "Title": "The Importance of Grades in Modern Education System",
+            "URL": "https://www.thehighereducationreview.com/news/the-importance-of-grades-in-modern-education-system-nid-998.html"
+        },
+        {
+            "Title": "Pros and Cons of Eliminating the Grading System",
+            "URL": "https://thebestschools.org/magazine/eliminating-grading-system-college-pros-cons"
+        },
+        {
+            "Title": "Grading System | Do Students Really Need Grades? - MADE ...",
+            "URL": "https://blog.madeeasy.in/grading-system-do-students-really-need-grades"
+        },
+        {
+            "Title": "Teaching More by Grading Less (or Differently) - NCBI",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041495"
+        },
+        {
+            "Title": "Do We Still Need Grades In The Modern Education …",
+            "URL": "https://eduindex.org/2021/06/28/do-we-still-need-grades-in-the-modern-education-system"
+        },
+        {
+            "Title": "Do We Still Need Grades in the Modern Educational System? | …",
+            "URL": "https://tojqi.net/index.php/journal/article/view/794"
+        },
+        {
+            "Title": "Do we still need grades in the modern educational system? and …",
+            "URL": "https://strictlywriting.com/do-we-still-need-grades-in-the-modern-educational-system-and-do-you-think-standardized-testing-is-the-most-effective-way-to-judge-learning"
+        },
+        {
+            "Title": "Should Grades Be Abolished? | Pros and Cons of Eliminating the...",
+            "URL": "https://TheBestSchools.org/magazine/eliminating-grading-system-college-pros-cons"
+        },
+        {
+            "Title": "Grading System in Education: Advantages and Disadvantages",
+            "URL": "https://content.wisestep.com/advantages-disadvantages-grading-system-education"
+        },
+        {
+            "Title": "Grading in education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Grading_in_education"
+        },
+        {
+            "Title": "Do We Still Need Grades in the Modern Educational System?",
+            "URL": "https://www.tojqi.net/index.php/journal/article/view/794"
+        },
+        {
+            "Title": "Modern education system vs traditional education system",
+            "URL": "https://xpertcube.com/modern-education-system"
+        },
+        {
+            "Title": "5 Signs the Modern Education System Will Not Change This World...",
+            "URL": "https://www.learning-mind.com/modern-education-system"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "How should / could we improve the Educational System, to adapt...",
+            "URL": "https://www.researchgate.net/post/How_should_could_we_improve_the_Educational_System_to_adapt_modern_times_and_future_generations"
+        },
+        {
+            "Title": "Modern Education System - The Pros & Cons",
+            "URL": "https://askopinion.com/pros-and-cons-of-modern-education-system"
+        },
+        {
+            "Title": "The Most Important Education Issues Today",
+            "URL": "https://www.ranker.com/list/most-important-education-issues/lauren-slocum"
+        },
+        {
+            "Title": "Education system in the USA — How does it work",
+            "URL": "https://www.unipage.net/en/education_system_usa"
+        },
+        {
+            "Title": "20 Best Education System in the World - Edsys",
+            "URL": "https://www.edsys.in/best-education-system-in-the-world"
+        },
+        {
+            "Title": "Modern Trends In Education: 50 Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-education-50-different-approaches-learning"
+        },
+        {
+            "Title": "10 Important Facts About American Educational System",
+            "URL": "https://www.currentschoolnews.com/articles/facts-about-american-educational-system"
+        },
+        {
+            "Title": "7 ways Russian schools differ from those in other countries",
+            "URL": "https://www.rbth.com/lifestyle/328199-russian-schools-differ-from-american"
+        },
+        {
+            "Title": "Top 8 modern education problems and ways to solve them",
+            "URL": "https://world.edu/top-8-modern-education-problems-ways-solve"
+        },
+        {
+            "Title": "PDF Problems and Prospects of Higher Education System",
+            "URL": "https://mgimo.ru/upload/iblock/bfc/2017-xx-4-b-9_2018_01_06_18_54_42.pdf"
+        },
+        {
+            "Title": "The Future of Education 2050: 7 Things That Will Change...",
+            "URL": "https://nerdymates.com/blog/education-future"
+        },
+        {
+            "Title": "Why Is Education Important: All The Reasons To Stay In School",
+            "URL": "https://www.uopeople.edu/blog/10-reasons-why-is-education-important"
+        },
+        {
+            "Title": "Russian Schools Are Changing Rapidly, But Not... — HSE University",
+            "URL": "https://www.hse.ru/en/news/edu/252581392.html"
+        },
+        {
+            "Title": "What is the future of technology in education? | The Guardian",
+            "URL": "https://www.theguardian.com/teacher-network/teacher-blog/2013/jun/19/technology-future-education-cloud-social-learning"
+        },
+        {
+            "Title": "EDUCATION Flashcards | Quizlet",
+            "URL": "https://quizlet.com/vn/345527754/education-flash-cards"
+        },
+        {
+            "Title": "21 Simple Ideas To Improve Student Motivation - TeachThought",
+            "URL": "https://www.teachthought.com/pedagogy/improve-student-motivation-ideas"
+        },
+        {
+            "Title": "HOW TO MAKE PUPILS INTERESTED - Anveshana's ...",
+            "URL": "http://publications.anveshanaindia.com/wp-content/uploads/2019/07/EDUCATION-AND-MOTIVATION-HOW-TO-MAKE-PUPILS-INTERESTED.pdf"
+        },
+        {
+            "Title": "Education and Motivation: How to Make Pupils Interested?",
+            "URL": "https://www.psychosocial.com/article/PR200232/9633"
+        },
+        {
+            "Title": "Motivating Students - Teach.com",
+            "URL": "https://teach.com/what/teachers-change-lives/motivating-students"
+        },
+        {
+            "Title": "Motivating Students | Center for Teaching | Vanderbilt University",
+            "URL": "https://cft.vanderbilt.edu/guides-sub-pages/motivating-students"
+        },
+        {
+            "Title": "10 strategies that promote motivation - THE EDUCATION HUB",
+            "URL": "https://theeducationhub.org.nz/10-strategies-that-promote-motivation"
+        },
+        {
+            "Title": "Twenty Tips on Motivating Students | Graduate Studies",
+            "URL": "https://www.unl.edu/gradstudies/professional-development/motivating"
+        },
+        {
+            "Title": "12 Strategies to Motivate Your Child to Learn - Education Corner",
+            "URL": "https://www.educationcorner.com/motivating-your-child-to-learn.html"
+        },
+        {
+            "Title": "Motivation in Education: What it Takes to Motivate Our Kids",
+            "URL": "https://positivepsychology.com/motivation-education"
+        },
+        {
+            "Title": "Strategies for Motivating Students: Start with Intrinsic Motivation",
+            "URL": "https://www.waterford.org/education/how-to-motivate-students"
+        },
+        {
+            "Title": "EDUCATION AND MOTIVATION: HOW TO MAKE PUPILS …",
+            "URL": "http://publications.anveshanaindia.com/?smd_process_download=1&download_id=7365"
+        },
+        {
+            "Title": "make pupils interested.docx Education and motivation how to",
+            "URL": "http://digilib.uinsgd.ac.id/31192/1/Education and motivation how to make pupils interested.docx.pdf"
+        },
+        {
+            "Title": "Education and Motivation: How to Make Pupils Interested? - …",
+            "URL": "http://digilib.uinsgd.ac.id/31192"
+        },
+        {
+            "Title": "EDUCATION AND MOTIVATION: HOW TO MAKE PUPILS …",
+            "URL": "http://publications.anveshanaindia.com/sdm_downloads/education-motivation-make-pupils-interested"
+        },
+        {
+            "Title": "Education and Motivation: How to Make Students …",
+            "URL": "https://aspiringgentleman.com/advice/how-to-make-students-interested"
+        },
+        {
+            "Title": "How to keep pupils motivated in education and sports | …",
+            "URL": "https://www.inspiresport.com/how-to-keep-pupils-motivated"
+        },
+        {
+            "Title": "5 Ways to Promote Your Students’ Intrinsic Motivation to …",
+            "URL": "https://www.fluentu.com/blog/educator-english/motivating-students-to-learn-english"
+        },
+        {
+            "Title": "How to Stimulate the Students’ Motivation in English Learning",
+            "URL": "https://webofproceedings.org/proceedings_series/ESSP/FMESS 2017/FMESS_082245.pdf"
+        },
+        {
+            "Title": "PDF Education and motivation how",
+            "URL": "https://digilib.uinsgd.ac.id/31192/1/Education and motivation how to make pupils interested.docx.pdf"
+        },
+        {
+            "Title": "Best 11 Strategies Involving Students Interest In Learning",
+            "URL": "https://www.jbcnschool.edu.in/blog/students-interest-in-learning"
+        },
+        {
+            "Title": "Keeping pupils motivated and engaged - GOV.UK",
+            "URL": "https://www.gov.uk/guidance/keeping-pupils-motivated-and-engaged"
+        },
+        {
+            "Title": "10 Ways to Keep Your Class Interesting | Education Expert",
+            "URL": "https://www.thoughtco.com/ways-to-keep-your-class-interesting-4061719"
+        },
+        {
+            "Title": "How to Motivate Students (with Pictures) - wikiHow",
+            "URL": "https://www.wikihow.com/Motivate-Students"
+        },
+        {
+            "Title": "Top 10 Ways to Increase Your Students' Interest in a Subject",
+            "URL": "https://www.emergingedtech.com/2016/04/10-ways-to-increase-students-interest-in-a-subject"
+        },
+        {
+            "Title": "Key Ways to Motivate Students from Young Learners to Adults | ITTT",
+            "URL": "https://www.teflcourse.net/blog/3-types-of-student-and-how-to-motivate-them-ittt-tefl-blog"
+        },
+        {
+            "Title": "21 Simple Ideas To Improve Student Motivation - TeachThought",
+            "URL": "https://www.teachthought.com/pedagogy/21-simple-ideas-to-improve-student-motivatio"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "How To Motivate Students: Some Different Approaches - Top Hat",
+            "URL": "https://tophat.com/blog/how-to-motivate-students"
+        },
+        {
+            "Title": "How to get pupils interested in activities they don't like?",
+            "URL": "https://www.onlinecultus.com/how-to-get-pupils-interested-in-activities-they-dont-like"
+        },
+        {
+            "Title": "Modern methods and approaches used for motivating young learners...",
+            "URL": "https://moluch.ru/archive/231/53591"
+        },
+        {
+            "Title": "(PDF) Motivation in Education",
+            "URL": "https://www.researchgate.net/publication/266141351_Motivation_in_Education"
+        },
+        {
+            "Title": "10 Examples of Scholarship Motivation Letter... : Current School News",
+            "URL": "https://www.currentschoolnews.com/education-news/examples-of-scholarship-motivation-letter"
+        },
+        {
+            "Title": "How to make pupils curious",
+            "URL": "https://www.tes.com/news/how-make-your-pupils-curious-enough-learn"
+        },
+        {
+            "Title": "13 Most Effective Teaching Strategies For School Teachers (UK)",
+            "URL": "https://thirdspacelearning.com/blog/teaching-strategies"
+        },
+        {
+            "Title": "16 Innovative Ideas to Make Your Teaching Methods Effective",
+            "URL": "https://www.edsys.in/16-innovative-ideas-make-teaching-methods-effective"
+        },
+        {
+            "Title": "How to improve Russia's secondary education - Russia Beyond",
+            "URL": "https://www.rbth.com/articles/2012/09/06/how_to_improve_russias_secondary_education_17975.html"
+        },
+        {
+            "Title": "MOTIVATIONAL LETTER TO THE UNIVERSITY - Go Study",
+            "URL": "https://www.go-study.uz/82777"
+        },
+        {
+            "Title": "Classical vs. Modern Education",
+            "URL": "https://cswichita.com/classical-vs-modern-education"
+        },
+        {
+            "Title": "Comparison Classical Method of Education and Modern Web ...",
+            "URL": "https://www.researchgate.net/publication/228920922_Comparison_Classical_Method_of_Education_and_Modern_Web-Based_Distance_Learning_System_WBDLS"
+        },
+        {
+            "Title": "Modern education system vs traditional education system",
+            "URL": "https://xpertcube.com/modern-education-system"
+        },
+        {
+            "Title": "Classical vs. Modern Education: The Principal Difference",
+            "URL": "http://www.angelicum.net/classical-homeschooling-magazine/second-issue/classical-vs-modern-education-the-principal-difference"
+        },
+        {
+            "Title": "The Difference Between Classical Education, Modern ...",
+            "URL": "https://www.classicaleducationtoday.com/2017/08/26/the-difference-between-classical-education-modern-education-and-traditional-american-education"
+        },
+        {
+            "Title": "Comparison Classical Method of Education and Modern Web ...",
+            "URL": "https://ijme.us/issues/fall2007/f2007saeedpaper12.pdf"
+        },
+        {
+            "Title": "Traditional Education System versus Modern Education System",
+            "URL": "https://madhavuniversity.edu.in/reference-to-indian-education-system.html"
+        },
+        {
+            "Title": "How a Classics Education Prepares Students for a Modern ...",
+            "URL": "https://www.edsurge.com/news/2018-06-19-how-a-classics-education-prepares-students-for-a-modern-world"
+        },
+        {
+            "Title": "Classical Education Vs. Modern Day Education",
+            "URL": "https://www.brighthubeducation.com/classroom-management/3024-modern-day-education-vs-classical-education"
+        },
+        {
+            "Title": "Classical vs. Modern Education | Classical School of Wichita",
+            "URL": "http://cswichita.com/classical-vs-modern-education"
+        },
+        {
+            "Title": "Classical vs. Modern Education: The Principal Difference – …",
+            "URL": "https://www.angelicum.net/classical-homeschooling-magazine/second-issue/classical-vs-modern-education-the-principal-difference"
+        },
+        {
+            "Title": "How can modern education be compared with classical school …",
+            "URL": "https://writedemy.com/how-can-modern-education-be-compared-with-classical-school-education"
+        },
+        {
+            "Title": "Traditional education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Traditional_education"
+        },
+        {
+            "Title": "Pros and Cons of Online Education vs Traditional Education",
+            "URL": "https://www.classgap.com/en/blog/online-education-traditional-education-which-one-better-for"
+        },
+        {
+            "Title": "Online Education vs. Traditional Education, Sample of Essays",
+            "URL": "https://educheer.com/essays/online-education-vs-traditional-education"
+        },
+        {
+            "Title": "Modern Trends In Education: 50 Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-education-50-different-approaches-learning"
+        },
+        {
+            "Title": "education | Definition, Development, History, Types, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/education"
+        },
+        {
+            "Title": "Components of Modern Education",
+            "URL": "https://witanworld.com/article/2019/08/22/education"
+        },
+        {
+            "Title": "7 ways Russian schools differ from those in other countries",
+            "URL": "https://www.rbth.com/lifestyle/328199-russian-schools-differ-from-american"
+        },
+        {
+            "Title": "Comparison of British and American schools: differences and...",
+            "URL": "https://smapse.com/comparison-of-british-and-american-schools-differences-and-characteristics"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "The Future of Education 2050: 7 Things That Will Change...",
+            "URL": "https://nerdymates.com/blog/education-future"
+        },
+        {
+            "Title": "Speak About Education in English: School, College, University...",
+            "URL": "https://www.youtube.com/watch?v=WVegMVtJsC4"
+        },
+        {
+            "Title": "20 Best Education System in the World - Edsys",
+            "URL": "https://www.edsys.in/best-education-system-in-the-world"
+        },
+        {
+            "Title": "Education - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Education"
+        },
+        {
+            "Title": "Primary and Secondary Education - Our World in Data",
+            "URL": "https://ourworldindata.org/primary-and-secondary-education"
+        },
+        {
+            "Title": "How New Technologies Are Helping Students Learn",
+            "URL": "https://interestingengineering.com/how-new-technologies-are-helping-students-learn"
+        },
+        {
+            "Title": "Russian Schools Are Changing Rapidly, But Not... — HSE University",
+            "URL": "https://www.hse.ru/en/news/edu/252581392.html"
+        },
+        {
+            "Title": "How Has Technology Changed Education | Purdue Online",
+            "URL": "https://online.purdue.edu/blog/education/how-has-technology-changed-education"
+        },
+        {
+            "Title": "The education systems in Russia, the United Kingdom and the United...",
+            "URL": "https://nsportal.ru/ap/library/drugoe/2017/05/10/the-education-systems-in-russia-the-united-kingdom-and-the-united"
+        },
+        {
+            "Title": "Comparison of education systems in Russia and USA",
+            "URL": "https://studyinrussia.ru/en/actual/articles/education-in-russia-vs-usa"
+        },
+        {
+            "Title": "Why Is Education Important: All The Reasons To Stay In School",
+            "URL": "https://www.uopeople.edu/blog/10-reasons-why-is-education-important"
+        },
+        {
+            "Title": "Education - Simple English Wikipedia, the free encyclopedia",
+            "URL": "https://simple.wikipedia.org/wiki/Education"
+        },
+        {
+            "Title": "Importance of Education in Life | Salient Features of Education",
+            "URL": "https://www.theasianschool.net/blog/importance-of-education"
+        },
+        {
+            "Title": "Education system in the USA — How does it work | Senior high school",
+            "URL": "https://www.unipage.net/en/education_system_usa"
+        },
+        {
+            "Title": "25 quotes that show why education is important",
+            "URL": "https://www.Canva.com/learn/25-quotes-show-education-important"
+        },
+        {
+            "Title": "What is the future of technology in education? | The Guardian",
+            "URL": "https://www.theguardian.com/teacher-network/teacher-blog/2013/jun/19/technology-future-education-cloud-social-learning"
+        },
+        {
+            "Title": "Anti-Bullying Laws in India - iPleaders",
+            "URL": "https://blog.ipleaders.in/bullying"
+        },
+        {
+            "Title": "Bullying and Unhealthy Psychological Atmosphere in Class",
+            "URL": "https://turkjphysiotherrehabil.org/pub/pdf/322/32-2-477.pdf"
+        },
+        {
+            "Title": "Bullying and Unhealthy Psychological Atmosphere in Class",
+            "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857728"
+        },
+        {
+            "Title": "bullying and unhealthy psychological atmosphere in class. its ...",
+            "URL": "https://lifelearners.ng/bullying-and-unhealthy-psychological-atmosphere-in-class-its-impact-on-the-quality-of-education"
+        },
+        {
+            "Title": "Bullying and Unhealthy Psychological Atmosphere - Scribd",
+            "URL": "https://www.scribd.com/document/405608887/Bullying-and-unhealthy-psychological-atmosphere-docx"
+        },
+        {
+            "Title": "The Impact of School Bullying On Students' Academic ... - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1144634.pdf"
+        },
+        {
+            "Title": "How Does Bullying Affect a Student's Academic Performance?",
+            "URL": "https://www.publicschoolreview.com/blog/how-does-bullying-affect-a-students-academic-performance"
+        },
+        {
+            "Title": "Assignment 1.docx - Assignment 3 Topic Bullying and...",
+            "URL": "https://www.coursehero.com/file/46792840/Assignment-1docx"
+        },
+        {
+            "Title": "BULLYING AND UNHEALTHY PSYCHOLOGICAL ATMOSPHERE IN …",
+            "URL": "https://www.turkjphysiotherrehabil.org/pub/pdf/322/32-2-477.pdf"
+        },
+        {
+            "Title": "Bullying and Unhealthy Psychological Atmosphere in …",
+            "URL": "https://www.academia.edu/49082991/Bullying_and_Unhealthy_Psychological_Atmosphere_in_Class_Its_Impact_on_The_Quality_of_Education"
+        },
+        {
+            "Title": "Bullying_and_Unhealthy_Psychological_Atm.pdf - Turkish …",
+            "URL": "https://www.coursehero.com/file/105969869/Bullying-and-Unhealthy-Psychological-Atmpdf"
+        },
+        {
+            "Title": "Bullying And Unhealthy Psychological Atmosphere In …",
+            "URL": "https://www.youtube.com/watch?v=dCagDtG4KRs"
+        },
+        {
+            "Title": "Bullying And Unhealthy Psychological Atmosphere In Class: It's",
+            "URL": "https://www.scribd.com/document/455061054/1234"
+        },
+        {
+            "Title": "Bulling and unhealthy psychological atmosphere in...",
+            "URL": "https://essaywritingplanet.com/bulling-unhealthy-psychological-atmosphere-class-impact-quality-education"
+        },
+        {
+            "Title": "Bullying And Unhealthy Psychological Atmosphere In Class by...",
+            "URL": "https://www.youtube.com/watch?v=LDlmFM-rzOA"
+        },
+        {
+            "Title": "Impact of Psychological Climate in the Classroom on the...",
+            "URL": "https://www.art-talant.org/publikacii/22231-impact-of-psychological-climate-in-the-classroom-on-the-educational-activities-of-elementary-schoolchildren"
+        },
+        {
+            "Title": "Bullying and unhealthy psychological atmosphere.docx",
+            "URL": "https://pdfcoffee.com/bullying-and-unhealthy-psychological-atmospheredocx-pdf-free.html"
+        },
+        {
+            "Title": "(PDF) Impact of Class Atmosphere on the Quality of Learning (QoL)",
+            "URL": "https://www.researchgate.net/publication/310573451_Impact_of_Class_Atmosphere_on_the_Quality_of_Learning_QoL"
+        },
+        {
+            "Title": "100 Best Education Topics for an Academic Research",
+            "URL": "https://assignmentgeek.com/blog/education-topics"
+        },
+        {
+            "Title": "Bullying in Schools: Everything You Need to Know",
+            "URL": "https://www.uopeople.edu/blog/definition-of-bullying"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Bullying: definition, types and methods of dealing... | FindMyKids Blog",
+            "URL": "https://findmykids.org/blog/bullying-at-school"
+        },
+        {
+            "Title": "What Are the Best Ways to Prevent Bullying in Schools?",
+            "URL": "https://greatergood.berkeley.edu/article/item/what_are_the_best_ways_to_prevent_bullying_in_schools"
+        },
+        {
+            "Title": "How Psychological Factors Affect Health Behavior Flashcards | Quizlet",
+            "URL": "https://quizlet.com/639340315/how-psychological-factors-affect-health-behavior-flash-cards"
+        },
+        {
+            "Title": "Why children become bullies at school - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20190913-why-some-children-become-merciless-bullies"
+        },
+        {
+            "Title": "Bullying Essay for Students and Children | 500+ Words Essay",
+            "URL": "https://www.toppr.com/guides/essays/bullying-essay"
+        },
+        {
+            "Title": "JPeters - The Importance of Physical Education",
+            "URL": "https://www.sites.google.com/a/piedmont.k12.ca.us/jpeters/home/introduction-to-physical-education"
+        },
+        {
+            "Title": "School bullying - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/School_bullying"
+        },
+        {
+            "Title": "3 Ways to Create a Positive Classroom Atmosphere - wikiHow",
+            "URL": "https://www.wikihow.com/Create-a-Positive-Classroom-Atmosphere"
+        },
+        {
+            "Title": "Application of Educational Psychology in Teaching and Learning...",
+            "URL": "https://www.scientificworldinfo.com/2019/04/application-of-educational-psychology-in-teaching-and-learning.html"
+        },
+        {
+            "Title": "Academic Stress in Students. Cues to ensure and assure... | Medium",
+            "URL": "https://medium.com/one-future/academic-stress-in-students-498c34f064d7"
+        },
+        {
+            "Title": "Creating a Positive Classroom Atmosphere",
+            "URL": "https://goldstarteachers.com/creating-positive-classroom-atmosphere"
+        },
+        {
+            "Title": "How can the teacher of English creat positive and friendly atmosphere...",
+            "URL": "https://vk.com/topic-128512558_34572678"
+        },
+        {
+            "Title": "Clinics and Practice | Free Full-Text | Quality of Life among Pediatric...",
+            "URL": "https://www.mdpi.com/2039-7283/11/4/101/htm"
+        },
+        {
+            "Title": "Modern problems of organization of physical education of schoolchildren",
+            "URL": "https://cyberleninka.ru/article/n/modern-problems-of-organization-of-physical-education-of-schoolchildren"
+        },
+        {
+            "Title": "Social Media and Mental Health - HelpGuide.org",
+            "URL": "https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm"
+        },
+        {
+            "Title": "6 Ways Social Media Affects Our Mental Health",
+            "URL": "https://www.forbes.com/sites/alicegwalton/2017/06/30/a-run-down-of-social-medias-effects-on-our-mental-health"
+        },
+        {
+            "Title": "The risks of social isolation",
+            "URL": "https://www.apa.org/monitor/2019/05/ce-corner-isolation"
+        },
+        {
+            "Title": "Top 15 Issues Facing Our Youth Today | 9. Lack of Quality Education",
+            "URL": "https://thepopularlist.com/issues-facing-our-youth-today"
+        },
+        {
+            "Title": "Positive and Negative Impact of Social Media on Education",
+            "URL": "https://tis.edu.in/blog/positive-and-negative-impact-of-social-media-on-education"
+        },
+        {
+            "Title": "8 Skills Teachers Require to be Effective in Teaching",
+            "URL": "https://www.edsys.in/8-skills-teachers-require-effective-teaching"
+        },
+        {
+            "Title": "Should Parents Be Involved In The Educational Process?",
+            "URL": "https://www.theasianschool.net/blog/parents-involvement-in-educational-process"
+        },
+        {
+            "Title": "Parent Involvement in the Educational Process. ERIC Digest",
+            "URL": "https://www.ericdigests.org/pre-9213/parent.htm"
+        },
+        {
+            "Title": "How Parent Involvement Leads to Student Success",
+            "URL": "https://www.waterford.org/education/how-parent-involvment-leads-to-student-success"
+        },
+        {
+            "Title": "Five reasons for parents to get involved in their child's education",
+            "URL": "https://www.nordangliaeducation.com/en/our-schools/cambodia/article/2018/10/18/five-reasons-for-parents-to-get-involved-in-their-childs-education"
+        },
+        {
+            "Title": "Experts Discuss the Importance of Positive Parental ...",
+            "URL": "https://www.rasmussen.edu/degrees/education/blog/parental-involvement-in-education"
+        },
+        {
+            "Title": "Parent Involvement in Education",
+            "URL": "https://educationnorthwest.org/sites/default/files/parent-involvement-in-education.pdf"
+        },
+        {
+            "Title": "Shall parents be involved in the educational process |",
+            "URL": "https://www.mindtutors.in/shall-parents-be-involved-in-the-educational-process"
+        },
+        {
+            "Title": "The Importance of Parental Involvement in Teaching",
+            "URL": "https://observatory.tec.mx/edu-news/the-importance-of-parental-involvement-in-teaching"
+        },
+        {
+            "Title": "Parental Involvement as a Important Factor for Successful ...",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1156936.pdf"
+        },
+        {
+            "Title": "The Role of Parents in the Education of Children",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1092391.pdf"
+        },
+        {
+            "Title": "(PDF) PARENTAL INVOLVEMENT IN EDUCATION",
+            "URL": "https://www.researchgate.net/publication/324497851_PARENTAL_INVOLVEMENT_IN_EDUCATION"
+        },
+        {
+            "Title": "should parents be involved in the educational process",
+            "URL": "http://educadigital.cali.gov.co/index.php/comunicacion/foro/should-parents-be-involved-in-the-educational-process"
+        },
+        {
+            "Title": "The Role of Parents in Their Child's Education",
+            "URL": "https://blog.noplag.com/parent-involvement-in-education"
+        },
+        {
+            "Title": "The Important Role of Parents in Special Education",
+            "URL": "https://www.verywellfamily.com/parental-importance-special-education-2162701"
+        },
+        {
+            "Title": "Getting Parents Involved in Schools | Reading Rockets",
+            "URL": "https://www.readingrockets.org/article/getting-parents-involved-schools"
+        },
+        {
+            "Title": "20 Ways Parents Play a Role in the Education of Their Children",
+            "URL": "https://www.edsys.in/parents-play-role-education-children"
+        },
+        {
+            "Title": "PDF Family Involvement in Education: How Important Is It?",
+            "URL": "https://www.purdue.edu/hhs/hdfs/fii/wp-content/uploads/2015/06/fia_brchapter_20c02.pdf"
+        },
+        {
+            "Title": "PDF Parental Involvement as a Holistic Concept Using Rasch/Guttman...",
+            "URL": "https://www.hse.ru/data/2020/04/20/1560165356/Антипкина И.В. Статья 4.pdf"
+        },
+        {
+            "Title": "Parent's Role in Career Selection",
+            "URL": "https://www.qualifax.ie/index.php?option=com_content&view=article&id=179&Itemid=207"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Role of Parents in Child Development: Importance & 11 Useful Tips",
+            "URL": "https://parenting.firstcry.com/articles/role-of-parents-in-child-development"
+        },
+        {
+            "Title": "The forms of cooperation between educational organization and family",
+            "URL": "https://www.art-talant.org/publikacii/24390-the-forms-of-cooperation-between-educational-organization-and-family"
+        },
+        {
+            "Title": "AL 3490 Midterm 1 Flashcards | Quizlet",
+            "URL": "https://quizlet.com/281639233/al-3490-midterm-1-flash-cards"
+        },
+        {
+            "Title": "Parents Involved in Community Schools v. Seattle School... - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Parents_Involved_in_Community_Schools_v._Seattle_School_District_No._1"
+        },
+        {
+            "Title": "Parent-Teacher Relationship and Cooperation: An... - TeacherPH",
+            "URL": "https://www.teacherph.com/parent-teacher-relationship"
+        },
+        {
+            "Title": "Contemporary problems of pedagogical interaction of the class teacher...",
+            "URL": "https://articlekz.com/en/article/19367"
+        },
+        {
+            "Title": "10 Ways to Help Your Child Succeed in Elementary School (for Parents)",
+            "URL": "https://kidshealth.org/en/parents/school-help-elementary.html"
+        },
+        {
+            "Title": "7 Tips to Convince Parents About Earning a Degree... | US News",
+            "URL": "https://www.usnews.com/education/best-global-universities/articles/tips-to-convince-parents-about-earning-a-degree-overseas"
+        },
+        {
+            "Title": "How To Be an Awesome Parent: Good Parenting... | FindMyKids Blog",
+            "URL": "https://findmykids.org/blog/en/good-parenting-skills-and-tips"
+        },
+        {
+            "Title": "Why should Parent be Involved In Their Child's Careers in the...",
+            "URL": "https://slideplayer.com/slide/5265177"
+        },
+        {
+            "Title": "Modern problems of organization of physical education of schoolchildren",
+            "URL": "https://cyberleninka.ru/article/n/modern-problems-of-organization-of-physical-education-of-schoolchildren"
+        },
+        {
+            "Title": "Top 8 modern education problems and ways to solve them - World...",
+            "URL": "https://world.edu/top-8-modern-education-problems-ways-solve"
+        },
+        {
+            "Title": "Basic didactic teaching principles - Colleges and universities 2021",
+            "URL": "https://en.sodiummedia.com/4262410-basic-didactic-teaching-principles"
+        },
+        {
+            "Title": "Influence Of Parents In Career Choice, Sample of Essays",
+            "URL": "https://educheer.com/essays/influence-of-parents-in-career-choice"
+        },
+        {
+            "Title": "To the problem of organization of educational environment in school",
+            "URL": "https://moluch.ru/archive/284/63977"
+        },
+        {
+            "Title": "Mind games | Parents of students 16 and under | The Guardian",
+            "URL": "https://www.theguardian.com/education/2000/dec/13/parents.familyandrelationships"
+        },
+        {
+            "Title": "Does education ever stop or it continues during the entire life",
+            "URL": "https://www.indiatoday.in/education-today/featurephilia/story/does-education-ever-stop-or-it-continues-during-the-entire-life-1614434-2019-10-31"
+        },
+        {
+            "Title": "Does Education ever stop? - Track2Training",
+            "URL": "https://track2training.com/2020/06/23/does-education-ever-stop"
+        },
+        {
+            "Title": "Does Education Ever Stop or Does it Continue Throughout ...",
+            "URL": "https://therebelchick.com/does-education-ever-stop-or-does-it-continue-throughout-ones-entire-lifetime"
+        },
+        {
+            "Title": "Does education ever stop or it continues during the entire life?",
+            "URL": "https://www.useallot.com/read-blog/1367_does-education-ever-stop-or-it-continues-during-the-entire-life.html"
+        },
+        {
+            "Title": "How Education is Considered as a Continuous and Lifelong ...",
+            "URL": "https://www.owlgen.in/explain-how-education-is-considered-as-a-continuous-and-lifelong-process"
+        },
+        {
+            "Title": "Do We Ever Stop Learning? | Wonderopolis",
+            "URL": "https://www.wonderopolis.org/wonder/do-we-ever-stop-learning"
+        },
+        {
+            "Title": "What is Lifelong Learning? Its Importance, Benefits & Examples",
+            "URL": "https://www.valamis.com/hub/lifelong-learning"
+        },
+        {
+            "Title": "7 Reasons Why Continuous Learning is Important - LinkedIn",
+            "URL": "https://www.linkedin.com/pulse/7-reasons-why-continuous-learning-important-amit-nagpal"
+        },
+        {
+            "Title": "Learning Is A Journey That Never Ends | by Arty Kakreja",
+            "URL": "https://medium.com/@arty.kakrejasiba/learning-is-a-journey-that-never-ends-e172f02d6cbc"
+        },
+        {
+            "Title": "Does Education Ever Stop or Continues During the Entire Life?: …",
+            "URL": "https://u-m-canvas.it.umich.edu/eportfolios/352/entries/12130"
+        },
+        {
+            "Title": "Research Title About Education Quantitative - Evaluating Journal ...",
+            "URL": "https://micaschooley.blogspot.com/2021/11/research-title-about-education.html"
+        },
+        {
+            "Title": "Why Education is Important? Top 13 Reasons - WiseStep",
+            "URL": "https://content.wisestep.com/education-important-top-reasons"
+        },
+        {
+            "Title": "25 quotes that show why education is important",
+            "URL": "https://www.Canva.com/learn/25-quotes-show-education-important"
+        },
+        {
+            "Title": "Top 8 Reasons Why Education is the Key to Success | UoPeople",
+            "URL": "https://www.uopeople.edu/blog/top-8-reasons-why-education-is-the-key-to-success"
+        },
+        {
+            "Title": "Importance Of Education Essay - Why is Education So Important?",
+            "URL": "https://pteacademicexam.com/importance-of-education-essay"
+        },
+        {
+            "Title": "Benefits of Continuing Education",
+            "URL": "https://www.educationcorner.com/benefits-of-continuing-education.html"
+        },
+        {
+            "Title": "Should Education Be Free or Not?",
+            "URL": "https://spark.adobe.com/page/btcCj"
+        },
+        {
+            "Title": "Five Reasons Why Education Helps to... - Cornerstone University",
+            "URL": "https://www.cornerstone.edu/blog-post/five-reasons-why-education-helps-to-advance-your-career-at-any-level"
+        },
+        {
+            "Title": "education | Definition, Development, History, Types, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/education"
+        },
+        {
+            "Title": "Why is Higher Education Important? - Statistics & Advice",
+            "URL": "https://www.crosswalk.com/family/homeschool/why-is-higher-education-important-1367463.html"
+        },
+        {
+            "Title": "Education: a Lifelong Task, Sample of Essays",
+            "URL": "https://educheer.com/essays/education-a-lifelong-task"
+        },
+        {
+            "Title": "EDUCATION Flashcards | Quizlet",
+            "URL": "https://quizlet.com/vn/345527754/education-flash-cards"
+        },
+        {
+            "Title": "Education vs. Experience: Which One Gets the Job?",
+            "URL": "https://www.investopedia.com/financial-edge/0511/work-experience-vs.-education-which-lands-you-the-best-job.aspx"
+        },
+        {
+            "Title": "Education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Education"
+        },
+        {
+            "Title": "The Future Of Jobs And Education",
+            "URL": "https://www.forbes.com/sites/bernardmarr/2020/12/11/the-future-of-jobs-and-education"
+        },
+        {
+            "Title": "The Importance of Higher Education in the 21st Century - Vista College",
+            "URL": "https://www.vistacollege.edu/blog/resources/higher-education-in-the-21st-century"
+        },
+        {
+            "Title": "PDF Education",
+            "URL": "https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_policy_brief_covid-19_and_education_august_2020.pdf"
+        },
+        {
+            "Title": "The rise of online learning during the COVID-19 pandemic",
+            "URL": "https://www.weforum.org/agenda/2020/04/coronavirus-education-global-covid19-online-digital-learning"
+        },
+        {
+            "Title": "Listen A Minute: English Listening Lesson on Education",
+            "URL": "https://listenaminute.com/e/education.html"
+        },
+        {
+            "Title": "23 Realistic Educational Goal Examples - IcebreakerIdeas",
+            "URL": "https://icebreakerideas.com/educational-goals"
+        },
+        {
+            "Title": "Education Conversation Questions",
+            "URL": "https://printdiscuss.com/education-conversation-questions"
+        },
+        {
+            "Title": "A good education is the key to a successful life",
+            "URL": "http://cojawiem.pl/en/articles/20398-a-good-education-is-the-key-to-a-successful-life"
+        },
+        {
+            "Title": "10 Poorly Educated But Incredibly Successful People - Listverse",
+            "URL": "https://listverse.com/2013/01/20/10-poorly-educated-but-incredibly-successful-people"
+        },
+        {
+            "Title": "Why should you study at the university? | How to choose a university...",
+            "URL": "https://www.unipage.net/en/university_advantages"
+        },
+        {
+            "Title": "Censorship In Schools And The Effects On Our Children",
+            "URL": "https://www.everydayhealth.com/kids-health/censorship-schools-effects-on-our-children"
+        },
+        {
+            "Title": "Censorship and the First Amendment in Schools - WebJunction",
+            "URL": "https://www.webjunction.org/documents/webjunction/Censorship_in_Schools_Learning_Speaking_and_Thinking_Freely_The_First_Amendment_in_Schools.html"
+        },
+        {
+            "Title": "Reading, Writing, and Censorship - Rethinking Schools",
+            "URL": "https://rethinkingschools.org/articles/reading-writing-and-censorship-when-good-books-can-get-schools-in-trouble"
+        },
+        {
+            "Title": "Censorship And Education: Shall We Protect The Students Or ...",
+            "URL": "https://studyexcell.com/censorship-and-education-shall-we-protect-the-students-or-guide-them-through-everything-they-want-to-know"
+        },
+        {
+            "Title": "What's Stopping You? Classroom Censorship for Better or ...",
+            "URL": "https://www.socialstudies.org/system/files/publications/articles/se_740610326.pdf"
+        },
+        {
+            "Title": "Guidelines for Dealing with Censorship of Instructional Materials",
+            "URL": "https://ncte.org/statement/censorshipofnonprint"
+        },
+        {
+            "Title": "The First Amendment in Schools: Censorship",
+            "URL": "https://ncac.org/resource/the-first-amendment-in-schools-censorship"
+        },
+        {
+            "Title": "NOTE AVAILABLE FROM - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/ED374463.pdf"
+        },
+        {
+            "Title": "The Pressures of Censorship on Public Education Continue",
+            "URL": "https://www.jstor.org/stable/42589202"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "3.4. Why is water so important for life as we know it? | …",
+            "URL": "https://astrobiology.nasa.gov/education/alp/water-so-important-for-life"
+        },
+        {
+            "Title": "The People Are Unaware of the War Being Conducted Against …",
+            "URL": "https://www.theburningplatform.com/2021/10/12/the-people-are-unaware-of-the-war-being-conducted-against-them"
+        },
+        {
+            "Title": "Microsoft Edge: Your Education Browser | Microsoft …",
+            "URL": "https://www.microsoft.com/en-in/education/products/edge"
+        },
+        {
+            "Title": "Online Help Centre - List of questions and answers - by …",
+            "URL": "https://www.cic.gc.ca/english/helpcentre/questions-answers-by-topic.asp?top=29"
+        },
+        {
+            "Title": "I. Education. General Introduction. By Professor H. W. Holmes. …",
+            "URL": "https://www.bartleby.com/60/181.html"
+        },
+        {
+            "Title": "How to Write a Valedictorian Speech – Guidance, Tips, …",
+            "URL": "https://speechwriting.compose.ly/graduation-speeches/how-to-write-a-valedictorian-speech"
+        },
+        {
+            "Title": "Classroom Activities | Saint Mary's Press",
+            "URL": "https://www.smp.org/resourcecenter/category/Classroom-Activities/49/?per_page=all"
+        },
+        {
+            "Title": "Is Your School's Dress Code Outdated? - The New York Times",
+            "URL": "https://www.nytimes.com/2021/05/25/learning/is-your-schools-dress-code-outdated.html"
+        },
+        {
+            "Title": "SCHOOL DRESS CODES & UNIFORMS",
+            "URL": "https://www.myschoolmyrights.com/school-dress-codes-uniforms"
+        },
+        {
+            "Title": "School Dress Code: Unnecessary & Outdated - Horizon",
+            "URL": "https://lhshorizon.com/7761/opinions/school-dress-code-unnecessary-outdated"
+        },
+        {
+            "Title": "10 Outdated School Dress Codes (And 10 That Still Remain)",
+            "URL": "https://teenkidsnews.com/10-outdated-school-dress-codes-and-10-that-still-remain"
+        },
+        {
+            "Title": "Dress Code: Outdated and Unfair - Bowie Dispatch",
+            "URL": "https://thedispatchonline.net/7828/commentary/dress-code-outdated-and-unfair"
+        },
+        {
+            "Title": "School dress codes can be outdated. But what are we fighting ...",
+            "URL": "https://www.bostonglobe.com/magazine/2018/11/27/the-trouble-with-fighting-school-dress-codes/CX1HXwTpxeoNQB5BSq8OvJ/story.html"
+        },
+        {
+            "Title": "Dress Codes in Schools Perpetuate Outdated Gender Norms",
+            "URL": "https://www.raiderecho.com/opinion/2020/12/04/dress-codes-in-schools-perpetuate-outdated-gender-norms"
+        },
+        {
+            "Title": "Research Brief - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/ED537953.pdf"
+        },
+        {
+            "Title": "When School Dress Codes Discriminate | NEA - National ...",
+            "URL": "https://www.nea.org/advocating-for-change/new-from-nea/when-school-dress-codes-discriminate"
+        },
+        {
+            "Title": "10 Outdated School Dress Codes (And 10 That Still Remain)",
+            "URL": "https://www.babygaga.com/10-outdated-school-dress-codes-and-10-that-still-remain"
+        },
+        {
+            "Title": "22 Advantages and Disadvantages of School Dress Codes …",
+            "URL": "https://futureofworking.com/6-advantages-and-disadvantages-of-school-dress-codes"
+        },
+        {
+            "Title": "The Pros and Cons of School Uniforms: Are They Outdated?",
+            "URL": "https://insights.gostudent.org/en/school-uniforms-outdated"
+        },
+        {
+            "Title": "Why Should Schools Have Dress Codes? - tntips.com",
+            "URL": "https://tntips.com/why-should-schools-have-dress-codes"
+        },
+        {
+            "Title": "Dress code - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Dress_code"
+        },
+        {
+            "Title": "Pros and Cons of Wearing School Uniforms - Blog In2English",
+            "URL": "https://in2english.net/2020/11/24/pros-and-cons-of-wearing-school-uniforms"
+        },
+        {
+            "Title": "Pros and Cons of School Uniforms for Kids | FirstCry Parenting",
+            "URL": "https://parenting.firstcry.com/articles/school-uniforms-pros-cons-for-kids"
+        },
+        {
+            "Title": "School uniform debate: Pros & cons with the latest findings",
+            "URL": "https://www.greatschools.org/gk/articles/school-uniforms"
+        },
+        {
+            "Title": "What's the point of school uniform? | Students | The Guardian",
+            "URL": "https://www.theguardian.com/education/mortarboard/2013/oct/03/why-wear-school-uniform"
+        },
+        {
+            "Title": "Kerala Govt Supports Lecturer Who Refused 'Dress Code' of Wearing...",
+            "URL": "https://theswaddle.com/kerala-govt-backs-lecturer-who-refused-to-wear-sarees-as-dress-code"
+        },
+        {
+            "Title": "Teen girls and their parents often disagree about appropiate dress for...",
+            "URL": "https://www.washingtonpost.com/local/social-issues/is-a-crop-top-empowering-for-girls-how-parents-navigate-whats-appropriate-for-high-school/2019/10/03/57297e4a-dfb4-11e9-b199-f638bf2c340f_story.html"
+        },
+        {
+            "Title": "Results Page 35 for Honor code | Bartleby",
+            "URL": "https://www.bartleby.com/topics/honor-code/34"
+        },
+        {
+            "Title": "6 Reasons Why Students Shouldn't Wear School Uniforms | Medium",
+            "URL": "https://freyayuki.medium.com/cons-reasons-students-shouldnt-wear-school-uniforms-84073e7b16b8"
+        },
+        {
+            "Title": "V Clothes and appearance Flashcards | Quizlet",
+            "URL": "https://quizlet.com/au/205760664/v-clothes-and-appearance-flash-cards"
+        },
+        {
+            "Title": "TIME for Kids | Should Students Wear Uniforms? | Share QR code",
+            "URL": "https://www.timeforkids.com/g56/debate-should-students-wear-uniforms-2"
+        },
+        {
+            "Title": "Why Rules Are Important, Essay Sample/Example",
+            "URL": "https://blog.essaybasics.com/why-rules-are-important-essaypaper-sample"
+        },
+        {
+            "Title": "Rules in Our Life Essay/ Rules in Our Life Topic - English portal",
+            "URL": "https://english-portal.com.ua/articles/rules-in-our-life-essay"
+        },
+        {
+            "Title": "36 Classroom Rules for Student Success | Prodigy Education",
+            "URL": "https://www.prodigygame.com/main-en/blog/classroom-rules"
+        },
+        {
+            "Title": "the role of discipline in learner performance and quality of life",
+            "URL": "https://www.adeanet.org/en/blogs/education-pendulum-role-discipline-learner-performance-quality-life"
+        },
+        {
+            "Title": "Role of Discipline and Its Impacts on Learning Process and ...",
+            "URL": "https://www.ijaar.org/articles/v6n8/ahe/ijaar-ahe-v6n8-aug20-p18.pdf"
+        },
+        {
+            "Title": "Role of discipline and its impact on the process of learning",
+            "URL": "https://www.newtimes.co.rw/lifestyle/role-discipline-and-its-impact-process-learning"
+        },
+        {
+            "Title": "THE ROLE OF DISCIPLINE IN EDUCATON AND ITS IMPACT ...",
+            "URL": "https://www.coursehero.com/file/35755667/THE-ROLE-OF-DISCIPLINE-IN-EDUCATON-AND-ITS-IMPACT-ON-THE-PROCESS-OF-LEARNIN1docx"
+        },
+        {
+            "Title": "The Role of Discipline in Education and Its Impact in the ...",
+            "URL": "https://pdfcoffee.com/the-role-of-discipline-in-education-and-its-impact-in-the-process-of-learning-pdf-free.html"
+        },
+        {
+            "Title": "the impact of positive discipline in the learning process",
+            "URL": "https://www.researchgate.net/publication/329231892_THE_IMPACT_OF_POSITIVE_DISCIPLINE_IN_THE_LEARNING_PROCESS"
+        },
+        {
+            "Title": "Impact of Discipline on Academic Performance of Pupils in ...",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1092484.pdf"
+        },
+        {
+            "Title": "the role of discipline in education and its impact on learning ...",
+            "URL": "https://brainly.in/question/39905099"
+        },
+        {
+            "Title": "THE ROLE OF DISCIPLINE IN EDUCATION AND ITS IMPACT ...",
+            "URL": "https://www.jetir.org/papers/JETIR1810A64.pdf"
+        },
+        {
+            "Title": "Thesis 1analysis of The Role of Discipline in Education and Its ...",
+            "URL": "https://www.scribd.com/document/402699263/Thesis-1Analysis-of-the-role-of-discipline-in-education-and-its-impact-on-the-process-of-learning-basis-for-an-action-pl-docx"
+        },
+        {
+            "Title": "the role of discipline in education and its impact on the process of ...",
+            "URL": "https://www.researchwritershub.net/the-role-of-discipline-in-education-and-its-impact-on-the-process-of-learning"
+        },
+        {
+            "Title": "THE IMPACT OF POSITIVE DISCIPLINE IN THE LEARNING PROCESS …",
+            "URL": "https://library.iated.org/view/TARTARI2018IMP"
+        },
+        {
+            "Title": "Thesis 1Analysis of the role of discipline in education and its...",
+            "URL": "https://ru.scribd.com/document/402699263/Thesis-1Analysis-of-the-role-of-discipline-in-education-and-its-impact-on-the-process-of-learning-basis-for-an-action-pl-docx"
+        },
+        {
+            "Title": "PDF The impact of disciplinary problems on educator morale in...",
+            "URL": "http://uir.unisa.ac.za/bitstream/handle/10500/4164/dissertation_masekoameng_m.pdf?sequence=1"
+        },
+        {
+            "Title": "School discipline - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/School_discipline"
+        },
+        {
+            "Title": "10 Ways to Improve Discipline in School/ Classroom",
+            "URL": "https://blog.teachmint.com/discipline-in-school"
+        },
+        {
+            "Title": "(PDF) The importance of educational technology in teaching",
+            "URL": "https://www.researchgate.net/publication/278848636_The_importance_of_educational_technology_in_teaching"
+        },
+        {
+            "Title": "The Role of Technology in the Educational Process - Green & Write...",
+            "URL": "https://edwp.educ.msu.edu/green-and-write/2015/the-role-of-technology-in-the-educational-process"
+        },
+        {
+            "Title": "The important role of technology in education",
+            "URL": "http://journalpro.ru/articles/the-important-role-of-technology-in-education"
+        },
+        {
+            "Title": "The Importance of Education - Why Is Education the Key... | MentalUP",
+            "URL": "https://www.mentalup.co/blog/the-importance-of-education"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "What is the role of educational psychology to teaching and learning?",
+            "URL": "https://www.scientificworldinfo.com/2019/04/application-of-educational-psychology-in-teaching-and-learning.html"
+        },
+        {
+            "Title": "The importance of leadership and management in education system",
+            "URL": "https://articlekz.com/en/article/14572"
+        },
+        {
+            "Title": "The use of ICT in teaching and learning the foreign language to prevail...",
+            "URL": "https://moluch.ru/archive/185/46778"
+        },
+        {
+            "Title": "How Has Technology Changed Education | Purdue Online",
+            "URL": "https://online.purdue.edu/blog/education/how-has-technology-changed-education"
+        },
+        {
+            "Title": "How Technology In The Classroom Can Impact Student Learning",
+            "URL": "https://tophat.com/blog/how-does-technology-impact-student-learning"
+        },
+        {
+            "Title": "academicpartnerships.uta.edu/articles/education/importance-of...",
+            "URL": "https://academicpartnerships.uta.edu/articles/education/importance-of-science-education.aspx"
+        },
+        {
+            "Title": "The links of methodology with other sciences",
+            "URL": "https://videouroki.net/razrabotki/the-links-of-methodology-with-other-sciences.html"
+        },
+        {
+            "Title": "ICT In Education | Advantages Of ICT | Impacts of ICT on Society",
+            "URL": "https://learntechit.com/ict-in-education"
+        },
+        {
+            "Title": "Статья; Modern Teaching Methods of Teaching Foreign...",
+            "URL": "https://infourok.ru/statya-modern-teacing-metods-of-teacing-foreign-languages-2761021.html"
+        },
+        {
+            "Title": "Impact of Globalization in Education - EdTechReview",
+            "URL": "https://edtechreview.in/news/2730-globalization-in-education"
+        },
+        {
+            "Title": "The importance of research and its impact on education",
+            "URL": "https://studyinternational.com/news/the-importance-of-research-and-its-impact-on-education"
+        },
+        {
+            "Title": "PDF The impact of | COVID-19 and educational institutions",
+            "URL": "https://www.oecd.org/education/the-impact-of-covid-19-on-education-insights-education-at-a-glance-2020.pdf"
+        },
+        {
+            "Title": "Role and Importance of Creativity in Classroom | Edsys",
+            "URL": "https://www.edsys.in/creativity-in-classroom"
+        },
+        {
+            "Title": "Role of Education in Daily Life and Betterment of... - ExamPlanning %",
+            "URL": "https://examplanning.com/role-education-life"
+        },
+        {
+            "Title": "Principles of education and teaching learning process",
+            "URL": "https://www.slideshare.net/drjayeshpatidar/principles-of-education-and-teaching-learning-process"
+        },
+        {
+            "Title": "Why Are Teachers Important In Our Society? They Have Influence",
+            "URL": "https://www.uopeople.edu/blog/the-importance-of-teachers"
+        },
+        {
+            "Title": "Information technologies and education",
+            "URL": "http://www.infotaste.com/information-technologies-and-education"
+        },
+        {
+            "Title": "The Complete List of Teaching Methods",
+            "URL": "https://onlinedegrees.sandiego.edu/complete-list-teaching-methods"
+        },
+        {
+            "Title": "Top 6 Digital Transformation Trends In Education",
+            "URL": "https://www.forbes.com/sites/danielnewman/2017/07/18/top-6-digital-transformation-trends-in-education"
+        },
+        {
+            "Title": "Information Overload: The Bane of the Modern World. How ...",
+            "URL": "https://medium.com/@edubirdieau/information-overload-the-bane-of-the-modern-world-how-can-we-help-students-to-deal-with-it-e79bf41d738f"
+        },
+        {
+            "Title": "Information Overload: The bane of the modern world - News ...",
+            "URL": "https://newsexplain.com/a/information-overload-the-bane-of-the-modern-world"
+        },
+        {
+            "Title": "Information Overload? Here Are 10 Ways You - Open Colleges",
+            "URL": "https://www.opencolleges.edu.au/informed/features/information-overload"
+        },
+        {
+            "Title": "Information Overload, Why it Matters and How to Combat It",
+            "URL": "https://www.interaction-design.org/literature/article/information-overload-why-it-matters-and-how-to-combat-it"
+        },
+        {
+            "Title": "Information overload - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Information_overload"
+        },
+        {
+            "Title": "The Influence of Information Overload on Students' Academic ...",
+            "URL": "https://hrmars.com/papers_submitted/3292/The_Influence_of_Information_Overload_on_Students’_Academic_Performance.pdf"
+        },
+        {
+            "Title": "INFORMATION OVERLOAD: CAUSES, CONSEQUENCES ...",
+            "URL": "https://www.banglajol.info/index.php/PP/article/viewFile/26390/17712"
+        },
+        {
+            "Title": "Information overload and how to deal with it",
+            "URL": "https://timesofindia.indiatimes.com/readersblog/myblogingtherapy/information-overload-and-how-to-deal-with-it-33901"
+        },
+        {
+            "Title": "How To Overcome Information Overload - Harappa Education",
+            "URL": "https://harappa.education/harappa-diaries/how-to-overcome-information-overload"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research | …",
+            "URL": "https://taylorandwales.com/journals/JETMR"
+        },
+        {
+            "Title": "Information Overload: Causes and Consequences to …",
+            "URL": "http://www.swarnprastha.com/information-overload-causes-and-consequences-to-students"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "How Can You Deal With Information Overload? | United …",
+            "URL": "https://www.ucg.org/the-good-news/how-can-you-deal-with-information-overload"
+        },
+        {
+            "Title": "Why the modern world is bad for your brain | The Guardian",
+            "URL": "https://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload"
+        },
+        {
+            "Title": "How New Technologies Are Helping Students Learn",
+            "URL": "https://interestingengineering.com/how-new-technologies-are-helping-students-learn"
+        },
+        {
+            "Title": "Top 8 modern education problems and ways to solve them - World...",
+            "URL": "https://world.edu/top-8-modern-education-problems-ways-solve"
+        },
+        {
+            "Title": "5 Ways to Deal With Difficult Students",
+            "URL": "https://www.thoughtco.com/tips-on-handling-difficult-students-2081545"
+        },
+        {
+            "Title": "Human Brains Aren't Designed to Remember Things | Medium",
+            "URL": "https://medium.com/the-mission/human-brains-arent-designed-to-remember-things-1074365f0da2"
+        },
+        {
+            "Title": "The Importance of Technology in Our Daily Life - How Has Technology...",
+            "URL": "https://www.scientificworldinfo.com/2019/11/importance-of-technology-in-our-daily-life.html"
+        },
+        {
+            "Title": "Bullying: definition, types and methods of dealing... | FindMyKids Blog",
+            "URL": "https://findmykids.org/blog/bullying-at-school"
+        },
+        {
+            "Title": "final Flashcards | Quizlet",
+            "URL": "https://quizlet.com/515711857/final-flash-cards"
+        },
+        {
+            "Title": "Technology in Our Life Today and How It Has Changed",
+            "URL": "https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed"
+        },
+        {
+            "Title": "The main problems students face while learning English | Яндекс Дзен",
+            "URL": "https://zen.yandex.ru/media/languagelink/the-main-problems-students-face-while-learning-english-5fd9b6c601e4747da380387a"
+        },
+        {
+            "Title": "10 Ways How to Overcome Challenges Life Throws at You",
+            "URL": "https://www.uopeople.edu/blog/10-ways-how-to-overcome-challenges"
+        },
+        {
+            "Title": "How Technology Has Changed the Way We Communicate",
+            "URL": "https://blog.wps.com/how-technology-has-changed-the-way-we-communicate"
+        },
+        {
+            "Title": "How VR Education Will Change How We Learn... | Adobe XD Ideas",
+            "URL": "https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach"
+        },
+        {
+            "Title": "A Thousand Questions With Paimon (Paimon Quiz) - All... - GameWith",
+            "URL": "https://gamewith.net/genshin-impact/article/show/23813"
+        },
+        {
+            "Title": "Importance of Education in Life | Salient Features of Education",
+            "URL": "https://www.theasianschool.net/blog/importance-of-education"
+        },
+        {
+            "Title": "Why is Homework Important to Children, Parents, and School Teachers?",
+            "URL": "https://college-homework-help.org/blog/why-is-homework-important"
+        },
+        {
+            "Title": "Why 'worthless' humanities degrees may set you up for... - BBC Worklife",
+            "URL": "https://www.bbc.com/worklife/article/20190401-why-worthless-humanities-degrees-may-set-you-up-for-life"
+        },
+        {
+            "Title": "How Technology Has Changed Education?",
+            "URL": "https://www.techprevue.com/technology-changing-education"
+        },
+        {
+            "Title": "Lesson Planning | Centre for Teaching Excellence",
+            "URL": "https://cte.smu.edu.sg/approach-teaching/integrated-design/lesson-planning"
+        },
+        {
+            "Title": "Russian-English online translator and dictionary - Yandex.Translate",
+            "URL": "https://translate.yandex.com/translator/Russian-English"
+        },
+        {
+            "Title": "Why It's Important That We Study History",
+            "URL": "https://www.arcadiapublishing.com/Navigation/Community/Arcadia-and-THP-Blog/June-2016/Why-It’s-Important-That-We-Study-History"
+        },
+        {
+            "Title": "240 Controversial Debate Topics and Questions for Discussion",
+            "URL": "https://custom-writing.org/blog/debate-topics"
+        },
+        {
+            "Title": "Does Modern Technology Make Life More Convenient",
+            "URL": "https://educheer.com/essays/does-modern-technology-make-life-more-convenient"
+        },
+        {
+            "Title": "Top 12 Examples, How Technology Has Changed... : Klient Solutech",
+            "URL": "https://www.klientsolutech.com/examples-of-how-technology-has-changed-our-lives"
+        },
+        {
+            "Title": "Interesting Education Research Paper Topic - 2021 | TopicsMill",
+            "URL": "https://topicsmill.com/research-paper/research-paper-topics-education"
+        },
+        {
+            "Title": "Evaluating Audio Books as Supported Course Materials in ...",
+            "URL": "https://files.eric.ed.gov/fulltext/ED499658.pdf"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Research Topics In Education",
+            "URL": "https://researchphd.in/research-topics-in-education"
+        },
+        {
+            "Title": "Sample Education Research Topics",
+            "URL": "http://researcharticles.com/index.php/sample-education-research-topics"
+        },
+        {
+            "Title": "TechEd Updates and Research Conference - CFP",
+            "URL": "https://easychair.org/cfp/TechRevEd2020"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research",
+            "URL": "https://www.taylorandwales.com/journals/JETMR"
+        },
+        {
+            "Title": "Thesis Topics in Education - Elimu Centre",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "The Theory and Practice of Online Learning, second edition",
+            "URL": "https://www.aupress.ca/app/uploads/120146_99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf"
+        },
+        {
+            "Title": "Innovating Education and Educating for Innovation - OECD",
+            "URL": "https://www.oecd.org/education/ceri/GEIS2016-Background-document.pdf"
+        },
+        {
+            "Title": "January 13, 2021 – Research & Ph.D Guide Success Classes",
+            "URL": "https://researchphd.in/2021/01/13"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research | …",
+            "URL": "https://taylorandwales.com/journals/JETMR"
+        },
+        {
+            "Title": "Teaching Problem Solving | Center for Teaching | Vanderbilt University",
+            "URL": "https://cft.vanderbilt.edu/guides-sub-pages/problem-solving"
+        },
+        {
+            "Title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+            "URL": "https://www.youtube.com/watch?v=094y1Z2wpJg"
+        },
+        {
+            "Title": "Best Text Summarizing Tool (App) for Academic Writing [Free]",
+            "URL": "https://ivypanda.com/online-text-summarizer"
+        },
+        {
+            "Title": "4 Huge Problems In Education Today And How To Solve Them",
+            "URL": "https://drpfconsults.com/4-huge-problems-in-education-today-and-how-to-solve-them"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "Know About the Online Learning Challenges & its Solutions",
+            "URL": "https://www.embibe.com/exams/online-learning-challenges-and-solutions"
+        },
+        {
+            "Title": "Mathway | Calculus Problem Solver",
+            "URL": "https://www.mathway.com/Calculus"
+        },
+        {
+            "Title": "Solve your problems online with our problem solver.",
+            "URL": "https://www.math10.com/en/problem-solver"
+        },
+        {
+            "Title": "Chapter 3: Solving Problem Flashcards | Quizlet | Terms in this set (28)",
+            "URL": "https://quizlet.com/267465278/chapter-3-solving-problem-flash-cards"
+        },
+        {
+            "Title": "20 Best Education System in the World - Edsys",
+            "URL": "https://www.edsys.in/best-education-system-in-the-world"
+        },
+        {
+            "Title": "Use of Technology in Teaching and... | U.S. Department of Education",
+            "URL": "https://www.ed.gov/oii-news/use-technology-teaching-and-learning"
+        },
+        {
+            "Title": "Audiobooks",
+            "URL": "https://bookaudio.online/books"
+        },
+        {
+            "Title": "Text Summarizer | QuillBot AI | You can summarize in two ways",
+            "URL": "https://quillbot.com/summarize"
+        },
+        {
+            "Title": "General Problem Solver - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/General_Problem_Solver"
+        },
+        {
+            "Title": "Best online learning platforms of 2021 | TechRadar",
+            "URL": "https://www.techradar.com/best/best-online-learning-platforms"
+        },
+        {
+            "Title": "10 Shocking Benefits of Listening to Classical Music [Infographic]",
+            "URL": "https://takelessons.com/blog/benefits-of-listening-to-classical-music-z15"
+        },
+        {
+            "Title": "What is Problem Solving? Steps, Process & Techniques | ASQ",
+            "URL": "https://asq.org/quality-resources/problem-solving"
+        },
+        {
+            "Title": "The 4 Most Effective Ways Leaders Solve Problems",
+            "URL": "https://www.forbes.com/sites/glennllopis/2013/11/04/the-4-most-effective-ways-leaders-solve-problems"
+        },
+        {
+            "Title": "Problem Solving Techniques and Tips (That Actually Work)",
+            "URL": "https://www.wrike.com/blog/problem-solving-techniques"
+        },
+        {
+            "Title": "Russian-English online translator and dictionary - Yandex.Translate",
+            "URL": "https://translate.yandex.com/translator/Russian-English"
+        },
+        {
+            "Title": "Classical Conditioning | Simply Psychology",
+            "URL": "https://www.simplypsychology.org/classical-conditioning.html"
+        },
+        {
+            "Title": "Different Problem-Solving Styles: What Type of Problem Solver Are...",
+            "URL": "https://www.learning-mind.com/problem-solving-styles-type-problem-solver"
+        },
+        {
+            "Title": "Problem Solving Skills: 3 Examples (Great For A Resume)",
+            "URL": "https://www.wikijob.co.uk/content/interview-advice/competencies/problem-solving"
+        },
+        {
+            "Title": "System of Equations Calculator - eMathHelp",
+            "URL": "https://www.emathhelp.net/calculators/algebra-2/system-of-equations-solver"
+        },
+        {
+            "Title": "Solve inequalities with Step-by-Step Math Problem Solver",
+            "URL": "https://quickmath.com/webMathematica3/quickmath/equations/solve/basic.jsp"
+        },
+        {
+            "Title": "Classical Management Theory Explained",
+            "URL": "https://www.villanovau.com/resources/leadership/classical-management-theory"
+        },
+        {
+            "Title": "The 10-Step Problem Solving Process | Brian Tracy",
+            "URL": "https://www.briantracy.com/blog/personal-success/10-step-process-to-solve-any-problem-critical-thinking"
+        },
+        {
+            "Title": "The Importance of Classical Music in a Modern World | Minute School",
+            "URL": "https://www.minuteschool.com/2017/08/the-importance-of-classical-music-in-a-modern-world"
+        },
+        {
+            "Title": "The role of teacher's authority in students' learning - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1079519.pdf"
+        },
+        {
+            "Title": "(PDF) The role of teacher's authority in students' learning",
+            "URL": "https://www.researchgate.net/publication/327689159_The_role_of_teacher's_authority_in_students'_learning"
+        },
+        {
+            "Title": "THE ROLE OF THE TEACHER IN THE EDUCATIONAL ...",
+            "URL": "https://www.tojned.net/journals/tojned/articles/v05i02/v05i02-09.pdf"
+        },
+        {
+            "Title": "teaching - Functions and roles of teachers | Britannica",
+            "URL": "https://www.britannica.com/topic/teaching/Functions-and-roles-of-teachers"
+        },
+        {
+            "Title": "The Classroom Teacher and the Role of Authority - Taylor ...",
+            "URL": "https://www.tandfonline.com/doi/abs/10.1300/J067v05n02_08"
+        },
+        {
+            "Title": "Appendix G: Five Types of Teacher Authority and Power",
+            "URL": "https://web.calstatela.edu/faculty/jshindl/cm/AppendixG-TeacherAuthorityPower.htm"
+        },
+        {
+            "Title": "The role of teacher's authority in students' learning - IISTE.org",
+            "URL": "https://www.iiste.org/Journals/index.php/JEP/article/view/24160"
+        },
+        {
+            "Title": "SOCIETY. INTEGRATION. EDUCATION. Proceedings of the ...",
+            "URL": "http://journals.ru.lv/index.php/SIE/article/view/3876"
+        },
+        {
+            "Title": "What is the basis for the teacher's authority today? - Philippe ...",
+            "URL": "https://www.meirieu.com/ARTICLES/autorite_english.pdf"
+        },
+        {
+            "Title": "The role of teacher's authority in students' learning - Semantic ...",
+            "URL": "https://www.semanticscholar.org/paper/The-role-of-teacher's-authority-in-students'-Esmaeili-Mohamadrezai/7850868a951adea4040cf39651f386b2aed5122a"
+        },
+        {
+            "Title": "How the Authority of The Teacher Impacts the …",
+            "URL": "https://poweredutoday.com/how-the-authority-of-the-teacher-impacts-the-educational-process"
+        },
+        {
+            "Title": "Types of Teacher Authority: Which One(s) Work for You | …",
+            "URL": "https://www.educationworld.com/blog/types-teacher-authority-which-ones-work-you"
+        },
+        {
+            "Title": "Role of Teachers in Education | Importance of Classroom …",
+            "URL": "https://exeedcollege.com/blog/the-role-of-teachers-in-education"
+        },
+        {
+            "Title": "12 The Role of Teachers in The Learning Process – …",
+            "URL": "http://www.forchescross.org/12-the-role-of-teachers-in-the-learning-process"
+        },
+        {
+            "Title": "The Importance of Teacher's Role in Technology-Based …",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1877042812014772"
+        },
+        {
+            "Title": "The Role of the Teacher: Philosophical Perspectives",
+            "URL": "https://www.arcjournals.org/pdfs/ijhsse/v2-i10/14.pdf"
+        },
+        {
+            "Title": "Roles and Responsibilities Teaching Service",
+            "URL": "https://www.education.vic.gov.au/hrweb/Documents/Roles_and_responsibilities-TS.pdf"
+        },
+        {
+            "Title": "(PDF) the teacher's role in the modern educational process",
+            "URL": "https://www.researchgate.net/publication/308203909_THE_TEACHER'S_ROLE_IN_THE_MODERN_EDUCATIONAL_PROCESS"
+        },
+        {
+            "Title": "7 Roles of a Teacher in the 21st Century | Eton Institute",
+            "URL": "https://www.etoninstitute.com/blog/the-7-roles-of-a-teacher-in-the-21st-century"
+        },
+        {
+            "Title": "What is the role of teachers in modern learning... - NEO BLOG",
+            "URL": "https://blog.neolms.com/role-teacher-modern-learning-organizations"
+        },
+        {
+            "Title": "Role of Teachers in the Curriculum Process | Work - Chron.com",
+            "URL": "https://work.chron.com/role-teachers-curriculum-process-5344.html"
+        },
+        {
+            "Title": "Role of Teacher in our Life | The Asian School",
+            "URL": "https://www.theasianschool.net/blog/role-of-teacher-in-our-life"
+        },
+        {
+            "Title": "The roles of the teacher - TKT Cambridge",
+            "URL": "https://www.tktcambridge.com/module-three/the-roles-of-the-teacher"
+        },
+        {
+            "Title": "Redefining the Role of the Teacher: It's a Multifaceted Profession",
+            "URL": "https://www.edutopia.org/redefining-role-teacher"
+        },
+        {
+            "Title": "The Duties and Objectives of Elementary School Teachers",
+            "URL": "https://www.thoughtco.com/what-is-the-role-of-a-teacher-2081511"
+        },
+        {
+            "Title": "Teacher education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Teacher_education"
+        },
+        {
+            "Title": "Responsibilities And Duties Of Teachers",
+            "URL": "https://festivals.iloveindia.com/teachers-day/responsibilities-and-duties-of-teachers.html"
+        },
+        {
+            "Title": "The teaching profession: quality, salary, requirements, skills...",
+            "URL": "https://WorkKing.ru/en/proforientatsiya/professiya/uchitel.html"
+        },
+        {
+            "Title": "The 9 Different Roles A Teacher Takes On In The Classroom | ITTT",
+            "URL": "https://www.teflcourse.net/blog/the-9-different-roles-a-teacher-takes-on-in-the-classroom-ittt-tefl-blog"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "PDF Classroom Activity",
+            "URL": "https://www.cambridgeenglish.org/images/168903-tkt-module-3-the-roles-of-the-teacher.pdf"
+        },
+        {
+            "Title": "The teacher and the society | Modern Ghana",
+            "URL": "https://www.modernghana.com/news/380958/the-teacher-and-the-society.html"
+        },
+        {
+            "Title": "What Is Pedagogy?. …and why it's important for teachers to | Medium",
+            "URL": "https://medium.com/educate-pub/what-is-pedagogy-5b2381222418"
+        },
+        {
+            "Title": "The Various Roles of the Teacher in the English Classroom - GRIN",
+            "URL": "https://www.grin.com/document/319479"
+        },
+        {
+            "Title": "The Complete List of Teaching Methods",
+            "URL": "https://onlinedegrees.sandiego.edu/complete-list-teaching-methods"
+        },
+        {
+            "Title": "What is Pedagogy? How Educators can benefit from it?",
+            "URL": "https://www.edsys.in/what-is-pedagogy"
+        },
+        {
+            "Title": "Teacher as a profession | Work | Salary | Disadvantages | Studies",
+            "URL": "https://www.unipage.net/en/profession_teacher"
+        },
+        {
+            "Title": "Teaching Methods",
+            "URL": "https://teach.com/what/teachers-know/teaching-methods"
+        },
+        {
+            "Title": "Pedagogy as the science of educational relationships",
+            "URL": "https://moluch.ru/archive/286/64445"
+        },
+        {
+            "Title": "Educational process management as innovative...",
+            "URL": "https://fundamental-research.ru/ru/article/view?id=6601"
+        },
+        {
+            "Title": "Basic didactic teaching principles - Colleges and universities 2021",
+            "URL": "https://en.sodiummedia.com/4262410-basic-didactic-teaching-principles"
+        },
+        {
+            "Title": "50 Teacher Interview Questions and Answers | Indeed.com",
+            "URL": "https://www.indeed.com/career-advice/interviewing/teacher-interview-questions"
+        },
+        {
+            "Title": "PDF The competencies of the modern teacher",
+            "URL": "https://files.eric.ed.gov/fulltext/ED567059.pdf"
+        },
+        {
+            "Title": "7 Skills essential for Teachers in the Modern Scenario - Tula's ...",
+            "URL": "https://tis.edu.in/7-skills-essential-for-teachers-in-the-modern-scenario"
+        },
+        {
+            "Title": "The Essential Skills Modern that Teachers Require - iEduNote",
+            "URL": "https://www.iedunote.com/the-essential-skills-modern-that-teachers-require"
+        },
+        {
+            "Title": "15 Professional Development Skills for Modern Teachers",
+            "URL": "https://www.teachhub.com/professional-development/2019/11/15-professional-development-skills-for-modern-teachers"
+        },
+        {
+            "Title": "What Qualities Are Essential for a Modern Teacher - SIDE ...",
+            "URL": "https://www.side-line.com/what-qualities-are-essential-for-a-modern-teacher"
+        },
+        {
+            "Title": "8 Qualities of a Good Teacher (and Tips for How Develop Them)",
+            "URL": "https://www.indeed.com/career-advice/career-development/qualities-of-a-good-teacher"
+        },
+        {
+            "Title": "10 Useful Skills Modern Teachers Need - ThoughtCo",
+            "URL": "https://www.thoughtco.com/useful-skills-modern-teachers-need-2081527"
+        },
+        {
+            "Title": "10 Absolutely Essential Qualities for a Modern Teacher - Edu ...",
+            "URL": "https://poweredutoday.com/10-absolutely-essential-qualities-for-a-modern-teacher"
+        },
+        {
+            "Title": "Top 5 characteristics of a modern teacher | School Jotter",
+            "URL": "https://www.schooljotter.com/blog/2016/05/5202"
+        },
+        {
+            "Title": "6 important skills a modern teacher has to have - Erasmus+ ...",
+            "URL": "https://www.erasmuspluscourses.com/blog/6-important-skills-a-modern-teacher-has-to-have"
+        },
+        {
+            "Title": "Essential Professional Qualities and Skills of an Effective and ...",
+            "URL": "http://www.sciepub.com/portal/downloads?doi=10.12691/education-7-12-13&filename=education-7-12-13.pdf"
+        },
+        {
+            "Title": "Qualities of a Modern Teacher: 4 Essential Qualities",
+            "URL": "https://www.uplarn.com/what-qualities-are-essential-for-a-modern-teacher"
+        },
+        {
+            "Title": "7 Skills Essential for Modern Teachers | Tula's International",
+            "URL": "https://tis.edu.in/blog/7-skills-essential-for-teachers-in-the-modern-scenario"
+        },
+        {
+            "Title": "16 Qualities of the Modern Teacher - SimpleK12.com",
+            "URL": "https://www.simplek12.com/counseling/16-qualities-of-the-modern-teacher"
+        },
+        {
+            "Title": "25 Essential Skills and Qualities Every Teacher Needs",
+            "URL": "https://www.careeraddict.com/teacher-skills"
+        },
+        {
+            "Title": "Top 9 Characteristics and Qualities of a Good Teacher - Owlcation",
+            "URL": "https://owlcation.com/academia/Characteristics-Of-A-Good-Teacher"
+        },
+        {
+            "Title": "20 Qualities of a Good Teacher: Improve your teaching skills",
+            "URL": "https://blog.teachmint.com/qualities-of-a-good-teacher"
+        },
+        {
+            "Title": "10 Qualities of a Good Teacher",
+            "URL": "https://www.snhu.edu/about-us/newsroom/education/qualities-of-a-good-teacher"
+        },
+        {
+            "Title": "Modern Teacher: Essential Skills and Methods",
+            "URL": "https://blog.noplag.com/modern-teaching-skills-and-methods"
+        },
+        {
+            "Title": "#stWhat Qualities Are Essential for a Modern Teacher? | Medium",
+            "URL": "https://medium.com/@edubirdieau/what-qualities-are-essential-for-a-modern-teacher-f4ba1d8ba25"
+        },
+        {
+            "Title": "What should be a modern teacher? A modern teacher, what is he like?",
+            "URL": "https://trendexmexico.com/obrazovanie/85640-kakoy-dolzhen-byt-sovremennyy-uchitel-sovremennyy-pedagog-kakoy-on.html"
+        },
+        {
+            "Title": "What Makes a Good Teacher: 10 Qualities of an Excellent Teacher",
+            "URL": "https://oetjobs.com/what-makes-a-good-teacher-10-qualities-of-a-good-teacher"
+        },
+        {
+            "Title": "Discover 5 Essential Qualities of a Good Teacher",
+            "URL": "https://www.thoughtco.com/the-most-essential-qualities-of-a-good-teacher-3194340"
+        },
+        {
+            "Title": "Top 10 Skills To Include on Your Teacher Resume | Indeed.com",
+            "URL": "https://www.indeed.com/career-advice/resumes-cover-letters/teacher-skills"
+        },
+        {
+            "Title": "What Makes a Modern Teacher? - Kognity",
+            "URL": "https://kognity.com/blog/what-makes-a-modern-teacher"
+        },
+        {
+            "Title": "What are the Personal Qualities of a Good Teacher?",
+            "URL": "https://www.preservearticles.com/essay/what-are-the-personal-qualities-of-a-good-teacher/18319"
+        },
+        {
+            "Title": "What qualities make a good teacher? 8 signs you should pursue an...",
+            "URL": "http://www.css.edu/the-sentinel-blog/what-qualities-make-a-good-teacher.html"
+        },
+        {
+            "Title": "10 Qualities of a Successful Teacher - Edsys",
+            "URL": "https://www.edsys.in/10-qualities-successful-teacher"
+        },
+        {
+            "Title": "An Ideal Teacher - Good Teacher Qualities - HubPages",
+            "URL": "https://discover.hubpages.com/education/An-Ideal-Teacher-Good-Teacher-Qualities"
+        },
+        {
+            "Title": "PDF The competencies of the modern teacher",
+            "URL": "https://files.eric.ed.gov/fulltext/ED567059.pdf"
+        },
+        {
+            "Title": "PDF A MODERN | teacher?",
+            "URL": "http://www.ma.cfuv.ru/res/234201/A modern teacher. What is it.pdf"
+        },
+        {
+            "Title": "PDF Part I. WHAT MAKES A GOOD TEACHER?",
+            "URL": "https://elearning.sumdu.edu.ua/free_content/lectured:24e7c9e7251fb958a00ae68d5be3a20bdbaca757/latest/460836/What_Makes_a_Good_Teacher_English_for_advanced_learners.pdf"
+        },
+        {
+            "Title": "The teaching profession: quality, salary, requirements, skills...",
+            "URL": "https://WorkKing.ru/en/proforientatsiya/professiya/uchitel.html"
+        },
+        {
+            "Title": "Teacher as a profession | Work | Salary | Disadvantages | Studies",
+            "URL": "https://www.unipage.net/en/profession_teacher"
+        },
+        {
+            "Title": "Qualities that a 'good' teacher should have, Sample of Essays",
+            "URL": "https://educheer.com/essays/qualities-that-a-e-good-e-teacher-should-have"
+        },
+        {
+            "Title": "What Qualities A Teacher Should Have - 388 Words | Studymode",
+            "URL": "https://www.studymode.com/essays/What-Qualities-a-Teacher-Should-Have-56643771.html"
+        },
+        {
+            "Title": "Personal Qualities an English Teacher Should Possess | ITTT",
+            "URL": "https://www.teflcourse.net/blog/personal-qualities-an-english-teacher-should-possess-ittt-tefl-blog"
+        },
+        {
+            "Title": "What makes a great teacher? | Parenting",
+            "URL": "https://www.greatschools.org/gk/articles/what-makes-a-great-teacher"
+        },
+        {
+            "Title": "How religion may affect educational attainment",
+            "URL": "https://www.pewforum.org/2016/12/13/how-religion-may-affect-educational-attainment-scholarly-theories-and-historical-background"
+        },
+        {
+            "Title": "Effects of Religious Practice on Education - Marripedia",
+            "URL": "http://marripedia.org/effects_of_religious_practice_on_education"
+        },
+        {
+            "Title": "Religious Education Faces the Challenge of Religious Plurality",
+            "URL": "https://library.oapen.org/bitstream/id/c96497d2-e7a8-44bf-a931-71779bf1424e/631318.pdf"
+        },
+        {
+            "Title": "DISCRIMINATION IN THE MATTER OF RELIGIOUS RIGHTS ...",
+            "URL": "https://www.ohchr.org/documents/issues/religion/krishnaswami_1960.pdf"
+        },
+        {
+            "Title": "Why It Matters: Religion and Education | Sociology - Lumen ...",
+            "URL": "https://courses.lumenlearning.com/alamo-sociology/chapter/reading-introduction-to-religion"
+        },
+        {
+            "Title": "Why religious education has an important role to play in our ...",
+            "URL": "https://www.irishtimes.com/news/education/why-religious-education-has-an-important-role-to-play-in-our-society-1.1853105"
+        },
+        {
+            "Title": "Religious education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Religious_education"
+        },
+        {
+            "Title": "On the role of religious expression in the Swedish Public ...",
+            "URL": "http://uu.diva-portal.org/smash/get/diva2:1322133/FULLTEXT01.pdf"
+        },
+        {
+            "Title": "Religion and Morality - NCBI",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4345965"
+        },
+        {
+            "Title": "Education and religion - Parliamentary Assembly of the ...",
+            "URL": "https://pace.coe.int/files/11017/html"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Sample Education Research Topics - Helping Research writing for …",
+            "URL": "http://researcharticles.com/index.php/sample-education-research-topics"
+        },
+        {
+            "Title": "Religious exception for vaccination or religious excuses …",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5141457"
+        },
+        {
+            "Title": "Religion In Education | HASTAC",
+            "URL": "https://www.hastac.org/blogs/emmamclaughlin22/2015/03/25/religion-education"
+        },
+        {
+            "Title": "Religion Equity in Schools – Protecting Students and Their …",
+            "URL": "https://www.idra.org/resource-center/religion-equity-in-schools-protecting-students-and-their-civil-rights"
+        },
+        {
+            "Title": "Exploring Spiritual Needs in the Classroom Implications for …",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1126343.pdf"
+        },
+        {
+            "Title": "Religion in the Public Schools | Pew Research Center",
+            "URL": "https://www.pewforum.org/2019/10/03/religion-in-the-public-schools-2019-update"
+        },
+        {
+            "Title": "The First Amendment in Schools: Resource Guide: …",
+            "URL": "https://ncac.org/resource/the-first-amendment-in-schools-resource-guide-religious-expression-in-the-public-schools"
+        },
+        {
+            "Title": "Religion in the classroom | Education Canada Magazine",
+            "URL": "https://www.edcan.ca/articles/religion-in-the-classroom"
+        },
+        {
+            "Title": "The Comparative Study of Religions - smp.org",
+            "URL": "https://www.smp.org/dynamicmedia/files/b65ce63e7cc80ab9cb6fd2a745ccf33c/TX003861-1-article-The_Comparative_Study_of_Religions.pdf"
+        },
+        {
+            "Title": "Religiosity and education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Religiosity_and_education"
+        },
+        {
+            "Title": "Religion And Education Level",
+            "URL": "https://study-education.com/religion-and-education-level"
+        },
+        {
+            "Title": "Education and Religion",
+            "URL": "https://studydeets.com/study/practice/education-and-religion-essentials-of-sociology-211766"
+        },
+        {
+            "Title": "Islam - History of Islamic Education, Aims and Objectives of Islamic...",
+            "URL": "https://education.stateuniversity.com/pages/2133/Islam.html"
+        },
+        {
+            "Title": "study of religion - History of the study of religion | Britannica",
+            "URL": "https://www.britannica.com/topic/study-of-religion/History-of-the-study-of-religion"
+        },
+        {
+            "Title": "The Functionalist Perspective on Religion | Boundless Sociology",
+            "URL": "https://courses.lumenlearning.com/boundless-sociology/chapter/the-functionalist-perspective-on-religion"
+        },
+        {
+            "Title": "(PDF) english for religious purposes",
+            "URL": "https://www.researchgate.net/publication/282186580_ENGLISH_FOR_RELIGIOUS_PURPOSES"
+        },
+        {
+            "Title": "Religion and belief | The work of the Council of Europe",
+            "URL": "https://www.coe.int/en/web/compass/religion-and-belief"
+        },
+        {
+            "Title": "Religion and culture: Revisiting a close relative",
+            "URL": "http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222017000100010"
+        },
+        {
+            "Title": "States With Religious and Philosophical Exemptions From School...",
+            "URL": "https://www.ncsl.org/research/health/school-immunization-exemption-state-laws.aspx"
+        },
+        {
+            "Title": "Religion VCE Unit 1 Flashcards | Quizlet",
+            "URL": "https://quizlet.com/au/641287576/religion-vce-unit-1-flash-cards"
+        },
+        {
+            "Title": "History of Religions - Courses - Higher School of Economics National...",
+            "URL": "https://www.hse.ru/en/edu/courses/497646856"
+        },
+        {
+            "Title": "Theology, Religion, and Philosophy of Religion | Undergraduate Study",
+            "URL": "https://www.undergraduate.study.cam.ac.uk/courses/theology"
+        },
+        {
+            "Title": "Tomorrow's Gods: What is the future of religion? - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20190801-tomorrows-gods-what-is-the-future-of-religion"
+        },
+        {
+            "Title": "Religion: why faith is becoming more and more popular | The Guardian",
+            "URL": "https://www.theguardian.com/news/2018/aug/27/religion-why-is-faith-growing-and-what-happens-next"
+        },
+        {
+            "Title": "What Is Spirituality? | Taking Charge of Your Health & Wellbeing",
+            "URL": "https://www.takingcharge.csh.umn.edu/what-spirituality"
+        },
+        {
+            "Title": "What is spirituality? | Spirituality | ReachOut Australia",
+            "URL": "https://au.reachout.com/articles/what-is-spirituality"
+        },
+        {
+            "Title": "Origins of the universe - Religion and science - GCSE Religious...",
+            "URL": "https://www.bbc.co.uk/bitesize/guides/zx7634j/revision/3"
+        },
+        {
+            "Title": "What Is Religion? | Impact of Religion",
+            "URL": "https://www.verywellmind.com/religion-improves-health-2224007"
+        },
+        {
+            "Title": "Are religious people happier, healthier? | Pew Research Center",
+            "URL": "https://www.pewresearch.org/fact-tank/2019/01/31/are-religious-people-happier-healthier-our-new-global-study-explores-this-question"
+        },
+        {
+            "Title": "The Most Important Education Issues Today",
+            "URL": "https://www.ranker.com/list/most-important-education-issues/lauren-slocum"
+        },
+        {
+            "Title": "What is the importance of religion in our lives?",
+            "URL": "https://www.tutorialspoint.com/what-is-the-importance-of-religion-in-our-lives"
+        },
+        {
+            "Title": "Are There Religious Exemptions to Vaccines?",
+            "URL": "https://www.verywellfamily.com/religious-exemptions-to-vaccines-2633702"
+        },
+        {
+            "Title": "Religion in the Middle Ages - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1411/religion-in-the-middle-ages"
+        },
+        {
+            "Title": "Education - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Education"
+        },
+        {
+            "Title": "15 Learning Theories In Education (A Complete Summary)",
+            "URL": "https://teacherofsci.com/learning-theories-in-education"
+        },
+        {
+            "Title": "Internet: The Huge Library And A Very Unsafe Place, How To ...",
+            "URL": "https://www.theprevalentindia.com/internet-the-huge-library-and-a-very-unsafe-place-how-to-help-students-use-it-safely-for-educational-purposes"
+        },
+        {
+            "Title": "THE INTERNET: A HUGE LIBRARY AND A VERY UNSAFE ...",
+            "URL": "https://lifelearners.ng/the-internet-a-huge-library-and-a-very-unsafe-place"
+        },
+        {
+            "Title": "How Can Education Help Students to Stay Safe Online?",
+            "URL": "https://staysafeonline.org/blog/can-education-help-students-stay-safe-online"
+        },
+        {
+            "Title": "Importance and Usage for Library and lnformation Professionals",
+            "URL": "https://www.gndec.ac.in/~librarian/sveri/dbit2103017.pdf"
+        },
+        {
+            "Title": "INTERNET IN EDUCATION - UNESCO IITE",
+            "URL": "https://iite.unesco.org/pics/publications/en/files/3214612.pdf"
+        },
+        {
+            "Title": "How To Help Students Use Internet Safely For Educational ...",
+            "URL": "http://bweducation.businessworld.in/article/How-To-Help-Students-Use-Internet-Safely-For-Educational-Purposes-/29-07-2020-302765"
+        },
+        {
+            "Title": "How to help young learners stay safe on the internet - British ...",
+            "URL": "https://www.britishcouncil.org/voices-magazine/how-help-young-learners-stay-safe-internet"
+        },
+        {
+            "Title": "Safe and Responsible Use of the Internet: - National ...",
+            "URL": "https://www.ntia.doc.gov/legacy/ntiahome/ntiageneral/cipacomments/comments/willard/Chapters.htm"
+        },
+        {
+            "Title": "Integrating the Internet: Risks and Solutions | Education World",
+            "URL": "https://www.educationworld.com/a_tech/columnists/poole/poole018.shtml"
+        },
+        {
+            "Title": "Using the Internet in Education – Strengths and Weaknesses",
+            "URL": "http://www.diva-portal.org/smash/get/diva2:438827/FULLTEXT01.pdf"
+        },
+        {
+            "Title": "Internet: Importance and Usage for Library and …",
+            "URL": "https://gndec.ac.in/~librarian/sveri/dbit2103017.pdf"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "Your Local Library Can Be a Dangerous Place | Psychology …",
+            "URL": "https://www.psychologytoday.com/us/blog/the-act-violence/201203/your-local-library-can-be-dangerous-place"
+        },
+        {
+            "Title": "10 simple things you can do to help make the internet a …",
+            "URL": "https://news.microsoft.com/europe/2018/02/05/10-simple-things-you-can-do-to-help-make-the-internet-a-safer-place"
+        },
+        {
+            "Title": "INTERNET IN EDUCATION - UNESCO IITE",
+            "URL": "http://iite.unesco.org/pics/publications/en/files/3214612.pdf"
+        },
+        {
+            "Title": "(PDF) The use of the internet for educational purposes",
+            "URL": "https://www.researchgate.net/publication/271617625_The_use_of_the_internet_for_educational_purposes"
+        },
+        {
+            "Title": "Internet in Education - Blog In2English | Visit Faraway Places",
+            "URL": "https://in2english.net/2019/11/25/internet-in-education"
+        },
+        {
+            "Title": "The Internet Flashcards | Quizlet",
+            "URL": "https://quizlet.com/ru/624994410/the-internet-flash-cards"
+        },
+        {
+            "Title": "Positive and Negative Impact of Social Media on Education",
+            "URL": "https://tis.edu.in/blog/positive-and-negative-impact-of-social-media-on-education"
+        },
+        {
+            "Title": "Top 15 Reasons Why The Internet Is Good For Students In Education",
+            "URL": "https://adilblogger.com/reasons-internet-good-students-education"
+        },
+        {
+            "Title": "The 12 Benefits and Uses of Computer in Education",
+            "URL": "https://www.techprevue.com/ways-students-life-simplified-computers"
+        },
+        {
+            "Title": "18 Advantages and Disadvantages of Using the Internet | Life Persona",
+            "URL": "https://www.lifepersona.com/18-advantages-and-disadvantages-of-using-the-internet"
+        },
+        {
+            "Title": "How Smartphones Help Study - News - IQ: Research and Education...",
+            "URL": "https://iq.hse.ru/en/news/201806836.html"
+        },
+        {
+            "Title": "How New Technologies Are Helping Students Learn",
+            "URL": "https://interestingengineering.com/how-new-technologies-are-helping-students-learn"
+        },
+        {
+            "Title": "A for and against essay about the internet - British Council",
+            "URL": "https://learnenglishteens.britishcouncil.org/skills/writing/upper-intermediate-b2-writing/against-essay-about-internet"
+        },
+        {
+            "Title": "Pros and cons of students using computer in school| UP Board",
+            "URL": "https://www.jagranjosh.com/articles/advantages-and-disadvantages-of-computer-skills-for-students-in-their-school-life-1517293374-1"
+        },
+        {
+            "Title": "How to Use Social-Networking Technology for Learning | Edutopia",
+            "URL": "https://www.edutopia.org/how-use-social-networking-technology"
+        },
+        {
+            "Title": "Top 10 Internet Safety Rules & What Not to Do Online | Kaspersky",
+            "URL": "https://usa.kaspersky.com/resource-center/preemptive-safety/top-10-internet-safety-rules-and-what-not-to-do-online"
+        },
+        {
+            "Title": "IELTS; Widespread use of the Internet and its problems/ solutions",
+            "URL": "https://essayforum.com/writing/widespread-use-internet-problems-solutions-29792"
+        },
+        {
+            "Title": "Computer in Education | Uses of Computer In Education Field",
+            "URL": "https://informationq.com/computer-in-education"
+        },
+        {
+            "Title": "How Has Technology Changed Education | Purdue Online",
+            "URL": "https://online.purdue.edu/blog/education/how-has-technology-changed-education"
+        },
+        {
+            "Title": "Peers play a large role in the social and emotional development of...",
+            "URL": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Peer-Pressure-104.aspx"
+        },
+        {
+            "Title": "Advantages and Disadvantages Of Internet And It's Importance",
+            "URL": "https://learntechit.com/advantages-and-disadvantages-of-internet"
+        },
+        {
+            "Title": "Uses of Computers in Education | The Classroom",
+            "URL": "https://www.theclassroom.com/uses-computers-education-4813487.html"
+        },
+        {
+            "Title": "Standardized Testing: Fair or Not? | University of Lethbridge",
+            "URL": "https://www.ulethbridge.ca/teachingcentre/standardized-testing-fair-or-not"
+        },
+        {
+            "Title": "Standardized test - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Standardized_test"
+        },
+        {
+            "Title": "Standardized Tests in Education: Advantages and ... - Study.com",
+            "URL": "https://study.com/academy/lesson/standardized-tests-in-education-advantages-and-disadvantages.html"
+        },
+        {
+            "Title": "Impact of Standardized Testing Emphasis on Teaching and ...",
+            "URL": "https://dc.etsu.edu/cgi/viewcontent.cgi?article=3464&context=etd"
+        },
+        {
+            "Title": "There are better ways to assess students than with high ...",
+            "URL": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/04/03/there-are-better-ways-to-assess-students-than-with-high-stakes-standardized-tests-these-schools-are-using-them-with-success"
+        },
+        {
+            "Title": "A Review of Standardized Testing Practices and Perceptions ...",
+            "URL": "https://files.eric.ed.gov/fulltext/ED586108.pdf"
+        },
+        {
+            "Title": "Standardized testing: a conventional way of checking the ...",
+            "URL": "https://elitehomework.com/standardized-testing-a-conventional-way-of-checking-the-results-of-education-or-a-new-caste-system"
+        },
+        {
+            "Title": "Effects of Standardized Testing on Teachers - CRESST",
+            "URL": "https://cresst.org/wp-content/uploads/TECH334.pdf"
+        },
+        {
+            "Title": "Testing in American Schools: Asking the Right Questions",
+            "URL": "https://www.princeton.edu/~ota/disk1/1992/9236/9236.PDF"
+        },
+        {
+            "Title": "Standardized Test Definition - The Glossary of Education ...",
+            "URL": "https://www.edglossary.org/standardized-test"
+        },
+        {
+            "Title": "Standardized testing: a conventional way of checking the results of ...",
+            "URL": "https://businessmanagementassignment.com/standardized-testing-a-conventional-way-of-checking-the-results-of-education-or-a-new-caste-system"
+        },
+        {
+            "Title": "Arguments against Standardized Testing Education Philosophy of …",
+            "URL": "https://solutionlibrary.com/education/philosophy-of-education/arguments-against-standardized-testing-jtoq"
+        },
+        {
+            "Title": "Standardized testing: a conventional way of checking the results of ...",
+            "URL": "https://assignmentsolutions.net/standardized-testing-a-conventional-way-of-checking-the-results-of-education-or-a-new-caste-system"
+        },
+        {
+            "Title": "Journal of Education and Teaching Management Research | …",
+            "URL": "https://taylorandwales.com/journals/JETMR"
+        },
+        {
+            "Title": "Standardized testing: a conventional way of checking the results...",
+            "URL": "https://perfectgradespro.com/2021/04/04/standardized-testing-a-conventional-way-of-checking-the-results-of-education-or-a-new-caste-system"
+        },
+        {
+            "Title": "The Pros and Cons of Standardized Testing",
+            "URL": "https://www.whitbyschool.org/passionforlearning/the-pros-and-cons-of-standardized-testing"
+        },
+        {
+            "Title": "A Look at Standardized Tests Pros and Cons - BrightHub Education",
+            "URL": "https://www.brighthubeducation.com/student-assessment-tools/16137-the-pros-and-cons-of-standardized-testing"
+        },
+        {
+            "Title": "Standardized Testing : Stanford University",
+            "URL": "https://admission.stanford.edu/apply/freshman/testing.html"
+        },
+        {
+            "Title": "What Is Standardized Testing Persuasive Essay | ipl.org",
+            "URL": "https://www.ipl.org/essay/What-Is-Standardized-Testing-Persuasive-Essay-PJZ5X7MVDSM"
+        },
+        {
+            "Title": "The Purpose of Educational Testing",
+            "URL": "https://www.thoughtco.com/the-purpose-of-tests-7688"
+        },
+        {
+            "Title": "SAT - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/SAT"
+        },
+        {
+            "Title": "The beginning of the end of our obsession with standardized tests",
+            "URL": "https://www.washingtonpost.com/education/2020/06/21/it-looks-like-beginning-end-americas-obsession-with-student-standardized-tests"
+        },
+        {
+            "Title": "What Is the SAT? A Complete Explanation of the Test",
+            "URL": "https://blog.prepscholar.com/what-is-the-sat-a-complete-explanation-of-the-test"
+        },
+        {
+            "Title": "Prof Flashcards | Quizlet",
+            "URL": "https://quizlet.com/cn/602495936/prof-flash-cards"
+        },
+        {
+            "Title": "TechnoFunc - How to Improve Education System | 1. Better Standards",
+            "URL": "https://www.technofunc.com/index.php/domain-knowledge/education-domain/item/how-to-improve-education-system"
+        },
+        {
+            "Title": "Assessment vs Testing: what's the... | Onlineassessmenttool.com",
+            "URL": "https://www.onlineassessmenttool.com/knowledge-center/assessment-knowledge-center/assessment-vs-testing/item10641"
+        },
+        {
+            "Title": "Entrance Exams | International entrance exams for foreign universities",
+            "URL": "https://www.unipage.net/en/exams"
+        },
+        {
+            "Title": "ISTQB certification exam questions for chapter Test design techniques",
+            "URL": "https://istqb.patshala.com/questions/questions.php?tn=23"
+        },
+        {
+            "Title": "Data Analysis with Python Cognitive Class Answers - Everything...",
+            "URL": "https://priyadogra.com/data-analysis-with-python-cognitive-class-answers"
+        },
+        {
+            "Title": "Formative Assessment Definition | The Glossary of Education Reform",
+            "URL": "https://www.edglossary.org/formative-assessment"
+        },
+        {
+            "Title": "Free Official SAT Practice Test - Test Your Language",
+            "URL": "https://testyourlanguage.com/sat-practice-test"
+        },
+        {
+            "Title": "6 Types of Assessment (and How to Use Them) | Prodigy Education",
+            "URL": "https://www.prodigygame.com/main-en/blog/types-of-assessment"
+        },
+        {
+            "Title": "Examinations: Are they the Best Test of Students Knowledge?",
+            "URL": "https://www.scholarshubafrica.com/38534/examinations-best-test-students-knowledge"
+        },
+        {
+            "Title": "Types of summative assessment and formative assessment",
+            "URL": "https://resourced.prometheanworld.com/types-of-summative-formative-assessment"
+        },
+        {
+            "Title": "The Most Important Education Issues Today",
+            "URL": "https://www.ranker.com/list/most-important-education-issues/lauren-slocum"
+        },
+        {
+            "Title": "Pre intermediate -test 14 - IELTS TOEFL pte yds yökdil itep",
+            "URL": "https://www.ielts-toefl-yds.com/pre-intermediate-test-14.html"
+        },
+        {
+            "Title": "Free SAT Practice Tests [2021 Updated]",
+            "URL": "https://www.test-guide.com/free-sat-practice-tests.html"
+        },
+        {
+            "Title": "Best practices for writing unit tests - .NET | Microsoft Docs",
+            "URL": "https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices"
+        },
+        {
+            "Title": "A Guide to the Education Section of the Common App",
+            "URL": "https://blog.collegevine.com/a-guide-to-the-education-section-of-the-common-app"
+        },
+        {
+            "Title": "Understanding the Common European Framework of... | EF SET",
+            "URL": "https://www.efset.org/cefr"
+        },
+        {
+            "Title": "PDCA Cycle - What is the Plan-Do-Check-Act Cycle? | ASQ",
+            "URL": "https://asq.org/quality-resources/pdca-cycle"
+        },
+        {
+            "Title": "Application guide for first-time students",
+            "URL": "https://www.commonapp.org/apply/first-time-students"
+        },
+        {
+            "Title": "State Regulations of Private Schools (PDF) - Department of ...",
+            "URL": "https://www2.ed.gov/admins/comm/choice/regprivschl/regprivschl.pdf"
+        },
+        {
+            "Title": "School Licensing And Registration Requirements - iPleaders",
+            "URL": "https://blog.ipleaders.in/school-licensing-registration-norms"
+        },
+        {
+            "Title": "Licenses to Open a School: It's All About Money - | Centre For ...",
+            "URL": "https://ccs.in/licenses-open-school-it-s-all-about-money"
+        },
+        {
+            "Title": "REGULATION OF PRIVATE SCHOOLS IN INDIA - Vidhi ...",
+            "URL": "https://vidhilegalpolicy.in/wp-content/uploads/2019/05/ReportonRegulationofPrivateSchools_Final.pdf"
+        },
+        {
+            "Title": "Establishment and Management Of Private Educational and ...",
+            "URL": "https://www.moe.gov.bh/laws/private2.aspx?lan=en"
+        },
+        {
+            "Title": "Licensing private educational institutes - The Official Portal of ...",
+            "URL": "https://u.ae/en/information-and-services/education/licensing-private-educational-institutes"
+        },
+        {
+            "Title": "Private School Education Statutes - Wisconsin Department of ...",
+            "URL": "https://dpi.wi.gov/parental-education-options/private-schools/statutes"
+        },
+        {
+            "Title": "How Do You Become a Private School Teacher?",
+            "URL": "https://www.privateschoolreview.com/blog/how-do-you-become-a-private-school-teacher"
+        },
+        {
+            "Title": "Private Schools Frequently Asked Questions - California ...",
+            "URL": "https://www.cde.ca.gov/sp/ps/psfaq.asp"
+        },
+        {
+            "Title": "PRIVATE SCHOOL ACT B.E. 2550 (2007) - ILO",
+            "URL": "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/80405/109390/F797361128/THA80405 Eng.pdf"
+        },
+        {
+            "Title": "PRIVATE LICENSED SCHOOLS ACT - Pennsylvania Department of …",
+            "URL": "https://www.education.pa.gov/Documents/Postsecondary-Adult/College and Career Education/Private Licensed Schools/Private Licensed Schools Act.pdf"
+        },
+        {
+            "Title": "REGULATORY GUIDELINES FOR PRIVATE PLAY SCHOOLS",
+            "URL": "https://www.ncpcr.gov.in/showfile.php?lang=1&level=1&&sublinkid=933&lid=1271"
+        },
+        {
+            "Title": "Right of Children to Free and Compulsory Education Act ... - …",
+            "URL": "https://www.vikaspedia.in/education/policies-and-schemes/right-to-education/right-of-children-to-free-and-compulsory-education-act-2009-right-to-education-act"
+        },
+        {
+            "Title": "DepEd Revised Manual of Regulations for Private Schools",
+            "URL": "https://depedtambayan.net/deped-regulations-private-schools"
+        },
+        {
+            "Title": "Licensed Schools - Alabama Community College System",
+            "URL": "https://www.accs.edu/about-accs/private-school-licensure/licensed-schools"
+        },
+        {
+            "Title": "GOVERNMENT OF TAMILNADU",
+            "URL": "https://www.tn.gov.in/schedu/draft_regulations/draft_regulations_playschool_revised_200715.pdf"
+        },
+        {
+            "Title": "Updated Manual of Regulations for Private Schools in Basic …",
+            "URL": "https://www.teacherph.com/manual-of-regulations-for-private-schools"
+        },
+        {
+            "Title": "Ministry of Education Notice of Intention to Operate a Private …",
+            "URL": "https://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/GetFileAttach/010-52-0147E~2/$File/52-0147E.pdf"
+        },
+        {
+            "Title": "NEVADA DEPARTMENT OF EDUCATION APPLICATION FOR …",
+            "URL": "https://doe.nv.gov/uploadedFiles/ndedoenvgov/content/Private_Schools/Documents/ApplicationforREN.pdf"
+        },
+        {
+            "Title": "Public vs. private vs. charter schools | Parenting",
+            "URL": "https://www.greatschools.org/gk/articles/public-private-charter-schools"
+        },
+        {
+            "Title": "Private Education Vs. Public Education, Sample of Essays",
+            "URL": "https://educheer.com/essays/private-education-vs-public-education"
+        },
+        {
+            "Title": "Private School vs Public School - Difference and Comparison | Diffen",
+            "URL": "https://www.diffen.com/difference/Private_School_vs_Public_School"
+        },
+        {
+            "Title": "Private schools in the UK: Overview | Private education - What is it?",
+            "URL": "https://www.langust.ru/review/private.shtml"
+        },
+        {
+            "Title": "Individualized Education Program - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Individualized_Education_Program"
+        },
+        {
+            "Title": "State Schools And Private Schools?",
+            "URL": "https://www.englishforums.com/English/StateSchoolsPrivateSchools/pdlgl/post.htm"
+        },
+        {
+            "Title": "The debate over private and public provisions of education",
+            "URL": "https://europa.eu/capacity4dev/articles/debate-over-private-and-public-provisions-education"
+        },
+        {
+            "Title": "What Is a Trade School? How Can You Apply?",
+            "URL": "https://blog.prepscholar.com/what-is-a-trade-school"
+        },
+        {
+            "Title": "Vocabulary 14 - exercises Flashcards | Quizlet",
+            "URL": "https://quizlet.com/be/557620477/vocabulary-14-exercises-flash-cards"
+        },
+        {
+            "Title": "Should Education Be Free or Not?",
+            "URL": "https://spark.adobe.com/page/btcCj"
+        },
+        {
+            "Title": "Why Is Education Important: All The Reasons To Stay In School",
+            "URL": "https://www.uopeople.edu/blog/10-reasons-why-is-education-important"
+        },
+        {
+            "Title": "10 reasons why Finland's education system is the best in the world",
+            "URL": "https://www.weforum.org/agenda/2018/09/10-reasons-why-finlands-education-system-is-the-best-in-the-world"
+        },
+        {
+            "Title": "Why should you study at the university? | How to choose a university...",
+            "URL": "https://www.unipage.net/en/university_advantages"
+        },
+        {
+            "Title": "A Guide to the Education Section of the Common App",
+            "URL": "https://blog.collegevine.com/a-guide-to-the-education-section-of-the-common-app"
+        },
+        {
+            "Title": "Five Reasons Why Education Helps to... - Cornerstone University",
+            "URL": "https://www.cornerstone.edu/blog-post/five-reasons-why-education-helps-to-advance-your-career-at-any-level"
+        },
+        {
+            "Title": "Albert Einstein: Education is what remains after one has forgotten...",
+            "URL": "https://specialties.bayt.com/en/specialties/q/79179/albert-einstein-education-is-what-remains-after-one-has-forgotten-everything-he-learned-in-school"
+        },
+        {
+            "Title": "University students should pay for their own education?",
+            "URL": "http://cojawiem.pl/en/articles/19594-university-students-should-pay-for-their-own-education"
+        },
+        {
+            "Title": "50 Teacher Interview Questions and Answers | Indeed.com",
+            "URL": "https://www.indeed.com/career-advice/interviewing/teacher-interview-questions"
+        },
+        {
+            "Title": "10 Reasons Today's Students NEED Technology in the Classroom",
+            "URL": "https://www.securedgenetworks.com/blog/10-reasons-today-s-students-need-technology-in-the-classroom"
+        },
+        {
+            "Title": "Pros and Cons of Online Education vs Traditional Education",
+            "URL": "https://www.classgap.com/en/blog/online-education-traditional-education-which-one-better-for"
+        },
+        {
+            "Title": "Amazing Historical Facts About The Best Universities For ...",
+            "URL": "https://www.topuniversities.com/university-rankings-articles/university-subject-rankings/amazing-historical-facts-about-best-universities-history-2018"
+        },
+        {
+            "Title": "The 30 Most Influential Colleges and Universities",
+            "URL": "https://www.bestcollegereviews.org/features/the-30-most-influential-colleges-and-universities-of-the-past-century"
+        },
+        {
+            "Title": "These are the world's best universities right now",
+            "URL": "https://www.weforum.org/agenda/2020/10/best-universities-top-10-times-higher-education"
+        },
+        {
+            "Title": "Best universities in the World 2022 - Times Higher Education ...",
+            "URL": "https://www.timeshighereducation.com/student/best-universities/best-universities-world"
+        },
+        {
+            "Title": "The 100 Best Universities in the World Today",
+            "URL": "https://thebestschools.org/rankings/best-universities-worldwide"
+        },
+        {
+            "Title": "QS World University Rankings - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/QS_World_University_Rankings"
+        },
+        {
+            "Title": "Americas Top colleges List 2021 - Forbes",
+            "URL": "https://www.forbes.com/top-colleges"
+        },
+        {
+            "Title": "Harvard University",
+            "URL": "https://www.harvard.edu"
+        },
+        {
+            "Title": "university | Definition, Origin, History, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/university"
+        },
+        {
+            "Title": "What Makes A University Great?",
+            "URL": "https://www.forbes.com/2009/08/10/world-class-best-university-ranking-world-bank-opinions-colleges-salmi.html"
+        },
+        {
+            "Title": "12 of the Best College Logo Designs (And Why They're So …",
+            "URL": "https://blog.hubspot.com/marketing/best-college-logos"
+        },
+        {
+            "Title": "Top 200 Universities in the World | 2021 World University …",
+            "URL": "https://www.4icu.org/top-universities-world"
+        },
+        {
+            "Title": "History of European universities - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_European_universities"
+        },
+        {
+            "Title": "Top 5 Causes of the Great Depression - ThoughtCo",
+            "URL": "https://www.thoughtco.com/causes-of-the-great-depression-104686"
+        },
+        {
+            "Title": "50 Reasons We're Living Through the Greatest Period in …",
+            "URL": "https://www.fool.com/investing/general/2014/01/29/50-reasons-were-living-through-the-greatest-period.aspx"
+        },
+        {
+            "Title": "The History of the American Research University - The Atlantic",
+            "URL": "https://www.theatlantic.com/education/archive/2016/09/the-triumph-of-americas-research-university/500798"
+        },
+        {
+            "Title": "List of oldest universities in continuous operation - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation"
+        },
+        {
+            "Title": "Knowledge is GREAT - Part 1 | - | LearnEnglish",
+            "URL": "https://learnenglish.britishcouncil.org/general-english/video-series/britain-is-great/knowledge-is-great-part-1"
+        },
+        {
+            "Title": "The 10 Best Universities in the World",
+            "URL": "https://www.careeraddict.com/best-universities"
+        },
+        {
+            "Title": "University - New World Encyclopedia | History",
+            "URL": "https://www.newworldencyclopedia.org/entry/University"
+        },
+        {
+            "Title": "higher education | Britannica",
+            "URL": "https://www.britannica.com/topic/higher-education"
+        },
+        {
+            "Title": "Very Detailed Explanation of the Great Reset and the New World Order",
+            "URL": "https://humansarefree.com/2020/11/great-reset-and-new-world-order.html"
+        },
+        {
+            "Title": "The 10 Greatest Conquerors In History | TheRichest",
+            "URL": "https://www.therichest.com/rich-powerful/the-10-greatest-conquerors-in-history"
+        },
+        {
+            "Title": "Why Is History Important And How Can It Benefit Your Future?",
+            "URL": "https://www.uopeople.edu/blog/why-is-history-important"
+        },
+        {
+            "Title": "An elite-led 'Great Reset' post-Covid? No, what we need... — RT Op-ed",
+            "URL": "https://www.rt.com/op-ed/507108-great-reset-wef-globalist"
+        },
+        {
+            "Title": "The 10 Most Important Moments in History - Owlcation",
+            "URL": "https://owlcation.com/humanities/The-10-Most-Important-Moments-in-History-An-Illustrated-Guide"
+        },
+        {
+            "Title": "19 Great Inventions That Revolutionized History | IE",
+            "URL": "https://interestingengineering.com/19-great-inventions-that-revolutionized-history"
+        },
+        {
+            "Title": "Here's why education in the USSR was among the best in the world...",
+            "URL": "https://www.rbth.com/history/328721-education-in-ussr-the-best"
+        },
+        {
+            "Title": "The 10 Greatest Scientists of All Time | Discover Magazine",
+            "URL": "https://www.discovermagazine.com/the-sciences/the-10-greatest-scientists-of-all-time"
+        },
+        {
+            "Title": "Why is It Important to Study History? | Nord Anglia Education",
+            "URL": "https://www.nordangliaeducation.com/news/2020/04/29/why-is-it-important-to-study-history"
+        },
+        {
+            "Title": "Text 2a history of education",
+            "URL": "https://mir.zavantag.com/voennoe/759556/index.html"
+        },
+        {
+            "Title": "10 Greatest Discoveries That Changed The World - Eskify",
+            "URL": "http://eskify.com/10-greatest-discoveries-that-changed-the-world"
+        },
+        {
+            "Title": "Top 10 Greatest Mathematicians - Listverse",
+            "URL": "https://listverse.com/2010/12/07/top-10-greatest-mathematicians"
+        },
+        {
+            "Title": "N-word: The troubled history of the racial slur - BBC News",
+            "URL": "https://www.bbc.com/news/stories-53749800"
+        },
+        {
+            "Title": "Famous Russian scientists and their discoveries",
+            "URL": "https://studyinrussia.ru/en/why-russia/traditions-of-education/scientists-and-discoveries"
+        },
+        {
+            "Title": "The Most Important Leaders In World History",
+            "URL": "https://www.ranker.com/crowdranked-list/the-most-important-leaders-in-world-history"
+        },
+        {
+            "Title": "Why It's Important That We Study History",
+            "URL": "https://www.arcadiapublishing.com/Navigation/Community/Arcadia-and-THP-Blog/June-2016/Why-It’s-Important-That-We-Study-History"
+        },
+        {
+            "Title": "10 ten greatest scientific discoveries and achievements of the past...",
+            "URL": "http://csef.ru/en/politica-i-geopolitica/direction-topics/10-desyat-velichajshih-nauchnyh-otkrytij-i-dostizhenij-poslednego-desyatiletiya-6343"
+        },
+        {
+            "Title": "Alternative education approaches and their effects on the ...",
+            "URL": "https://www.researchgate.net/publication/325630868_Alternative_education_approaches_and_their_effects_on_the_learning_space"
+        },
+        {
+            "Title": "Alternative Schooling - Education Encyclopedia",
+            "URL": "https://education.stateuniversity.com/pages/1746/Alternative-Schooling.html"
+        },
+        {
+            "Title": "Alternative Schooling - Student Engagement Project",
+            "URL": "https://k12engagement.unl.edu/strategy-briefs/Alternative Schooling 11-10-15 _1.pdf"
+        },
+        {
+            "Title": "Alternative education: which approach works best? - NYU's ...",
+            "URL": "https://wp.nyu.edu/dispatch/2018/04/23/alternative-education-which-approach-works-best"
+        },
+        {
+            "Title": "Alternative School - Definition, Purpose, Description",
+            "URL": "http://www.healthofchildren.com/A/Alternative-School.html"
+        },
+        {
+            "Title": "Alternative education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Alternative_education"
+        },
+        {
+            "Title": "This chapter introduces the concept of alternative education in ...",
+            "URL": "https://www.oecd.org/education/ceri/40805108.pdf"
+        },
+        {
+            "Title": "An Introduction to Educational Alternatives",
+            "URL": "https://www.educationrevolution.org/store/resources/alternatives/introtoalternatives"
+        },
+        {
+            "Title": "Alternative Schooling in India - Arvind Gupta Toys",
+            "URL": "http://www.arvindguptatoys.com/arvindgupta/alternative-schooling.pdf"
+        },
+        {
+            "Title": "Alternative Schooling - National Dropout Prevention Center",
+            "URL": "https://dropoutprevention.org/effective-strategies/alternative-schooling"
+        },
+        {
+            "Title": "Beyond Grades & Curriculum: A Peek into India's …",
+            "URL": "https://blog.edqart.com/best-alternative-schools-in-india"
+        },
+        {
+            "Title": "5 Alternative Teaching Methods | Mental Floss",
+            "URL": "https://www.mentalfloss.com/article/21824/5-alternative-teaching-methods"
+        },
+        {
+            "Title": "Alternative Schools | The Good Schools Guide",
+            "URL": "https://www.goodschoolsguide.co.uk/choosing-a-school/alternative-schools"
+        },
+        {
+            "Title": "Alternative school - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Alternative_school"
+        },
+        {
+            "Title": "Modern Trends In Education: 50 Different Approaches To Learning",
+            "URL": "https://www.teachthought.com/pedagogy/modern-trends-education-50-different-approaches-learning"
+        },
+        {
+            "Title": "Other approaches and methods to teaching English: pros and cons",
+            "URL": "https://allright.com/blog/ru/2019/12/11/other-approaches-and-methods-to-teaching-english-pros-and-cons"
+        },
+        {
+            "Title": "Teaching Methods | Low Tech Approach to Learning",
+            "URL": "https://teach.com/what/teachers-know/teaching-methods"
+        },
+        {
+            "Title": "Approaches and Methods in Language Teaching: CLT, TPR...",
+            "URL": "https://eslspeaking.org/approaches-methods-language-teaching"
+        },
+        {
+            "Title": "Статья; Modern Teaching Methods of Teaching Foreign...",
+            "URL": "https://infourok.ru/statya-modern-teacing-metods-of-teacing-foreign-languages-2761021.html"
+        },
+        {
+            "Title": "From the history of the development of methods of teaching foreign...",
+            "URL": "https://moluch.ru/th/4/archive/114/3901"
+        },
+        {
+            "Title": "Russian Schools Are Changing Rapidly, But Not... — HSE University",
+            "URL": "https://www.hse.ru/en/news/edu/252581392.html"
+        },
+        {
+            "Title": "Approaches and methods of teaching english grammar",
+            "URL": "https://videouroki.net/razrabotki/approaches-and-methods-of-teaching-english-grammar-1.html"
+        },
+        {
+            "Title": "Main Teaching Approaches Used in Language Teaching",
+            "URL": "https://www.tktcambridge.com/main-teaching-approaches-used-in-language-teaching"
+        },
+        {
+            "Title": "PDF Foreign Language Teaching Methods. Some Issues and New Moves",
+            "URL": "https://ebuah.uah.es/dspace/bitstream/handle/10017/895/Foreign Language Teaching Methods. Some Issues and New Moves.pdf?sequence=1"
+        },
+        {
+            "Title": "What are the different methods of Teaching? | Student Centric Approach",
+            "URL": "https://blog.teachmint.com/teaching-methods"
+        },
+        {
+            "Title": "Approaches and Methods in Language Teaching - EnglishPost.org",
+            "URL": "https://englishpost.org/approaches-and-methods-in-language-teaching"
+        },
+        {
+            "Title": "The Complete List of Teaching Methods",
+            "URL": "https://onlinedegrees.sandiego.edu/complete-list-teaching-methods"
+        },
+        {
+            "Title": "How to formulate a research problem: effective ways",
+            "URL": "https://prothesiswriter.com/blog/how-to-formulate-research-problem"
+        },
+        {
+            "Title": "Learner-centred methods in ESL | Skyteach",
+            "URL": "https://skyteach.ru/2021/05/14/learner-centred-methods-in-esl"
+        },
+        {
+            "Title": "Approaches and Methods in Language Teaching",
+            "URL": "https://www.cambridge.org/core/books/approaches-and-methods-in-language-teaching/3036F7DA0057D0681000454A580967FF"
+        },
+        {
+            "Title": "9 Different Methods of Teaching the English Language in 2021 [Updated]",
+            "URL": "https://www.henryharvin.com/blog/different-methods-of-teaching-english"
+        },
+        {
+            "Title": "How to Write a Discussion Section | Checklist and Examples",
+            "URL": "https://www.scribbr.com/dissertation/discussion"
+        },
+        {
+            "Title": "Communicative Language Teaching (The Communicative Approach)",
+            "URL": "https://www.myenglishpages.com/blog/communicative-language-teaching-communicative-approach"
+        },
+        {
+            "Title": "1. Introduction to Stylistics",
+            "URL": "https://studylib.net/doc/9886924/1.-introduction-to-stylistics"
+        },
+        {
+            "Title": "Modern methods of linguistic research",
+            "URL": "https://trendexmexico.com/obrazovanie/86248-sovremennye-metody-lingvisticheskih-issledovaniy.html"
+        },
+        {
+            "Title": "The main problems students face while learning English | Яндекс Дзен",
+            "URL": "https://zen.yandex.ru/media/languagelink/the-main-problems-students-face-while-learning-english-5fd9b6c601e4747da380387a"
+        },
+        {
+            "Title": "Decision Making 6, Sample of Essays",
+            "URL": "https://educheer.com/essays/decision-making-6"
+        },
+        {
+            "Title": "Chapter 13: Effective Learning and Teaching",
+            "URL": "http://www.project2061.org/publications/sfaa/online/Chap13.htm"
+        },
+        {
+            "Title": "PDF Problems and Prospects of Higher Education System",
+            "URL": "https://mgimo.ru/upload/iblock/bfc/2017-xx-4-b-9_2018_01_06_18_54_42.pdf"
+        },
+        {
+            "Title": "Agile Methodology vs Waterfall Model: Pros and Cons",
+            "URL": "https://blog.ganttpro.com/en/waterfall-vs-agile-with-advantages-and-disadvantages"
+        },
+        {
+            "Title": "Qualitative Research - A Complete Guide with Examples",
+            "URL": "https://www.myperfectwords.com/blog/research-paper-guide/qualitative-research-method"
+        },
+        {
+            "Title": "Traditional methods and approaches of language...",
+            "URL": "https://www.sites.google.com/site/knowledgeispawer/traditional-methods-and-approaches-of-language-teaching"
+        },
+        {
+            "Title": "THE IMPORTANCE OF TEACHING MORAL VALUES ... - Neliti",
+            "URL": "https://media.neliti.com/media/publications/192566-EN-the-importance-of-teaching-moral-values.pdf"
+        },
+        {
+            "Title": "A Brief History of Moral Education, The Return of Character ...",
+            "URL": "https://education.stateuniversity.com/pages/2246/Moral-Education.html"
+        },
+        {
+            "Title": "Moral values should be part of our education system - India Map",
+            "URL": "https://www.mapsofindia.com/my-india/education/moral-values-should-be-part-of-our-education-system"
+        },
+        {
+            "Title": "Responsibility of a Teacher: Developing the Moral Values of ...",
+            "URL": "https://soapboxie.com/social-issues/Responsibility-of-a-Teacher-Developing-The-Desirable-Characteristics-of-Students"
+        },
+        {
+            "Title": "Education on moral values a must for school children",
+            "URL": "https://www.educationworld.in/education-on-moral-values-a-must-for-school-children"
+        },
+        {
+            "Title": "Emphasizing Morals, Values, Ethics, And Character ... - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1095995.pdf"
+        },
+        {
+            "Title": "The need for Moral Education - New Delhi Times",
+            "URL": "https://www.newdelhitimes.com/the-need-for-moral-education"
+        },
+        {
+            "Title": "What is Moral Education? [Benefits Included] - Edsys",
+            "URL": "https://www.edsys.in/moral-education"
+        },
+        {
+            "Title": "promotion of moral values through education - ResearchGate",
+            "URL": "https://www.researchgate.net/publication/317279040_PROMOTION_OF_MORAL_VALUES_THROUGH_EDUCATION"
+        },
+        {
+            "Title": "Research in Moral Education: The Contribution of P4C to the ...",
+            "URL": "https://www.mdpi.com/2227-7102/10/4/119/htm"
+        },
+        {
+            "Title": "Should moral education be made a compulsory subject in …",
+            "URL": "https://www.tutorialspoint.com/should-moral-education-be-made-a-compulsory-subject-in-schools"
+        },
+        {
+            "Title": "Should morals be taught in schools? What do you think …",
+            "URL": "https://www.enotes.com/homework-help/should-morals-taught-schools-400020"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Need and Importance of Moral Education in Schools",
+            "URL": "https://www.edutoday.in/2013/09/need-and-importance-of-moral-education.html"
+        },
+        {
+            "Title": "School Culture and the Moral Development of Children",
+            "URL": "http://ipedr.com/vol56/023-ICOSH2012-F10036.pdf"
+        },
+        {
+            "Title": "Moral Values for Students: A Necessary Part of the …",
+            "URL": "https://soapboxie.com/social-issues/Teaching-Moral-Values-in-School-A-Necessary-Part-of-the-Curriculum"
+        },
+        {
+            "Title": "The Development of Moral Education in China | CGIE.org: …",
+            "URL": "http://www.cgie.org/blog/resources/papers-publications/development-moral-education-china"
+        },
+        {
+            "Title": "The Morality of Education. The purpose of education is to …",
+            "URL": "https://medium.com/literate-schools/the-morality-of-education-1073537488ac"
+        },
+        {
+            "Title": "Enhancing Moral Development among College Students | Request PDF",
+            "URL": "https://www.researchgate.net/publication/352311101_Enhancing_Moral_Development_among_College_Students"
+        },
+        {
+            "Title": "Education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Education"
+        },
+        {
+            "Title": "20 Ways Parents Play a Role in the Education of Their Children - Edsys",
+            "URL": "https://www.edsys.in/parents-play-role-education-children"
+        },
+        {
+            "Title": "The Importance of Education - Why Is Education the Key... | MentalUP",
+            "URL": "https://www.mentalup.co/blog/the-importance-of-education"
+        },
+        {
+            "Title": "Moral Development",
+            "URL": "https://studydeets.com/study/practice/moral-development-how-children-develop-288265"
+        },
+        {
+            "Title": "Importance of Education (15 Reasons) - ExamPlanning %",
+            "URL": "https://examplanning.com/importance-of-education-comprehensive-article"
+        },
+        {
+            "Title": "Importance of Education in Life | Salient Features of Education",
+            "URL": "https://www.theasianschool.net/blog/importance-of-education"
+        },
+        {
+            "Title": "JPeters - The Importance of Physical Education",
+            "URL": "https://www.sites.google.com/a/piedmont.k12.ca.us/jpeters/home/introduction-to-physical-education"
+        },
+        {
+            "Title": "9 Ways To Improve Your Personal Development Skills | Indeed.com",
+            "URL": "https://www.indeed.com/career-advice/career-development/improve-your-personal-development-skills"
+        },
+        {
+            "Title": "Children adaptation at school: first graders and fifth... | FindMyKids Blog",
+            "URL": "https://findmykids.org/blog/en/children-adaptation-at-school"
+        },
+        {
+            "Title": "Education of environmental preschoolers and schoolchildren in Russia.",
+            "URL": "https://stuklopechat.com/obrazovanie/88731-obrazovanie-ekologicheskoe-doshkolnikov-i-shkolnikov-v-rossii-razvitie-ekologicheskogo-obrazovaniya.html"
+        },
+        {
+            "Title": "IELTS Writing Task #2 Topics Flashcards | Quizlet",
+            "URL": "https://quizlet.com/202578366/ielts-writing-task-2-topics-flash-cards"
+        },
+        {
+            "Title": "25 quotes that show why education is important",
+            "URL": "https://www.Canva.com/learn/25-quotes-show-education-important"
+        },
+        {
+            "Title": "education | Definition, Development, History, Types... | Britannica",
+            "URL": "https://www.britannica.com/topic/education"
+        },
+        {
+            "Title": "What is education in Russia like? A U.S. teacher investigates",
+            "URL": "https://www.rbth.com/education/330304-education-in-russia"
+        },
+        {
+            "Title": "The 12 Important Life Skills I Wish I'd Learned In School | Medium",
+            "URL": "https://medium.com/the-mission/the-12-important-life-skills-i-wish-id-learned-in-school-f4593b49445b"
+        },
+        {
+            "Title": "Russian Schools Are Changing Rapidly, But Not... — HSE University",
+            "URL": "https://www.hse.ru/en/news/edu/252581392.html"
+        },
+        {
+            "Title": "10 Benefits of Education That Will Surprise You",
+            "URL": "https://www.uopeople.edu/blog/benefits-of-education-are-societal-and-personal"
+        },
+        {
+            "Title": "Albert Einstein: Education is what remains after one has forgotten...",
+            "URL": "https://specialties.bayt.com/en/specialties/q/79179/albert-einstein-education-is-what-remains-after-one-has-forgotten-everything-he-learned-in-school"
+        },
+        {
+            "Title": "Education System Essays | IELTS buddy",
+            "URL": "https://www.ieltsbuddy.com/education-system-essays1.html"
+        },
+        {
+            "Title": "23 Realistic Educational Goal Examples - IcebreakerIdeas",
+            "URL": "https://icebreakerideas.com/educational-goals"
+        },
+        {
+            "Title": "Education: a Lifelong Task, Sample of Essays",
+            "URL": "https://educheer.com/essays/education-a-lifelong-task"
+        },
+        {
+            "Title": "The importance of leadership and management in education system",
+            "URL": "https://articlekz.com/en/article/14572"
+        },
+        {
+            "Title": "Improving well-being at school",
+            "URL": "https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/improving-well-being-at-school"
+        },
+        {
+            "Title": "Teachers as mediators in cultural clashes | Pankaj Kumar Singh",
+            "URL": "https://brainfeedmagazine.com/teachers-as-mediators-in-cultural-clashes"
+        },
+        {
+            "Title": "Culture Clash in the Multicultural Classroom: A Case Study ...",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ1173474.pdf"
+        },
+        {
+            "Title": "Multicultural education - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Multicultural_education"
+        },
+        {
+            "Title": "teachers' awareness on multicultural values and attitudes",
+            "URL": "http://www.jcreview.com/fulltext/197-1590049170.pdf"
+        },
+        {
+            "Title": "When Cultures Clash in the Classroom | TNTP",
+            "URL": "https://tntp.org/blog/post/when-cultures-clash-in-the-classroom"
+        },
+        {
+            "Title": "Teachers' approaches to multicultural education in Georgian ...",
+            "URL": "https://www.researchgate.net/publication/283636053_Teachers'_approaches_to_multicultural_education_in_Georgian_classrooms"
+        },
+        {
+            "Title": "Multicultural Education Definition",
+            "URL": "https://www.edglossary.org/multicultural-education"
+        },
+        {
+            "Title": "Methodology for the Future Instrumental Music Teacher - jstor",
+            "URL": "https://www.jstor.org/stable/24127104"
+        },
+        {
+            "Title": "Cultural Competence and its Impact on Student Academic ...",
+            "URL": "https://trace.tennessee.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2160&context=utk_graddiss"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "Interesting Education Research Paper Topic - 2021 | TopicsMill",
+            "URL": "https://topicsmill.com/research-paper/research-paper-topics-education"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "Education is a Mediator of Various Cultures: Multicultural",
+            "URL": "https://www.researchgate.net/publication/334062976_Education_is_a_Mediator_of_Various_Cultures_Multicultural_Education_towards_a_Humanist_Education"
+        },
+        {
+            "Title": "The teacher, as a cultural mediator between two languages",
+            "URL": "https://cyberleninka.ru/article/n/the-teacher-as-a-cultural-mediator-between-two-languages"
+        },
+        {
+            "Title": "Multicultural Education - History, The Dimensions of Multicultural...",
+            "URL": "https://education.stateuniversity.com/pages/2252/Multicultural-Education.html"
+        },
+        {
+            "Title": "(PDF) MULTICULTURAL EDUCATION and... - Academia.edu",
+            "URL": "https://www.academia.edu/20885774/MULTICULTURAL_EDUCATION_and_TEACHER_S_CHARACTERISTICS"
+        },
+        {
+            "Title": "Multicultural Education Flashcards | Quizlet",
+            "URL": "https://quizlet.com/124945763/multicultural-education-flash-cards"
+        },
+        {
+            "Title": "Learn about Multicultural Education and ways to implement",
+            "URL": "https://www.cuemath.com/learn/multicultural-education"
+        },
+        {
+            "Title": "Challenges Of Multicultural Education - Noplag Blog",
+            "URL": "https://blog.noplag.com/challenges-of-multicultural-education"
+        },
+        {
+            "Title": "PDF Multicultural Teacher Education",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ896073.pdf"
+        },
+        {
+            "Title": "Multicultural education and cultural competence in the high...",
+            "URL": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=3635&context=etd"
+        },
+        {
+            "Title": "Multicultural Education by Faith Hale",
+            "URL": "https://prezi.com/7egsraa1qzkl/multicultural-education"
+        },
+        {
+            "Title": "Multicultural Education | PDF | Multiculturalism | Reading...",
+            "URL": "https://www.scribd.com/doc/212695279/MULTICULTURAL-EDUCATION"
+        },
+        {
+            "Title": "Teaching in multicultural classrooms: tips, challenges and opportunities",
+            "URL": "https://www.theguardian.com/teacher-network/teacher-blog/2012/nov/07/teaching-multicutural-classroom-advice-challenges"
+        },
+        {
+            "Title": "PDF Initial teacher education for managing",
+            "URL": "https://uir.unisa.ac.za/bitstream/handle/10500/19112/final revisedmeier&Lemmer Teacher Education for Diversity.pdf?sequence=1&isAllowed=y"
+        },
+        {
+            "Title": "What Is Multicultural Education | American University",
+            "URL": "https://soeonline.american.edu/blog/multicultural-education"
+        },
+        {
+            "Title": "Teaching Multicultural Students | Accredited Schools Online",
+            "URL": "https://www.accreditedschoolsonline.org/education-teaching-degree/multicultural-students"
+        },
+        {
+            "Title": "Multicultural education",
+            "URL": "https://www.slideshare.net/ferlaine_cruz_canlas/multicultural-education-53313855"
+        },
+        {
+            "Title": "Complete the text. Use the following words ^ history , learn...",
+            "URL": "https://0tvet.com/anglijskij-yazyk/question36354886"
+        },
+        {
+            "Title": "Multicultural education programs and resources",
+            "URL": "https://www.education.vic.gov.au/school/teachers/teachingresources/multicultural/Pages/multidepth.aspx"
+        },
+        {
+            "Title": "Introduction to Multilingual and Multicultural Education | Coursera",
+            "URL": "https://www.coursera.org/learn/multilingual-multicultural-education"
+        },
+        {
+            "Title": "Multicultural Education/Curriculum - Definition, Description, Common...",
+            "URL": "http://www.healthofchildren.com/M/Multicultural-Education-Curriculum.html"
+        },
+        {
+            "Title": "The teacher, as a cultural mediator between two languages",
+            "URL": "https://elibrary.ru/item.asp?id=29093325"
+        },
+        {
+            "Title": "PDF What we•re teaching teachers: An analysis of multicultural teacher...",
+            "URL": "http://www.edchange.org/publications/MTE-published.pdf"
+        },
+        {
+            "Title": "Interpreters as cultural mediators - Monografias.com",
+            "URL": "https://www.monografias.com/trabajos107/interpreters-as-cultural-mediators/interpreters-as-cultural-mediators.shtml"
+        },
+        {
+            "Title": "Transforming teacher education to support multicultural technology...",
+            "URL": "https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=16707&context=rtd"
+        },
+        {
+            "Title": "PDF Interaction in the Multicultural Classroom : Towards Culturally...",
+            "URL": "https://core.ac.uk/download/pdf/14915616.pdf"
+        },
+        {
+            "Title": "Multicultural education — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Multicultural_education"
+        },
+        {
+            "Title": "Why The Role of a Teacher as a Moral Guide is Critical",
+            "URL": "https://www.zedua.com/blog/role-teacher-moral-guide"
+        },
+        {
+            "Title": "Teacher's Responsibility in Moral and Affective Education of ...",
+            "URL": "https://core.ac.uk/download/pdf/82129406.pdf"
+        },
+        {
+            "Title": "All Educators Are Negotiators",
+            "URL": "https://www.gse.harvard.edu/news/uk/18/01/all-educators-are-negotiators"
+        },
+        {
+            "Title": "Student Teachers Negotiating Identity, Role, and Agency - ERIC",
+            "URL": "https://files.eric.ed.gov/fulltext/EJ831717.pdf"
+        },
+        {
+            "Title": "Roles of Teacher and Challenges in Developing Students ...",
+            "URL": "https://www.hrpub.org/download/20200229/UJERC6-19591016.pdf"
+        },
+        {
+            "Title": "TEACHERS ROLE AS FACILITATOR IN LEARNING",
+            "URL": "http://oaji.net/articles/2016/1201-1476521024.pdf"
+        },
+        {
+            "Title": "Negotiating Skills for Teachers - Work - Chron.com",
+            "URL": "https://work.chron.com/negotiating-skills-teachers-12677.html"
+        },
+        {
+            "Title": "The Critical Moral Classroom: An Approach to Teaching Values",
+            "URL": "http://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1081&context=cct_capstone"
+        },
+        {
+            "Title": "Programme Project Report (PPR) of Bachelor of Education (B ...",
+            "URL": "https://www.hpuniv.ac.in/hpuniv/upload/uploadfiles/files/B_ED education final.pdf"
+        },
+        {
+            "Title": "Shall the teacher only teach? The role of a teacher as a …",
+            "URL": "https://prezi.com/p/vsursigr2mue/shall-the-teacher-only-teach-the-role-of-a-teacher-as-a-negotiator-and-moral-guide"
+        },
+        {
+            "Title": "Are teachers supposed to only strictly teach? What is the role of a ...",
+            "URL": "https://essaychronicles.com/are-teachers-supposed-to-only-strictly-teach-what-is-the-role-of-a-teacher-as-a-moral-guide-and-negotiator"
+        },
+        {
+            "Title": "Shall the teacher only teach? The role of a teacher as a negotiator ...",
+            "URL": "https://bydanicavillegas.wordpress.com/2019/04/11/shall-the-teacher-only-teach-the-role-of-a-teacher-as-a-negotiator"
+        },
+        {
+            "Title": "Does The Teacher Only Teach The Role of The Teacher As …",
+            "URL": "https://www.scribd.com/document/436710731/Does-the-Teacher-Only-Teach-the-Role-of-the-Teacher-as-a-Negotiator-and-Moral-Guide"
+        },
+        {
+            "Title": "Can teachers only teach? - The Pioneer",
+            "URL": "https://www.dailypioneer.com/2019/vivacity/can-teachers-only-teach-.html"
+        },
+        {
+            "Title": "Are teachers supposed to only strictly teach? What is the role of a ...",
+            "URL": "https://essayhotline.com/2021/03/31/are-teachers-supposed-to-only-strictly-teach-what-is-the-role-of-a-teacher-as-a-moral-guide-and-negotiatordiscuss"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research …",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "150+ Thesis Topics in Education - Thesis about Education - Elimu …",
+            "URL": "https://www.elimucentre.com/thesis-topics-in-education"
+        },
+        {
+            "Title": "Roles and responsibilities of a teacher - SlideShare",
+            "URL": "https://www.slideshare.net/JayanthiRamesh2/roles-and-responsibilities-of-a-teacher"
+        },
+        {
+            "Title": "The Importance of Morality in Teaching - TeachHUB",
+            "URL": "https://www.teachhub.com/teaching-strategies/2014/08/teaching-strategies-the-importance-of-morality"
+        },
+        {
+            "Title": "What Is Responsive to Intervention (RTI)? | Understood",
+            "URL": "https://www.understood.org/articles/en/understanding-response-to-intervention"
+        },
+        {
+            "Title": "What is Response to Intervention (RTI)? | RTI Action Network",
+            "URL": "http://www.rtinetwork.org/learn/what/whatisrti"
+        },
+        {
+            "Title": "Response To Intervention Explained | Special Education Guide",
+            "URL": "https://www.specialeducationguide.com/pre-k-12/response-to-intervention"
+        },
+        {
+            "Title": "Response to intervention - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Response_to_intervention"
+        },
+        {
+            "Title": "Understanding Response to Intervention (RTI) - Online ...",
+            "URL": "https://educationonline.ku.edu/community/what-is-response-to-intervention"
+        },
+        {
+            "Title": "The Teacher's Response to Intervention (RTI) Guide: Tiers ...",
+            "URL": "https://www.prodigygame.com/in-en/blog/rti-response-to-intervention"
+        },
+        {
+            "Title": "Response to Intervention (RTI) - ASHA",
+            "URL": "https://www.asha.org/slp/schools/prof-consult/rtoi"
+        },
+        {
+            "Title": "Response to Intervention: Resources for Educators | Edutopia",
+            "URL": "https://www.edutopia.org/blog/response-to-intervention-resources-youki-terada"
+        },
+        {
+            "Title": "RTI and Reading: Response to Intervention in a Nutshell",
+            "URL": "https://www.readingrockets.org/article/rti-and-reading-response-intervention-nutshell"
+        },
+        {
+            "Title": "Response To Intervention (RTI) - PBIS World",
+            "URL": "https://www.pbisworld.com/tier-2/response-to-intervention-rti"
+        },
+        {
+            "Title": "RTI at Work: Response to Intervention Strategies and …",
+            "URL": "https://www.solutiontree.com/rti-at-work"
+        },
+        {
+            "Title": "Response To Intervention (RTI) In Early Childhood - The Center for ...",
+            "URL": "https://mycll.org/response-to-intervention-rti-in-early-childhood"
+        },
+        {
+            "Title": "Response To Intervention (RTI) presentation",
+            "URL": "https://www.slideshare.net/RobertKulanda/response-to-intervention-rti-presentation-45774624"
+        },
+        {
+            "Title": "Response to Intervention (RTI) Process 2018",
+            "URL": "http://www.gcsk12.org/documents/RTI/files/RTI-process-2018.pdf"
+        },
+        {
+            "Title": "RESPONSE TO INTERVENTION A MULTI-TIERED SYSTEM …",
+            "URL": "https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/49/RTI District Guidance Document.pdf"
+        },
+        {
+            "Title": "Multi-Tier System of Supports (MTSS)/ Response to …",
+            "URL": "https://granite.pressbooks.pub/edu606-701/chapter/response-to-intervention-rti"
+        },
+        {
+            "Title": "Response to Intervention at Work Virtual Workshop",
+            "URL": "https://www.solutiontree.com/rti-at-work-workshop-wsf970.html"
+        },
+        {
+            "Title": "What is Response to Intervention (RTI)? | RTI Action Network",
+            "URL": "http://rtinetwork.org/learn/what/whatisrti"
+        },
+        {
+            "Title": "The Teacher's Response to Intervention (RTI) Guide: Tiers...",
+            "URL": "https://www.prodigygame.com/main-en/blog/rti-response-to-intervention"
+        },
+        {
+            "Title": "Response to Intervention (RTI)",
+            "URL": "https://www.dyslexia-reading-well.com/response-to-intervention.html"
+        },
+        {
+            "Title": "PDF Response to Intervention: Guidelines for Parents and Practitioners",
+            "URL": "https://www.wrightslaw.com/idea/art/rti.hale.pdf"
+        },
+        {
+            "Title": "Important Information You Should Know about RTI (Response to...)",
+            "URL": "https://therapytravelers.com/important-information-know-rti-response-intervention"
+        },
+        {
+            "Title": "PDF Response to Intervention",
+            "URL": "https://www.gadoe.org/Curriculum-Instruction-and-Assessment/Curriculum-and-Instruction/Documents/RTI document Full Text.pdf"
+        },
+        {
+            "Title": "PDF Response to Instruction",
+            "URL": "https://www.tn.gov/content/dam/tn/education/special-education/rti/rti2_implementation_guide.pdf"
+        },
+        {
+            "Title": "FAQs About RTI | Response to Intervention | Understood - For...",
+            "URL": "https://www.understood.org/articles/en/faqs-about-rti"
+        },
+        {
+            "Title": "PDF Assisting Students Struggling with Mathematics: Response to...",
+            "URL": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/rti_math_pg_042109.pdf"
+        },
+        {
+            "Title": "PDF Frequently Asked Questions about Response to Intervention (RtI)",
+            "URL": "https://www.isbe.net/Documents/rti_faq.pdf"
+        },
+        {
+            "Title": "PDF RRQ-41-1-NewDirections",
+            "URL": "https://www.uv.uio.no/forskning/om/helga-eng-forelesning/introduction-to-responsivenes-to-intervention.pdf"
+        },
+        {
+            "Title": "4 Essential Components of a Response to Intervention (RTI)...",
+            "URL": "https://www.waterford.org/education/4-essential-components-response-intervention-rti-framework"
+        },
+        {
+            "Title": "(PDF) Responsiveness to Intervention (RTI): How to Do It.[RTI Manual].",
+            "URL": "https://www.researchgate.net/publication/234676226_Responsiveness_to_Intervention_RTI_How_to_Do_ItRTI_Manual"
+        },
+        {
+            "Title": "Define Response To Intervention?",
+            "URL": "https://thebestofeverythingnewyork.com/define-response-to-intervention"
+        },
+        {
+            "Title": "Response to Intervention (RTI)",
+            "URL": "https://www.doe.k12.de.us/site/handlers/filedownload.ashx?moduleinstanceid=2637&dataid=8836&FileName=RTI_FAQs.pdf"
+        },
+        {
+            "Title": "PDF Minimum Requirements of a Response to Intervention Program (RtI)",
+            "URL": "http://www.p12.nysed.gov/specialed/RTI/guidance-oct10.pdf"
+        },
+        {
+            "Title": "How to Implement Writing RtI (free Self-Assessment)",
+            "URL": "https://www.thegraidenetwork.com/blog-all/how-to-implement-writing-rti"
+        },
+        {
+            "Title": "Response to Intervention (RtI)",
+            "URL": "https://www.learninga-z.com/site/what-we-do/response-to-intervention"
+        },
+        {
+            "Title": "PDF Tier 3 Instruction Within a Response | Tier 3 Intervention",
+            "URL": "https://meadowscenter.org/files/resources/Tier3_Instruction_Within_RTI.pdf"
+        },
+        {
+            "Title": "Response to Intervention (RTI) | Solution Tree Blog",
+            "URL": "https://www.solutiontree.com/blog/intervention-specialists"
+        },
+        {
+            "Title": "Response to Intervention Frequently Asked Questions (FAQs)",
+            "URL": "https://docplayer.net/13076495-Response-to-intervention-frequently-asked-questions-faqs.html"
+        },
+        {
+            "Title": "Response to Intervention & IEP Process by Terra Alvarez",
+            "URL": "https://prezi.com/3-g-faeo6twm/response-to-intervention-iep-process"
+        },
+        {
+            "Title": "Wrightslaw - RTI / Response to Intervention - YouTube",
+            "URL": "https://www.youtube.com/watch?v=TdM3nC8Sdh8"
+        },
+        {
+            "Title": "PDF CORE | On Response to Intervention",
+            "URL": "https://www.longbranch.k12.nj.us/cms/lib/NJ01001766/Centricity/Domain/90/RtiELL.pdf"
+        },
+        {
+            "Title": "Specific Learning Disabilities: Response to Intervention | IntechOpen",
+            "URL": "https://www.intechopen.com/chapters/57054"
+        },
+        {
+            "Title": "BCSD Academics - Response to Intervention (RTI)",
+            "URL": "https://www.sites.google.com/barbertonschools.org/academics/parentstudent-resources/response-to-intervention-rti"
+        },
+        {
+            "Title": "Maximizing School Safety by Minimizing Student Violence on ...",
+            "URL": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1201&context=theses"
+        },
+        {
+            "Title": "School Violence: Prevalence, Fears, and Prevention - RAND ...",
+            "URL": "https://www.rand.org/pubs/issue_papers/IP219.html"
+        },
+        {
+            "Title": "Preventing School Violence - CDC",
+            "URL": "https://www.cdc.gov/violenceprevention/youthviolence/schoolviolence/fastfact.html"
+        },
+        {
+            "Title": "Checklist to Help Prevent Violence in Schools - National PTA",
+            "URL": "https://www.pta.org/home/family-resources/safety/School-Safety/Checklist-to-Help-Prevent-Violence-in-Schools"
+        },
+        {
+            "Title": "Reducing School Violence: Strengthening Student Programs ...",
+            "URL": "https://www.jstor.org/stable/3568146"
+        },
+        {
+            "Title": "Ending School Violence: 8 Steps to Improved Safety - i-Sight",
+            "URL": "https://www.i-sight.com/resources/ending-school-violence-8-steps-to-improved-safety"
+        },
+        {
+            "Title": "Improving the School Environment to Reduce School Violence",
+            "URL": "https://www.researchgate.net/publication/26809344_Improving_the_School_Environment_to_Reduce_School_Violence_A_Review_of_the_Literature"
+        },
+        {
+            "Title": "Violence in Schools: Causes and Solutions | Voices of Youth",
+            "URL": "https://www.voicesofyouth.org/blog/violence-schools-causes-and-solutions"
+        },
+        {
+            "Title": "SCHOOL-BASED VIOLENCE PREVENTION - UNICEF",
+            "URL": "https://www.unicef.org/media/58081/file/UNICEF-WHO-UNESCO-handbook-school-based-violence.pdf"
+        },
+        {
+            "Title": "School Violence Prevention",
+            "URL": "https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-safety-and-crisis/school-violence-resources/school-violence-prevention"
+        },
+        {
+            "Title": "School Violence, Dealing With It And Minimizing Harm …",
+            "URL": "https://www.youtube.com/watch?v=ROx_jhayuwU"
+        },
+        {
+            "Title": "Preventing and Reducing School Violence",
+            "URL": "https://www.preventioninstitute.org/sites/default/files/publications/Strategies resources and contacts for developing comprehensive school violence prevention programs.pdf"
+        },
+        {
+            "Title": "School Violence Prevention: Teachers Establishing …",
+            "URL": "https://journals.sagepub.com/doi/10.1177/2158244017700460"
+        },
+        {
+            "Title": "(PDF) Reducing school violence: Considering school …",
+            "URL": "https://www.researchgate.net/publication/306920189_Reducing_school_violence_Considering_school_characteristics_and_the_impacts_of_law_enforcement_school_security_and_environmental_factors"
+        },
+        {
+            "Title": "Causes, Effects and Prevention of Violence in Schools",
+            "URL": "https://www.ukessays.com/essays/education/the-history-of-school-violence-education-essay.php"
+        },
+        {
+            "Title": "Research In Brief (Violence Among Middle School & High …",
+            "URL": "https://www.ojp.gov/pdffiles/166363.pdf"
+        },
+        {
+            "Title": "School bullying - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/School_bullying"
+        },
+        {
+            "Title": "Deal with school violence now",
+            "URL": "https://www.sowetanlive.co.za/opinion/columnists/2021-11-15-deal-with-school-violence-now"
+        },
+        {
+            "Title": "Bullying: definition, types and methods of dealing with school bully",
+            "URL": "https://findmykids.org/blog/bullying-at-school"
+        },
+        {
+            "Title": "International day against violence and bullying at school including...",
+            "URL": "https://eeas.europa.eu/delegations/malaysia/106735/international-day-against-violence-and-bullying-school-including-cyberbullying_en"
+        },
+        {
+            "Title": "Violence against children",
+            "URL": "https://www.who.int/news-room/fact-sheets/detail/violence-against-children"
+        },
+        {
+            "Title": "Bullying in Schools: Everything You Need to Know",
+            "URL": "https://www.uopeople.edu/blog/definition-of-bullying"
+        },
+        {
+            "Title": "PDF Violence | How might this handbook help schools?",
+            "URL": "https://www.ilga-europe.org/sites/default/files/violencehandbook_en.pdf"
+        },
+        {
+            "Title": "40 Great Education Research Paper Topics - A Research Guide",
+            "URL": "https://www.aresearchguide.com/40-education-research-paper-topics.html"
+        },
+        {
+            "Title": "How to Stop Bullying in Schools As Teachers, Parents... — Reolink Blog",
+            "URL": "https://reolink.com/how-to-stop-bullying-in-schools"
+        },
+        {
+            "Title": "What are Problem Behaviors and What Causes Them? | Otsimo",
+            "URL": "https://otsimo.com/en/problem-behaviors-causes"
+        },
+        {
+            "Title": "Bullying at School - Blog In2English",
+            "URL": "https://in2english.net/2018/12/09/bullying-at-school"
+        },
+        {
+            "Title": "13 Ways To Deal With Bullying in the Classroom? | Edsys",
+            "URL": "https://www.edsys.in/bullying-in-the-classroom"
+        },
+        {
+            "Title": "How Witnessing Family Violence Affects Children. | by Write... | Medium",
+            "URL": "https://medium.com/illuminations-mirror/how-witnessing-family-violence-affects-children-e25558040dd6"
+        },
+        {
+            "Title": "Why children become bullies at school - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20190913-why-some-children-become-merciless-bullies"
+        },
+        {
+            "Title": "In Harm's Way: New Report Exposes Epidemic of Violence Against...",
+            "URL": "https://ca.finance.yahoo.com/news/harm-way-report-exposes-epidemic-180900689.html"
+        },
+        {
+            "Title": "violence | behaviour | Britannica",
+            "URL": "https://www.britannica.com/topic/violence"
+        },
+        {
+            "Title": "Domestic Violence and Abuse - HelpGuide.org",
+            "URL": "https://www.helpguide.org/articles/abuse/domestic-violence-and-abuse.htm"
+        },
+        {
+            "Title": "Dealing With Bullies (for Kids) - Nemours KidsHealth",
+            "URL": "https://kidshealth.org/en/kids/bullies.html"
+        },
+        {
+            "Title": "Working with a Traumatized Child: Creating a Frame and Minimizing...",
+            "URL": "https://dartcenter.org/resources/working-traumatized-child-creating-frame-and-minimizing-harm"
+        },
+        {
+            "Title": "Minimising harm in violence risk assessment: Practical solutions to...",
+            "URL": "https://www.researchgate.net/publication/237957575_Minimising_harm_in_violence_risk_assessment_Practical_solutions_to_ethical_problems"
+        },
+        {
+            "Title": "8 Reasons Why Teens Bully Others",
+            "URL": "https://www.verywellfamily.com/reasons-why-teens-bully-others-460532"
+        },
+        {
+            "Title": "8 Types Of Child Behavioral Problems And Solutions",
+            "URL": "https://www.momjunction.com/articles/common-behavioral-problems-in-children-their-remedies_0081828"
+        },
+        {
+            "Title": "Violence on Tv, Sample of Essays",
+            "URL": "https://educheer.com/essays/violence-on-tv"
+        },
+        {
+            "Title": "Violent Video Games and Young People - Harvard... - Harvard Health",
+            "URL": "https://www.health.harvard.edu/newsletter_article/violent-video-games-and-young-people."
+        },
+        {
+            "Title": "10 Common Problems and Issues Teenagers Face Today - WeHaveKids",
+            "URL": "https://wehavekids.com/parenting/Its-hard-on-teens"
+        },
+        {
+            "Title": "Minimizing Harm and Maximizing | PDF | Sex Education | Safe Sex",
+            "URL": "https://www.scribd.com/document/273936227/Minimizing-Harm-and-Maximizing"
+        },
+        {
+            "Title": "Why Did the Holocaust Happen? - YouTube",
+            "URL": "https://www.youtube.com/watch?v=q297yjWYpxs"
+        },
+        {
+            "Title": "Google's top results for 'Did the Holocaust happen' now ...",
+            "URL": "https://searchengineland.com/google-holocaust-denial-site-gone-266353"
+        },
+        {
+            "Title": "How and why did the Holocaust happen?",
+            "URL": "https://www.theholocaustexplained.org/how-and-why"
+        },
+        {
+            "Title": "Frequently Asked Questions about the Holocaust",
+            "URL": "https://www.ushmm.org/teach/fundamentals/holocaust-questions"
+        },
+        {
+            "Title": "Google is not 'just' a platform. It frames, shapes and distorts ...",
+            "URL": "https://www.theguardian.com/commentisfree/2016/dec/11/google-frames-shapes-and-distorts-how-we-see-world"
+        },
+        {
+            "Title": "What is Holocaust Denial? - Museum of Tolerance",
+            "URL": "https://www.museumoftolerance.com/education/teacher-resources/holocaust-resources/what-is-holocaust-denial.html"
+        },
+        {
+            "Title": "Why Did the Holocaust Happen? | Gareth Stevens",
+            "URL": "https://garethstevens.com/title/Why-Did-the-Holocaust-Happen"
+        },
+        {
+            "Title": "The Holocaust - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/The_Holocaust"
+        },
+        {
+            "Title": "Antisemitism Uncovered: Myth – The Holocaust Didn’t Happen",
+            "URL": "https://antisemitism.adl.org/denial"
+        },
+        {
+            "Title": "How did the Holocaust happen? – The Holocaust Explained: …",
+            "URL": "https://www.theholocaustexplained.org/how-and-why/how"
+        },
+        {
+            "Title": "Did the Holocaust Happen? - LA Progressive",
+            "URL": "https://www.laprogressive.com/holocaust"
+        },
+        {
+            "Title": "Why did the Holocaust happen? – The Holocaust Explained: …",
+            "URL": "https://www.theholocaustexplained.org/how-and-why/why"
+        },
+        {
+            "Title": "10 Facts That Conclusively Prove The Holocaust Really Happened - …",
+            "URL": "https://listverse.com/2017/01/10/10-facts-that-conclusively-prove-the-holocaust-really-happened"
+        },
+        {
+            "Title": "Did the Holocaust Exist? Scary Number of People Say 'No' or Not …",
+            "URL": "https://www.usnews.com/news/blogs/at-the-edge/2014/05/23/did-the-holocaust-exist-scary-number-of-people-say-no-or-not-even-aware"
+        },
+        {
+            "Title": "holocaust did NOT happen!! by lauren roddam",
+            "URL": "https://prezi.com/pqra3zylidyy/holocaust-did-not-happen"
+        },
+        {
+            "Title": "The Holocaust - Facts, Victims & Survivors - HISTORY",
+            "URL": "https://www.history.com/topics/world-war-ii/the-holocaust"
+        },
+        {
+            "Title": "Holocaust denial - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Holocaust_denial"
+        },
+        {
+            "Title": "50 reasons why the holocaust didnt happen | Forum",
+            "URL": "https://forum.codoh.com/viewtopic.php?t=1322"
+        },
+        {
+            "Title": "Why did the Holocaust happen? - CBBC Newsround",
+            "URL": "https://www.bbc.co.uk/newsround/16691969"
+        },
+        {
+            "Title": "Why Did the Holocaust Happen? | History Hit",
+            "URL": "https://www.historyhit.com/why-did-the-holocaust-happen"
+        },
+        {
+            "Title": "Why Did the Holocaust Happen? Why Didn't God Stop It?",
+            "URL": "https://www.jw.org/en/bible-teachings/questions/why-did-the-holocaust-happen"
+        },
+        {
+            "Title": "Did the Holocaust Really Happen? - Daily Stormer",
+            "URL": "https://dailystormer.su/did-the-holocaust-really-happen"
+        },
+        {
+            "Title": "Did the Holocaust Really Happen?, page 1 | Forum",
+            "URL": "https://www.abovetopsecret.com/forum/thread861803/pg1"
+        },
+        {
+            "Title": "Holocaust denial - Simple English Wikipedia, the free encyclopedia",
+            "URL": "https://simple.wikipedia.org/wiki/Holocaust_denial"
+        },
+        {
+            "Title": "How Did The Holocaust Happen? | Yesterday's Articles | Yesterday...",
+            "URL": "https://yesterday.uktv.co.uk/blogs/article/how-did-holocaust-happen"
+        },
+        {
+            "Title": "Why Did The Holocaust Happen?",
+            "URL": "http://www.hitlerschildren.com/article/1610-why-did-the-holocaust-happen"
+        },
+        {
+            "Title": "Why Did the Holocaust Happen? | Torah Musings",
+            "URL": "https://www.torahmusings.com/2020/09/why-did-the-holocaust-happen"
+        },
+        {
+            "Title": "What Was the Holocaust, Why Did it Happen and How Can Such...",
+            "URL": "http://www.thehypertexts.com/What was the Holocaust and why did it happen.htm"
+        },
+        {
+            "Title": "Did The Holocaust Happen - 349 Words | Internet Public Library",
+            "URL": "https://www.ipl.org/essay/Did-The-Holocaust-Happen-FKFVMTMEN8VV"
+        },
+        {
+            "Title": "Did the Holocaust Happen?. | Debate.org",
+            "URL": "https://www.debate.org/opinions/polls/did-the-holocaust-happen"
+        },
+        {
+            "Title": "Why Did The Holocaust Happen? - 144 Words | Bartleby",
+            "URL": "https://www.bartleby.com/essay/Why-Did-The-Holocaust-Happen-PCSJLBJ9XV"
+        },
+        {
+            "Title": "WHY the Holocaust Happened",
+            "URL": "https://hwarmstrong.com/why-the-holacaust.htm"
+        },
+        {
+            "Title": "Why The Holocaust Did Happen. by Mackenzie Zienkiewicz",
+            "URL": "https://prezi.com/p/ls3w80t5tlt7/why-the-holocaust-did-happen"
+        },
+        {
+            "Title": "Did the Holocaust Really Happen? (Video, 37 mins) - Darkmoon",
+            "URL": "https://www.darkmoon.me/2016/did-the-holocaust-really-happen-video-37-mins"
+        },
+        {
+            "Title": "Holocaust denial - RationalWiki",
+            "URL": "https://rationalwiki.org/wiki/Holocaust_denial"
+        },
+        {
+            "Title": "Ancient Egyptian Symbols - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1011/ancient-egyptian-symbols"
+        },
+        {
+            "Title": "Top 35 Ancient Egyptian Symbols With Meanings - Egypt ...",
+            "URL": "https://www.egypttoursportal.com/ancient-egyptian-symbols"
+        },
+        {
+            "Title": "26 Important ancient Egyptian symbols and its meanings",
+            "URL": "https://www.cleopatraegypttours.com/travel-guide/important-ancient-egyptian-symbols"
+        },
+        {
+            "Title": "Famous Ancient Egyptian Symbols and their meanings",
+            "URL": "https://jakadatoursegypt.com/famous-ancient-egyptian-symbols-and-their-meanings"
+        },
+        {
+            "Title": "Symbolism in Ancient Egypt | AGO Art Gallery of Ontario",
+            "URL": "http://www.ago.net/kingtut-elementary-symbolism"
+        },
+        {
+            "Title": "Egyptian civilization - Government - Royal symbols",
+            "URL": "https://www.historymuseum.ca/cmc/exhibitions/civil/egypt/egcgov5e.html"
+        },
+        {
+            "Title": "Symbolism in the Ancient Egyptian Culture - Classroom",
+            "URL": "https://classroom.synonym.com/symbolism-ancient-egyptian-culture-5633.html"
+        },
+        {
+            "Title": "The Eye of Horus: The Connection Between Art, Medicine ...",
+            "URL": "https://www.cureus.com/articles/19443-the-eye-of-horus-the-connection-between-art-medicine-and-mythology-in-ancient-egypt"
+        },
+        {
+            "Title": "Ancient Egypt: Symbols of the pharaoh - British Museum",
+            "URL": "https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Egypt_Symbols_KS2b.pdf"
+        },
+        {
+            "Title": "REFLECTIONS OF NUMBER SYMBOLISM ON EGYPTIAN ...",
+            "URL": "https://journals.ekb.eg/article_67177_52136ca0ac7e3d2a26c345569d4bcbaa.pdf"
+        },
+        {
+            "Title": "The 12 Main Symbols of ancient Egypt | Egyptian History",
+            "URL": "https://egyptian-history.com/blogs/egyptian-symbols/egyptian-symbols"
+        },
+        {
+            "Title": "Egyptian Symbols and Their Meanings - Complete Guide",
+            "URL": "https://www.dailyscanner.com/egyptian-symbols-meanings"
+        },
+        {
+            "Title": "The Symbolism of Ancient Egypt, an Introduction",
+            "URL": "http://www.touregypt.net/featurestories/symbolism1.htm"
+        },
+        {
+            "Title": "Symbolism in Ancient Egypt | History10",
+            "URL": "https://history10.com/history-today/symbolism-ancient-egypt-kilo"
+        },
+        {
+            "Title": "Ancient Egyptian Symbols",
+            "URL": "https://www.ancient-symbols.com/ancient-egyptian-symbols.html"
+        },
+        {
+            "Title": "Why Scarabs Are at The Heart of Ancient Egyptian Symbolism",
+            "URL": "https://egyptianstreets.com/2021/10/26/why-scarabs-are-at-the-heart-of-ancient-egyptian-symbolism"
+        },
+        {
+            "Title": "Gnostic Symbolism of Ancient Egypt - YouTube",
+            "URL": "https://www.youtube.com/watch?v=xgMJ6yrf1_0"
+        },
+        {
+            "Title": "Ancient Egypt Symbolism",
+            "URL": "https://www.azztimes.com/ancient-egypt-symbolism"
+        },
+        {
+            "Title": "Ancient Egyptian Symbols and Their Meanings",
+            "URL": "https://symbolism.co/egyptian_symbols.html"
+        },
+        {
+            "Title": "Symbolism in ancient Egyptian Art",
+            "URL": "http://www.light-of-egypt.co.uk/symbolism.html"
+        },
+        {
+            "Title": "ancient egypt symbolism - Search",
+            "URL": "https://200wordsaday.com/ancient+egypt+symbolism&FORM=QSRE1"
+        },
+        {
+            "Title": "Shen Ring - Symbolism and Importance in Ancient Egypt",
+            "URL": "https://symbolsage.com/shen-ring-ancient-egypt"
+        },
+        {
+            "Title": "Naturalistic Symbolism in Ancient Egypt by Paulina :)",
+            "URL": "https://prezi.com/jlzuenk6jb-8/naturalistic-symbolism-in-ancient-egypt"
+        },
+        {
+            "Title": "Common Cosmic Symbolism: Is Göbekli Tepe Ancestral to Ancient...",
+            "URL": "https://members.ancient-origins.net/common-cosmic-symbolism"
+        },
+        {
+            "Title": "The Symbolism of Hedgehogs on Aryballoi in Ancient Egypt | Medium",
+            "URL": "https://medium.com/ostraka-a-durham-university-classics-society-blog/the-symbolism-of-hedgehogs-on-aryballoi-in-ancient-egypt-43af0f1c33aa"
+        },
+        {
+            "Title": "Symbolism In Ancient Egypt",
+            "URL": "https://www.travelusandcanada.com/travel/symbolism-in-ancient-egypt"
+        },
+        {
+            "Title": "Hekaw: Magical Speech and Symbolism in Ancient Egypt",
+            "URL": "https://facethecurrent.com/hekaw-magical-speech"
+        },
+        {
+            "Title": "Ancient Egyptian deities - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_Egyptian_deities"
+        },
+        {
+            "Title": "Reflections of Number symbolism on Egyptian sacred architecture",
+            "URL": "https://www.researchgate.net/publication/320394967_Reflections_of_Number_symbolism_on_Egyptian_sacred_architecture"
+        },
+        {
+            "Title": "The Art of Ancient Egypt | Ancient Egyptian Art and Symbols",
+            "URL": "https://www.ancient-egypt-online.com/ancient-egyptian-art.html"
+        },
+        {
+            "Title": "Ancient Egyptian White Color Symbolism The ancient Egyptian...",
+            "URL": "http://www.mummies2pyramids.info/religion-culture-magic/color-symbolism.htm"
+        },
+        {
+            "Title": "The Symbolism of the Fly in Ancient Egypt - Nile Scribes",
+            "URL": "https://nilescribes.org/2021/02/28/fly-symbolism-ancient-egypt"
+        },
+        {
+            "Title": "Egyptian Symbolism In Ancient Egypt - 999 Words | Bartleby",
+            "URL": "https://www.bartleby.com/essay/Egyptian-Symbolism-In-Ancient-Egypt-PJPJE5JEG6"
+        },
+        {
+            "Title": "Ancient Egypt Symbolism",
+            "URL": "https://www.travelusandcanada.org/travel/ancient-egypt-symbolism"
+        },
+        {
+            "Title": "Egyptian Colors: Discover What They Used to Symbolize in Ancient...",
+            "URL": "https://www.color-meanings.com/egyptian-colors-symbolism-ancient-egypt"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to ...",
+            "URL": "https://classics.stanford.edu/publications/dynamics-ancient-empires-state-power-assyria-byzantium-0"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to ...",
+            "URL": "https://bmcr.brynmawr.edu/2009/2009.10.14"
+        },
+        {
+            "Title": "The dynamics of ancient empires : state power from Assyria to ...",
+            "URL": "https://www.worldcat.org/title/dynamics-of-ancient-empires-state-power-from-assyria-to-byzantium/oclc/658003852"
+        },
+        {
+            "Title": "Dynamics of Ancient Empires : State Power from Assyria to ...",
+            "URL": "https://ens9004-infd.mendoza.edu.ar/sitio/historia-antigua/upload/2- Morris & Scheidel - LIBRO - The Dynamics of the Ancient Empires.PDF"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State ... - ResearchGate",
+            "URL": "https://www.researchgate.net/publication/241897218_The_Dynamics_of_Ancient_Empires_State_Power_from_Assyria_to_Byzantium_review"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State ... - Project MUSE",
+            "URL": "https://muse.jhu.edu/article/413993/pdf"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State ... - Semantic Scholar",
+            "URL": "https://www.semanticscholar.org/paper/The-Dynamics-of-Ancient-Empires:-State-Power-from-Morris-Scheidel/51a4934a3f56aed2e72c1a6889b8640436b515f6"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from - ProQuest",
+            "URL": "https://www.proquest.com/scholarly-journals/dynamics-ancient-empires-state-power-assyria/docview/840255957/se-2"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from …",
+            "URL": "https://www.jstor.org/stable/41060860"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to …",
+            "URL": "https://bmcr.brynmawr.edu/2009/2009.10.14"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to …",
+            "URL": "https://www.deepdyve.com/lp/university-of-hawai-i-press/the-dynamics-of-ancient-empires-state-power-from-assyria-to-byzantium-GGyQsOAFZD"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires-State Power from Assyria to...",
+            "URL": "https://www.pdfdrive.com/the-dynamics-of-ancient-empires-state-power-from-assyria-to-byzantium-e175822347.html"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to...",
+            "URL": "https://b-ok.cc/book/827074/be234a"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires-State Power from Assyria to...",
+            "URL": "http://www.bookre.org/reader?file=1373965"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires-State Power from Assyria to...",
+            "URL": "https://booksee.org/book/1373965"
+        },
+        {
+            "Title": "Byzantine Empire - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+        },
+        {
+            "Title": "Dewagae Program: [RNJ] Download The Dynamics of Ancient...",
+            "URL": "https://sushilandme.blogspot.com/2019/04/rnj-download-dynamics-of-ancient.html"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires-State Power from Assyria to...",
+            "URL": "http://en.bookfi.net/book/1373965"
+        },
+        {
+            "Title": "Download The Dynamics of Ancient Empires: State Power from...",
+            "URL": "https://urmrdtu.typepad.com/blog/2012/08/download-the-dynamics-of-ancient-empires-state-power-from-assyria-to-byzantium-oxford-studies-in-early-empires.html"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to...",
+            "URL": "https://avxhm.se/ebooks/0195371585.html"
+        },
+        {
+            "Title": "Книга The Dynamics of Ancient Empires: State Power from Assyria...",
+            "URL": "https://bookree.org/reader?file=1022647"
+        },
+        {
+            "Title": "Download The Dynamics of Ancient Empires: State Power from...",
+            "URL": "https://www.sites.google.com/site/bkwgueqpddazl/iarpptjx"
+        },
+        {
+            "Title": "Book Review: The Dynamics of Ancient Empires: State Power from...",
+            "URL": "https://strategypage.com/bookreviews/739"
+        },
+        {
+            "Title": "Trapped in the imperial narrative? Some reflections... | Cambridge Core",
+            "URL": "https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/trapped-in-the-imperial-narrative-some-reflections-on-warfare-and-the-provincial-masses-in-byzantium-6001204/75335E98DC1DFA453C907F0D8CD287A3"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to...",
+            "URL": "https://bookstore.zaytuna.edu/products/thedynamicsofancientempiresstatepowerfromassyriatobyzantium"
+        },
+        {
+            "Title": "The Dynamics of ancient empires state power from Assyria to...",
+            "URL": "https://rusneb.ru/catalog/000200_000018_RU_NLR_b_ik_186091"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria... | eBay",
+            "URL": "https://www.ebay.com.au/p/103977883"
+        },
+        {
+            "Title": "Скачать книгу The Dynamics of Ancient Empires: State Power from...",
+            "URL": "http://www.knigka.su/other_lang/ancient/266208-The_Dynamics_of_Ancient_Empires_State_Power_from_Assyria_to_Byzantium_Update.html"
+        },
+        {
+            "Title": "The Dynamics of Ancient Empires: State Power from Assyria to...",
+            "URL": "https://books.google.com.tr/books?id=6vnkts2rOJUC"
+        },
+        {
+            "Title": "Byzantine Empire Flashcards | Quizlet",
+            "URL": "https://quizlet.com/641547792/byzantine-empire-flash-cards"
+        },
+        {
+            "Title": "Byzantine Empire - Definition, Timeline & Location - HISTORY",
+            "URL": "https://www.history.com/topics/ancient-middle-east/byzantine-empire"
+        },
+        {
+            "Title": "Prehistoric Women Had Stronger Arms Than Modern Athletes",
+            "URL": "https://www.nationalgeographic.com/science/article/prehistoric-women-manual-labor-stronger-athletes-science"
+        },
+        {
+            "Title": "Hidden history of prehistoric women's work revealed - BBC",
+            "URL": "https://www.bbc.com/news/science-environment-42173236"
+        },
+        {
+            "Title": "Women in Prehistory - jstor",
+            "URL": "https://www.jstor.org/stable/pdf/530413.pdf"
+        },
+        {
+            "Title": "History of women in the United Kingdom - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_women_in_the_United_Kingdom"
+        },
+        {
+            "Title": "Prehistoric women: Not so simple, not so strange | New Scientist",
+            "URL": "https://www.newscientist.com/article/dn11482-prehistoric-women-not-so-simple-not-so-strange"
+        },
+        {
+            "Title": "Why prehistoric women were probably hunters too - The ...",
+            "URL": "https://www.independent.co.uk/life-style/women/prehistory-archaeology-women-hunt-gather-b1613868.html"
+        },
+        {
+            "Title": "The social role of women in a Prehistoric society",
+            "URL": "https://www.archaeology.wiki/blog/issue/the-social-role-of-women-in-a-prehistoric-society"
+        },
+        {
+            "Title": "Yes, she did — New findings show prehistoric women hunted ...",
+            "URL": "https://theprint.in/science/yes-she-did-new-findings-show-prehistoric-women-hunted-too/539043"
+        },
+        {
+            "Title": "Prehistory: Daily Life - English Heritage",
+            "URL": "https://www.english-heritage.org.uk/learn/story-of-england/prehistory/daily-life"
+        },
+        {
+            "Title": "BECOMING GENDERED IN EUROPEAN PREHISTORY",
+            "URL": "https://www.cambridge.org/core/journals/american-antiquity/article/becoming-gendered-in-european-prehistory-was-neolithic-gender-fundamentally-different/061B7788A1633D9EF10918BA4FB15A5A"
+        },
+        {
+            "Title": "Biographies - Women in Prehistoric Times",
+            "URL": "https://www.womenstravelabroad.com/Bio---Prehistoric-women.html"
+        },
+        {
+            "Title": "Women in Prehistory",
+            "URL": "https://www.jstor.org/stable/530413"
+        },
+        {
+            "Title": "Paper Sample: The Role of Women in the 19th and 18th …",
+            "URL": "https://essayshark.com/blog/the-role-of-women-in-the-19th-and-18th-century"
+        },
+        {
+            "Title": "The Most Powerful Women Rulers of the Ancient World",
+            "URL": "https://www.thoughtco.com/ancient-women-rulers-3528391"
+        },
+        {
+            "Title": "Women in European History",
+            "URL": "https://historysage.com/jcms/images/stories/Euro_PDFs/Women_in_European_History.pdf"
+        },
+        {
+            "Title": "British Library",
+            "URL": "https://www.bl.uk/the-middle-ages/articles/women-in-medieval-society"
+        },
+        {
+            "Title": "Role of Women in Ancient India",
+            "URL": "https://magazines.odisha.gov.in/Orissareview/2016/Jan/engpdf/43-48.pdf"
+        },
+        {
+            "Title": "BBC - History - Ideals of Womanhood in Victorian Britain",
+            "URL": "https://www.bbc.co.uk/history/trail/victorian_britain/women_home/ideals_womanhood_01.shtml"
+        },
+        {
+            "Title": "More about A Woman's Role: Prehistoric and Beyond Essays",
+            "URL": "https://www.bartleby.com/essay/A-Womans-Role-Prehistoric-and-Beyond-F3CPP5NYVC"
+        },
+        {
+            "Title": "Prehistoric Britain - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Prehistoric_Britain"
+        },
+        {
+            "Title": "Women in 1900 - History Learning Site",
+            "URL": "https://www.historylearningsite.co.uk/the-role-of-british-women-in-the-twentieth-century/women-in-1900"
+        },
+        {
+            "Title": "An Introduction to Prehistoric England | English Heritage",
+            "URL": "https://www.english-heritage.org.uk/learn/story-of-england/prehistory"
+        },
+        {
+            "Title": "PPT - Prehistoric Britain PowerPoint Presentation, free download - ID...",
+            "URL": "https://www.slideserve.com/karah/prehistoric-britain"
+        },
+        {
+            "Title": "From Prehistoric Britain to Normands - ALL IN ENGLISH",
+            "URL": "https://www.sites.google.com/site/allinenglish8888/history-of-britain/from-pre-history-to-normands"
+        },
+        {
+            "Title": "Prehistoric Britain Timeline",
+            "URL": "https://www.projectbritain.com/history/prehistoric.html"
+        },
+        {
+            "Title": "Prehistoric Britain - Information About Britains Past",
+            "URL": "https://www.thegreatcoursesdaily.com/prehistoric-britain"
+        },
+        {
+            "Title": "Feudalism and medieval life in England | This Day in British History",
+            "URL": "https://www.britainexpress.com/History/Feudalism_and_Medieval_life.htm"
+        },
+        {
+            "Title": "Prehistoric Britain timeline - A Bit About Britain",
+            "URL": "https://bitaboutbritain.com/prehistoric-britain-timeline"
+        },
+        {
+            "Title": "women's suffrage | Definition, History, Causes, Effects... | Britannica",
+            "URL": "https://www.britannica.com/topic/woman-suffrage"
+        },
+        {
+            "Title": "Prehistoric Britain Flashcards | Quizlet",
+            "URL": "https://quizlet.com/ru/620755304/prehistoric-britain-flash-cards"
+        },
+        {
+            "Title": "Prehistoric Britain",
+            "URL": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Prehistoric-Britain"
+        },
+        {
+            "Title": "Iron Age Mnemonics: A Biographical Approach to... | Cambridge Core",
+            "URL": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/iron-age-mnemonics-a-biographical-approach-to-dwelling-in-later-prehistoric-britain/2E29F94DABFC727D5C99924EDBDD1B89"
+        },
+        {
+            "Title": "Prehistoric Britain — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Prehistoric_Britain"
+        },
+        {
+            "Title": "Prehistoric Britain - YouTube",
+            "URL": "https://www.youtube.com/watch?v=8r9jKxfArHg"
+        },
+        {
+            "Title": "Prehistoric female hunter discovery upends gender role assumptions",
+            "URL": "https://www.nationalgeographic.com/science/article/prehistoric-female-hunter-discovery-upends-gender-role-assumptions"
+        },
+        {
+            "Title": "Chapter 1 - Prehistoric Britain - StuDocu",
+            "URL": "https://www.studocu.com/it/document/universita-degli-studi-di-perugia/lingua-inglese/chapter-1-prehistoric-britain/11278953"
+        },
+        {
+            "Title": "Prehistoric Britain : Frith, Alex : Free Download... : Internet Archive",
+            "URL": "https://archive.org/details/prehistoricbrita0000frit"
+        },
+        {
+            "Title": "britishstudies / Pre-historic Britain",
+            "URL": "http://britishstudies.pbworks.com/w/page/15133682/Pre-historic Britain"
+        },
+        {
+            "Title": "Prehistoric Britain",
+            "URL": "https://studylib.net/doc/7821244/prehistoric-britain"
+        },
+        {
+            "Title": "The Celts in Britain: everything you need to know - HistoryExtra",
+            "URL": "https://www.historyextra.com/period/iron-age/celts-britain-romans-who-were-they-human-sacrifice"
+        },
+        {
+            "Title": "Prehistoric Britain - WikiMili, The Best Wikipedia Reader",
+            "URL": "https://WikiMili.com/en/Prehistoric_Britain"
+        },
+        {
+            "Title": "BBC Learning - What happened in prehistoric Britain? on Vimeo",
+            "URL": "https://vimeo.com/120475960"
+        },
+        {
+            "Title": "Prehistoric Britain",
+            "URL": "https://en-academic.com/dic.nsf/enwiki/251389"
+        },
+        {
+            "Title": "Iron Age - HISTORY",
+            "URL": "https://www.history.com/topics/pre-history/iron-age"
+        },
+        {
+            "Title": "Iron Age - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Iron_Age"
+        },
+        {
+            "Title": "Iron Age | Definition, History, Technology, & Facts | Britannica",
+            "URL": "https://www.britannica.com/event/Iron-Age"
+        },
+        {
+            "Title": "Iron Age: Definition, Characteristics, & Importance - Study.com",
+            "URL": "https://study.com/academy/lesson/iron-age-definition-characteristics-importance.html"
+        },
+        {
+            "Title": "READ: The Iron Age (article) | Khan Academy",
+            "URL": "https://www.khanacademy.org/humanities/whp-origins/era-3-cities-societies-and-empires-6000-bce-to-700-c-e/32-long-distance-trade-betaa/a/read-the-iron-age-beta"
+        },
+        {
+            "Title": "Iron Age Facts & Worksheets - KidsKonnect",
+            "URL": "https://kidskonnect.com/history/iron-age"
+        },
+        {
+            "Title": "Iron Age Social Organization | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/iron-age-social-organization"
+        },
+        {
+            "Title": "Distribution and location of Iron Age sites with ... - ResearchGate",
+            "URL": "https://www.researchgate.net/figure/Distribution-and-location-of-Iron-Age-sites-with-archaeozoological-material-in-southern_fig1_317346511"
+        },
+        {
+            "Title": "How the Iron Age Began - jstor",
+            "URL": "https://www.jstor.org/stable/24953968"
+        },
+        {
+            "Title": "The Iron Age | TheSchoolRun",
+            "URL": "https://www.theschoolrun.com/homework-help/the-iron-age"
+        },
+        {
+            "Title": "Top 175 Fascinating History Research Topics For Students",
+            "URL": "https://www.assignmenthelppro.com/blog/history-research-topics"
+        },
+        {
+            "Title": "Ethical Responsibility in the Age of Iron | Hiroki Kameyama",
+            "URL": "https://hirokikameyama.com/post/ethical-responsibility-in-the-age-of-iron"
+        },
+        {
+            "Title": "Online Encyclopedias - Academic Links",
+            "URL": "https://www.academiclinks.org/online-encyclopedias.html"
+        },
+        {
+            "Title": "100 History Research Paper Topics Your Teacher Will Like  …",
+            "URL": "https://edubirdie.com/blog/history-research-paper-topics"
+        },
+        {
+            "Title": "Weekly Iron and Folic Acid Supplementation Programme for …",
+            "URL": "http://www.nhm.gov.in/images/pdf/programmes/wifs/operational-framework-wifs/operational_framework_wifs.pdf"
+        },
+        {
+            "Title": "Distribution of Iron Ores and the Archaeological Evidence …",
+            "URL": "https://www.jstor.org/stable/3631776"
+        },
+        {
+            "Title": "THE DISTRIBUTION OF EARLY IRON AGE SETTLEMENT IN …",
+            "URL": "https://www.jstor.org/stable/23631412"
+        },
+        {
+            "Title": "Gotlandic Villas : Implications of the distribution of high status ...",
+            "URL": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:935545"
+        },
+        {
+            "Title": "Prevalence and Severity of Anaemia Stratified by Age and …",
+            "URL": "https://www.hindawi.com/journals/anemia/2014/176182"
+        },
+        {
+            "Title": "(PDF) Role of iron in plant growth and metabolism",
+            "URL": "https://www.researchgate.net/publication/277309038_Role_of_iron_in_plant_growth_and_metabolism"
+        },
+        {
+            "Title": "Iron - Health Professional Fact Sheet | Age",
+            "URL": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional"
+        },
+        {
+            "Title": "Iron Age Britain | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/iron-age-britain"
+        },
+        {
+            "Title": "A Brief Introduction to Iron Age Settlement in Wales. Ritchie.",
+            "URL": "https://www.intarch.ac.uk/journal/issue48/2/1.html"
+        },
+        {
+            "Title": "Frontiers | Iron Content in Deep Gray Matter as a Function of Age...",
+            "URL": "https://www.frontiersin.org/articles/10.3389/fnins.2020.607705/full"
+        },
+        {
+            "Title": "New developments and controversies in iron metabolism and iron...",
+            "URL": "https://www.wjgnet.com/2222-0682/full/v6/i1/1.htm"
+        },
+        {
+            "Title": "How did Iron Age people live? - BBC Bitesize",
+            "URL": "https://www.bbc.co.uk/bitesize/topics/z82hsbk/articles/z8bkwmn"
+        },
+        {
+            "Title": "A brief guide to the British Iron Age - HistoryExtra",
+            "URL": "https://www.historyextra.com/period/iron-age/guide-british-iron-age-what-when-how-live-britons"
+        },
+        {
+            "Title": "British Iron Age",
+            "URL": "https://en-academic.com/dic.nsf/enwiki/647741"
+        },
+        {
+            "Title": "Urbanization in Iron Age Europe: Trajectories, Patterns... | SpringerLink",
+            "URL": "https://link.springer.com/article/10.1007/s10814-017-9107-1"
+        },
+        {
+            "Title": "PDF From bronze age to iron age",
+            "URL": "http://www.thesis.bilkent.edu.tr/0006047.pdf"
+        },
+        {
+            "Title": "Celtic life in Iron Age Britain - British Museum — Google Arts & Culture",
+            "URL": "https://artsandculture.google.com/exhibit/celtic-life-in-iron-age-britain/CAKSz1O9u3piJg"
+        },
+        {
+            "Title": "Beyond Celts: Nested identities in Iron Age Europe - YouTube",
+            "URL": "https://www.youtube.com/watch?v=hRMosATKR0Y"
+        },
+        {
+            "Title": "Stone, Bronze, and Iron Ages | Essential Humanities",
+            "URL": "http://www.essential-humanities.net/history-overview/stone-bronze-iron-ages"
+        },
+        {
+            "Title": "The Iron Age on AboutBritain.com",
+            "URL": "https://www.aboutbritain.com/articles/iron-age.asp"
+        },
+        {
+            "Title": "Iron Age | Forge of Empires Wiki | Fandom",
+            "URL": "https://forgeofempires.fandom.com/wiki/Iron_Age"
+        },
+        {
+            "Title": "Iron Age Inventions by Jessica Miller",
+            "URL": "https://prezi.com/i5qug8nvwum8/iron-age-inventions"
+        },
+        {
+            "Title": "PDF Microsoft Word - GDWQ.2ndEdit.Iron.doc",
+            "URL": "https://www.who.int/water_sanitation_health/dwq/chemicals/iron.pdf"
+        },
+        {
+            "Title": "Iron Age - Ancient History, Civilizations",
+            "URL": "https://www.mapsofworld.com/world-ancient-history/iron-age-map.html"
+        },
+        {
+            "Title": "The people of Iron Age Britain - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/248/the-people-of-iron-age-britain"
+        },
+        {
+            "Title": "IRON AGE - Encyclopaedia Iranica",
+            "URL": "https://iranicaonline.org/articles/iron-age"
+        },
+        {
+            "Title": "F) The iron age Flashcards | Quizlet",
+            "URL": "https://quizlet.com/641107807/f-the-iron-age-flash-cards"
+        },
+        {
+            "Title": "PDF Distribution of roles, responsibilities and powers tool",
+            "URL": "https://www.desjardins.com/wcm/idc/pdf/c50-agri-bilan-actifs-5-e.pdf?resVer=1372788824000"
+        },
+        {
+            "Title": "Sumer - HISTORY",
+            "URL": "https://www.history.com/topics/ancient-middle-east/sumer"
+        },
+        {
+            "Title": "Sumerian Culture - Age of Empires",
+            "URL": "https://www.ageofempires.com/history/sumerian-culture"
+        },
+        {
+            "Title": "Sumer - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Sumer"
+        },
+        {
+            "Title": "Sumerian civilization - history of Mesopotamia - Britannica",
+            "URL": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia/Sumerian-civilization"
+        },
+        {
+            "Title": "Sumerians - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/Sumerians"
+        },
+        {
+            "Title": "The Sumerians | Western Civilization - Lumen Learning",
+            "URL": "https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-sumerians"
+        },
+        {
+            "Title": "A Short History of Sumer and the Sumerian Civilization",
+            "URL": "https://www.youtube.com/watch?v=JS4dc1lEhZk"
+        },
+        {
+            "Title": "The Sumerians: Their History, Culture, and Character",
+            "URL": "https://oi.uchicago.edu/research/publications/misc/sumerians-their-history-culture-and-character"
+        },
+        {
+            "Title": "Ancient Sumerian Civilization: History and Facts – Ancient ...",
+            "URL": "https://ancientcivilizationsworld.com/sumerian"
+        },
+        {
+            "Title": "Sumerian Culture - Crystalinks",
+            "URL": "https://www.crystalinks.com/sumerculture.html"
+        },
+        {
+            "Title": "The tradition in ancient Sumer - Earth History",
+            "URL": "https://www.earthhistory.org.uk/before-the-cataclysm/the-tradition-in-sumer"
+        },
+        {
+            "Title": "Sumerian Culture and Contributions Essay - 2757 Words",
+            "URL": "https://www.studymode.com/essays/Sumerian-Culture-And-Contributions-1082115.html"
+        },
+        {
+            "Title": "An Introduction to Sumerian Art and Culture",
+            "URL": "https://www.thoughtco.com/sumerian-art-4142838"
+        },
+        {
+            "Title": "Culture and Society in Ancient Mesopotamia",
+            "URL": "https://www.dvusd.org/cms/lib/AZ01901092/Centricity/Domain/4871/lib-overview-mesopotamia-culture-32871-article_only.pdf"
+        },
+        {
+            "Title": "Sumerian Religion - The Spiritual Life",
+            "URL": "https://slife.org/sumerian-religion"
+        },
+        {
+            "Title": "Cultures | Babylonia - Ancient Mesopotamia",
+            "URL": "https://ancientmesopotamia.org/cultures/babylonia.php"
+        },
+        {
+            "Title": "Cultures | Assyria - Ancient Mesopotamia",
+            "URL": "https://ancientmesopotamia.org/cultures/assyria.php"
+        },
+        {
+            "Title": "Sumerians: history, location, organization, religion, culture - science",
+            "URL": "https://warbletoncouncil.org/sumerios-12363"
+        },
+        {
+            "Title": "PDF Sumerians | their history, culture, and character",
+            "URL": "https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/sumerians.pdf"
+        },
+        {
+            "Title": "Ancient Sumerian Culture",
+            "URL": "http://arthistorysummerize.info/ancient-sumerian-culture"
+        },
+        {
+            "Title": "Sumerian Culture And Traditions",
+            "URL": "https://www.sharepresentation.com/donaldcastillo/sumerian-culture-traditions"
+        },
+        {
+            "Title": "Sumerian culture and its infulence",
+            "URL": "https://rootshunt.com/angirasgautam/sumeriancultureanditsinfulence/sumeriancultureanditsinfulence.htm"
+        },
+        {
+            "Title": "Strangest Mysteries of the World and Beyond ! - Sumerian Culture...",
+            "URL": "https://www.wattpad.com/27273201-strangest-mysteries-of-the-world-and-beyond"
+        },
+        {
+            "Title": "Sumerian Culture Flashcards | Quizlet",
+            "URL": "https://quizlet.com/15838960/sumerian-culture-flash-cards"
+        },
+        {
+            "Title": "PDF cdlj2011_003_20120122.indd",
+            "URL": "https://cdli.ucla.edu/file/publications/cdlj2012_002.pdf"
+        },
+        {
+            "Title": "Sumerian Questions and Answers",
+            "URL": "https://sumerian.org/sumerfaq.htm"
+        },
+        {
+            "Title": "22 Sumerian mythology",
+            "URL": "https://studfile.net/preview/16495032/page:9"
+        },
+        {
+            "Title": "Different cultures and traditions - YouTube",
+            "URL": "https://www.youtube.com/playlist?list=PLUJNEUnMBn7afoncvw9mLLCFqkZtxlvpF"
+        },
+        {
+            "Title": "The Difference Between Culture and Tradition - Preemptive Love",
+            "URL": "https://preemptivelove.org/blog/difference-between-culture-and-tradition"
+        },
+        {
+            "Title": "Indian Culture : 16 Unique Culture of India, Customs & Traditions",
+            "URL": "https://www.holidify.com/pages/indian-traditions-and-culture-1331.html"
+        },
+        {
+            "Title": "Russian Traditions - Guide to Russian Culture & Customs",
+            "URL": "https://www.56thparallel.com/russian-traditions"
+        },
+        {
+            "Title": "11 Things You Should Know About Indonesian Culture",
+            "URL": "https://theculturetrip.com/asia/indonesia/articles/11-things-you-should-know-about-indonesian-culture"
+        },
+        {
+            "Title": "Singapore Culture and Traditions - What You Need to Know",
+            "URL": "https://thertwguys.com/singapore-culture-customs"
+        },
+        {
+            "Title": "French Traditions and Culture • FamilySearch",
+            "URL": "https://www.familysearch.org/blog/en/french-culture-traditions"
+        },
+        {
+            "Title": "Traditions You Should Know About Turkish Culture | MELARES",
+            "URL": "https://www.melares.com/en/blog/contents/turkish-culture-traditions"
+        },
+        {
+            "Title": "South African Culture, Customs, and Traditions - WorldAtlas",
+            "URL": "https://www.worldatlas.com/articles/south-african-culture-customs-and-traditions.html"
+        },
+        {
+            "Title": "15 Strange Italian Traditions and Superstitions Explained",
+            "URL": "https://takelessons.com/blog/italian-traditions-z09"
+        },
+        {
+            "Title": "Introduction to the Ancient Near East (article) | Khan Academy",
+            "URL": "https://www.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-near-east-a/a/introduction-to-the-ancient-near-east"
+        },
+        {
+            "Title": "Ancient Near East - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_Near_East"
+        },
+        {
+            "Title": "Culture and History of the Ancient Near East - Brill",
+            "URL": "https://brill.com/view/serial/CHAN?language=en"
+        },
+        {
+            "Title": "The Ancient Near East as History - jstor",
+            "URL": "https://www.jstor.org/stable/1843006"
+        },
+        {
+            "Title": "Recent Trends in the Study of Ancient Near Eastern History",
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jah-2013-0006/html"
+        },
+        {
+            "Title": "Near East - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/Near_East"
+        },
+        {
+            "Title": "Art of the Ancient Near East: Periods & Characteristics - Study ...",
+            "URL": "https://study.com/academy/lesson/art-of-the-ancient-near-east-periods-characteristics.html"
+        },
+        {
+            "Title": "Ancient History/Ancient Near East - Wikibooks, open books for ...",
+            "URL": "https://en.wikibooks.org/wiki/Ancient_History/Ancient_Near_East"
+        },
+        {
+            "Title": "Ancient Near East (Cultures, Civilizations & Empires)",
+            "URL": "https://libguides.csi.edu/c.php?g=16972&p=6734413"
+        },
+        {
+            "Title": "ANCIENT NEAR EASTERN HISTORY FROM ...",
+            "URL": "https://revistas.uam.es/isimu/article/download/3680/3918/7207"
+        },
+        {
+            "Title": "Civilizations of the Ancient Near East | The Institute of …",
+            "URL": "https://archaeology.huji.ac.il/civilizations-ancient-near-east"
+        },
+        {
+            "Title": "Near Eastern Languages and Civilizations | Harvard …",
+            "URL": "https://gsas.harvard.edu/programs-of-study/all/near-eastern-languages-and-civilizations"
+        },
+        {
+            "Title": "(PDF) Ancient Near Eastern Civilizations. Syllabus | Tyson …",
+            "URL": "https://www.academia.edu/28630396/Ancient_Near_Eastern_Civilizations_Syllabus"
+        },
+        {
+            "Title": "Near Eastern Languages and Civilizations | Master of Arts …",
+            "URL": "https://maph.uchicago.edu/study/areas-study/near-eastern-languages-and-civilizations"
+        },
+        {
+            "Title": "Harvard's Near Eastern Languages and Civilizations - lawpark's …",
+            "URL": "https://lawpark.jimdofree.com/2013/12/21/harvard-s-near-eastern-languages-and-civilizations"
+        },
+        {
+            "Title": "Similarities and Differences in Near East Ancient …",
+            "URL": "https://www.shorthistory.org/ancient-civilizations/similarities-and-differences-in-near-east-ancient-civilizations"
+        },
+        {
+            "Title": "Near Eastern Languages and Civilizations | Near Eastern …",
+            "URL": "https://nelc.uchicago.edu"
+        },
+        {
+            "Title": "“Firing on all pistons”: Near Eastern Languages and …",
+            "URL": "https://yaledailynews.com/blog/2021/11/05/firing-on-all-pistons-near-eastern-languages-and-civilizations-bounces-back"
+        },
+        {
+            "Title": "Near East - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Near_East"
+        },
+        {
+            "Title": "Ancient Near Eastern Civilizations Research Papers - Academia.edu",
+            "URL": "https://www.academia.edu/Documents/in/Ancient_Near_Eastern_Civilizations"
+        },
+        {
+            "Title": "PDF Near Eastern Languages and Civilizations",
+            "URL": "http://catalog.yale.edu/ycps/subjects-of-instruction/near-eastern-languages-civilizations/near-eastern-languages-civilizations.pdf"
+        },
+        {
+            "Title": "PDF Near Eastern Civilizations",
+            "URL": "http://guide.berkeley.edu/undergraduate/degree-programs/near-eastern-civilizations/near-eastern-civilizations.pdf"
+        },
+        {
+            "Title": "Ancient near Eastern Civilizations Flashcards | Quizlet",
+            "URL": "https://quizlet.com/153033267/ancient-near-eastern-civilizations-flash-cards"
+        },
+        {
+            "Title": "Near Eastern Art and Civilizations by Michael Kluemper",
+            "URL": "https://prezi.com/fqzr2sy0g0l8/near-eastern-art-and-civilizations"
+        },
+        {
+            "Title": "Mobile pastoralism and the formation of near Eastern civilizations...",
+            "URL": "https://www.researchgate.net/publication/281770604_Mobile_pastoralism_and_the_formation_of_near_Eastern_civilizations_Weaving_together_society"
+        },
+        {
+            "Title": "PDF Near Eastern Languages and Civilizations",
+            "URL": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/neareasternlanguagescivilizations.pdf"
+        },
+        {
+            "Title": "HIS310: Near Eastern & Greek Civilizations - YouTube",
+            "URL": "https://www.youtube.com/watch?v=Tjts4f4aK24"
+        },
+        {
+            "Title": "PDF Ancient near eastern history",
+            "URL": "https://repositorio.uam.es/bitstream/handle/10486/3352/23982_1.pdf?sequence=1&isAllowed=y"
+        },
+        {
+            "Title": "Near eastern languages & civilization",
+            "URL": "https://www.washington.edu/students/crscat/neareast.html"
+        },
+        {
+            "Title": "PDF Interactions and New Directions in Near Eastern Archaeology",
+            "URL": "https://www.openstarts.units.it/bitstream/10077/30198/1727/W&E_4_BH5_III_online_light.pdf"
+        },
+        {
+            "Title": "PDF Classical & near eastern civilizations",
+            "URL": "https://www.creighton.edu/sites/hub.creighton.edu/files/Classical and Near Eastern Civilizations B.A.pdf"
+        },
+        {
+            "Title": "Near and Middle Eastern Civilizations | Academic Calendar",
+            "URL": "https://artsci.calendar.utoronto.ca/section/Near-and-Middle-Eastern-Civilizations"
+        },
+        {
+            "Title": "World History Era 4: Part 3 NEAR EASTERN CIVILIZATIONS",
+            "URL": "https://www.slideserve.com/stone-larsen/world-history-era-4-part-3-near-eastern-civilizations"
+        },
+        {
+            "Title": "Ancient Near Eastern Civilizations",
+            "URL": "https://www.bibleodyssey.org/en/tools/timeline-gallery/a/ancient-near-eastern-civilizations"
+        },
+        {
+            "Title": "Ancient Near Eastern Civilizations - Near Eastern... - UCLA",
+            "URL": "https://nelc.ucla.edu/ancient"
+        },
+        {
+            "Title": "Genomic History of Neolithic to Bronze Age Anatolia, Northern Levant...",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/32470401"
+        },
+        {
+            "Title": "Near eastern language & civilizations",
+            "URL": "https://www.registrar.upenn.edu/timetable/nelc.html"
+        },
+        {
+            "Title": "Near Eastern Civilizations",
+            "URL": "https://jeopardylabs.com/print/near-eastern-civilizations"
+        },
+        {
+            "Title": "Civilizations of the Ancient Near East by Jack M. Sasson",
+            "URL": "https://www.goodreads.com/book/show/726528.Civilizations_of_the_Ancient_Near_East"
+        },
+        {
+            "Title": "Ancient Near Eastern Civilizations",
+            "URL": "https://www.tiki-toki.com/timeline/entry/478546/Ancient-Near-Eastern-Civilizations"
+        },
+        {
+            "Title": "nmc news - Department of Near and Middle Eastern Civilizations",
+            "URL": "https://studylib.net/doc/8648172/nmc-news---department-of-near-and-middle-eastern-civiliza..."
+        },
+        {
+            "Title": "Near Eastern Civilizations, B.A. | University of California, Berkeley",
+            "URL": "https://www.bachelorsportal.com/studies/307860/near-eastern-civilizations.html"
+        },
+        {
+            "Title": "Mobile Pastoralism and the Formation of Near Eastern Civilizations",
+            "URL": "https://www.cambridge.org/core/books/mobile-pastoralism-and-the-formation-of-near-eastern-civilizations/7605DA5FD67AD001ADFDE2A90B369E53"
+        },
+        {
+            "Title": "Explorations in Ancient Near Eastern Civilizations",
+            "URL": "https://www.degruyter.com/serial/psuexpl-b/html"
+        },
+        {
+            "Title": "World History Era 4: Part 3 NEAR EASTERN CIVILIZATIONS World...",
+            "URL": "https://slideplayer.com/slide/8184662"
+        },
+        {
+            "Title": "Civilizations Analysis: S-Z",
+            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=192702804"
+        },
+        {
+            "Title": "Evaluation of groundwater quality in the Cihanbeyli basin ...",
+            "URL": "https://www.researchgate.net/publication/257794237_Evaluation_of_groundwater_quality_in_the_Cihanbeyli_basin_Konya_Central_Anatolia_Turkey"
+        },
+        {
+            "Title": "Evaluation of groundwater quality in the ... - Agris (FAO)",
+            "URL": "https://agris.fao.org/agris-search/search.do?recordID=US201400103827"
+        },
+        {
+            "Title": "report_Turkey.pdf - World Water Council",
+            "URL": "http://www.worldwatercouncil.org/fileadmin/wwc/Library/Publications_and_reports/country_reports/report_Turkey.pdf"
+        },
+        {
+            "Title": "Turkey - Agricultural Water Pricing - OECD",
+            "URL": "https://www.oecd.org/turkey/45016347.pdf"
+        },
+        {
+            "Title": "ASSESSMENT OF AGRICULTURAL WATER USE IN TURKEY",
+            "URL": "https://www.iwra.org/member/congress/resource/MADRID2003_OLCAY_UNVER_EN.pdf"
+        },
+        {
+            "Title": "report Valuing Water Resources in Turkey - World Bank ...",
+            "URL": "https://documents1.worldbank.org/curated/en/600681476343083047/pdf/AUS10650-REVISED-PUBLIC-Turkey-NCA-Water-Valuation-Report-FINAL-CLEAN.pdf"
+        },
+        {
+            "Title": "central anatolia turkey: Topics by WorldWideScience.org",
+            "URL": "https://worldwidescience.org/topicpages/c/central+anatolia+turkey.html"
+        },
+        {
+            "Title": "Evaluation of groundwater quality in the Cihanbeyli ... - ProQuest",
+            "URL": "https://search.proquest.com/openview/d321a9dc23c94b608dd1fd733d40b473/1?pq-origsite=gscholar&cbl=54063"
+        },
+        {
+            "Title": "Contribution of Konya Plain Projects to the National ...",
+            "URL": "https://journals.sagepub.com/doi/pdf/10.1260/014459806779388038"
+        },
+        {
+            "Title": "Regions of Turkey: Central Anatolia",
+            "URL": "https://madeinturkeytours.com/seas-regions/central-anatolia"
+        },
+        {
+            "Title": "Geochemical and hydrogeochemical characteristics and …",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0375650518301573"
+        },
+        {
+            "Title": "Quality and health risk assessment of water resources in Sızma …",
+            "URL": "https://link.springer.com/article/10.1007/s12665-021-10029-6"
+        },
+        {
+            "Title": "Meteorological drought analysis case study: Central Anatolia",
+            "URL": "https://www.researchgate.net/profile/Tuerkay-Baran/publication/254225799_Meteorological_drought_analysis_case_study_Central_Anatolia/links/00b4952a7094e1019a000000/Meteorological-drought-analysis-case-study-Central-Anatolia.pdf"
+        },
+        {
+            "Title": "edubirdie.com",
+            "URL": "https://edubirdie.com/order?foc_o_name=Water Sources Value for Central Anatolia"
+        },
+        {
+            "Title": "Variability of the Precipitation and Its Connections with Dry Years …",
+            "URL": "https://www.journaljsrr.com/index.php/JSRR/article/download/21052/39051"
+        },
+        {
+            "Title": "(PDF) SPATIAL ANALYSIS OF SOME HEAVY METALS (NI, MN, CU) …",
+            "URL": "https://www.researchgate.net/publication/281026813_SPATIAL_ANALYSIS_OF_SOME_HEAVY_METALS_NI_MN_CU_IN_DRINKING_WATER_WITH_GIS_A_CASE_STUDY_FROM_THE_CENTRAL_ANATOLIA_REGION_IN_TURKEY1"
+        },
+        {
+            "Title": "Central Anatolia Region - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Central_Anatolia_Region"
+        },
+        {
+            "Title": "(PDF) Origin of carbon dioxide occurrences in Central Anatolia (Turkey)",
+            "URL": "https://www.researchgate.net/publication/273123118_Origin_of_carbon_dioxide_occurrences_in_Central_Anatolia_Turkey"
+        },
+        {
+            "Title": "(PDF) Obsidian, Trade and Society in the Central Anatolian Neolithic",
+            "URL": "https://www.academia.edu/393048/Obsidian_Trade_and_Society_in_the_Central_Anatolian_Neolithic"
+        },
+        {
+            "Title": "Shallow melting of MORB‐like mantle under hot continental lithosphere...",
+            "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006772"
+        },
+        {
+            "Title": "Sources of water | Uses of water | Source of water for kids - YouTube",
+            "URL": "https://www.youtube.com/watch?v=--t1cRc8fe0"
+        },
+        {
+            "Title": "Change in Precipitation and Temperature Amounts over Three...",
+            "URL": "https://www.scirp.org/html/13-4700033_17133.htm"
+        },
+        {
+            "Title": "Anatolia — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Anatolia"
+        },
+        {
+            "Title": "Cappadocia Cave Resort & Spa (CCR), Uchisar - Updated 2021 Prices",
+            "URL": "https://www.booking.com/hotel/tr/ccr-hotels-spa-cappadocia-cave-resort-spa.en-gb.html"
+        },
+        {
+            "Title": "Radiocarbon dating, mineralogy, and isotopic composition of hackberry",
+            "URL": "https://journals.uair.arizona.edu/index.php/radiocarbon/article/download/18322/18053"
+        },
+        {
+            "Title": "PDF The effects of irrigation methods on input use and",
+            "URL": "https://academicjournals.org/article/article1380895107_Albayrak  et al.pdf"
+        },
+        {
+            "Title": "Anatolia: The Cradle of Civilizations | Skyscraper City Forum",
+            "URL": "https://www.skyscrapercity.com/threads/anatolia-the-cradle-of-civilizations.178197"
+        },
+        {
+            "Title": "Visit Central Anatolia: Best of Central Anatolia... | Expedia Tourism",
+            "URL": "https://www.expedia.co.uk/Central-Anatolia.dx6054885"
+        },
+        {
+            "Title": "Cave Dwelling Bat Species and their Cave Preferences in Northwest of...",
+            "URL": "https://researcherslinks.com/current-issues/Cave-Dwelling-Bat-Species-Central-Anatolia/20/1/2409/html"
+        },
+        {
+            "Title": "Agricultural origins on the Anatolian plateau | PNAS",
+            "URL": "https://www.pnas.org/content/115/14/E3077"
+        },
+        {
+            "Title": "Central Anatolia - Travel guide at Wikivoyage",
+            "URL": "https://en.wikivoyage.org/wiki/Central_Anatolia"
+        },
+        {
+            "Title": "The Making of Hittite Imperial Landscapes: Territoriality and Balance of...",
+            "URL": "https://www.degruyter.com/document/doi/10.1515/janeh-2017-0004/html"
+        },
+        {
+            "Title": "Water Use Statistics - Worldometer | Sources and methods",
+            "URL": "https://www.worldometers.info/water"
+        },
+        {
+            "Title": "Sustainability | Free Full-Text | Turkey's 2023 Energy Strategies and...",
+            "URL": "https://www.mdpi.com/2071-1050/11/7/2136/htm"
+        },
+        {
+            "Title": "Anti-diarrheal plants of central anatolia, turkey",
+            "URL": "https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=1524&context=etd"
+        },
+        {
+            "Title": "PDF Closure of the Neotethys Ocean in Anatolia : structural, petrologic...",
+            "URL": "https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5592/file/pourteau_diss.pdf"
+        },
+        {
+            "Title": "PDF Drought characterization and management in Central Asia Region and...",
+            "URL": "https://www.fao.org/3/i6738e/i6738e.pdf"
+        },
+        {
+            "Title": "Prehistory of Anatolia | PDF | Anatolia | Pottery",
+            "URL": "https://www.scribd.com/doc/100853120/Prehistory-of-Anatolia"
+        },
+        {
+            "Title": "Central Anatolia | All About Turkey",
+            "URL": "https://www.allaboutturkey.com/central-anatolia.html"
+        },
+        {
+            "Title": "Central Anatolia Vacation Packages | Travel Central... | Expedia",
+            "URL": "https://www.expedia.com/Central-Anatolia.d6054885.Destination-Travel-Guides"
+        },
+        {
+            "Title": "Water as an essential nutrient: the physiological basis of hydration",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/19724292"
+        },
+        {
+            "Title": "Seasonal calving in European Prehistoric cattle and its impacts on milk...",
+            "URL": "https://www.nature.com/articles/s41598-021-87674-1?error=cookies_not_supported&code=ca5d6301-9d29-46f8-a4a6-f30a0bf0127c"
+        },
+        {
+            "Title": "Wikizero - Central Anatolia Region",
+            "URL": "https://wikizero.com/en/Central_Anatolia"
+        },
+        {
+            "Title": "Australia's central bank again dismisses calls for 2022 rate hike",
+            "URL": "https://www.investing.com/news/economy/australias-central-bank-again-dismisses-calls-for-2022-rate-hike-2680571"
+        },
+        {
+            "Title": "The Geography of Trade. Landscapes of competition and long-distance...",
+            "URL": "https://b-ok.org/book/3680966/e01286"
+        },
+        {
+            "Title": "Prophet - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Prophet"
+        },
+        {
+            "Title": "Table of prophets of Abrahamic religions - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Table_of_prophets_of_Abrahamic_religions"
+        },
+        {
+            "Title": "prophecy | Britannica",
+            "URL": "https://www.britannica.com/topic/prophecy"
+        },
+        {
+            "Title": "Why Are There No New Major Religions? - The Atlantic",
+            "URL": "https://www.theatlantic.com/international/archive/2017/08/new-religions/533745"
+        },
+        {
+            "Title": "What do we actually know about Mohammed? | openDemocracy",
+            "URL": "https://www.opendemocracy.net/en/mohammed_3866jsp"
+        },
+        {
+            "Title": "The Historical and Religious Significance of the Old ... - jstor",
+            "URL": "https://www.jstor.org/stable/3152610"
+        },
+        {
+            "Title": "UW Religion Today: Prophets and Prophecy | News",
+            "URL": "https://www.uwyo.edu/uw/news/2016/01/uw-religion-today-prophets-and-prophecy.html"
+        },
+        {
+            "Title": "Legacy of a Prophet . Muhammad and Other Religions | PBS",
+            "URL": "https://www.pbs.org/muhammad/ma_otherrel.shtml"
+        },
+        {
+            "Title": "The Prophet Muhammad and the Origins of Islam - The ...",
+            "URL": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam"
+        },
+        {
+            "Title": "The Purpose of Religion and Prophets | Islam Ahmadiyya",
+            "URL": "https://www.alislam.org/articles/purpose-of-religion-and-prophets"
+        },
+        {
+            "Title": "Prophets and Prophecy | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/prophets-and-prophecy"
+        },
+        {
+            "Title": "A List of All Religions and Belief Systems",
+            "URL": "http://www.humanreligions.info/religions.html"
+        },
+        {
+            "Title": "Who Are the Prophets of Islam? - Learn Religions",
+            "URL": "https://www.learnreligions.com/prophets-of-islam-2004542"
+        },
+        {
+            "Title": "Prophets and messengers in Islam | Religion Wiki | Fandom",
+            "URL": "https://religion.wikia.org/wiki/Prophets_and_messengers_in_Islam"
+        },
+        {
+            "Title": "Prophets of Christianity - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Prophets_of_Christianity"
+        },
+        {
+            "Title": "There are no prophets in Hinduism? | by Amrit Hallan | …",
+            "URL": "https://medium.com/interfaith-now/there-are-no-prophets-in-hinduism-9b954449e6a4"
+        },
+        {
+            "Title": "Prophets in the Hebrew Bible | Oxford Research …",
+            "URL": "https://oxfordre.com/religion/view/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-109"
+        },
+        {
+            "Title": "Prophets and messengers in Islam - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Prophets_and_messengers_in_Islam"
+        },
+        {
+            "Title": "Religion - Prophets and Foreign Nations Flashcards | Quizlet",
+            "URL": "https://quizlet.com/579651018/religion-prophets-and-foreign-nations-flash-cards"
+        },
+        {
+            "Title": "False prophets",
+            "URL": "http://www.whale.to/b/false_prophets.html"
+        },
+        {
+            "Title": "Chapter 1: Prophet and Prophets - Religion Online",
+            "URL": "https://www.religion-online.org/book-chapter/chapter-1-prophet-and-prophets"
+        },
+        {
+            "Title": "Religion and Prophets | Mohammad Mohammadi Davisaraee",
+            "URL": "https://davisaraee.ir/en/2014/08/23/religion-and-prophets"
+        },
+        {
+            "Title": "(PDF) Religions, Prophets & Politics",
+            "URL": "https://www.researchgate.net/publication/313794051_Religions_Prophets_Politics"
+        },
+        {
+            "Title": "Top 10 Greatest Prophets | Most Revered Prophets - TheTopTens",
+            "URL": "https://www.thetoptens.com/religion/prophets"
+        },
+        {
+            "Title": "Religion and prophets - The Depression... - The Depression Forums",
+            "URL": "https://www.depressionforums.org/forums/topic/6804-religion-and-prophets"
+        },
+        {
+            "Title": "Prophethood in Islam (All parts) - The Religion of Islam",
+            "URL": "https://www.islamreligion.com/articles/228/viewall/prophethood-in-islam"
+        },
+        {
+            "Title": "The Purpose of Religion and Prophets | The Review of Religions",
+            "URL": "https://www.reviewofreligions.org/795/the-purpose-of-religion-and-prophets"
+        },
+        {
+            "Title": "Christianity vs Islam - Difference and Comparison | Diffen",
+            "URL": "https://www.diffen.com/difference/Christianity_vs_Islam"
+        },
+        {
+            "Title": "BBC - Religions - Islam: Prophet Muhammad (570-632)",
+            "URL": "https://www.bbc.co.uk/religion/religions/islam/history/muhammad_1.shtml"
+        },
+        {
+            "Title": "What The Religion Of Prophets In The Bible? - Religion - Nigeria",
+            "URL": "https://www.nairaland.com/1001536/what-religion-prophets-bible"
+        },
+        {
+            "Title": "Prophets Religions and BOOKS - Islamic Religion",
+            "URL": "https://www.wilmingtonfavs.com/islamic-religion/prophets-religions-and-books.html"
+        },
+        {
+            "Title": "Superpowers, Prophets, and Religion",
+            "URL": "https://willworkforjustice.blogspot.com/2019/01/superpowers-prophets-and-religion.html"
+        },
+        {
+            "Title": "Islam Is The Religion of All Prophets - Quran Tutors Academy",
+            "URL": "https://qurantutorsacademy.com/islam-is-the-religion-of-all-prophets"
+        },
+        {
+            "Title": "100+ Free Prophet & Religion Images",
+            "URL": "https://pixabay.com/images/search/prophet"
+        },
+        {
+            "Title": "Islam - Five Pillars, Nation of Islam & Definition - HISTORY",
+            "URL": "https://www.history.com/topics/religion/islam"
+        },
+        {
+            "Title": "Philosophy of Religion | Internet Encyclopedia of Philosophy",
+            "URL": "https://iep.utm.edu/religion"
+        },
+        {
+            "Title": "Abrahamic religions - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Abrahamic_religions"
+        },
+        {
+            "Title": "Religion (Civ6) | Civilization Wiki | Fandom",
+            "URL": "https://civilization.fandom.com/wiki/Religion_(Civ6)"
+        },
+        {
+            "Title": "Religion of prophets",
+            "URL": "http://religion-of-prophets.blogspot.com"
+        },
+        {
+            "Title": "Religion or Religions | Portal Islamica",
+            "URL": "http://www.portalislamica.org/philosophy/revelation-a-prophethood/religion-or-religions"
+        },
+        {
+            "Title": "Palestine - History, Religion & Conflicts",
+            "URL": "https://www.history.com/topics/middle-east/palestine"
+        },
+        {
+            "Title": "History of Palestine - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_Palestine"
+        },
+        {
+            "Title": "Palestine | History, People, & Religion | Britannica",
+            "URL": "https://www.britannica.com/place/Palestine"
+        },
+        {
+            "Title": "History of Palestine and Palestinians - Israel Science and ...",
+            "URL": "https://www.science.co.il/israel-history/Palestine-history.php"
+        },
+        {
+            "Title": "Interactive timeline/history of the Israeli-Palestinian conflict since",
+            "URL": "https://interactive.aljazeera.com/aje/palestineremix/timeline_main.html"
+        },
+        {
+            "Title": "History of the Question of Palestine - the United Nations",
+            "URL": "https://www.un.org/unispal/history"
+        },
+        {
+            "Title": "Israel-Gaza violence: The conflict explained - BBC News",
+            "URL": "https://www.bbc.com/news/newsbeat-44124396"
+        },
+        {
+            "Title": "History - History of Palestine",
+            "URL": "https://historyofpalestine.org/history"
+        },
+        {
+            "Title": "Israel Palestine Conflict History, Israel Palestine Conflict …",
+            "URL": "https://byjus.com/free-ias-prep/israel-palestine-conflict"
+        },
+        {
+            "Title": "Timeline - History of Palestine",
+            "URL": "https://historyofpalestine.org/timeline"
+        },
+        {
+            "Title": "History of Palestine from Past to Present - Chronicle …",
+            "URL": "https://fanack.com/palestine/history-of-palestine"
+        },
+        {
+            "Title": "A Brief History of Palestine - dummies",
+            "URL": "https://www.dummies.com/education/history/world-history/a-brief-history-of-palestine"
+        },
+        {
+            "Title": "Palestine - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/palestine"
+        },
+        {
+            "Title": "Palestine - History | Britannica",
+            "URL": "https://www.britannica.com/place/Palestine/History"
+        },
+        {
+            "Title": "A chronology of key events in the history of the Palestinian territories",
+            "URL": "https://www.bbc.com/news/world-middle-east-29362505"
+        },
+        {
+            "Title": "Palestine HIstory",
+            "URL": "https://www.israel-a-history-of.com/palestine-history.html"
+        },
+        {
+            "Title": "Palestine - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Palestine"
+        },
+        {
+            "Title": "History of Palestine - Welcome To Palestine",
+            "URL": "https://www.welcometopalestine.com/history-of-palestine"
+        },
+        {
+            "Title": "History of Palestine, Palestinian History",
+            "URL": "https://www.mapsofworld.com/palestine/history"
+        },
+        {
+            "Title": "Palestine History: A Country on the Crossroads of Faith - i-cias.com",
+            "URL": "https://i-cias.com/palestine-history"
+        },
+        {
+            "Title": "History of Palestine",
+            "URL": "https://en-academic.com/dic.nsf/enwiki/8227"
+        },
+        {
+            "Title": "History of Palestine — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/History_of_Palestine"
+        },
+        {
+            "Title": "Palestine 1918 to 1948 - History Learning Site",
+            "URL": "https://www.historylearningsite.co.uk/modern-world-history-1918-to-1980/the-middle-east-1917-to-1973/palestine-1918-to-1948"
+        },
+        {
+            "Title": "The history of Israel-Palestine before 1948 - Alma",
+            "URL": "https://www.heyalma.com/israel-guide/history-of-israel-palestine-before-1948"
+        },
+        {
+            "Title": "Palestine: History | Infoplease",
+            "URL": "https://www.infoplease.com/encyclopedia/places/asia/israel/palestine-region-asia/history"
+        },
+        {
+            "Title": "The History of Ancient Palestine | TimeMaps",
+            "URL": "https://www.timemaps.com/encyclopedia/history-of-ancient-palestine"
+        },
+        {
+            "Title": "Palestine | Encyclopedia.com | Pre-Twentieth-Century History",
+            "URL": "https://www.encyclopedia.com/places/asia/israeli-political-geography/palestine"
+        },
+        {
+            "Title": "Palestine - History & Facts - YouTube",
+            "URL": "https://www.youtube.com/watch?v=yTCqeIZxrpo"
+        },
+        {
+            "Title": "Maps | Population of Historic Palestine",
+            "URL": "https://ifamericansknew.org/history/maps.html"
+        },
+        {
+            "Title": "Introduction to Palestine :1: Palestine throughout history",
+            "URL": "https://decolonizepalestine.com/intro/palestine-throughout-history"
+        },
+        {
+            "Title": "History of Palestine - What is The History of Palestine?",
+            "URL": "http://www.webgaza.net/background/History_of_Palestine.htm"
+        },
+        {
+            "Title": "Egyptian civilization - Religion - Life after death - Canadian ...",
+            "URL": "https://www.historymuseum.ca/cmc/exhibitions/civil/egypt/egcr04e.html"
+        },
+        {
+            "Title": "death - Ancient Egypt | Britannica",
+            "URL": "https://www.britannica.com/science/death/Ancient-Egypt"
+        },
+        {
+            "Title": "Life after Death in Ancient Egypt | History Today",
+            "URL": "https://www.historytoday.com/archive/history-matters/life-after-death-ancient-egypt"
+        },
+        {
+            "Title": "Ancient Egyptian afterlife beliefs - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_Egyptian_afterlife_beliefs"
+        },
+        {
+            "Title": "Death in Ancient Egypt - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1050/death-in-ancient-egypt"
+        },
+        {
+            "Title": "Preparation for death in ancient Egypt - The Australian Museum",
+            "URL": "https://australian.museum/learn/cultures/international-collection/ancient-egyptian/preparation-for-death-in-ancient-egypt"
+        },
+        {
+            "Title": "How to live after death in ancient Egypt - University of Chicago ...",
+            "URL": "https://news.uchicago.edu/story/how-live-after-death-ancient-egypt"
+        },
+        {
+            "Title": "Ancient Egypt exhibit gives lessons in immortality | Reuters",
+            "URL": "https://www.reuters.com/article/us-exhibitions-egypt-idUSTRE5BL0MC20091222"
+        },
+        {
+            "Title": "Death and Immortality in Ancient Egypt | by Old Times | …",
+            "URL": "https://oldtimes381.medium.com/death-and-immortality-in-ancient-egypt-e1fda6715d86"
+        },
+        {
+            "Title": "Death And Immortality In Ancient Egypt And Mesopotamia | …",
+            "URL": "https://www.researchomatic.com/death-and-immortality-in-ancient-egypt-and-mesopotamia-159255.html"
+        },
+        {
+            "Title": "Death and Immortality in Ancient Egypt | by Old Times | Medium",
+            "URL": "https://medium.com/@oldtimes381/death-and-immortality-in-ancient-egypt-e1fda6715d86"
+        },
+        {
+            "Title": "Essay about Death in Ancient Egyptian Culture - 2526 Words | Bartleby",
+            "URL": "https://www.bartleby.com/essay/Death-in-Ancient-Egyptian-Culture-F3JSCY2YTJ"
+        },
+        {
+            "Title": "Ancient Egyptian funerary practices - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices"
+        },
+        {
+            "Title": "(PDF) Burial and the Dead in Ancient Egyptian Society",
+            "URL": "https://www.researchgate.net/publication/249631679_Burial_and_the_Dead_in_Ancient_Egyptian_Society"
+        },
+        {
+            "Title": "PDF Microsoft Word - De Lancie_Death_Is_Not_the_End.doc",
+            "URL": "https://www.writing.ucsb.edu/sites/secure.lsit.ucsb.edu.writ.d7/files/sitefiles/publications/2010_De Lancie.pdf"
+        },
+        {
+            "Title": "Locating a Sense of Immortality in Early Egyptian Cemeteries...",
+            "URL": "https://www.cambridge.org/core/books/death-rituals-social-order-and-the-archaeology-of-immortality-in-the-ancient-world/locating-a-sense-of-immortality-in-early-egyptian-cemeteries/87B48759A1F9A1629C9133328242903A"
+        },
+        {
+            "Title": "Pyramids, Mummies, and Magic: The Search for Immortality in...",
+            "URL": "https://www.youtube.com/watch?v=AG37t8GY9uw"
+        },
+        {
+            "Title": "Joyce M Filer looks at the art of medicine in ancient Egypt",
+            "URL": "https://www.bbc.co.uk/history/ancient/egyptians/health_01.shtml"
+        },
+        {
+            "Title": "Ancient Egypt and the Immortality Concept Presented... | Studymode",
+            "URL": "https://www.studymode.com/essays/Ancient-Egypt-And-The-Immortality-Concept-62310754.html"
+        },
+        {
+            "Title": "ASSMANN Death And Salvation In Ancient Egypt... : Internet Archive",
+            "URL": "https://archive.org/details/ASSMANNDeathAndSalvationInAncientEgypt"
+        },
+        {
+            "Title": "Ancient Egypt: Death and immortality Tickets, Sat 4 Dec... | Eventbrite",
+            "URL": "https://www.eventbrite.co.uk/e/ancient-egypt-death-and-immortality-tickets-161223563017?aff=ebdsoporgprofile"
+        },
+        {
+            "Title": "Egyptian Religion and Immortality - 1397 Words | 123 Help Me",
+            "URL": "https://www.123helpme.com/essay/Egyptian-Religion-and-Immortality-89001"
+        },
+        {
+            "Title": "The Immortality of the Soul in Ancient Egypt ~ Ancient Egypt Facts",
+            "URL": "http://www.ancient-egypt.info/2013/09/the-immortality-of-soul-in-ancient-egypt.html"
+        },
+        {
+            "Title": "Hidden Futures. Death and Immortality in Ancient Egypt, Anatolia...",
+            "URL": "https://www.semanticscholar.org/paper/Hidden-Futures.-Death-and-Immortality-in-Ancient-Bremer-Hout/8673b5af733c0f415bc86522047ac93417389434"
+        },
+        {
+            "Title": "Hidden Futures: Death and Immortality in Ancient Egypt, Anatolia...",
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/468693"
+        },
+        {
+            "Title": "Ancient Egypt - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_Egypt"
+        },
+        {
+            "Title": "Ancient Egypt: Pharaohs, Pyramids, Hieroglyphs, and Everything Else",
+            "URL": "https://www.historyonthenet.com/ancient-egypt"
+        },
+        {
+            "Title": "Death and Salvation in Ancient Egipt - Jan Assmann | PDF | Osiris",
+            "URL": "https://www.scribd.com/doc/38098908/Death-and-Salvation-in-Ancient-Egipt-Jan-Assmann"
+        },
+        {
+            "Title": "Hidden Futures: Death and Immortality in Ancient Egypt, Anatolia...",
+            "URL": "https://books.google.ru/books?id=UACxAAAAIAAJ&lr=&redir_esc=y"
+        },
+        {
+            "Title": "Brochure: The Quest for Immortality: Treasures of Ancient Egypt.",
+            "URL": "https://www.nga.gov/exhibitions/2002/egypt.html"
+        },
+        {
+            "Title": "10 Unsolved Mysteries Of Ancient Egypt - Listverse",
+            "URL": "https://listverse.com/2018/05/16/10-unsolved-mysteries-of-ancient-egypt"
+        },
+        {
+            "Title": "Death and salvation in ancient Egypt » Litgu.ru - Литературный гуру",
+            "URL": "https://litgu.ru/knigi/nauchno_popularnoe/307745-death-and-salvation-in-ancient-egypt.html"
+        },
+        {
+            "Title": "Egypt: Ancient Egypt immortality through Art",
+            "URL": "http://www.touregypt.net/historicalessays/lifeinegypt4.htm"
+        },
+        {
+            "Title": "NATO's Purpose After the Cold War - Brookings Institution",
+            "URL": "https://www.brookings.edu/wp-content/uploads/2016/06/reportch1.pdf"
+        },
+        {
+            "Title": "A short history of NATO",
+            "URL": "https://www.nato.int/cps/en/natohq/declassified_139339.htm"
+        },
+        {
+            "Title": "Nato In Its Evolving Role - Institute of Strategic Studies ...",
+            "URL": "http://issi.org.pk/wp-content/uploads/2014/06/1299221738_46680500.pdf"
+        },
+        {
+            "Title": "HOW NATO HAS CHANGED IN THE POST COLD WAR ERA",
+            "URL": "https://www.mtholyoke.edu/acad/intrel/natousis.htm"
+        },
+        {
+            "Title": "NATO's Evolving Role and Missions - EveryCRSReport.com",
+            "URL": "https://www.everycrsreport.com/reports/97-708F.html"
+        },
+        {
+            "Title": "What the Evolution of NATO's Missions Means for the Future",
+            "URL": "https://www.cato.org/commentary/what-evolution-natos-missions-means-future"
+        },
+        {
+            "Title": "What Is NATO? - The Balance",
+            "URL": "https://www.thebalance.com/nato-purpose-history-members-and-alliances-3306116"
+        },
+        {
+            "Title": "NATO in history: Purpose and evolution - CGTN",
+            "URL": "https://news.cgtn.com/news/316b444e33677a6333566d54/share.html"
+        },
+        {
+            "Title": "96 NATO at a crossroads - jstor",
+            "URL": "https://www.jstor.org/stable/48527383"
+        },
+        {
+            "Title": "The Three Ages of NATO: An Evolving Alliance - Belfer Center",
+            "URL": "https://www.belfercenter.org/publication/three-ages-nato-evolving-alliance"
+        },
+        {
+            "Title": "NATO: New Tasks and Responsibilities",
+            "URL": "https://www.nato.int/docu/conf/2005/07_05_nato_report.pdf"
+        },
+        {
+            "Title": "NATO Review - Adapting NATO to an unpredictable and …",
+            "URL": "https://www.nato.int/docu/review/articles/2018/02/19/adapting-nato-to-an-unpredictable-and-fast-changing-world/index.html"
+        },
+        {
+            "Title": "The Relevance of NATO in the Modern World — SIR Journal",
+            "URL": "http://www.sirjournal.org/research/2015/12/4/the-relevance-of-nato-in-the-modern-world"
+        },
+        {
+            "Title": "Analysis of the Different Models of NATO’s Involvement …",
+            "URL": "https://www.nato.int/acad/fellow/99-01/bakradze.pdf"
+        },
+        {
+            "Title": "NATO/EAPC Research Fellowship 2001-2003 NATO ON …",
+            "URL": "https://www.nato.int/acad/fellow/01-03/boyadjieva.pdf"
+        },
+        {
+            "Title": "Nato Review",
+            "URL": "https://www.nato.int/docu/review/2002/issue1/english/interview.html"
+        },
+        {
+            "Title": "NATO in the 21st Century: Preparing the Alliance for the …",
+            "URL": "https://www.heritage.org/sites/default/files/2020-08/SR235.pdf"
+        },
+        {
+            "Title": "NATO - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/NATO"
+        },
+        {
+            "Title": "NATO's Evolving Role and Missions - EveryCRSReport.com",
+            "URL": "https://www.everycrsreport.com/reports/97-708.html"
+        },
+        {
+            "Title": "(PDF) The Emerging Role of NATO in the 21st... - Academia.edu",
+            "URL": "https://www.academia.edu/2043971/The_Emerging_Role_of_NATO_in_the_21st_Century_Global_Security_Arrangement"
+        },
+        {
+            "Title": "International Security and the Role of NATO in the Modern World",
+            "URL": "http://forsecurity.org/international-security-and-role-nato-modern-world"
+        },
+        {
+            "Title": "The role of NATO in today's world - StarTribune.com",
+            "URL": "https://www.startribune.com/the-role-of-nato-in-today-s-world/211628261"
+        },
+        {
+            "Title": "PPT - The Evolving Role of NATO PowerPoint Presentation, free...",
+            "URL": "https://www.slideserve.com/kirk/the-evolving-role-of-nato"
+        },
+        {
+            "Title": "20th-century international relations - The role of NATO | Britannica",
+            "URL": "https://www.britannica.com/topic/20th-century-international-relations-2085155/The-role-of-NATO"
+        },
+        {
+            "Title": "(PDF) Bridging the Gap between Theory and Practice: The Evolution...",
+            "URL": "https://www.researchgate.net/publication/329428760_Bridging_the_Gap_between_Theory_and_Practice_The_Evolution_of_NATO's_Security_Agenda"
+        },
+        {
+            "Title": "A New Role for NATO | Conflict Resolutions and World Security...",
+            "URL": "https://www.worldsecuritynetwork.com/NATO/manuela-paraipan/A-New-Role-for-NATO"
+        },
+        {
+            "Title": "Conversation: NATO's Evolving Mission",
+            "URL": "https://worldview.stratfor.com/article/conversation-natos-evolving-mission"
+        },
+        {
+            "Title": "The Future of NATO.indd",
+            "URL": "https://valdaiclub.com/files/20891"
+        },
+        {
+            "Title": "The Evolving Role of NATO in Latin America | Concordia",
+            "URL": "https://www.concordia.net/americas/2020digital/report/the-evolving-role-of-nato-in-latin-america"
+        },
+        {
+            "Title": "REPORT on EU-NATO cooperation in the context of transatlantic...",
+            "URL": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0192_EN.html"
+        },
+        {
+            "Title": "NATO Viewed Favorably Across Member States | Pew Research Center",
+            "URL": "https://www.pewresearch.org/global/2020/02/09/nato-seen-favorably-across-member-states"
+        },
+        {
+            "Title": "North Atlantic Treaty Organization (NATO) - WorldAtlas",
+            "URL": "https://www.worldatlas.com/articles/nato-countries.html"
+        },
+        {
+            "Title": "NATO — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/NATO"
+        },
+        {
+            "Title": "Role NATO in the World Essay Example | Topics and Well Written...",
+            "URL": "https://studentshare.org/politics/1502932-role-nato-in-the-world"
+        },
+        {
+            "Title": "RIAC :: How to Stop NATO",
+            "URL": "https://russiancouncil.ru/en/analytics-and-comments/analytics/how-to-stop-nato"
+        },
+        {
+            "Title": "Formation of Nato - Purpose, Dates & Cold War - HISTORY",
+            "URL": "https://www.history.com/topics/cold-war/formation-of-nato-and-warsaw-pact"
+        },
+        {
+            "Title": "PDF NATO's evolving purposes and the next",
+            "URL": "https://core.ac.uk/download/pdf/36732617.pdf"
+        },
+        {
+            "Title": "An Agenda for NATO | Foreign Affairs",
+            "URL": "https://www.foreignaffairs.com/articles/europe/2009-09-01/agenda-nato"
+        },
+        {
+            "Title": "The Role for NATO in the Modern World - 1622 Words | 123 Help Me",
+            "URL": "https://www.123helpme.com/essay/The-Role-for-NATO-in-the-Modern-119787"
+        },
+        {
+            "Title": "Defence Transformation in Europe: Evolving Military Roles (Nato...)",
+            "URL": "https://b-ok.org/book/989786/161b5f"
+        },
+        {
+            "Title": "Positive and Negative Effects of Globalization | Edusson Blog",
+            "URL": "https://edusson.com/blog/positive-and-negative-effects-of-globalization"
+        },
+        {
+            "Title": "What is Globalization? Examples, Definition, Benefits and Effects",
+            "URL": "https://youmatter.world/en/definition/definitions-globalization-definition-benefits-effects-examples"
+        },
+        {
+            "Title": "Negative impacts of globalisation - GCSE Geography Revision",
+            "URL": "https://www.bbc.co.uk/bitesize/guides/zxpn2p3/revision/5"
+        },
+        {
+            "Title": "Positive and Negative effects of Globalization - UK Essays",
+            "URL": "https://www.ukessays.com/essays/economics/positive-and-negative-effects-of-globalisation-for-business-economics-essay.php"
+        },
+        {
+            "Title": "Effects of Economic Globalization | National Geographic Society",
+            "URL": "http://www.nationalgeographic.org/article/effects-economic-globalization/9th-grade"
+        },
+        {
+            "Title": "4 Effects of Globalization on the Environment - HBS Online",
+            "URL": "https://online.hbs.edu/blog/post/globalization-effects-on-environment"
+        },
+        {
+            "Title": "How Globalization Affects Developed Countries - Investopedia",
+            "URL": "https://www.investopedia.com/articles/economics/10/globalization-developed-countries.asp"
+        },
+        {
+            "Title": "What are the most important positive and negative aspects of ...",
+            "URL": "https://www.researchgate.net/post/What-are-the-most-important-positive-and-negative-aspects-of-globalization"
+        },
+        {
+            "Title": "How Globalization Works: Pros and Cons of Globalization - 2021",
+            "URL": "https://www.masterclass.com/articles/how-globalization-works-pros-and-cons-of-globalization"
+        },
+        {
+            "Title": "12 Negative Aspects of Globalization | OilPrice.com",
+            "URL": "https://oilprice.com/Finance/the-Economy/12-Negative-Aspects-of-Globalization.html"
+        },
+        {
+            "Title": "13 Negative Effects of Globalization (With Examples) - Googlesir",
+            "URL": "https://www.googlesir.com/top-13-negative-effects-of-globalization"
+        },
+        {
+            "Title": "The Negative Effects of Globalization Not Many of Us are Aware …",
+            "URL": "https://opinionfront.com/negative-effects-of-globalization"
+        },
+        {
+            "Title": "Negative Effects of Globalization and the Role of MNCs - …",
+            "URL": "http://www.academicmentoronline.com/2018/08/negative-effects-of-globalization-and-the-role-of-mncs"
+        },
+        {
+            "Title": "Positive & Negative Effects of Globalization | HandmadeWriting Blog",
+            "URL": "https://handmadewriting.com/blog/samples/globalization-effects"
+        },
+        {
+            "Title": "Positive and Negative Political Effects of Globalization",
+            "URL": "https://fg-net.org/positive-and-negative-political-effects-of-globali"
+        },
+        {
+            "Title": "What is globalization? Positive and Negative Effects of Globalization?",
+            "URL": "https://www.marketing91.com/what-is-globalization"
+        },
+        {
+            "Title": "Globalization in the Modern World | Negative Aspects of Globalization",
+            "URL": "https://www.thoughtco.com/globalization-positive-and-negative-1434946"
+        },
+        {
+            "Title": "20 Positive And Negative Effects of Globalization - Nolly Tech",
+            "URL": "https://nollytech.com/effects-of-globalization"
+        },
+        {
+            "Title": "What is Globalization? Positive & Negative... - Management Study HQ",
+            "URL": "https://www.managementstudyhq.com/globalization-positive-negative-impacts-of-globalization.html"
+        },
+        {
+            "Title": "Has Globalisation Altered the Role of the State?",
+            "URL": "https://www.e-ir.info/2012/11/24/has-globalisation-altered-the-role-of-states"
+        },
+        {
+            "Title": "Criticisms of globalization - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Criticisms_of_globalization"
+        },
+        {
+            "Title": "Positive and negative effects of globalization - Essay and speech",
+            "URL": "https://www.positivenegativeeffects.com/globalization"
+        },
+        {
+            "Title": "Positive and Negative impact of Globalization - Pros and Cons",
+            "URL": "https://positivenegativeimpact.com/globalization"
+        },
+        {
+            "Title": "Globalisation Essay ~ Positive and Negative... : The WritePass Journal",
+            "URL": "https://writepass.com/journal/2015/03/globalisation-essay"
+        },
+        {
+            "Title": "Evaluating The Positive and Negative Effects of Globalization",
+            "URL": "https://tophomeworkhelper.com/blog/positive-and-negative-effects-of-globalization"
+        },
+        {
+            "Title": "Globalization Pros and Cons | Advatages and Disadvantages",
+            "URL": "https://bohatala.com/globalization-pros-and-cons"
+        },
+        {
+            "Title": "PDF Microsoft Word - 4-6.doc",
+            "URL": "https://www.edu.gov.mb.ca/k12/cur/socstud/frame_found_sr2/blms/4-6.pdf"
+        },
+        {
+            "Title": "46 Causes, Chances & Dangers Of Globalization - E&C",
+            "URL": "https://environmental-conscience.com/globalization-causes-pros-cons"
+        },
+        {
+            "Title": "The positives and negatives of globalization - Navigating the global",
+            "URL": "https://www.sites.google.com/site/nativgatingtheglobalcomau/the-positives-and-negatives-of-globalization"
+        },
+        {
+            "Title": "22 Globalization Pros and Cons - Vittana.org",
+            "URL": "https://vittana.org/22-globalization-pros-and-cons"
+        },
+        {
+            "Title": "(PDF) globalization and its negative impact on the global economy",
+            "URL": "https://www.researchgate.net/publication/323762925_GLOBALIZATION_AND_ITS_NEGATIVE_IMPACT_ON_THE_GLOBAL_ECONOMY"
+        },
+        {
+            "Title": "Globalization - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Globalization"
+        },
+        {
+            "Title": "The Pros And Cons Of Globalization",
+            "URL": "https://www.forbes.com/sites/mikecollins/2015/05/06/the-pros-and-cons-of-globalization"
+        },
+        {
+            "Title": "PDF Impact of Globalization on",
+            "URL": "http://aditi.du.ac.in/uploads/econtent/chapter_4_Globalisation.pdf"
+        },
+        {
+            "Title": "Negative Effects of Globalization. Argumentative Essay Example",
+            "URL": "https://askpetersen.com/argumentative-essay-negative-effects-globalization"
+        },
+        {
+            "Title": "Topic: NATO and Afghanistan - NATO",
+            "URL": "https://www.nato.int/cps/en/natohq/topics_8189.htm"
+        },
+        {
+            "Title": "The U.S. War in Afghanistan | Council on Foreign Relations",
+            "URL": "https://www.cfr.org/timeline/us-war-afghanistan"
+        },
+        {
+            "Title": "What did America achieve in Afghanistan? - The Hindu",
+            "URL": "https://www.thehindu.com/news/international/news-analysis-what-did-america-achieve-in-afghanistan/article36220530.ece"
+        },
+        {
+            "Title": "Afghanistan War | History, Combatants, Facts, & Timeline",
+            "URL": "https://www.britannica.com/event/Afghanistan-War"
+        },
+        {
+            "Title": "The U.S. War in Afghanistan: How It Started, and How It Ended",
+            "URL": "https://www.nytimes.com/article/afghanistan-war-us.html"
+        },
+        {
+            "Title": "Costs of the Afghanistan war, in lives and dollars - AP News",
+            "URL": "https://apnews.com/article/middle-east-business-afghanistan-43d8f53b35e80ec18c130cd683e1a38f"
+        },
+        {
+            "Title": "Key dates in U.S. involvement in Afghanistan since Sept. 11 ...",
+            "URL": "https://www.reuters.com/world/asia-pacific/key-dates-us-involvement-afghanistan-since-911-2021-07-02"
+        },
+        {
+            "Title": "How the US invasion changed Afghanistan | Asia - DW",
+            "URL": "https://www.dw.com/en/how-the-us-invasion-changed-afghanistan/a-59427641"
+        },
+        {
+            "Title": "The war in Afghanistan has shaped an entire generation in the ...",
+            "URL": "https://www.brookings.edu/blog/order-from-chaos/2021/09/02/the-war-in-afghanistan-has-shaped-an-entire-generation-in-the-west"
+        },
+        {
+            "Title": "Taliban are back - what next for Afghanistan? - BBC News",
+            "URL": "https://www.bbc.com/news/world-asia-49192495"
+        },
+        {
+            "Title": "U.S. Relations With Afghanistan - United States …",
+            "URL": "https://www.state.gov/u-s-relations-with-afghanistan"
+        },
+        {
+            "Title": "Afghanistan, The United States, and the Legacy of Afghanistan’s …",
+            "URL": "https://web.stanford.edu/class/e297a/Afghanistan, the United States.htm"
+        },
+        {
+            "Title": "United States invasion of Afghanistan - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan"
+        },
+        {
+            "Title": "Afghanistan–United States relations - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Afghanistan–United_States_relations"
+        },
+        {
+            "Title": "What is U.S. Involvement in Afghanistan. - essayhelp101",
+            "URL": "https://essayhelp101.com/2021/11/16/what-is-u-s-involvement-in-afghanistan"
+        },
+        {
+            "Title": "The US Involvement in Iraq and Afghanistan - 550 Words | Essay …",
+            "URL": "https://ivypanda.com/essays/the-us-involvement-in-iraq-and-afghanistan"
+        },
+        {
+            "Title": "Putin Says U.S. Involvement In Afghanistan Led To Tragedy",
+            "URL": "https://www.rferl.org/a/afghanistan-putin-us-tragedy/31507516.html"
+        },
+        {
+            "Title": "Key dates in U.S. involvement in Afghanistan since 9/11 | Euronews",
+            "URL": "https://www.euronews.com/2021/07/02/us-usa-afghanistan-timeline"
+        },
+        {
+            "Title": "Timeline: US and NATO involvement in Afghanistan | DW | 15.08.2021",
+            "URL": "https://www.dw.com/en/timeline-us-and-nato-involvement-in-afghanistan/a-58870236"
+        },
+        {
+            "Title": "Part I: The Case for Continued U.S. Involvement in Afghanistan",
+            "URL": "https://www.lawfareblog.com/part-i-case-continued-us-involvement-afghanistan"
+        },
+        {
+            "Title": "Transition 2021 Series: U.S. Involvement in Afghanistan - YouTube",
+            "URL": "https://www.youtube.com/watch?v=n7EGILAE53A"
+        },
+        {
+            "Title": "A timeline of US involvement in Afghanistan — Quartz",
+            "URL": "https://qz.com/2047556/a-timeline-of-us-involvement-in-afghanistan"
+        },
+        {
+            "Title": "Why did the USSR enter Afghanistan? - Russia Beyond",
+            "URL": "https://www.rbth.com/history/329948-why-did-ussr-enter-afghanistan-war"
+        },
+        {
+            "Title": "The Financial Cost Of U.S. Involvement In Afghanistan [Infographic]",
+            "URL": "https://www.forbes.com/sites/niallmccarthy/2017/08/24/the-financial-cost-of-u-s-involvement-in-afghanistan-infographic"
+        },
+        {
+            "Title": "U.S. Involvement in Afghanistan Nears End | The Borgen Project",
+            "URL": "https://borgenproject.org/u-s-involvement-afghanistan-nears-end"
+        },
+        {
+            "Title": "Biden: Ending U.S. military involvement in Afghanistan was the right...",
+            "URL": "https://www.cnbc.com/video/2021/08/16/biden-ending-u-s-military-involvement-in-afghanistan-was-the-right-decision.html"
+        },
+        {
+            "Title": "Afghanistan: U.S. Intervention in | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/afghanistan-us-intervention"
+        },
+        {
+            "Title": "Remarks by President Biden on the Drawdown of... | The White House",
+            "URL": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/08/remarks-by-president-biden-on-the-drawdown-of-u-s-forces-in-afghanistan"
+        },
+        {
+            "Title": "Afghanistan: What has the conflict cost the US and its allies?",
+            "URL": "https://www.bbc.com/news/world-47391821"
+        },
+        {
+            "Title": "An era of U.S. involvement in Afghanistan is coming to... | MinnPost",
+            "URL": "https://www.minnpost.com/foreign-concept/2018/07/era-us-involvement-afghanistan-coming-close"
+        },
+        {
+            "Title": "Timeline of U.S. Withdrawal from Afghanistan - FactCheck.org",
+            "URL": "https://www.factcheck.org/2021/08/timeline-of-u-s-withdrawal-from-afghanistan"
+        },
+        {
+            "Title": "U.S. Involvement in Afghanistan by Sami Thompson",
+            "URL": "https://prezi.com/svn-h2lcg84j/us-involvement-in-afghanistan"
+        },
+        {
+            "Title": "U.S. Policy in Afghanistan: Changing Strategies, Preserving Gains",
+            "URL": "https://carnegieendowment.org/2017/05/22/u.s.-policy-in-afghanistan-changing-strategies-preserving-gains-pub-70027"
+        },
+        {
+            "Title": "Visas - U.S. Embassy in Afghanistan | Contact Us",
+            "URL": "https://af.usembassy.gov/visas"
+        },
+        {
+            "Title": "A timeline of US presidents' involvement in Afghanistan 05:14",
+            "URL": "https://edition.cnn.com/2021/08/23/politics/how-four-presidents-created-afghanistan-mess/index.html"
+        },
+        {
+            "Title": "The U.S. Is Leaving Afghanistan? Tell That to the Contractors.",
+            "URL": "https://nymag.com/intelligencer/2021/05/u-s-contractors-in-afghanistan-are-hiring-amid-withdrawal.html"
+        },
+        {
+            "Title": "Transcript of Biden's speech on US withdrawal from Afghanistan",
+            "URL": "https://www.usatoday.com/story/news/2021/08/16/transcript-bidens-speech-us-withdrawal-afghanistan/8157340002"
+        },
+        {
+            "Title": "United States invasion of Afghanistan — Wikipedia... // WIKI 2",
+            "URL": "https://wiki2.org/en/United_States_invasion_of_Afghanistan"
+        },
+        {
+            "Title": "USA Patriot Act - Investopedia",
+            "URL": "https://www.investopedia.com/terms/p/patriotact.asp"
+        },
+        {
+            "Title": "USA PATRIOT Act | FinCEN.gov",
+            "URL": "https://www.fincen.gov/resources/statutes-regulations/usa-patriot-act"
+        },
+        {
+            "Title": "USA PATRIOT Act | Bureau of Justice Assistance",
+            "URL": "https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1281"
+        },
+        {
+            "Title": "What to Expect for the PATRIOT Act Reauthorization - POGO.org",
+            "URL": "https://www.pogo.org/analysis/2020/02/what-to-expect-for-the-patriot-act-reauthorization"
+        },
+        {
+            "Title": "USA PATRIOT Act of 2001 - Congress.gov",
+            "URL": "https://www.congress.gov/107/plaws/publ56/PLAW-107publ56.htm"
+        },
+        {
+            "Title": "Analysis of USA PATRIOT Act by CDT and Others - Center for ...",
+            "URL": "https://cdt.org/wp-content/uploads/security/usapatriot/analysis.shtml"
+        },
+        {
+            "Title": "USA Patriot Act - Office of the Director of National Intelligence",
+            "URL": "https://www.dni.gov/index.php/who-we-are/organizations/ise/ise-archive/ise-additional-resources/2116-usa-patriot-act"
+        },
+        {
+            "Title": "The USA PATRIOT Act - American Library Association",
+            "URL": "https://www.ala.org/ala/washoff/WOissues/civilliberties/theusapatriotact/usapatriotact.htm"
+        },
+        {
+            "Title": "Patriot Act - HISTORY",
+            "URL": "https://www.history.com/topics/21st-century/patriot-act"
+        },
+        {
+            "Title": "USA PATRIOT Act | Facts, History, Acronym, & Controversy",
+            "URL": "https://www.britannica.com/topic/USA-PATRIOT-Act"
+        },
+        {
+            "Title": "The Patriot Act Analysis - 413 Words | Internet Public Library",
+            "URL": "https://www.ipl.org/essay/The-Patriot-Act-Analysis-F3L5TK7E2DVV"
+        },
+        {
+            "Title": "The USA PATRIOT Act: Preserving Life and Liberty",
+            "URL": "https://www.justice.gov/archive/ll/what_is_the_patriot_act.pdf"
+        },
+        {
+            "Title": "The Patriot Act Critical Analysis - PHDessay.com",
+            "URL": "https://phdessay.com/the-patriot-act"
+        },
+        {
+            "Title": "The Patriot Act Analysis - 671 Words | Bartleby",
+            "URL": "https://www.bartleby.com/essay/The-Patriot-Act-Analysis-FJFJU8JPWV"
+        },
+        {
+            "Title": "Summary and Analysis of Key Sections of USA PATRIOT …",
+            "URL": "https://cdt.org/wp-content/uploads/security/011031summary.shtml"
+        },
+        {
+            "Title": "Patriot Act - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Patriot_Act"
+        },
+        {
+            "Title": "EFF Analysis Of The Provisions Of The USA PATRIOT Act",
+            "URL": "https://www.eff.org/deeplinks/2003/10/eff-analysis-provisions-usa-patriot-act"
+        },
+        {
+            "Title": "PDF The USA PATRIOT Act: A Legal Analysis",
+            "URL": "https://irp.fas.org/crs/RL31377.pdf"
+        },
+        {
+            "Title": "What is the USA Patriot Web | Highlights of the USA PATRIOT Act",
+            "URL": "https://www.justice.gov/archive/ll/highlights.htm"
+        },
+        {
+            "Title": "Surveillance Under the USA/PATRIOT Act | American Civil Liberties...",
+            "URL": "https://www.aclu.org/other/surveillance-under-usapatriot-act"
+        },
+        {
+            "Title": "Crimes Against Humanity: The USA Patriot Act",
+            "URL": "https://ratical.org/ratville/CAH/USAPA.html"
+        },
+        {
+            "Title": "Policy Analysis: The Patriot Act - 4458 Words | AntiEssays",
+            "URL": "https://www.antiessays.com/free-essays/Policy-Analysis-The-Patriot-Act-PK6F7Y36M35V.html"
+        },
+        {
+            "Title": "How the Patriot Act Works | HowStuffWorks",
+            "URL": "https://people.howstuffworks.com/patriot-act.htm"
+        },
+        {
+            "Title": "PDF The USA PATRIOT Act",
+            "URL": "https://www.du.edu/korbel/hrhw/researchdigest/terror/patriotact.pdf"
+        },
+        {
+            "Title": "9-11 Research: The USA PATRIOT Act",
+            "URL": "https://911research.wtc7.net/post911/legislation/usapatriot.html"
+        },
+        {
+            "Title": "PDF Terrorism: Section by Section Analysis of the USA PATRIOT Act",
+            "URL": "https://epic.org/wp-content/uploads/privacy/terrorism/usapatriot/RL31200.pdf"
+        },
+        {
+            "Title": "PDF Microsoft Word - Patriot Act _2-04 - with cover_.doc",
+            "URL": "https://www.ispu.org/wp-content/uploads/2017/07/the-usa-patriot-act_farid-senzai.pdf?x12896"
+        },
+        {
+            "Title": "USA PATRIOT Act - RationalWiki",
+            "URL": "https://rationalwiki.org/wiki/USA_PATRIOT_Act"
+        },
+        {
+            "Title": "Analysis USA Patriot Act - YouTube",
+            "URL": "https://www.youtube.com/watch?v=CqN9-5uyPpU"
+        },
+        {
+            "Title": "USA Patriot Act Analysis - 1281 Words | Cram",
+            "URL": "https://www.cram.com/essay/Unintended-Consequences-Of-The-Patriot-Act/F3PMBB9U6445"
+        },
+        {
+            "Title": "Usa Patriot Act | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/social-sciences-and-law/law/law/usa-patriot-act"
+        },
+        {
+            "Title": "Fear and loathing of the USA PATRIOT Act — RT USA News",
+            "URL": "https://www.rt.com/usa/263385-patriot-act-expiration-drama"
+        },
+        {
+            "Title": "Patriot Act — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Patriot_Act"
+        },
+        {
+            "Title": "PDF USA Patriot Act 2001; Public Law 107-56 - October 26, 2001",
+            "URL": "https://www.sec.gov/about/offices/ocie/aml/patriotact2001.pdf"
+        },
+        {
+            "Title": "USA PATRIOT Act - Wikisource, the free online library",
+            "URL": "https://en.wikisource.org/wiki/USA_PATRIOT_Act"
+        },
+        {
+            "Title": "An Analysis Of The Us Patriot Act: Section 218 - Patriot Act",
+            "URL": "https://lawaspect.com/analysis-us-patriot-act-section-218"
+        },
+        {
+            "Title": "9/11: Rebuilding of Ground Zero - HISTORY",
+            "URL": "https://www.history.com/topics/21st-century/911-rebuilding-of-ground-zero"
+        },
+        {
+            "Title": "World Trade Center site - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/World_Trade_Center_site"
+        },
+        {
+            "Title": "Ground Zero - Then and Now | VOA Special Projects",
+            "URL": "https://projects.voanews.com/ground-zero"
+        },
+        {
+            "Title": "Ground Zero Rebuilding Still Unfinished, 20 Years Later",
+            "URL": "https://www.usnews.com/news/politics/articles/2021-09-09/ground-zero-rebuilding-still-unfinished-20-years-later"
+        },
+        {
+            "Title": "9/11 attacks: What has become of the sites that were hit on ...",
+            "URL": "https://indianexpress.com/article/world/rebuilding-ground-zero-what-has-become-of-the-sites-that-were-hit-on-9-11-7500246"
+        },
+        {
+            "Title": "The man behind the rebuilding of 9/11's Ground Zero | Reuters",
+            "URL": "https://www.reuters.com/world/us/man-behind-rebuilding-911s-ground-zero-2021-09-01"
+        },
+        {
+            "Title": "Rebuilding Ground Zero Was a Mess. Lower Manhattan ...",
+            "URL": "https://www.nytimes.com/2021/09/08/arts/design/9-11-anniversary-lower-manhattan.html"
+        },
+        {
+            "Title": "Design of the 9/11 Memorial & Museum – 911 Ground Zero",
+            "URL": "https://911groundzero.com/blog/rebuilding-ground-zero-architects-behind-911-memorial-museum"
+        },
+        {
+            "Title": "Rebuilt 19 years after 9/11, New York's World Trade Center ...",
+            "URL": "https://www.hindustantimes.com/art-and-culture/rebuilt-19-years-after-9-11-new-york-s-world-trade-center-threatened-anew-by-coronavirus/story-VOk1lx5mDXgc9g9vn3kdlN.html"
+        },
+        {
+            "Title": "Ground Zero Memorial and Rebuilding Fast Facts | CNN",
+            "URL": "https://www.cnn.com/2013/07/27/us/ground-zero-memorial-and-rebuilding-fast-facts/index.html"
+        },
+        {
+            "Title": "Rising: Rebuilding Ground Zero (TV Series 2011– ) - IMDb",
+            "URL": "https://www.imdb.com/title/tt1586155"
+        },
+        {
+            "Title": "Ground Zero Memorial and Rebuilding Fast Facts",
+            "URL": "https://www.wtva.com/content/national/492334691.html"
+        },
+        {
+            "Title": "Ground Zero Rebuilding Still Unfinished, 20 Years Later | …",
+            "URL": "https://www.thenationalherald.com/community_church_united_states/arthro/ground_zero_rebuilding_still_unfinished_20_years_later-3209901"
+        },
+        {
+            "Title": "One World Trade Center - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/One_World_Trade_Center"
+        },
+        {
+            "Title": "Ground zero rebuilding in New York still unfinished, 20 years later",
+            "URL": "https://www.msn.com/en-gb/news/uknews/ground-zero-rebuilding-in-new-york-still-unfinished-20-years-later/ar-AAOfCqU?li=BBoPRmx"
+        },
+        {
+            "Title": "From Ground Zero: Rebuilding United States",
+            "URL": "https://topgradeassignments.org/from-ground-zero-rebuilding-united-states"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later",
+            "URL": "https://finance.yahoo.com/news/ground-zero-rebuilding-still-unfinished-111630369.html"
+        },
+        {
+            "Title": "Ground Zero Memorial and Rebuilding Fast Facts - CNN",
+            "URL": "https://edition.cnn.com/2013/07/27/us/ground-zero-memorial-and-rebuilding-fast-facts"
+        },
+        {
+            "Title": "Ground Zero rebuilding still unfinished in New York, 20 years after 9/11",
+            "URL": "https://www.syracuse.com/state/2021/09/ground-zero-rebuilding-still-unfinished-in-new-york-20-years-after-911.html"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later",
+            "URL": "https://www.nhregister.com/entertainment/article/Ground-zero-rebuilding-still-unfinished-20-years-16445451.php?src=nhrhplifestyle"
+        },
+        {
+            "Title": "BBC NEWS | Americas | Ground Zero rebuilding talks fail",
+            "URL": "http://news.bbc.co.uk/2/hi/americas/4811720.stm"
+        },
+        {
+            "Title": "Rebuilding ground zero: How twin mandates of revival and...",
+            "URL": "https://theconversation.com/rebuilding-ground-zero-how-twin-mandates-of-revival-and-remembrance-reshaped-lower-manhattan-64199"
+        },
+        {
+            "Title": "Rebuilding from Ground Zero - YouTube",
+            "URL": "https://www.youtube.com/watch?v=Y-p1mNzmAXw"
+        },
+        {
+            "Title": "Read From the Ground Up: Rebuilding Ground Zero to...",
+            "URL": "https://www.scribd.com/book/397022503/From-the-Ground-Up-Rebuilding-Ground-Zero-to-Re-engineering-America"
+        },
+        {
+            "Title": "What They Are Building at Ground Zero, NYC",
+            "URL": "https://www.thoughtco.com/what-are-they-building-ground-zero-178539"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later",
+            "URL": "https://www.devdiscourse.com/article/science-environment/1724031-ground-zero-rebuilding-still-unfinished-20-years-later"
+        },
+        {
+            "Title": "9/11 Ground Zero: why has its rebirth turned sour? | The Guardian",
+            "URL": "https://www.theguardian.com/world/2011/jul/31/new-york-towers-memorial-architecture"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later | CBS 17",
+            "URL": "https://www.cbs17.com/news/national-news/ground-zero-rebuilding-still-unfinished-20-years-later"
+        },
+        {
+            "Title": "Rebuilt Ground Zero Billed as National Symbol... | Democracy Now!",
+            "URL": "https://www.democracynow.org/2011/9/9/rebuilt_ground_zero_billed_as_national"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later - StarTribune.com",
+            "URL": "https://www.startribune.com/ground-zero-rebuilding-still-unfinished-20-years-later/600095307"
+        },
+        {
+            "Title": "Trying to Speed Ground Zero's Rebuilding | SkyscraperCity",
+            "URL": "https://www.skyscrapercity.com/threads/trying-to-speed-ground-zeros-rebuilding.311434"
+        },
+        {
+            "Title": "Ground Zero Rebuilding Is Set Back - WSJ",
+            "URL": "https://www.wsj.com/articles/SB114237716999798194"
+        },
+        {
+            "Title": "20 years on, Ground Zero rebuilding still unfinished - Pakistan Today",
+            "URL": "https://www.pakistantoday.com.pk/2021/09/10/20-years-on-ground-zero-rebuilding-still-unfinished"
+        },
+        {
+            "Title": "Ground zero rebuilding still unfinished, 20 years later",
+            "URL": "https://www.ctpost.com/news/article/Ground-zero-rebuilding-still-unfinished-20-years-16445451.php"
+        },
+        {
+            "Title": "′′Rebuilding Ground Zero is Rebuilding the Heart... | DW | 10.09.2006",
+            "URL": "https://www.dw.com/en/rebuilding-ground-zero-is-rebuilding-the-heart-of-new-york/a-2167807"
+        },
+        {
+            "Title": "FREE Rebuilding Ground Zero Essay",
+            "URL": "https://www.exampleessays.com/viewpaper/30598.html"
+        },
+        {
+            "Title": "The Great Recession Definition - Investopedia",
+            "URL": "https://www.investopedia.com/terms/g/great-recession.asp"
+        },
+        {
+            "Title": "Great Recession - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Great_Recession"
+        },
+        {
+            "Title": "The Great Recession | Federal Reserve History",
+            "URL": "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+        },
+        {
+            "Title": "Great Recession - HISTORY",
+            "URL": "https://www.history.com/topics/21st-century/recession"
+        },
+        {
+            "Title": "Great Recession | Causes, Effects, Statistics, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/great-recession"
+        },
+        {
+            "Title": "Causes of the Great Recession: Factors, Effects, and Legacy",
+            "URL": "https://www.businessinsider.com/what-caused-the-great-recession"
+        },
+        {
+            "Title": "Chart Book: The Legacy of the Great Recession - Center on ...",
+            "URL": "https://www.cbpp.org/research/economy/the-legacy-of-the-great-recession"
+        },
+        {
+            "Title": "MAJOR FINANCIAL CRISIS From Great Depression to Great ...",
+            "URL": "http://nationalarchives.nic.in/sites/default/files/new/Final_Major_Financial_Crisis-i_0.pdf"
+        },
+        {
+            "Title": "What Was the Great Recession? History, Causes and ...",
+            "URL": "https://www.thestreet.com/politics/what-was-the-great-recession-14664025"
+        },
+        {
+            "Title": "Causes of the Great Recession: Factors, Effects, and Legacy",
+            "URL": "https://www.businessinsider.com/what-caused-the-great-recession?op=1"
+        },
+        {
+            "Title": "Great Recession — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Great_Recession"
+        },
+        {
+            "Title": "The great recession 2008-13 - Economics Help",
+            "URL": "https://www.economicshelp.org/blog/7501/economics/the-great-recession"
+        },
+        {
+            "Title": "The Great Recession of 2008: Explanation With Dates",
+            "URL": "https://www.thebalance.com/the-great-recession-of-2008-explanation-with-dates-4056832"
+        },
+        {
+            "Title": "Recession of 2008 - Conservapedia",
+            "URL": "https://conservapedia.com/Recession_of_2008"
+        },
+        {
+            "Title": "Here's What Caused the Great Recession | History - YouTube",
+            "URL": "https://www.youtube.com/watch?v=yM0uonkloXY"
+        },
+        {
+            "Title": "Great Recession - Mises Wiki, the global repository of classical-liberal...",
+            "URL": "https://wiki.mises.org/wiki/Great_Recession"
+        },
+        {
+            "Title": "What Really Caused the Great Recession? - Institute for Research on...",
+            "URL": "https://irle.berkeley.edu/what-really-caused-the-great-recession"
+        },
+        {
+            "Title": "What was the Great Recession? Definition and examples",
+            "URL": "https://marketbusinessnews.com/great-recession"
+        },
+        {
+            "Title": "What Caused the Great Recession in 2008—and What Can... | Acorns",
+            "URL": "https://www.acorns.com/money-basics/the-economy/what-caused-great-recession-of-2008"
+        },
+        {
+            "Title": "How did the Great Recession affect taxpayers?",
+            "URL": "https://www.thoughtco.com/when-did-the-great-recession-end-3321705"
+        },
+        {
+            "Title": "What Do The Great Depression And The Great Recession Have In...",
+            "URL": "https://www.forbes.com/sites/stevehanke/2017/08/16/what-do-the-great-depression-and-the-great-recession-have-in-common"
+        },
+        {
+            "Title": "Great Recession - encyclopedia article - Citizendium",
+            "URL": "https://en.citizendium.org/wiki/Great_Recession"
+        },
+        {
+            "Title": "Urban Dictionary: Great Recession",
+            "URL": "https://www.urbandictionary.com/define.php?term=Great Recession"
+        },
+        {
+            "Title": "Comparing the Great Recession of 2008 with the... - NetCredit Blog",
+            "URL": "https://www.netcredit.com/blog/great-recession-of-2008"
+        },
+        {
+            "Title": "PDF The Great Recession and the jobs crisis",
+            "URL": "https://www.un.org/esa/socdev/rwss/docs/2011/chapter2.pdf"
+        },
+        {
+            "Title": "What happened in every U.S. recession since the Great Depression",
+            "URL": "https://www.cnbc.com/2020/04/09/what-happened-in-every-us-recession-since-the-great-depression.html"
+        },
+        {
+            "Title": "PDF Great recession 2008-2009WP EmploymentVF",
+            "URL": "https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_policy/documents/publication/wcms_174964.pdf"
+        },
+        {
+            "Title": "What is Inequality? | Oxfam India",
+            "URL": "https://www.oxfamindia.org/blog/what-inequality"
+        },
+        {
+            "Title": "Social inequality - ScienceDaily",
+            "URL": "https://www.sciencedaily.com/terms/social_inequality.htm"
+        },
+        {
+            "Title": "Causes of poverty and inequality - EAPN",
+            "URL": "https://www.eapn.eu/what-is-poverty/causes-of-poverty-and-inequality"
+        },
+        {
+            "Title": "Social inequality - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Social_inequality"
+        },
+        {
+            "Title": "Inequality in nature and society | PNAS",
+            "URL": "https://www.pnas.org/content/114/50/13154"
+        },
+        {
+            "Title": "What causes social inequalities: why is this question taboo?",
+            "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09581590050075961"
+        },
+        {
+            "Title": "What causes social inequality? How intersecting ...",
+            "URL": "https://www.understanding-inequalities.ac.uk/webinars-and-events/what-causes-social-inequality-how-intersecting disadvantages-shape-lives"
+        },
+        {
+            "Title": "Inequality and Poverty - OECD",
+            "URL": "https://www.oecd.org/social/inequality-and-poverty.htm"
+        },
+        {
+            "Title": "What Is Social Inequality in Sociology? - Definition, Effects ...",
+            "URL": "https://study.com/academy/lesson/what-is-social-inequality-in-sociology-definition-effects-causes.html"
+        },
+        {
+            "Title": "Causes of Inequality: Analytical Strategies - Nyu",
+            "URL": "https://pages.nyu.edu/jackson/analysis.of.inequality"
+        },
+        {
+            "Title": "Causes of social inequality - website",
+            "URL": "https://www.learningforlifeandwork.co.uk/post/causes-of-social-inequality"
+        },
+        {
+            "Title": "Social inequality | What is, history, types, causes, …",
+            "URL": "https://www.euston96.com/en/social-inequality"
+        },
+        {
+            "Title": "Causes of Inequality: Analytical Strategies -- Robert Max …",
+            "URL": "https://www.nyu.edu/classes/jackson/analysis.of.inequality"
+        },
+        {
+            "Title": "Social inequality and its causes - The science 2021",
+            "URL": "https://en.sodiummedia.com/3973007-social-inequality-and-its-causes"
+        },
+        {
+            "Title": "Inequality: Causes and Consequences - 1626 Words | …",
+            "URL": "https://ivypanda.com/essays/inequality-causes-and-consequences"
+        },
+        {
+            "Title": "Social inequality | World Problems & Global Issues | The …",
+            "URL": "http://encyclopedia.uia.org/en/problem/132721"
+        },
+        {
+            "Title": "8 Major Causes of Inequality",
+            "URL": "https://www.edu-mate.com/causes-of-inequality"
+        },
+        {
+            "Title": "The Sociology of Social Inequality",
+            "URL": "https://www.thoughtco.com/sociology-of-social-inequality-3026287"
+        },
+        {
+            "Title": "Social Inequality - an overview | ScienceDirect Topics",
+            "URL": "https://www.sciencedirect.com/topics/social-sciences/social-inequality"
+        },
+        {
+            "Title": "Social Inequality: Reasons for Despair, Reasons for Hope",
+            "URL": "https://blogs.baruch.cuny.edu/3156inequality"
+        },
+        {
+            "Title": "81657 PDFs | Review articles in SOCIAL INEQUALITY",
+            "URL": "https://www.researchgate.net/topic/Social-Inequality/publications"
+        },
+        {
+            "Title": "Social inequality and its causes",
+            "URL": "https://stuklopechat.com/obrazovanie/82989-socialnoe-neravenstvo-i-ego-prichiny.html"
+        },
+        {
+            "Title": "PDF Concepts of social inequality in modern societies",
+            "URL": "https://www.hse.ru/data/2010/11/12/1209485472/WP17_2010_02-ff.pdf"
+        },
+        {
+            "Title": "Social Inequality | Sources and Solutions | Pachamama Alliance",
+            "URL": "https://www.pachamama.org/social-justice/social-inequality"
+        },
+        {
+            "Title": "What Causes Social Inequality? | Literary Review of Canada",
+            "URL": "https://reviewcanada.ca/magazine/2011/04/what-causes-social-inequality"
+        },
+        {
+            "Title": "Social inequality definition Types and Examples | Study Lecture Notes",
+            "URL": "http://studylecturenotes.com/social-inequality-definition-types-and-examples"
+        },
+        {
+            "Title": "PDF Inequality | department of economic and social affairs",
+            "URL": "https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/01/World-Social-Report-2020-FullReport.pdf"
+        },
+        {
+            "Title": "Inequality - OECD | Social and welfare issues",
+            "URL": "https://www.oecd.org/social/inequality.htm"
+        },
+        {
+            "Title": "Social inequality in the evolution of human societies",
+            "URL": "https://doc-research.org/2018/06/social-inequality-evolution-human-societies-2"
+        },
+        {
+            "Title": "What is social inequality in the UK? - Reasons why income and...",
+            "URL": "https://www.bbc.co.uk/bitesize/guides/zspttfr/revision/2"
+        },
+        {
+            "Title": "What is SOCIAL INEQUALITY? What does SOCIAL... - YouTube",
+            "URL": "https://www.youtube.com/watch?v=44DNgj7UE9M"
+        },
+        {
+            "Title": "The economic factors and consequences of social inequality and...",
+            "URL": "https://cyberleninka.ru/article/n/the-economic-factors-and-consequences-of-social-inequality-and-poverty"
+        },
+        {
+            "Title": "Social Inequality Essay Examples - Free Research Papers on...",
+            "URL": "https://papersowl.com/examples/social-inequality"
+        },
+        {
+            "Title": "Social Inequality Free Essay Example",
+            "URL": "https://studymoose.com/social-inequality-essay"
+        },
+        {
+            "Title": "Реферат: Social Inequality Essay Research Paper As we",
+            "URL": "https://www.bestreferat.ru/referat-334553.html"
+        },
+        {
+            "Title": "Social Inequality | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/social-inequality"
+        },
+        {
+            "Title": "Social inequality - Wikiquote",
+            "URL": "https://en.wikiquote.org/wiki/Social_inequality"
+        },
+        {
+            "Title": "The science of inequality: why people prefer unequal societies",
+            "URL": "https://www.theguardian.com/inequality/2017/may/04/science-inequality-why-people-prefer-unequal-societies"
+        },
+        {
+            "Title": "Pros and Cons of Inequality - Economics Help | 4. Social Problems",
+            "URL": "https://www.economicshelp.org/blog/3586/economics/pros-and-cons-of-inequality"
+        },
+        {
+            "Title": "Chernobyl disaster - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+        },
+        {
+            "Title": "Chernobyl Accident 1986 - World Nuclear Association",
+            "URL": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
+        },
+        {
+            "Title": "Frequently Asked Chernobyl Questions | IAEA",
+            "URL": "https://www.iaea.org/newscenter/focus/chernobyl/faqs"
+        },
+        {
+            "Title": "Chernobyl disaster facts and information - National Geographic",
+            "URL": "https://www.nationalgeographic.com/culture/article/chernobyl-disaster"
+        },
+        {
+            "Title": "Chernobyl disaster | Causes & Facts | Britannica",
+            "URL": "https://www.britannica.com/event/Chernobyl-disaster"
+        },
+        {
+            "Title": "What caused the disaster | The Chernobyl Gallery",
+            "URL": "http://www.chernobylgallery.com/chernobyl-disaster/cause"
+        },
+        {
+            "Title": "The true toll of the Chernobyl disaster - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20190725-will-we-ever-know-chernobyls-true-death-toll"
+        },
+        {
+            "Title": "Chernobyl Disaster: The Meltdown by the Minute - HISTORY",
+            "URL": "https://www.history.com/news/chernobyl-disaster-timeline"
+        },
+        {
+            "Title": "Video 4/28/1986: Chernobyl Disaster - ABC News",
+            "URL": "https://abcnews.go.com/Archives/video/chernobyl-disaster-nuclear-plant-soviet-1986-9843882"
+        },
+        {
+            "Title": "Chernobyl | Chernobyl Accident | Chernobyl Disaster - …",
+            "URL": "https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
+        },
+        {
+            "Title": "Chernobyl Disaster - Causes, Effects, Management, …",
+            "URL": "https://medicalfoxx.com/chernobyl-disaster.html"
+        },
+        {
+            "Title": "Causes of the Chernobyl Accident",
+            "URL": "http://large.stanford.edu/courses/2015/ph241/seh1"
+        },
+        {
+            "Title": "Chernobyl's 1986 disaster - YouTube",
+            "URL": "https://www.youtube.com/watch?v=w8kwBAc_FrA"
+        },
+        {
+            "Title": "Chernobyl (2019) Nuclear Reactor Explosion Scene - YouTube",
+            "URL": "https://www.youtube.com/watch?v=xulAgMNK5Jk"
+        },
+        {
+            "Title": "26 april 1986 Chernobyl explosion",
+            "URL": "http://chernobylplace.com/chernobyl_explosion"
+        },
+        {
+            "Title": "Chernobyl Disaster 1986. The story of Ghost Town and Tours",
+            "URL": "https://ChernobylGuide.com/what-is-chernobyl-disaster"
+        },
+        {
+            "Title": "Chernobyl: the true scale of the accident",
+            "URL": "https://www.who.int/news/item/05-09-2005-chernobyl-the-true-scale-of-the-accident"
+        },
+        {
+            "Title": "Chernobyl: Facts About the Nuclear Disaster | Live Science",
+            "URL": "https://www.livescience.com/39961-chernobyl.html"
+        },
+        {
+            "Title": "Timeline of events | The Chernobyl Gallery",
+            "URL": "http://www.chernobylgallery.com/chernobyl-disaster/timeline"
+        },
+        {
+            "Title": "Chernobyl still burns - Greenpeace International",
+            "URL": "https://www.greenpeace.org/international/story/30198/chernobyl-still-burns-forest-fires-ukraine-nuclear-radiation"
+        },
+        {
+            "Title": "Chernobyl disaster - The world's worst nuclear explosion",
+            "URL": "https://mysteriesrunsolved.com/2020/03/chernobyl-disaster.html"
+        },
+        {
+            "Title": "Chernobyl - A Timeline of The Worst Nuclear Accident in History",
+            "URL": "https://interestingengineering.com/chernobyl-a-timeline-of-the-worst-nuclear-accident-in-history"
+        },
+        {
+            "Title": "Chernobyl Accident and Its Consequences",
+            "URL": "https://www.nei.org/resources/fact-sheets/chernobyl-accident-and-its-consequences"
+        },
+        {
+            "Title": "Chernobyl (2019) - Reactor Explosion Scene // WIKI 2",
+            "URL": "https://wiki2.org/en/Chernobyl_disaster"
+        },
+        {
+            "Title": "Chernobyl disaster: What caused the Chernobyl explosion?",
+            "URL": "https://www.express.co.uk/news/world/1151586/chernobyl-disaster-what-caused-the-chernobyl-explosion-chernobyl-blame"
+        },
+        {
+            "Title": "Planning a trip to Chernobyl? Must read history background",
+            "URL": "https://chernobylx.com/chernobyl-history-or-what-really-happened-in-1986"
+        },
+        {
+            "Title": "Chernobyl: Why did the nuclear reactor explode and could it... - CNET",
+            "URL": "https://www.cnet.com/news/chernobyl-miniseries-by-hbo-and-sky-prompts-searches-on-nuclear-explosion-fission"
+        },
+        {
+            "Title": "Chernobyl nuclear disaster - in pictures | Environment | The Guardian",
+            "URL": "https://www.theguardian.com/environment/gallery/2011/apr/26/chernobyl-nuclear-disaster-in-pictures"
+        },
+        {
+            "Title": "Chernobyl: Horrifying photos of Chernobyl nuclear plant... - CBS News",
+            "URL": "https://www.cbsnews.com/pictures/horrifying-photos-of-chernobyl-and-its-aftermath"
+        },
+        {
+            "Title": "Chernobyl: How 3 Volunteers Prevented a Far Bigger Nuclear Disaster",
+            "URL": "https://www.businessinsider.com/chernobyl-volunteers-divers-nuclear-mission-2016-4?op=1"
+        },
+        {
+            "Title": "The explosion of the Chernobyl NPP",
+            "URL": "https://russ-history.blogspot.com/2015/04/the-chernobyl-disaster-was-terrorist.html"
+        },
+        {
+            "Title": "Chernobyl Explosion Photos and Premium High Res... - Getty Images",
+            "URL": "https://www.gettyimages.com/photos/chernobyl-explosion"
+        },
+        {
+            "Title": "Why has the Syrian war lasted 10 years? - BBC News",
+            "URL": "https://www.bbc.com/news/world-middle-east-35806229"
+        },
+        {
+            "Title": "Syrian Civil War | Facts & Timeline | Britannica",
+            "URL": "https://www.britannica.com/event/Syrian-Civil-War"
+        },
+        {
+            "Title": "10 Factors That Led to the Syrian Uprising - ThoughtCo",
+            "URL": "https://www.thoughtco.com/top-10-reasons-for-the-uprising-in-syria-2353571"
+        },
+        {
+            "Title": "Why Is There a Civil War in Syria? - HISTORY",
+            "URL": "https://www.history.com/news/syria-civil-war-assad-rebels"
+        },
+        {
+            "Title": "Syrian refugee crisis: Facts, FAQs, and how to help - World ...",
+            "URL": "https://www.worldvision.org/refugees-news-stories/syrian-refugee-crisis-facts"
+        },
+        {
+            "Title": "Syrian civil war - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+        },
+        {
+            "Title": "Syria's Civil War: The Descent Into Horror - Council on Foreign ...",
+            "URL": "https://www.cfr.org/article/syrias-civil-war"
+        },
+        {
+            "Title": "10 years on : 10 Facts that explain Syria's conflict - ReliefWeb",
+            "URL": "https://reliefweb.int/report/syrian-arab-republic/10-years-10-facts-explain-syria-s-conflict"
+        },
+        {
+            "Title": "The displacement of almost 13 million Syrians —half the - jstor",
+            "URL": "https://www.jstor.org/stable/10.7864/j.ctt1c2cqws.6"
+        },
+        {
+            "Title": "The Real Reasons behind Syrian Conflict - The Policy Times",
+            "URL": "https://thepolicytimes.com/real-reasons-behind-syrian-conflict"
+        },
+        {
+            "Title": "Top 10 Reasons For The Syria Civil War - World Blaze",
+            "URL": "https://www.worldblaze.in/top-10-reasons-for-the-syria-civil-war"
+        },
+        {
+            "Title": "Causes and Consequences of The Civil War in Syria – …",
+            "URL": "https://revisesociology.com/2016/12/14/causes-and-consequences-of-the-civil-war-in-syria"
+        },
+        {
+            "Title": "Syrian Crisis: Reasons and Implications in a nutshelll - Clear IAS",
+            "URL": "https://www.clearias.com/syrian-crisis"
+        },
+        {
+            "Title": "Causes of the War - The Syrian Civil War",
+            "URL": "https://sites.google.com/site/thesyriancivilwar/causes-of-the-war"
+        },
+        {
+            "Title": "Top 10 Reasons For Syrian Crisis - Listaka",
+            "URL": "https://listaka.com/top-10-reasons-for-syrian-crisis"
+        },
+        {
+            "Title": "The Syrian Civil War: Timeline, Participants and Impacts | Medium",
+            "URL": "https://medium.com/crisis-management-simulation-lab-by-adandprlab-at/the-syrian-civil-war-timeline-participants-and-impacts-d8c5a14fcb36"
+        },
+        {
+            "Title": "Causes and Consequences of the Syrian Civil War",
+            "URL": "https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1106&context=senior_theses"
+        },
+        {
+            "Title": "Syrian Refugee Crisis - What You Need to Know | Mercy Corps",
+            "URL": "https://www.mercycorps.org/blog/quick-facts-syria-crisis"
+        },
+        {
+            "Title": "Six reasons why Syrians are fleeing to Europe in increasing numbers",
+            "URL": "https://www.theguardian.com/global-development-professionals-network/2015/oct/25/six-reasons-why-syrians-are-fleeing-to-europe-in-increasing-numbers"
+        },
+        {
+            "Title": "Syrian Conflict explained (explainity® explainer video) - YouTube",
+            "URL": "https://www.youtube.com/watch?v=mv6AcnwnBhM"
+        },
+        {
+            "Title": "(PDF) The Syrian Conflict. Conflict Analysis of... - Academia.edu",
+            "URL": "https://www.academia.edu/11304521/The_Syrian_Conflict_Conflict_Analysis_of_a_Multi_Layered_Civil_War"
+        },
+        {
+            "Title": "A Brief Guide to the Syrian Civil War - The Atlantic",
+            "URL": "https://www.theatlantic.com/international/archive/2015/10/syrian-civil-war-guide-isis/410746"
+        },
+        {
+            "Title": "(PDF) A Conflict Analysis of The Intergroup Conflict in Syria; The...",
+            "URL": "https://www.researchgate.net/publication/328096500_A_Conflict_Analysis_of_The_Intergroup_Conflict_in_Syria_The_Causes_And_Dynamics_of_Incompatible_Goals"
+        },
+        {
+            "Title": "Syria's war explained from the beginning | News | Al Jazeera",
+            "URL": "https://www.aljazeera.com/news/2018/4/14/syrias-war-explained-from-the-beginning"
+        },
+        {
+            "Title": "The Syrian Conflict | Euronews",
+            "URL": "https://www.euronews.com/special/the-syrian-conflict"
+        },
+        {
+            "Title": "Syria Refugee Crisis Explained",
+            "URL": "https://www.unrefugees.org/news/syria-refugee-crisis-explained"
+        },
+        {
+            "Title": "Texts adopted - The Syrian conflict - 10 years after the uprising...",
+            "URL": "https://www.europarl.europa.eu/doceo/document/TA-9-2021-0088_EN.html"
+        },
+        {
+            "Title": "Syrian conflict 101: A 2018 guide to the main factions",
+            "URL": "https://www.jpost.com/Middle-East/Syrian-conflict-101-A-2018-guide-to-the-main-factions-543373"
+        },
+        {
+            "Title": "The role of the EU in the Syrian conflict | openDemocracy",
+            "URL": "https://www.opendemocracy.net/en/can-europe-make-it/role-of-eu-in-syrian-conflict"
+        },
+        {
+            "Title": "The Economics of War and Peace in Syria | Business Elites and Conflict",
+            "URL": "https://tcf.org/content/report/economics-war-peace-syria"
+        },
+        {
+            "Title": "PDF The Syrian conflict",
+            "URL": "https://www.cdacollaborative.org/wp-content/uploads/2016/03/The-Syrian-conflict-A-systems-conflict-analysis.pdf"
+        },
+        {
+            "Title": "How the growing web of the Syrian conflict... - Washington Post",
+            "URL": "https://www.washingtonpost.com/graphics/world/explaining-the-syrian-conflict"
+        },
+        {
+            "Title": "The Syrian Conflict Is About to Intensify | Council on Foreign Relations",
+            "URL": "https://www.cfr.org/in-brief/syrian-conflict-about-intensify"
+        },
+        {
+            "Title": "The Syrian conflict as an arena of confrontation of the Islamic...",
+            "URL": "http://csef.ru/en/oborona-i-bezopasnost/340/sirijskij-konflikt-kak-arena-protivoborstva-islamskoj-respubliki-iran-i-korolevstva-saudovskaya-araviya-8096"
+        },
+        {
+            "Title": "Cultural Change in Modern World History - Bloomsbury ...",
+            "URL": "https://www.bloomsbury.com/us/cultural-change-in-modern-world-history-9781350054332"
+        },
+        {
+            "Title": "Culture change - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Culture_change"
+        },
+        {
+            "Title": "Project MUSE - Cultural Change in Modern World History",
+            "URL": "https://muse.jhu.edu/article/775121"
+        },
+        {
+            "Title": "How the Modern World Has Altered Our Cultures - Medium",
+            "URL": "https://medium.com/lessons-from-history/how-the-modern-world-has-altered-our-cultures-ff7884acdc52"
+        },
+        {
+            "Title": "Reading: Cultural Change | Sociology - Lumen Learning",
+            "URL": "https://courses.lumenlearning.com/alamo-sociology/chapter/cultural-change"
+        },
+        {
+            "Title": "Cultural Change in Modern World History - Perlego",
+            "URL": "https://www.perlego.com/book/859867/cultural-change-in-modern-world-history-cases-causes-and-consequences-pdf"
+        },
+        {
+            "Title": "CULTURAL CHANGE IN THE TWENTIETH CENTURY - NIOS",
+            "URL": "https://nios.ac.in/media/documents/SrSec315NEW/315_History_Eng/315_History_Eng_Lesson28.pdf"
+        },
+        {
+            "Title": "15 Examples of Culture Change - Simplicable",
+            "URL": "https://simplicable.com/new/culture-change"
+        },
+        {
+            "Title": "3 MODERN WORLD I",
+            "URL": "https://nios.ac.in/media/documents/secsocscicour/english/lesson-03.pdf"
+        },
+        {
+            "Title": "Cultural Change in Modern World History: Cases, Causes …",
+            "URL": "https://www.bloomsbury.com/us/cultural-change-in-modern-world-history-9781350054349"
+        },
+        {
+            "Title": "Cultural Change: Main Factors and Causes of Cultural Change",
+            "URL": "https://www.yourarticlelibrary.com/culture/cultural-change-main-factors-and-causes-of-cultural-change/23392"
+        },
+        {
+            "Title": "Cultural globalization - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Cultural_globalization"
+        },
+        {
+            "Title": "(PDF) Modernization, Cultural Change, and the Persistence of...",
+            "URL": "https://www.researchgate.net/publication/230557601_Modernization_Cultural_Change_and_the_Persistence_of_Traditional_Values"
+        },
+        {
+            "Title": "Importance of Cultural Change and Its Example | What is Cultutal...",
+            "URL": "https://bohatala.com/importance-of-cultural-change-and-its-example"
+        },
+        {
+            "Title": "Cultural Changes and Modern Growth - YouTube",
+            "URL": "https://www.youtube.com/watch?v=LtVgrX33xmE"
+        },
+        {
+            "Title": "The Importance of Cultural Preservation in the Modern World",
+            "URL": "https://www.daytranslations.com/blog/cultural-preservation"
+        },
+        {
+            "Title": "Globalization and Social/Cultural Changes of the 20th-21st...",
+            "URL": "https://www.kaptest.com/study/ap-world-history/globalization-and-social-cultural-changes-of-the-20th-21st-centuries-ap-world-history-modern-notes"
+        },
+        {
+            "Title": "Cultural Change That Sticks | Harvard Business Review",
+            "URL": "https://hbr.org/2012/07/cultural-change-that-sticks"
+        },
+        {
+            "Title": "Cultural change in the modern world - ragesoss",
+            "URL": "https://ragesoss.com/2006/04/02/cultural-change-in-the-modern-world"
+        },
+        {
+            "Title": "Does globalization mean we will become one culture? - BBC Future",
+            "URL": "https://www.bbc.com/future/article/20120522-one-world-order"
+        },
+        {
+            "Title": "Development of languages and cultures in modern...",
+            "URL": "https://cyberleninka.ru/article/n/development-of-languages-and-cultures-in-modern-world"
+        },
+        {
+            "Title": "Culture in the age of globalisation - DOC Research Institute",
+            "URL": "https://doc-research.org/2018/06/culture-in-the-age-of-globalization"
+        },
+        {
+            "Title": "PDF Modernization, Existential Security and Cultural Change",
+            "URL": "https://lsa.umich.edu/content/dam/polisci-assets/Docs/Inglehart Articles/Modernization & Cultural Change.pdf"
+        },
+        {
+            "Title": "Culture Change",
+            "URL": "http://sumananthromaterials.blogspot.com/2012/02/culture-change.html"
+        },
+        {
+            "Title": "Traditional Culture and Modern Culture... | HuffPost Communities",
+            "URL": "https://www.huffpost.com/entry/traditional-culture-and-m_b_655992"
+        },
+        {
+            "Title": "PDF Globalization and culture: the existence of a global",
+            "URL": "https://www.hse.ru/data/2014/06/24/1310208535/Bogatkina Mariia, essay for summer school.pdf"
+        },
+        {
+            "Title": "The role of technological change in culture | Orange Business Services",
+            "URL": "https://www.orange-business.com/en/blogs/connecting-technology/innovation/the-role-of-technological-change-in-culture"
+        },
+        {
+            "Title": "Culture - New World Encyclopedia | Cultural change",
+            "URL": "https://www.newworldencyclopedia.org/entry/Culture"
+        },
+        {
+            "Title": "The Effects of Globalisation on Languages and Cultural Diversity",
+            "URL": "https://impakter.com/effects-of-globalisation-on-languages-and-cultural-diversity"
+        },
+        {
+            "Title": "Cultural Change in Modern World History: Cases... | Semantic Scholar",
+            "URL": "https://www.semanticscholar.org/paper/Cultural-Change-in-Modern-World-History:-Cases,-and-Stearns/9893cbebebe01b767d09839f0bc7fc8f9c1f22d9"
+        },
+        {
+            "Title": "PDF Cultural Tourism in a Changing World",
+            "URL": "http://www00.unibg.it/dati/corsi/44108/50648-smith-robinson-proofs.pdf"
+        },
+        {
+            "Title": "PDF Culture | What Causes Social Change?",
+            "URL": "https://worldanimal.net/documents/2_Social_Change_Introduction.pdf"
+        },
+        {
+            "Title": "modernization | Nature, Features, Examples, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/modernization"
+        },
+        {
+            "Title": "How Do You Change An Organizational Culture?",
+            "URL": "https://www.forbes.com/sites/stevedenning/2011/07/23/how-do-you-change-an-organizational-culture"
+        },
+        {
+            "Title": "Mexican-American War | Significance, Battles, Results ...",
+            "URL": "https://www.britannica.com/event/Mexican-American-War"
+        },
+        {
+            "Title": "Mexican–American War - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Mexican–American_War"
+        },
+        {
+            "Title": "Mexican-American War - Causes, Definition & Timeline",
+            "URL": "https://www.history.com/topics/mexican-american-war/mexican-american-war"
+        },
+        {
+            "Title": "The Mexican-American war in a nutshell - National ...",
+            "URL": "https://constitutioncenter.org/blog/the-mexican-american-war-in-a-nutshell"
+        },
+        {
+            "Title": "The Mexican American War | American Experience - PBS",
+            "URL": "https://www.pbs.org/wgbh/americanexperience/features/grant-mexican-american-war"
+        },
+        {
+            "Title": "29d. The Mexican-American War - USHistory.org",
+            "URL": "https://www.ushistory.org/us/29d.asp"
+        },
+        {
+            "Title": "A Guide to the Mexican War - Library of Congress",
+            "URL": "https://www.loc.gov/rr/program/bib/mexicanwar"
+        },
+        {
+            "Title": "Mexican-American War and the Treaty of Guadalupe-Hidalgo - …",
+            "URL": "https://www.nps.gov/cham/learn/historyculture/mexican-american-war.htm"
+        },
+        {
+            "Title": "The Mexican-American War, 1846–1848 – U.S. History",
+            "URL": "http://pressbooks-dev.oer.hawaii.edu/ushistory/chapter/the-mexican-american-war-1846-1848"
+        },
+        {
+            "Title": "The Mexican-American war in a nutshell - National Constitution …",
+            "URL": "https://constitutioncenter.org/blog/the-mexican-american-war-in-a-nutshell"
+        },
+        {
+            "Title": "10 Facts About the Mexican-American War - ThoughtCo",
+            "URL": "https://www.thoughtco.com/facts-about-the-mexican-american-war-2136199"
+        },
+        {
+            "Title": "Timeline of the Mexican-American War - ThoughtCo",
+            "URL": "https://www.thoughtco.com/timeline-of-the-mexican-american-war-2136188"
+        },
+        {
+            "Title": "Mexican-American War | Causes and Effects | Britannica",
+            "URL": "https://www.britannica.com/summary/Causes-and-Effects-of-the-Mexican-American-War"
+        },
+        {
+            "Title": "The Mexican and American war: [Essay Example], 432 words …",
+            "URL": "https://gradesfixer.com/free-essay-examples/the-mexican-and-american-war"
+        },
+        {
+            "Title": "Mexican American War - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Mexican_American_War"
+        },
+        {
+            "Title": "Mexican-American War - RationalWiki",
+            "URL": "https://rationalwiki.org/wiki/Mexican-American_War"
+        },
+        {
+            "Title": "The Mexican-American War - Explained in 16 minutes - YouTube",
+            "URL": "https://www.youtube.com/watch?v=26raYPP4n7Q"
+        },
+        {
+            "Title": "Mexican-American War — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Mexican–American_War"
+        },
+        {
+            "Title": "Mexican-American War Timeline - 1846-1848 - Legends of America",
+            "URL": "https://www.legendsofamerica.com/ah-mexicanamericanwartimeline"
+        },
+        {
+            "Title": "Mexican American War - An Overview",
+            "URL": "https://www.thoughtco.com/mexican-american-war-101-an-overview-2361047"
+        },
+        {
+            "Title": "Mexican American War - Fall Semester AP US Debates",
+            "URL": "https://www.sites.google.com/site/morrowamericanrevolution/mexican-american-war"
+        },
+        {
+            "Title": "Mexican-American War Timeline",
+            "URL": "https://www.softschools.com/timelines/mexican_american_war_timeline/112"
+        },
+        {
+            "Title": "Mexican-American War | Military Wiki | Fandom",
+            "URL": "https://military.wikia.org/wiki/Mexican–American_War"
+        },
+        {
+            "Title": "Mexican-American War - Conservapedia",
+            "URL": "https://conservapedia.com/Mexican-American_War"
+        },
+        {
+            "Title": "Concurrent Conflicts: (Related conflicts to the Mexican-American War...)",
+            "URL": "https://historyguy.com/Mexican-American_War.html"
+        },
+        {
+            "Title": "Mexican-american War | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/history/united-states-and-canada/us-history/mexican-american-war"
+        },
+        {
+            "Title": "Mexican-American War",
+            "URL": "https://en-academic.com/dic.nsf/enwiki/28206"
+        },
+        {
+            "Title": "American history Mexican War",
+            "URL": "https://www.histclo.com/country/us/hist/19/ush-mexw.html"
+        },
+        {
+            "Title": "The Mexican-American War - Smarthistory",
+            "URL": "https://smarthistory.org/the-mexican-american-war-19th-century-american-art-in-context"
+        },
+        {
+            "Title": "Mexican-American War - Uncyclopedia, the content-free encyclopedia",
+            "URL": "https://en.uncyclopedia.co/wiki/Mexican-American_War"
+        },
+        {
+            "Title": "BBC Radio 4 - In Our Time, The Mexican-American War",
+            "URL": "https://www.bbc.co.uk/programmes/b0b7d18j"
+        },
+        {
+            "Title": "Mexican American War Battles Timeline Campaign Mexico City",
+            "URL": "http://www.thomaslegion.net/mexicanamericanwar.html"
+        },
+        {
+            "Title": "Mexican-American War",
+            "URL": "https://www.geni.com/projects/Mexican-American-War/8873"
+        },
+        {
+            "Title": "The Mexican-American War from Lincoln and Grant's Perspective...",
+            "URL": "https://www.historyonthenet.com/mexican-american-war"
+        },
+        {
+            "Title": "Mexican-American War",
+            "URL": "https://www.factmonster.com/history/us/mexican-war"
+        },
+        {
+            "Title": "Crusades: Definition, Religious Wars & Facts - HISTORY",
+            "URL": "https://www.history.com/topics/middle-ages/crusades"
+        },
+        {
+            "Title": "Crusades | Definition, History, Map, Significance, & Legacy",
+            "URL": "https://www.britannica.com/event/Crusades"
+        },
+        {
+            "Title": "Special Issue : Religion and the Crusades - MDPI",
+            "URL": "https://www.mdpi.com/journal/religions/special_issues/Religion_Crusades"
+        },
+        {
+            "Title": "Crusades - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Crusades"
+        },
+        {
+            "Title": "CONFLICT BETWEEN RELIGIONS: THE CRUSADES",
+            "URL": "https://www.ccusd93.org/cms/lib/AZ02204140/Centricity/Domain/2077/Conflict Between Religions.pdf"
+        },
+        {
+            "Title": "Religion Studies: Islam: The Crusades - Subject Guides",
+            "URL": "https://up-za.libguides.com/c.php?g=889497&p=7128059"
+        },
+        {
+            "Title": "Debating the Role of Religion in War - jstor",
+            "URL": "https://www.jstor.org/stable/40784652"
+        },
+        {
+            "Title": "The Crusades and the Christian World of the East - University ...",
+            "URL": "https://www.upenn.edu/pennpress/book/14384.html"
+        },
+        {
+            "Title": "The Crusades: between religion and politics, fiction and reality",
+            "URL": "https://funci.org/the-crusades-between-religion-and-politics-fiction-and-reality/?lang=en"
+        },
+        {
+            "Title": "The Crusades: A Complete History",
+            "URL": "https://www.historytoday.com/archive/feature/crusades-complete-history"
+        },
+        {
+            "Title": "Religion And The Crusades - Free Essay Example | StudyDriver.com",
+            "URL": "https://studydriver.com/religion-and-the-crusades"
+        },
+        {
+            "Title": "Religion and the Crusades in Medieval Europe Religion",
+            "URL": "https://slidetodoc.com/religion-and-the-crusades-in-medieval-europe-religion"
+        },
+        {
+            "Title": "Religion in the Crusades - Crusades | HowStuffWorks",
+            "URL": "https://history.howstuffworks.com/european-history/crusades5.htm"
+        },
+        {
+            "Title": "Crusades and Religion – Who Decides What is “True” Crusading – …",
+            "URL": "https://www.davidmperry.com/crusades-and-religion-who-decides-wha"
+        },
+        {
+            "Title": "crusades religion flashcards and study sets | Quizlet",
+            "URL": "https://quizlet.com/subject/crusades-religion"
+        },
+        {
+            "Title": "CRUSADES AND RELIGION. - Epepea | Just Relax",
+            "URL": "https://epepea.com/crusades-and-religion"
+        },
+        {
+            "Title": "Rambling About: The Crusades and Religion - YouTube",
+            "URL": "https://www.youtube.com/watch?v=1rfZsBIRFUw"
+        },
+        {
+            "Title": "(DOC) The Crusades and Religion | Yash Bansal - Academia.edu",
+            "URL": "https://www.academia.edu/43773803/The_Crusades_and_Religion"
+        },
+        {
+            "Title": "Religion and Crusades in the Middle Ages by Hanna Cikovic",
+            "URL": "https://prezi.com/x5rsf10wwlwv/religion-and-crusades-in-the-middle-ages"
+        },
+        {
+            "Title": "The Crusades | Religion & Sects",
+            "URL": "https://www.jewishvirtuallibrary.org/the-crusades"
+        },
+        {
+            "Title": "1320: Section 15: The Crusades and Medieval Christianity",
+            "URL": "http://www.usu.edu/markdamen/1320Hist&Civ/chapters/15CRUSAD.htm"
+        },
+        {
+            "Title": "Crusades | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/history/modern-europe/wars-and-battles/crusades"
+        },
+        {
+            "Title": "The Crusades - ReligionFacts",
+            "URL": "https://religionfacts.com/crusades"
+        },
+        {
+            "Title": "What is the difference between crusade and religion? | WikiDiff",
+            "URL": "https://wikidiff.com/crusade/religion"
+        },
+        {
+            "Title": "The Crusades: Causes & Goals - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1249/the-crusades-causes--goals"
+        },
+        {
+            "Title": "Crusades | Religion Wiki | Fandom",
+            "URL": "https://religion.wikia.org/wiki/Crusades"
+        },
+        {
+            "Title": "Religion and Diplomacy During the Crusades - 1987 Words",
+            "URL": "https://ivypanda.com/essays/religion-and-diplomacy-during-the-crusades"
+        },
+        {
+            "Title": "The Crusades - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/The_Crusades"
+        },
+        {
+            "Title": "Religion, the Crusades and War",
+            "URL": "https://rcg.org/realtruth/articles/070629-002-irtpots.html"
+        },
+        {
+            "Title": "Religion And Political Influence Of The First Crusades | ipl.org",
+            "URL": "https://www.ipl.org/essay/Religion-And-Political-Influence-Of-The-First-P35VTRHEN8TV"
+        },
+        {
+            "Title": "The Crusades",
+            "URL": "https://www.lordsandladies.org/the-crusades.htm"
+        },
+        {
+            "Title": "Perspectives and Religion in the Crusades",
+            "URL": "https://www.learnreligions.com/crusading-against-christians-249769"
+        },
+        {
+            "Title": "Medieval Religion | Medieval Crusaders",
+            "URL": "https://www.medieval-life-and-times.info/medieval-religion"
+        },
+        {
+            "Title": "Religion In The Crusades Essay - 1392 Words | Cram",
+            "URL": "https://www.cram.com/essay/Religion-In-The-Crusades-Essay/PK6MJCMLGRE45"
+        },
+        {
+            "Title": "Religion and the Crusades in Medieval Europe. Religion & The Role...",
+            "URL": "https://slideplayer.com/slide/10544719"
+        },
+        {
+            "Title": "(PDF) The Crusades, Knights Templar and Hospitaller: a combination...",
+            "URL": "https://www.researchgate.net/publication/281286246_The_Crusades_Knights_Templar_and_Hospitaller_a_combination_of_religion_war_pilgrimage_and_tourism_enablers"
+        },
+        {
+            "Title": "The Primary Cause of the Crusades. Religion versus Money - GRIN",
+            "URL": "https://www.grin.com/document/379259"
+        },
+        {
+            "Title": "Thirty Years' War | Summary, Causes, Combatants, Map",
+            "URL": "https://www.britannica.com/event/Thirty-Years-War"
+        },
+        {
+            "Title": "Thirty Years' War - HISTORY",
+            "URL": "https://www.history.com/topics/reformation/thirty-years-war"
+        },
+        {
+            "Title": "Causes of the Thirty Years War 1618–48",
+            "URL": "https://academic.oup.com/ehr/article/CXXIII/502/554/413775"
+        },
+        {
+            "Title": "Thirty Years' War - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Thirty_Years'_War"
+        },
+        {
+            "Title": "The Thirty Years' War | Boundless World History - Lumen ...",
+            "URL": "https://courses.lumenlearning.com/boundless-worldhistory/chapter/the-thirty-years-war"
+        },
+        {
+            "Title": "Thirty Years War",
+            "URL": "http://udel.edu/~jddavies/Thirty_Years_War.html"
+        },
+        {
+            "Title": "What were the causes and results of the Thirty Years War?",
+            "URL": "https://www.mvorganizing.org/what-were-the-causes-and-results-of-the-thirty-years-war"
+        },
+        {
+            "Title": "Main causes of the Thirty Years War - GRIN",
+            "URL": "https://www.grin.com/document/266157"
+        },
+        {
+            "Title": "Thirty Years' War (1618–1648) - Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/history/modern-europe/wars-and-battles/thirty-years-war"
+        },
+        {
+            "Title": "Thirty Years' War (Overview) - Boise State Pressbooks",
+            "URL": "https://boisestate.pressbooks.pub/app/uploads/sites/36/2020/01/Thirty-Years-War.pdf"
+        },
+        {
+            "Title": "Causes of the Thirty Years War 1618–48 | The English …",
+            "URL": "https://academic.oup.com/ehr/article-abstract/CXXIII/502/554/413775"
+        },
+        {
+            "Title": "The Causes of the Thirty Years War 1618-48",
+            "URL": "https://www.jstor.org/stable/20108541"
+        },
+        {
+            "Title": "(DOC) Main Causes of Thirty Year's War | Rns Vidya …",
+            "URL": "https://www.academia.edu/32007727/Main_Causes_of_Thirty_Years_War"
+        },
+        {
+            "Title": "Causes of the War - The Thirty Years War",
+            "URL": "https://isthe30yearswar.weebly.com/causes-of-the-war.html"
+        },
+        {
+            "Title": "Causes of the Thirty Years' War | Searching in History",
+            "URL": "https://searchinginhistory.blogspot.com/2015/02/causes-of-thirty-years-war.html"
+        },
+        {
+            "Title": "The Thirty Years' War: The first modern war? | by ICRC | Medium",
+            "URL": "https://medium.com/law-and-policy/the-thirty-years-war-the-first-modern-war-ced0b695172b"
+        },
+        {
+            "Title": "The Consequences and Effects of the Thirty Years War",
+            "URL": "https://www.articlemyriad.com/consequences-effects-thirty-years-war"
+        },
+        {
+            "Title": "Thirty Years' War - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Thirty_Years’_War"
+        },
+        {
+            "Title": "Thirty Years War - History Learning Site",
+            "URL": "https://www.historylearningsite.co.uk/the-thirty-years-war/thirty-years-war"
+        },
+        {
+            "Title": "CATHOLIC ENCYCLOPEDIA: The Thirty Years War",
+            "URL": "https://www.newadvent.org/cathen/14648b.htm"
+        },
+        {
+            "Title": "The Thirty Years' War (1618-1648) - Every Week - YouTube",
+            "URL": "https://www.youtube.com/watch?v=wXndv6LT5jY"
+        },
+        {
+            "Title": "Cause Of Thirty Year War",
+            "URL": "https://www.games-t.com/cause-of-thirty-year-war"
+        },
+        {
+            "Title": "Consequences of Thirty Year's War Flashcards | Quizlet",
+            "URL": "https://quizlet.com/414008936/consequences-of-thirty-years-war-flash-cards"
+        },
+        {
+            "Title": "Social Consequences of the Thirty Years' War: Was it Worth it?",
+            "URL": "https://www.ancient-origins.net/history-important-events/thirty-years-war-008850"
+        },
+        {
+            "Title": "Thirty Years War 1618-1648",
+            "URL": "http://www.thecaveonline.com/APEH/thirtyyearswar.html"
+        },
+        {
+            "Title": "The Thirty Years' War",
+            "URL": "http://www.fsmitha.com/h3/h25-war.html"
+        },
+        {
+            "Title": "Thirty Years War (1618-48)",
+            "URL": "http://www.historyofwar.org/articles/wars_thirtyyears.html"
+        },
+        {
+            "Title": "Thirty Years' War - Wikipedia, the free encyclopedia",
+            "URL": "https://swap.stanford.edu/20100118081354/http://en.wikipedia.org/wiki/Thirty_Years'_War"
+        },
+        {
+            "Title": "Thirty Years' War / Useful Notes - TV Tropes",
+            "URL": "https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/ThirtyYearsWar"
+        },
+        {
+            "Title": "Hundred Years' War - World History Encyclopedia | Causes of the War",
+            "URL": "https://www.worldhistory.org/Hundred_Years'_War"
+        },
+        {
+            "Title": "PPT - Evaluate the causes of the 30 Years War Chronicle the stages...",
+            "URL": "https://www.slideserve.com/roscoe/evaluate-the-causes-of-the-30-years-war-chronicle-the-stages-of-the-30-years-war"
+        },
+        {
+            "Title": "Thirty Years War & Rise of Prussia - Germany - SpottingHistory.com",
+            "URL": "https://www.spottinghistory.com/historicalperiod/thirty-years-war-rise-of-prussia-germany"
+        },
+        {
+            "Title": "Europe's apocalypse: the Thirty Years' War - HistoryExtra",
+            "URL": "https://www.historyextra.com/period/stuart/europes-apocalypse-the-thirty-years-war"
+        },
+        {
+            "Title": "Thirty Years' War | Brief History of the World Wiki | Fandom",
+            "URL": "https://brief-history-of-the-world.fandom.com/wiki/Thirty_Years'_War"
+        },
+        {
+            "Title": "The thirty years' war",
+            "URL": "http://www.historyworld.net/wrldhis/PlainTextHistories.asp?historyid=ac18"
+        },
+        {
+            "Title": "The Thirty Years' War 1618-1648",
+            "URL": "http://www.emersonkent.com/wars_and_battles_in_history/thirty_years_war.htm"
+        },
+        {
+            "Title": "Thirty Years' War | History Wiki | Fandom",
+            "URL": "https://history.wikia.org/wiki/Thirty_Years'_War"
+        },
+        {
+            "Title": "How does this map reflect the causes of the Thirty Years' War?",
+            "URL": "https://brainly.com/question/3884969"
+        },
+        {
+            "Title": "Ancient warfare - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Ancient_warfare"
+        },
+        {
+            "Title": "History of weapons - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_weapons"
+        },
+        {
+            "Title": "Top 10 Popular Ancient Weapons",
+            "URL": "https://www.ancienthistorylists.com/ancient-civilizations/top-10-popular-ancient-weapons"
+        },
+        {
+            "Title": "Here Are 7 Inventive Weapons Of The Ancient World",
+            "URL": "https://www.thecollector.com/inventive-weapons-ancient-world"
+        },
+        {
+            "Title": "A HISTORY OF WEAPONS",
+            "URL": "https://localhistories.org/a-history-of-weapons"
+        },
+        {
+            "Title": "5 Terrifying Weapons of the Ancient World | History Hit",
+            "URL": "https://www.historyhit.com/terrifying-weapons-of-the-ancient-world"
+        },
+        {
+            "Title": "9 Ancient Egyptian Weapons and Tools That Powered the ...",
+            "URL": "https://www.history.com/news/ancient-egyptian-weapons"
+        },
+        {
+            "Title": "Weapons in Ancient Egypt - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1035/weapons-in-ancient-egypt"
+        },
+        {
+            "Title": "The Influence of Weapons and Armors Between Persia, India ...",
+            "URL": "https://web.wpi.edu/academics/me/IMDC/IQP Website/reports/1112/pig.pdf"
+        },
+        {
+            "Title": "Prehistory - military technology - Britannica",
+            "URL": "https://www.britannica.com/technology/military-technology/Prehistory"
+        },
+        {
+            "Title": "Ancient Weapons - Ancient Military",
+            "URL": "http://ancientmilitary.com/ancient-weapons.htm"
+        },
+        {
+            "Title": "Weapons - Early Civilizations of the World",
+            "URL": "https://sites.google.com/site/earlycivilizationsoftheworld/ancient-egypt/weapons"
+        },
+        {
+            "Title": "Use of Weapons in Ancient Civilizations · History 1302 F21",
+            "URL": "https://myhistorymystory.com/collections/show/28"
+        },
+        {
+            "Title": "Weapons of Ancient Greece - Sword Scholar",
+            "URL": "https://swordscholar.com/weapons-of-ancient-greece"
+        },
+        {
+            "Title": "Short Essay on the Equipment, Tools and Weapons of …",
+            "URL": "https://www.preservearticles.com/short-essays/short-essay-on-the-equipment-tools-and-weapons-of-indus-civilization/13794"
+        },
+        {
+            "Title": "Browse Collections · History 1302 F21",
+            "URL": "https://myhistorymystory.com/collections/browse"
+        },
+        {
+            "Title": "Use of Weapons - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Use_of_Weapons"
+        },
+        {
+            "Title": "Ancient Weapons | Ancient Warrior Weapons | Historic Weaponry",
+            "URL": "https://www.legendsandchronicles.com/ancient-weapons"
+        },
+        {
+            "Title": "10 Prominent And Incredible Weapons Used by Ancient Greeks",
+            "URL": "https://learnodo-newtonic.com/ancient-greek-weapons"
+        },
+        {
+            "Title": "Ancient 'Nukes'? Powerful Ancient weapons described in...",
+            "URL": "https://www.ancient-code.com/ancient-nukes-powerful-ancient-weapons-described-in-thousand-year-old-texts"
+        },
+        {
+            "Title": "5 Amazing Weapons of the Ancient World | History Hit",
+            "URL": "https://www.historyhit.com/5-amazing-weapons-of-the-ancient-world"
+        },
+        {
+            "Title": "Medieval Weapons That Maimed and Killed - HISTORY",
+            "URL": "https://www.history.com/news/medieval-weapons-knights-middle-ages"
+        },
+        {
+            "Title": "Vocabulary: Iron Weapons Used In Ancient Civilizations | Cram",
+            "URL": "https://www.cram.com/essay/APWH-Unit-1-Vocabulary-Themes-In-The/FC8LJPJPR6"
+        },
+        {
+            "Title": "Ancient Egyptian Weapons",
+            "URL": "https://www.ancient-egypt-online.com/ancient-egyptian-weapons.html"
+        },
+        {
+            "Title": "Swords in Ancient Chinese Warfare - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/article/1141/swords-in-ancient-chinese-warfare"
+        },
+        {
+            "Title": "Ancient Civilizations Flashcards | Quizlet",
+            "URL": "https://quizlet.com/599567858/ancient-civilizations-flash-cards"
+        },
+        {
+            "Title": "Ancient Civilization Technologies - Ancient Civilizations World",
+            "URL": "https://ancientcivilizationsworld.com/technologies"
+        },
+        {
+            "Title": "Weapons In Ancient Civilization Trivia Quiz - BestFunQuiz",
+            "URL": "https://bestfunquiz.com/q/weapons-in-ancient-civilization-trivia-quiz"
+        },
+        {
+            "Title": "Ancient Origins of the Celts - Ancient Civilizations... - YouTube",
+            "URL": "https://www.youtube.com/watch?v=S_QizTMIr-0"
+        },
+        {
+            "Title": "Ancient Civilizations Timeline: 16 Oldest Known... | History Cooperative",
+            "URL": "https://historycooperative.org/ancient-civilizations"
+        },
+        {
+            "Title": "ancient civilization - Students | Britannica Kids | Homework Help",
+            "URL": "https://kids.britannica.com/students/article/ancient-civilization/272856"
+        },
+        {
+            "Title": "Ancient Civilization | Monster Hunter Wiki | Fandom",
+            "URL": "https://monsterhunter.fandom.com/wiki/Ancient_Civilization"
+        },
+        {
+            "Title": "PDF Convention on Prohibitions or Restrictions on the Use of Certain...",
+            "URL": "https://www.icrc.org/en/doc/assets/files/other/icrc_002_0811.pdf"
+        },
+        {
+            "Title": "The World's Oldest Civilizations - WorldAtlas",
+            "URL": "https://www.worldatlas.com/articles/10-of-the-world-s-oldest-civilizations.html"
+        },
+        {
+            "Title": "Ancient China - Ancient Civilizations for Kids",
+            "URL": "https://www.sites.google.com/site/1ancientcivilizationsforkids/ancient-china"
+        },
+        {
+            "Title": "What are the most important contributions made by ancient...",
+            "URL": "https://www.researchgate.net/post/What-are-the-most-important-contributions-made-by-ancient-civilizations"
+        },
+        {
+            "Title": "Ancient Greek Civilization",
+            "URL": "https://www.ancient-civilizations.com/ancient-greek-civilization"
+        },
+        {
+            "Title": "7 characteristics of an Ancient Egyptian Civilization by Devin J",
+            "URL": "https://prezi.com/-grqxs1ktroz/7-characteristics-of-an-ancient-egyptian-civilization"
+        },
+        {
+            "Title": "(PDF) Civilizations of the Ancient Near East - Academia.edu",
+            "URL": "https://www.academia.edu/260647/Civilizations_of_the_Ancient_Near_East"
+        },
+        {
+            "Title": "Was tin used for weapons in the early civilizations? - Answers",
+            "URL": "https://www.Answers.com/Q/Was_tin_used_for_weapons_in_the_early_civilizations"
+        },
+        {
+            "Title": "in the First Century. The Roman Empire. Life In Roman Times ...",
+            "URL": "https://www.pbs.org/empires/romans/empire/weddings.html"
+        },
+        {
+            "Title": "Weddings in ancient Rome - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Weddings_in_ancient_Rome"
+        },
+        {
+            "Title": "Roman Marriage | UNRV.com",
+            "URL": "https://www.unrv.com/culture/roman-marriage.php"
+        },
+        {
+            "Title": "The ancient Roman marriage ceremony and its links to ...",
+            "URL": "https://www.explore-italian-culture.com/ancient-roman-marriage.html"
+        },
+        {
+            "Title": "Roman Wedding Customs - History for kids",
+            "URL": "https://www.historyforkids.net/ancient-rome/daily-life/roman-wedding-customs.html"
+        },
+        {
+            "Title": "Ancient Roman Weddings",
+            "URL": "https://rome.mrdonn.org/weddings.html"
+        },
+        {
+            "Title": "MARRIAGE, WEDDINGS AND LOVE IN ANCIENT ROME",
+            "URL": "https://factsanddetails.com/world/cat56/sub369/item2074.html"
+        },
+        {
+            "Title": "FORUM INTRODUCTION TO THE ROMAN WEDDING - jstor",
+            "URL": "https://www.jstor.org/stable/10.5184/classicalj.109.2.0223"
+        },
+        {
+            "Title": "Bridal Ceremonies in Ancient Rome | History10",
+            "URL": "https://www.history10.com/general-history/ancient-rome-ceremonies-kilo"
+        },
+        {
+            "Title": "Bridal Ceremonies in Ancient Rome Outline (1).docx - 1 …",
+            "URL": "https://www.coursehero.com/file/109056869/Bridal-Ceremonies-in-Ancient-Rome-Outline-1docx"
+        },
+        {
+            "Title": "Wedding Customs in Ancient Rome | Savvy Leo",
+            "URL": "https://savvyleo.com/world-history/ancient-rome/wedding-customs"
+        },
+        {
+            "Title": "A Wedding in Ancient Rome – For the Love of Rome",
+            "URL": "https://pocketrome.wordpress.com/2014/04/06/a-wedding-in-ancient-rome"
+        },
+        {
+            "Title": "Ancient Roman Weddings: the origins of the modern …",
+            "URL": "https://www.explore-italian-culture.com/ancient-roman-weddings.html"
+        },
+        {
+            "Title": "Weddings in ancient Rome - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Weddings_in_Ancient_Rome"
+        },
+        {
+            "Title": "Marriage in ancient Rome - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Marriage_in_ancient_Rome"
+        },
+        {
+            "Title": "Bridal Ceremonies in Ancient Rome | History10",
+            "URL": "https://history10.com/general-history/ancient-rome-ceremonies-kilo"
+        },
+        {
+            "Title": "Bridal Attire in Ancient Greece and Rome - Women in Antiquity",
+            "URL": "https://womeninantiquity.wordpress.com/2018/11/27/bridal-attire-in-ancient-greece-and-rome"
+        },
+        {
+            "Title": "Marriage in Ancient Rome - Crystalinks",
+            "URL": "https://www.crystalinks.com/romemarriage.html"
+        },
+        {
+            "Title": "Ancient Roman Traditions, Ceremonies, and Holidays - YouTube",
+            "URL": "https://www.youtube.com/watch?v=vectzyBpLng"
+        },
+        {
+            "Title": "Marriage in ancient Rome - Infogalactic: the planetary knowledge core",
+            "URL": "https://infogalactic.com/info/Marriage_in_ancient_Rome"
+        },
+        {
+            "Title": "The Marriage Ceremony—Types of Marriage in Ancient Rome",
+            "URL": "https://www.thegreatcoursesdaily.com/role-of-women-in-ancient-rome"
+        },
+        {
+            "Title": "Homosexuality in ancient Rome - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome"
+        },
+        {
+            "Title": "Marriage in ancient Rome | News Directory",
+            "URL": "https://dir.md/wiki/Roman_marriage?host=wikipedia.org"
+        },
+        {
+            "Title": "What Sex Was Like in Ancient Rome | by Sal Writes | Medium",
+            "URL": "https://medium.com/lessons-from-history/what-sex-was-like-in-ancient-rome-78f3a1154523"
+        },
+        {
+            "Title": "15 Interesting Women of Ancient Rome - Listverse",
+            "URL": "https://listverse.com/2011/10/20/15-interesting-women-of-ancient-rome"
+        },
+        {
+            "Title": "Ancient Roman Religion and Ceremonies",
+            "URL": "http://www.tribunesandtriumphs.org/roman-gods/ancient-roman-religion-ceremonies.htm"
+        },
+        {
+            "Title": "Religious Rites in Ancient Rome",
+            "URL": "https://eaglesanddragonspublishing.com/religious-rites-in-ancient-rome"
+        },
+        {
+            "Title": "ancient Rome - Culture and religion | Britannica",
+            "URL": "https://www.britannica.com/place/ancient-Rome/Culture-and-religion"
+        },
+        {
+            "Title": "Homosexuality in Ancient Rome | Rape | Gender",
+            "URL": "https://ru.scribd.com/document/122898428/Homosexuality-in-Ancient-Rome"
+        },
+        {
+            "Title": "Top 10 Religion Practices in the Ancient Rome",
+            "URL": "https://www.ancienthistorylists.com/rome-history/top-10-religion-practices-ancient-rome"
+        },
+        {
+            "Title": "BBC - History - Ancient History in depth: Resisting Slavery in Ancient...",
+            "URL": "https://www.bbc.co.uk/history/ancient/romans/slavery_01.shtml"
+        },
+        {
+            "Title": "The Gods and Goddesses of Ancient Rome",
+            "URL": "https://www.nationalgeographic.org/article/gods-and-goddesses-ancient-rome"
+        },
+        {
+            "Title": "Ancient Rome",
+            "URL": "https://www.thoughtco.com/ancient-roman-history-4133328"
+        },
+        {
+            "Title": "52 Ancient Roman Monuments (with Map) - Touropia",
+            "URL": "https://www.touropia.com/ancient-roman-monuments"
+        },
+        {
+            "Title": "Ancient Ceremony слушать и скачать на LightAudio",
+            "URL": "https://lightaudio.ru/mp3/ancient ceremony"
+        },
+        {
+            "Title": "Ancient Greece and Rome | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/children/encyclopedias-almanacs-transcripts-and-maps/ancient-greece-and-rome"
+        },
+        {
+            "Title": "My Top 46 Favorite Movies/TV Series Set in Ancient Greece/Rome",
+            "URL": "https://www.imdb.com/list/ls070007703"
+        },
+        {
+            "Title": "PDF Ancient Rome and Early",
+            "URL": "https://www.cusd200.org/cms/lib/IL01001538/Centricity/Domain/267/_files/World_Civ_Chapter_6.pdf"
+        },
+        {
+            "Title": "Ancient Dyes | Colors & Dyes For Clothing in Ancient Rome",
+            "URL": "https://earlychurchhistory.org/fashion/colors-dyes-for-clothing-in-ancient-rome"
+        },
+        {
+            "Title": "The effects of apartheid on the mental health of South Africa's ...",
+            "URL": "https://link.springer.com/article/10.1007/BF00117733"
+        },
+        {
+            "Title": "Apartheid In South Africa: Laws, End & Facts - HISTORY",
+            "URL": "https://www.history.com/topics/africa/apartheid"
+        },
+        {
+            "Title": "Understanding the Impact of Apartheid on South African ...",
+            "URL": "https://grantcraft.org/content/takeaways/understanding-the-impact-of-apartheid"
+        },
+        {
+            "Title": "apartheid | South Africa, Definition, Facts, Beginning, & End",
+            "URL": "https://www.britannica.com/topic/apartheid"
+        },
+        {
+            "Title": "The Struggle against Apartheid: Lessons for Today's World",
+            "URL": "https://www.un.org/en/chronicle/article/struggle-against-apartheid-lessons-todays-world"
+        },
+        {
+            "Title": "Your guide to apartheid in South Africa - History Extra",
+            "URL": "https://www.historyextra.com/period/20th-century/apartheid-facts-history-south-africa-dates-when-start-end-laws-nelson-mandela-affect-impact"
+        },
+        {
+            "Title": "The psychological effects of Apartheid psychoanalysis - PubMed",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/3733349"
+        },
+        {
+            "Title": "Apartheid ended 29 years ago. How has South Africa changed?",
+            "URL": "https://www.nationalgeographic.com/culture/article/how-south-africa-changed-since-apartheid-born-free-generation"
+        },
+        {
+            "Title": "What effect did apartheid have on South Africa? – Colors …",
+            "URL": "https://colors-newyork.com/what-effect-did-apartheid-have-on-south-africa"
+        },
+        {
+            "Title": "How did the apartheid impact lives? – AnswersToAll",
+            "URL": "https://answerstoall.com/miscellaneous/how-did-the-apartheid-impact-lives"
+        },
+        {
+            "Title": "Apartheid - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Apartheid"
+        },
+        {
+            "Title": "South Africa: The Impact of Apartheid - Tropic of Capricorn - BBC travel",
+            "URL": "https://www.youtube.com/watch?v=-lh8xw2zbvw"
+        },
+        {
+            "Title": "Israeli Authorities and the Crimes of Apartheid and Persecution | HRW",
+            "URL": "https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution"
+        },
+        {
+            "Title": "How did apartheid impact South Africa's relationship... | AnswersDrive",
+            "URL": "https://answersdrive.com/how-did-apartheid-impact-south-africa-s-relationship-with-other-nations-24706094"
+        },
+        {
+            "Title": "Apartheid Economic Impact",
+            "URL": "https://www.economic-news.info/apartheid-economic-impact"
+        },
+        {
+            "Title": "Apartheid impact on education Flashcards | Quizlet",
+            "URL": "https://quizlet.com/gb/620109659/apartheid-impact-on-education-flash-cards"
+        },
+        {
+            "Title": "How did apartheid have an impact on World History? - eNotes.com",
+            "URL": "https://www.enotes.com/homework-help/how-did-apartheid-have-an-impact-world-history-334443"
+        },
+        {
+            "Title": "Impact of Apartheid on Education in South Africa - 1630 Words",
+            "URL": "https://ivypanda.com/essays/apartheid-2"
+        },
+        {
+            "Title": "Impact of the cold war on the struggle against apartheid in south afri...",
+            "URL": "https://iproject.com.ng/international-relations/impact-of-the-cold-war-on-the-struggle-against-apartheid-in-south-africa-1945-1991/index.html"
+        },
+        {
+            "Title": "Apartheid impact alive - Mpumalanga premier | The Citizen",
+            "URL": "https://www.citizen.co.za/news/south-africa/135643/apartheid-impact-alive-mpumalanga-premier"
+        },
+        {
+            "Title": "How Nelson Mandela fought apartheid—and why his work is not...",
+            "URL": "https://www.nationalgeographic.com/history/article/nelson-mandela-fought-apartheid-work-not-complete"
+        },
+        {
+            "Title": "Apartheid Impact on African Women Essay Example | Topics and...",
+            "URL": "https://studentshare.org/miscellaneous/1500517-apartheid-impact-on-african-women"
+        },
+        {
+            "Title": "Apartheid - A History and Overview",
+            "URL": "https://www.thoughtco.com/apartheid-101-overview-43438"
+        },
+        {
+            "Title": "How did Apartheid impact black South Africans?",
+            "URL": "https://prezi.com/p/accfkg1nhwya/apartheid-project-2018-matthew-mark-and-thomas"
+        },
+        {
+            "Title": "Apartheid » 50Minutes.com - Knowledge at your fingertips",
+            "URL": "https://www.50minutes.com/title/apartheid"
+        },
+        {
+            "Title": "How did apartheid impact on peoples lives? - Answers",
+            "URL": "https://www.Answers.com/Q/How_did_apartheid_impact_on_peoples_lives"
+        },
+        {
+            "Title": "The Psychological Impacts of Apartheid on Black South Africans - GRIN",
+            "URL": "https://www.grin.com/document/264561"
+        },
+        {
+            "Title": "Apartheid — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Apartheid"
+        },
+        {
+            "Title": "Read Apartheid In South Africa - Origins And Impact Online by Seth...",
+            "URL": "https://www.scribd.com/book/155615984/Apartheid-In-South-Africa-Origins-And-Impact"
+        },
+        {
+            "Title": "Apartheid | Definition of Apartheid by Merriam-Webster",
+            "URL": "https://www.merriam-webster.com/dictionary/apartheid"
+        },
+        {
+            "Title": "Apartheid impacted views",
+            "URL": "https://www.jewishindependent.ca/apartheid-impacted-views"
+        },
+        {
+            "Title": "Apartheid in South Africa - Year 12 - Unit 3 - History... - StuDocu",
+            "URL": "https://www.studocu.com/en-au/document/higher-school-certificate-new-south-wales/history-modern-history/apartheid-in-south-africa/8795602"
+        },
+        {
+            "Title": "Other Impacts Of Bantu Education During Apartheid",
+            "URL": "https://study-education.com/other-impacts-of-bantu-education-during-apartheid"
+        },
+        {
+            "Title": "Objective Analyze how the system of Apartheid impacted the nation...",
+            "URL": "https://slideplayer.com/slide/8444868"
+        },
+        {
+            "Title": "How did the Apartheid impact Africa's culture? - Brainly.com",
+            "URL": "https://brainly.com/question/21697413"
+        },
+        {
+            "Title": "How did apartheid Impact Nelson Mandela's Perspective... - Brainly.in",
+            "URL": "https://brainly.in/question/35100186"
+        },
+        {
+            "Title": "Focus on Latin America - Center For International Education",
+            "URL": "https://www.berea.edu/cie/focus-latin-america"
+        },
+        {
+            "Title": "European colonization of the Americas - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/European_colonization_of_the_Americas"
+        },
+        {
+            "Title": "history of Latin America | Meaning, Countries, Map, & Facts",
+            "URL": "https://www.britannica.com/place/Latin-America"
+        },
+        {
+            "Title": "European Colonization of the Americas - New World ...",
+            "URL": "https://www.newworldencyclopedia.org/entry/European_Colonization_of_the_Americas"
+        },
+        {
+            "Title": "South America before c. 1500 | Khan Academy",
+            "URL": "https://www.khanacademy.org/humanities/art-americas/south-america-early"
+        },
+        {
+            "Title": "1492: An Ongoing Voyage What Came To Be Called “America”",
+            "URL": "https://www.loc.gov/exhibits/1492/america.html"
+        },
+        {
+            "Title": "The Exploration and Conquest of the New World - Lumen ...",
+            "URL": "https://courses.lumenlearning.com/boundless-ushistory/chapter/the-exploration-and-conquest-of-the-new-world"
+        },
+        {
+            "Title": "Colonization: South America - Empire of Spain",
+            "URL": "http://empireofspain.weebly.com/colonization-south-america.html"
+        },
+        {
+            "Title": "South American Colonization - SlideShare",
+            "URL": "https://www.slideshare.net/sheidi/south-american-colonization"
+        },
+        {
+            "Title": "Colonization of South America - University of Maine System",
+            "URL": "http://maplibrary5.ly.usm.maine.edu/dropbox/educational/10_script.pdf"
+        },
+        {
+            "Title": "The Colonization Of South America - 791 Words | 123 Help Me",
+            "URL": "https://www.123helpme.com/essay/The-Colonization-Of-South-America-PJ5ZWVA8YKB"
+        },
+        {
+            "Title": "History of South America - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/History_of_South_America"
+        },
+        {
+            "Title": "European Colonization of the Americas - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/European_Colonization_of_the_Americas"
+        },
+        {
+            "Title": "Colonization of America",
+            "URL": "https://www.landofthebrave.info/colonization-of-america.htm"
+        },
+        {
+            "Title": "European colonization of the Americas — Wikipedia... // WIKI 2",
+            "URL": "https://wiki2.org/en/European_colonization_of_the_Americas"
+        },
+        {
+            "Title": "American colonies | Facts, History, and Definition | Britannica",
+            "URL": "https://www.britannica.com/topic/American-colonies"
+        },
+        {
+            "Title": "Colonial history of the United States | American... | Fandom",
+            "URL": "https://arw.fandom.com/wiki/Colonial_history_of_the_United_States"
+        },
+        {
+            "Title": "(PDF) Colonization of South America from Caribbean Islands...",
+            "URL": "https://www.researchgate.net/publication/230561917_Colonization_of_South_America_from_Caribbean_Islands_Confirmed_by_Molecular_Phylogeny_with_Increased_Taxon_Sampling"
+        },
+        {
+            "Title": "The Impact of Colonization | US History I (OS Collection)",
+            "URL": "https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/the-impact-of-colonization"
+        },
+        {
+            "Title": "European colonization of the Americas",
+            "URL": "https://en-academic.com/dic.nsf/enwiki/33463"
+        },
+        {
+            "Title": "History Of South America Colonization",
+            "URL": "https://www.travelusandcanada.com/travel/history-of-south-america-colonization"
+        },
+        {
+            "Title": "European Colonization of South America - 4.3 and... | Quizlet",
+            "URL": "https://quizlet.com/567889906/european-colonization-of-south-america-43-and-44-flash-cards"
+        },
+        {
+            "Title": "Colonial America (1492-1763)",
+            "URL": "https://www.americaslibrary.gov/jb/colonial/jb_colonial_subj.html"
+        },
+        {
+            "Title": "Colonization of America",
+            "URL": "http://www.sonofthesouth.net/revolutionary-war/colonies/colonization-of-america.htm"
+        },
+        {
+            "Title": "British Colonization Of The United States Of America - About History",
+            "URL": "https://about-history.com/british-colonization-of-the-united-states-of-america"
+        },
+        {
+            "Title": "America colonisation 'cooled Earth's climate' - BBC News",
+            "URL": "https://www.bbc.com/news/science-environment-47063973"
+        },
+        {
+            "Title": "American Colonization Society | Encyclopedia.com",
+            "URL": "https://www.encyclopedia.com/history/united-states-and-canada/us-history/american-colonization-society"
+        },
+        {
+            "Title": "AHC: The Re-Colonization of South America | alternatehistory.com",
+            "URL": "https://www.alternatehistory.com/forum/threads/ahc-the-re-colonization-of-south-america.253143"
+        },
+        {
+            "Title": "European colonization of Americas killed so many it... | The Guardian",
+            "URL": "https://www.theguardian.com/environment/2019/jan/31/european-colonization-of-americas-helped-cause-climate-change"
+        },
+        {
+            "Title": "History Of South America Colonization",
+            "URL": "https://www.games-t.com/history-of-south-america-colonization"
+        },
+        {
+            "Title": "The Colonization of America",
+            "URL": "https://www.publicbookshelf.com/public_html/The_Great_Republic_By_the_Master_Historians_Vol_I/colonizati_cb.html"
+        },
+        {
+            "Title": "PDF Colonization Of South America",
+            "URL": "http://rmapi.youthmanual.com/colonization_of_south_america.pdf"
+        },
+        {
+            "Title": "colonization - How were the modern countries in South America...",
+            "URL": "https://history.stackexchange.com/questions/11027/how-were-the-modern-countries-in-south-america-formed"
+        },
+        {
+            "Title": "Thirteen American Colonies - Life, Economy, Religion and Education...",
+            "URL": "https://www.english-online.at/history/colonial-america/life-in-the-thirteen-american-colonies.htm"
+        },
+        {
+            "Title": "How the Colonization in the Usa Was Different as the... | Studymode",
+            "URL": "https://www.studymode.com/essays/How-The-Colonization-In-The-Usa-1596930.html"
+        },
+        {
+            "Title": "Feudalism - Worldwide Political and Social System - ThoughtCo",
+            "URL": "https://www.thoughtco.com/feudalism-political-system-of-medieval-europe-170918"
+        },
+        {
+            "Title": "Social Relations In Medieval Europe Essay - 1585 Words",
+            "URL": "https://www.123helpme.com/essay/Social-Relations-In-Medieval-Europe-Essay-743094"
+        },
+        {
+            "Title": "The Feudal Model in Social Analysis: From Medieval Europe ...",
+            "URL": "https://www.jstor.org/stable/10.5325/j.ctt7v1zs.5"
+        },
+        {
+            "Title": "Medieval Life | Boundless World History - Lumen Learning",
+            "URL": "https://courses.lumenlearning.com/boundless-worldhistory/chapter/medieval-life"
+        },
+        {
+            "Title": "Feudalism - World History Encyclopedia",
+            "URL": "https://www.worldhistory.org/Feudalism"
+        },
+        {
+            "Title": "Feudalism - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Feudalism"
+        },
+        {
+            "Title": "feudalism | Definition, Examples, History, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/feudalism"
+        },
+        {
+            "Title": "Feudalism in Medieval Europe | TimeMaps",
+            "URL": "https://www.timemaps.com/encyclopedia/medieval-europe-feudalism"
+        },
+        {
+            "Title": "Social Relationships in Medieval Europe - Assignment …",
+            "URL": "https://www.assignmentdealer.com/medieval-europe"
+        },
+        {
+            "Title": "Social Relationships in Medieval Europe - Homework Nation",
+            "URL": "https://www.homeworknation.com/medieval-europe"
+        },
+        {
+            "Title": "Social Structure - Medieval Europe",
+            "URL": "https://kurianp.weebly.com/social-structure.html"
+        },
+        {
+            "Title": "Political, Religious, Social, and Cultural Changes in …",
+            "URL": "https://studentshare.org/history/1606064-modern-age-europe-1348-1789-important-analysis-essay-2"
+        },
+        {
+            "Title": "Social Classes in the Middle Ages - The Finer Times",
+            "URL": "https://www.thefinertimes.com/social-classes-in-the-middle-ages"
+        },
+        {
+            "Title": "Medieval demography - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Medieval_demography"
+        },
+        {
+            "Title": "The Middle ages vocaba social system of relationships in medieval...",
+            "URL": "https://quizlet.com/453716435/the-middle-ages-vocaba-social-system-of-relationships-in-medieval-europe-between-lords-and-vassals-flash-cards"
+        },
+        {
+            "Title": "(PDF) Population-Area Relationship for Medieval European Cities",
+            "URL": "https://www.researchgate.net/publication/308910090_Population-Area_Relationship_for_Medieval_European_Cities"
+        },
+        {
+            "Title": "Social Classes in Medieval Europe by Erie Simms",
+            "URL": "https://prezi.com/gh9kzppoefq_/social-classes-in-medieval-europe"
+        },
+        {
+            "Title": "Medieval people - Life in medieval Europe - Quatr.us Study Guides",
+            "URL": "https://quatr.us/medieval/medieval-people-life-medieval-europe.htm"
+        },
+        {
+            "Title": "Population-Area Relationship for Medieval European Cities",
+            "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162678"
+        },
+        {
+            "Title": "Lecture 23: Medieval Society: The Three Orders",
+            "URL": "http://www.historyguide.org/ancient/lecture23b.html"
+        },
+        {
+            "Title": "PDF Friendship Networks in Medieval Europe",
+            "URL": "https://amityjournal.leeds.ac.uk/wp-content/uploads/sites/127/2013/11/AmityjournalfirstissueJH28.09.13FINAL.pdf"
+        },
+        {
+            "Title": "Population-Area Relationship for Medieval European Cities",
+            "URL": "https://pubmed.ncbi.nlm.nih.gov/27706192"
+        },
+        {
+            "Title": "(PDF) Historical Materialism: Social Structure and... - Academia.edu",
+            "URL": "https://www.academia.edu/1880775/Historical_Materialism_Social_Structure_and_Social_Change_in_the_Middle_Ages"
+        },
+        {
+            "Title": "What medieval Europe did with its teenagers - BBC News",
+            "URL": "https://www.bbc.com/news/magazine-26289459"
+        },
+        {
+            "Title": "history of Europe - Modifications in social structure | Britannica",
+            "URL": "https://www.britannica.com/topic/history-of-Europe/Modifications-in-social-structure"
+        },
+        {
+            "Title": "Social and Economic Changes in Early Medieval Europe",
+            "URL": "https://www.heeve.com/middle-ages-history/medieval-europe.html"
+        },
+        {
+            "Title": "PDF What was life like in medieval Europe",
+            "URL": "https://www.oup.com.au/__data/assets/pdf_file/0020/58124/Chapter-9-Medievil-Europe.pdf"
+        },
+        {
+            "Title": "Homosexuality in medieval Europe - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Homosexuality_in_medieval_Europe"
+        },
+        {
+            "Title": "Notes on Medieval Population Geography | by Lyman Stone | Medium",
+            "URL": "https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f"
+        },
+        {
+            "Title": "Medieval Women: Love, Marriage, Family, and Livelihoods - Owlcation",
+            "URL": "https://owlcation.com/humanities/medieval-women"
+        },
+        {
+            "Title": "The Status of Women in Medieval Europe",
+            "URL": "https://www.thegreatcoursesdaily.com/the-status-of-women-in-medieval-europe"
+        },
+        {
+            "Title": "Epic History of Medieval Europe and Powerful European Countries of...",
+            "URL": "https://www.medievalchronicles.com/medieval-europe"
+        },
+        {
+            "Title": "Feudalism in Medieval Europe- simple explanation - YouTube",
+            "URL": "https://www.youtube.com/watch?v=Gd4lopIPObA"
+        },
+        {
+            "Title": "Social Relationships In Medieval Europe Assignment Dealer",
+            "URL": "https://thefreecoursesite.com/social-classes-in-medieval-europe"
+        },
+        {
+            "Title": "Europe During Medieval Times - bringdajuice",
+            "URL": "https://www.sites.google.com/site/bringdajuice/europe-during-medieval-times"
+        },
+        {
+            "Title": "How did the feudal system organize social relationships in medieval...",
+            "URL": "https://www.Answers.com/Q/How_did_the_feudal_system_organize_social_relationships_in_medieval_Europe"
+        },
+        {
+            "Title": "British Library | Women in medieval society",
+            "URL": "https://www.bl.uk/the-middle-ages/articles/women-in-medieval-society"
+        },
+        {
+            "Title": "Medieval Europe: European Civilization in the Middle Ages | TimeMaps",
+            "URL": "https://www.timemaps.com/civilizations/medieval-europe"
+        },
+        {
+            "Title": "Lords and Serfs in Medieval Europe | Richard M. Ebeling",
+            "URL": "https://fee.org/articles/lords-and-serfs-in-medieval-europe"
+        },
+        {
+            "Title": "Cold War aftershocks - Tampa Bay Times",
+            "URL": "https://www.tampabay.com/archive/2006/03/07/cold-war-aftershocks"
+        },
+        {
+            "Title": "COLD WAR – AfterShock Comics",
+            "URL": "https://aftershockcomics.com/cold-war"
+        },
+        {
+            "Title": "Great Powers and Domestic Reforms in the Twentieth Century",
+            "URL": "http://assets.press.princeton.edu/chapters/i11034.pdf"
+        },
+        {
+            "Title": "Cold War - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Cold_War"
+        },
+        {
+            "Title": "The Cold War and its Aftermath | Foreign Affairs",
+            "URL": "https://www.foreignaffairs.com/articles/russia-fsu/1992-09-01/cold-war-and-its-aftermath"
+        },
+        {
+            "Title": "AfterShock Comics Review: Cold War Vol. 1 Dead Future",
+            "URL": "https://www.youtube.com/watch?v=sgqvmw0Xhpw"
+        },
+        {
+            "Title": "Aftershocks: Pandemic Politics and the End of the Old ...",
+            "URL": "https://www.brookings.edu/books/aftershocks-pandemic-politics-and-the-end-of-the-old-international-order"
+        },
+        {
+            "Title": "A Cold War endgame or an opportunity missed? Analysing the ...",
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/14682745.2021.1987871?src="
+        },
+        {
+            "Title": "AfterShock Announcement: The Cold War Goes White Hot In ...",
+            "URL": "https://monkeysfightingrobots.co/aftershock-announcement-the-cold-war-goes-white-hot-in-nuclear-family"
+        },
+        {
+            "Title": "Aftershocks: The Coronavirus Pandemic and the New …",
+            "URL": "https://warontherocks.com/2020/04/aftershocks-the-coronavirus-pandemic-and-the-new-world-disorder"
+        },
+        {
+            "Title": "Jan. 6 aftershocks worsen as ‘Cold War’ in the House escalates – BNR",
+            "URL": "https://breakingnewsandreligion.online/2021/03/12/jan-6-aftershocks-worsen-as-cold-war-in-the-house-escalates"
+        },
+        {
+            "Title": "Jan. 6 aftershocks worsen as ‘Cold War’ in the House escalates",
+            "URL": "https://jaceyamp.com/art-6271.html"
+        },
+        {
+            "Title": "Cold War: Summary, Combatants & Timeline - HISTORY",
+            "URL": "https://www.history.com/topics/cold-war/cold-war-history"
+        },
+        {
+            "Title": "Call of Duty®: Black Ops - Cold War | Popular FPS Game",
+            "URL": "https://www.callofduty.com/blackopscoldwar"
+        },
+        {
+            "Title": "Cold War aftershocks - Mehr News Agency",
+            "URL": "https://en.mehrnews.com/news/22215/Cold-War-aftershocks"
+        },
+        {
+            "Title": "Cold War (AfterShock) AfterShock comic book",
+            "URL": "https://granitecitycomics.com/publisher/AfterShock/Cold-War-AfterShock"
+        },
+        {
+            "Title": "Cold War Zombies LEAKS: Next Map Release Date, Forsaken...",
+            "URL": "https://www.gfinityesports.com/black-ops-cold-war/call-of-duty-black-ops-cold-war-zombies-leaks-cod-2020"
+        },
+        {
+            "Title": "All COD Black Ops Cold War Weapons (2020/2021) | Full List of Call...",
+            "URL": "https://www.gamesatlas.com/cod-black-ops-cold-war/weapons"
+        },
+        {
+            "Title": "How to use Cold War Operators in Modern Warfare Multiplayer! Tutorial",
+            "URL": "https://www.youtube.com/watch?v=UrB6Sn9F_BY"
+        },
+        {
+            "Title": "Cold War | Summary, Causes, History, & Facts | Britannica",
+            "URL": "https://www.britannica.com/event/Cold-War"
+        },
+        {
+            "Title": "Soviet Cold War Uniforms Armourers Workshop Pack 1.7.10",
+            "URL": "https://www.planetminecraft.com/mod/soviet-mid-late-cold-war-uniforms-armourers-workshop-pack-1-7-10"
+        },
+        {
+            "Title": "The Cold War: Causes, Major Events, and How it Ended - History",
+            "URL": "https://www.historyonthenet.com/cold-war-causes-major-events-ended"
+        },
+        {
+            "Title": "Cold War mod for Men of War: Assault Squad 2 - Mod DB",
+            "URL": "https://www.moddb.com/mods/cold-war1"
+        },
+        {
+            "Title": "Cold War | Aug Tactical Rifle - Best Loadouts Build & Stats - GameWith",
+            "URL": "https://gamewith.net/cod-coldwar/article/show/23224"
+        },
+        {
+            "Title": "Cold War 1947 - 1991 - Multiplayer - ED Forums",
+            "URL": "https://forums.eagle.ru/topic/180252-cold-war-1947-1991"
+        },
+        {
+            "Title": "Cold War - New World Encyclopedia",
+            "URL": "https://www.newworldencyclopedia.org/entry/Cold_War"
+        },
+        {
+            "Title": "Cold War | Alternative History | Fandom",
+            "URL": "https://althistory.fandom.com/wiki/Cold_War"
+        },
+        {
+            "Title": "Spanish Armada - Defeat & Definition - HISTORY",
+            "URL": "https://www.history.com/topics/british-history/spanish-armada"
+        },
+        {
+            "Title": "Spanish Armada - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Spanish_Armada"
+        },
+        {
+            "Title": "Spanish Armada | Definition, Defeat, & Facts | Britannica",
+            "URL": "https://www.britannica.com/topic/Armada-Spanish-naval-fleet"
+        },
+        {
+            "Title": "The Spanish Armada: history, causes and timeline - Royal ...",
+            "URL": "https://www.rmg.co.uk/stories/topics/spanish-armada-history-causes-timeline"
+        },
+        {
+            "Title": "Britain's 10 most significant naval battles - History Extra",
+            "URL": "https://www.historyextra.com/period/second-world-war/britains-10-most-significant-naval-battles"
+        },
+        {
+            "Title": "The Spanish Armada, 1588 - Historic UK",
+            "URL": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Spanish-Armada"
+        },
+        {
+            "Title": "The Spanish Armada - British Battles",
+            "URL": "https://www.britishbattles.com/the-spanish-war/the-spanish-armada"
+        },
+        {
+            "Title": "Return to Spain - The Spanish Armada - WJEC - BBC",
+            "URL": "https://www.bbc.co.uk/bitesize/guides/z2hbtv4/revision/4"
+        },
+        {
+            "Title": "God blew and they were scattered - The National Archives",
+            "URL": "https://www.nationalarchives.gov.uk/education/resources/god-blew-they-were-scattered"
+        },
+        {
+            "Title": "Anglo-Spanish War (1585–1604) - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585–1604)"
+        },
+        {
+            "Title": "United Kingdom - The clash with Spain | Britannica",
+            "URL": "https://www.britannica.com/place/United-Kingdom/The-clash-with-Spain"
+        },
+        {
+            "Title": "The Battle That Ended French Supremacy In Sea — Battle …",
+            "URL": "https://medium.com/lessons-from-history/the-battle-that-ended-french-supremacy-in-sea-battle-of-trafalgar-e53a802d409a"
+        },
+        {
+            "Title": "Spain declares war against Great Britain - HISTORY",
+            "URL": "https://www.history.com/this-day-in-history/spain-declares-war-against-great-britain"
+        },
+        {
+            "Title": "War of Jenkins' Ear - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear"
+        },
+        {
+            "Title": "World War One and the Battle for Command of the Seas",
+            "URL": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/World-War-One-At-Sea"
+        },
+        {
+            "Title": "Spanish Armada defeated - HISTORY",
+            "URL": "https://www.history.com/this-day-in-history/spanish-armada-defeated"
+        },
+        {
+            "Title": "Action of 5 October 1804 - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Action_of_5_October_1804"
+        },
+        {
+            "Title": "Category:Naval battles involving Spain - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Category:Naval_battles_involving_Spain"
+        },
+        {
+            "Title": "Battle of Trafalgar - Wikipedia",
+            "URL": "https://en.wikipedia.org/wiki/Battle_of_Trafalgar"
+        },
+        {
+            "Title": "Battle of Trafalgar - Simple English Wikipedia, the free encyclopedia",
+            "URL": "https://simple.wikipedia.org/wiki/Battle_of_Trafalgar"
+        },
+        {
+            "Title": "Ten of the greatest British naval victories: A look... | Daily Mail Online",
+            "URL": "https://www.dailymail.co.uk/home/moslive/article-1255826/Ten-greatest-British-naval-victories-A-look-nations-hardest-fought-battles-sea.html"
+        },
+        {
+            "Title": "BBC - History - British History in depth: The Battle of Trafalgar",
+            "URL": "https://www.bbc.co.uk/history/british/empire_seapower/trafalgar_01.shtml"
+        },
+        {
+            "Title": "Battle of Cartagena de Indias — Wikipedia Republished // WIKI 2",
+            "URL": "https://wiki2.org/en/Battle_of_Cartagena_de_Indias"
+        },
+        {
+            "Title": "As an ex-British Army officer, I can see the UK's new mission to bring...",
+            "URL": "https://www.rt.com/russia/540290-brexit-trigger-war-europe"
+        },
+        {
+            "Title": "Read eBooks online | World Heritage Encyclopedia | Battle of Trafalgar",
+            "URL": "http://worldheritage.org/articles/eng/Battle_of_Trafalgar"
+        },
+        {
+            "Title": "The Influence of Sea Power upon History, 1660-1783",
+            "URL": "https://www.cambridge.org/core/books/influence-of-sea-power-upon-history-16601783/C3F2700EA234A6BB03CE08BFB53F86E5"
+        },
+        {
+            "Title": "Jutland: Why World War I's only sea battle was so crucial to...",
+            "URL": "https://theconversation.com/jutland-why-world-war-is-only-sea-battle-was-so-crucial-to-britains-victory-59415"
+        },
+        {
+            "Title": "Empires of The Atlantic World Britain and Spain in America 1492 1830",
+            "URL": "https://www.scribd.com/document/80656729/Empires-of-the-Atlantic-World-Britain-and-Spain-in-America-1492-1830"
+        },
+        {
+            "Title": "Most Famous Wars Flashcards | Quizlet",
+            "URL": "https://quizlet.com/42377083/most-famous-wars-flash-cards"
+        },
+        {
+            "Title": "Battle of Cartagena de Indias - WikiMili, The Best Wikipedia Reader",
+            "URL": "https://WikiMili.com/en/Battle_of_Cartagena_de_Indias"
+        },
+        {
+            "Title": "Battle of Cartagena de Indias | Military Wiki | Fandom",
+            "URL": "https://military.wikia.org/wiki/Battle_of_Cartagena_de_Indias"
+        },
+        {
+            "Title": "British Navy and Army of the Napoleonic Wars",
+            "URL": "http://napoleonistyka.atspace.com/Britain_and_British_forces.htm"
+        },
+        {
+            "Title": "PDF The Battle for Spain: The Spanish Civil War 1936-1939",
+            "URL": "https://libcom.org/files/The Battle for Spain_ The Spani - Anthony Beevor.pdf"
+        },
+        {
+            "Title": "The Anglo-Saxon Period in the History of Great Britain (449-1066)",
+            "URL": "https://englishstory.ru/the-anglo-saxon-conquest-of-britain-449-1066.html"
+        },
+        {
+            "Title": "British Infantry : Napoleonic Wars : Uniforms : Tactics : Organization",
+            "URL": "http://www.napolun.com/mirror/napoleonistyka.atspace.com/foreigners_British_army.htm"
+        },
+        {
+            "Title": "Spain battles biggest wildfires in 20 years as heatwave grips Europe",
+            "URL": "https://www.theguardian.com/world/2019/jun/27/hundreds-of-firefighters-tackle-blaze-in-north-east-spain"
+        },
+        {
+            "Title": "The History of England » 00 Early period » The Celts",
+            "URL": "https://www.england-history.org/2012/10/the-celts"
+        },
+        {
+            "Title": "Timeline of the British Empire - Historic UK",
+            "URL": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Timeline-Of-The-British-Empire"
+        },
+        {
+            "Title": "8 Facts About Battle Of Britain You Should Know | Imperial War...",
+            "URL": "https://www.iwm.org.uk/history/8-things-you-need-to-know-about-the-battle-of-britain"
         }
     ];
 

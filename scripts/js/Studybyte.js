@@ -90,7 +90,7 @@ function TryToSearch()
 				}
 			}
 
-			else if (FormattedQuery == "studybyte.old") window.location = "Studybyte.Old.html";
+			else if (FormattedQuery == "studybyte.old") window.location = "./includes/Studybyte.Old.html";
 			else if (FormattedQuery == "studybyte in 2007") alert("Back in 2007 the Creator of Studybyte was born, but the Idea of Studybyte was not born yet.");
 			else if ((FormattedQuery.includes("coin") && FormattedQuery.includes("flip")) || (FormattedQuery.includes("coin") && FormattedQuery.includes("toss")))
 			{
