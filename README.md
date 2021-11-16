@@ -36,7 +36,7 @@ Yes, Studybyte is totally free and it's open source too. So, if you want then yo
 No, You don't need to have any kind of account to use Studybyte. Just open the site and start exploring.
 
 ### 5. How Do I Add My Website To Studybyte?
-Currently if you want to add a website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But really soon this whole process will be automated with Google Forms and Python.
+Currently if you want to add a website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But soon the process will be automated with Google Forms.
 
 ***
 
