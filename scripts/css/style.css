@@ -93,7 +93,6 @@ body
 
 .SearchAtTop #Searchbtn
 {
-
     font-weight: 400;
     text-align: center;
     font-size: 15px;
@@ -132,6 +131,22 @@ body
 #Results
 {
     margin-top: 125px;
+}
+
+#Results #CalculatedAns
+{
+    display: inline-block;
+	color: #8c8cfa;
+	cursor: pointer;
+	font-size: 20px;
+	transition: 0.2s;
+}
+
+#Results #CalculatedAns:hover
+{
+	text-decoration: underline;
+    font-size: 24px;
+	transition: 0.2s;
 }
 
 #Results li
