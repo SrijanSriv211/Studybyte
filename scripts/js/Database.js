@@ -730,10 +730,6 @@ function Database()
             "URL": "https://www.toppr.com/ask/content/cbse/class-5/english"
         },
         {
-            "Title": "Английский язык - 5 класс - Российская электронная школа",
-            "URL": "https://resh.edu.ru/subject/11/5"
-        },
-        {
             "Title": "NCERT Solutions for Class 5 Hindi रिमझिम",
             "URL": "https://www.learncbse.in/ncert-solutions-for-class-5-hindi"
         },
@@ -22110,10 +22106,6 @@ function Database()
             "URL": "https://www.rt.com/news/525059-researchers-reverse-biological-aging"
         },
         {
-            "Title": "CAE Test 5 | Part 2 Flashcards | Quizlet",
-            "URL": "https://quizlet.com/es/517073015/cae-test-5-part-2-flash-cards"
-        },
-        {
             "Title": "The DNA Universe/istockphoto/KJN -- Sott.net",
             "URL": "https://www.sott.net/article/454481-Inventor-of-mRNA-technology-Vaccine-causes-lipid-nanoparticles-to-accumulate-in-high-concentrations-in-ovaries"
         },
@@ -28984,10 +28976,6 @@ function Database()
         {
             "Title": "How electricity is produced | Endesa",
             "URL": "https://www.endesa.com/en/discover-energy/energy-and-more/how-electricity-is-generated"
-        },
-        {
-            "Title": "(Решено) Упр.5 Unit 3 Progress Check ГДЗ Enjoy English 10 класс...",
-            "URL": "https://reshak.ru/otvet/otvet_txt.php?otvet1=/enjoy10/images/Unit3/Progress/5"
         },
         {
             "Title": "The customer is always right: what it means in 2021",
@@ -41696,10 +41684,6 @@ function Database()
         {
             "Title": "Take Charge of Your Health: A Guide for Teenagers | NIDDK",
             "URL": "https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers"
-        },
-        {
-            "Title": "Упр.5 Unit 3 Progress Check ГДЗ Enjoy English 10 класс",
-            "URL": "https://reshak.ru/otvet/otvet_txt.php?otvet1=/enjoy10/images/Unit3/Progress/5"
         },
         {
             "Title": "Health Vocabulary for IELTS - Words, Phrases & Questions - IELTS...",

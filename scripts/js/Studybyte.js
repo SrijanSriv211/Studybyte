@@ -68,28 +68,6 @@ function TryToSearch()
 			else if (SearchTags(FormattedQuery, "pdfdrive?", "https://www.pdfdrive.com/search?q="));
 			else if (SearchTags(FormattedQuery, "ddg?", "https://duckduckgo.com/?q="));
 			else if (SearchTags(FormattedQuery, "gs?", "https://scholar.google.com/scholar?q="));
-			else if (FormattedQuery.includes("+") || FormattedQuery.includes("-") || FormattedQuery.includes("*") || FormattedQuery.includes("x") || FormattedQuery.includes("/"))
-			{
-				let CalculatedAns = ColorCalc(FormattedQuery);
-				if (isNaN(CalculatedAns))
-				{
-					// Redirect the user to the results page, then rank and show results accordingly.
-					localStorage.setItem("OriginalQuery", OriginalQuery);
-					localStorage.setItem("FormattedQuery", FormattedQuery);
-					window.location = "r.html";
-				}
-
-				else if (!isNaN(CalculatedAns))
-				{
-					const Expr = OriginalQuery.replace(/\s+/g, " ").trim();
-
-					localStorage.setItem("OriginalQuery", OriginalQuery);
-					localStorage.setItem("FormattedQuery", FormattedQuery);
-					document.title = Expr + " - Studybyte";
-					alert(Expr + " = " + CalculatedAns);
-				}
-			}
-
 			else if (FormattedQuery == "studybyte.old") window.location = "./includes/Studybyte.Old.html";
 			else if (FormattedQuery == "studybyte in 2007") alert("Back in 2007 the Creator of Studybyte was born, but the Idea of Studybyte was not born yet.");
 			else if ((FormattedQuery.includes("coin") && FormattedQuery.includes("flip")) || (FormattedQuery.includes("coin") && FormattedQuery.includes("toss")))
@@ -128,6 +106,23 @@ function GetResults()
 	const OriginalQuery = localStorage.getItem("OriginalQuery");
 	const FormattedQuery = localStorage.getItem("FormattedQuery");
 	document.title = OriginalQuery + " - Studybyte";
+
+	// Peform basic arithmetic calculations.
+	const CalculatedAns = ColorCalc(FormattedQuery);
+	if (!isNaN(CalculatedAns))
+	{
+		// Format the string.
+		const MultiplySign = OriginalQuery.replace("x", "*").trim();
+		const Format = MultiplySign.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
+		const Expr = Format.replace(/\s+/g, "").split("").join(" ");
+
+		// Render calculated answer.
+		const li = document.createElement("li");
+		const SiteList = document.getElementById("Results");
+		li.setAttribute("id", "CalculatedAns");
+		li.textContent = Expr + " = " + CalculatedAns;
+		SiteList.appendChild(li);
+	}
 
 	// Check for any edge cases.
 	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined || FormattedQuery == NaN)
@@ -201,13 +196,21 @@ function GetResults()
 	}
 
 	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null || FormattedQuery == NaN) window.location = "e.html";
+	if (isNaN(CalculatedAns) && NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null || FormattedQuery == NaN)
+		window.location = "e.html";
 
 	// This piece of code will Change some window properties.
 	let TimeTaken = EndTime - StartTime;
 	let Seconds = (((TimeTaken % 60000) / 1000).toFixed(2));
-	document.getElementById("NumOfResults").innerHTML = "About " + NumOFResults + " results (" + Seconds + " seconds)";
+
+	// Modify Searchbar and Num of results.
 	document.getElementById("Searchbar").value = OriginalQuery;
+	NumOfResultsElement = document.getElementById("NumOfResults");
+	if (NumOFResults == 0)
+		NumOfResultsElement.innerHTML = "1 result (" + Seconds + " seconds)";
+
+	else
+		NumOfResultsElement.innerHTML = "About " + NumOFResults + " results (" + Seconds + " seconds)";
 
 	// Retrive and Save the Search History.
 	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)

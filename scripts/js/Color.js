@@ -93,12 +93,16 @@ function ColorRender(ResultTitle, ResulstLink)
 // This funtion will peform basic arithmetic calculations based on given expression input.
 function ColorCalc(arithmetic)
 {
-	let MultiplySign = arithmetic.replace("x", "*");
-	let Operators = MultiplySign.replace(/[+/*-]/g, "");
-	const Numbers = parseFloat(Operators).toString();
-	if (Numbers.length == Operators.length)
-		return Function("return " + MultiplySign)();
+	// ()+/*-.,%^
+	const MultiplySign = arithmetic.replace("x", "*").trim();
+	const rmExtraSpaces = MultiplySign.replace(/\s+/g, "");
+	const FormatExpr = rmExtraSpaces.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
+	
+	try
+	{
+		// Perform maths.
+		return Function("return " + FormatExpr)();
+	}
 
-	else
-		return NaN;
+	catch (err) { return NaN; }
 }
