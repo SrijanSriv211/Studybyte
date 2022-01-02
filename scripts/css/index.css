@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
+:root
+{
+    --black: #373737;
+    --white: #f9f9f9;
+    --red: #ff5959;
+}
+
 *
 {
     margin: 0;
@@ -10,7 +17,7 @@
 body
 {
     font-family: "Roboto";
-    color: #f9f9f9;
+    color: var(--white);
     background-image: url("../../res/Background/Background.png");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -21,26 +28,26 @@ body
 nav ul
 {
     display: flex;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
 }
 
 nav ul li
 {
-    margin: 10px 20px;
+    margin: 20px 20px;
     cursor: pointer;
 }
 
 nav ul li a
 {
-    color: #f9f9f9;
+    color: var(--white);
     text-decoration: none;
     transition: 0.2s;
 }
 
 nav ul li a:hover
 {
-    color: #ff5959;
+    color: var(--red);
     transition: 0.2s;
 }
 
@@ -65,8 +72,8 @@ section h3
     transform: translate(-50%, -50%);
     padding-left: 12px;
     font-size: 15px;
-    color: #f9f9f9;
-    background: #373737;
+    color: var(--white);
+    background: var(--black);
     border: none;
     border-radius: 5px;
     outline: none;
@@ -96,8 +103,8 @@ section h3
     font-weight: 400;
     text-align: center;
     font-size: 15px;
-    color: #f9f9f9;
-    background: #373737;
+    color: var(--white);
+    background: var(--black);
     border: none;
     border-radius: 5px;
     outline: none;
@@ -120,50 +127,13 @@ section h3
 	transition: 0.2s;
 }
 
-/*This will make the site responsive*/
-@media screen and (max-width: 800px)
+/* This will make this site responsive for mobile devices */
+@media only screen and (max-width: 500px)
 {
     nav ul
     {
-        font-size: 20px;
-    }
-    
-    nav ul li
-    {
-        margin: 10px 20px;
-    }
-
-    section h3
-    {
-        font-size: 70px;
-    }
-
-    #Searchbar
-    {
-        font-size: 25px;
-        width: 550px;
-        height: 70px;
-    }
-
-    #Searchbtn
-    {
-        font-size: 25px;
-        width: 200px;
-        height: 60px;
-        margin-top: 80px;
-    }
-}
-
-@media screen and (max-width: 500px)
-{
-    nav ul
-    {
-        font-size: 20px;
-    }
-    
-    nav ul li
-    {
-        margin: 10px 20px;
+        justify-content: center;
+        font-size: 18px;
     }
 
     section h3
@@ -180,9 +150,9 @@ section h3
 
     #Searchbtn
     {
-        font-size: 17px;
+        font-size: 15px;
         width: 150px;
         height: 40px;
-        margin-top: 60px;
+        margin-top: 50px;
     }
 }

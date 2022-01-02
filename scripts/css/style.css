@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
+:root
+{
+    --link: #8c8cfa;
+    --visited: #ac77e7;
+    --black: #373737;
+    --white: #f9f9f9;
+    --red: #ff5959;
+}
+
 *
 {
     margin: 0;
@@ -15,7 +24,7 @@ html
 body
 {
     font-family: "Roboto";
-    color: #f9f9f9;
+    color: var(--white);
     background-image: url("../../res/Background/Background.png");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -49,7 +58,7 @@ body
 
 .SearchAtTop a
 {
-    color: #f9f9f9;
+    color: var(--white);
     text-decoration: none;
     font-size: 25px;
     font-weight: normal;
@@ -59,7 +68,7 @@ body
 
 .SearchAtTop a:hover
 {
-    color: #ff5959;
+    color: var(--red);
     transition: 0.2s;
 }
 
@@ -69,8 +78,8 @@ body
     margin-right: auto;
     padding-left: 12px;
     font-size: 15px;
-    color: #f9f9f9;
-    background: #373737;
+    color: var(--white);
+    background: var(--black);
     border: none;
     border-radius: 5px;
     outline: none;
@@ -96,8 +105,8 @@ body
     font-weight: 400;
     text-align: center;
     font-size: 15px;
-    color: #f9f9f9;
-    background: #373737;
+    color: var(--white);
+    background: var(--black);
     border: none;
     border-radius: 5px;
     outline: none;
@@ -136,7 +145,7 @@ body
 #Results #CalculatedAns
 {
     display: inline-block;
-	color: #8c8cfa;
+	color: var(--link);
 	cursor: pointer;
 	font-size: 20px;
 	transition: 0.2s;
@@ -158,7 +167,7 @@ body
 #Results li a:link
 {
 	text-decoration: none;
-	color: #8c8cfa;
+	color: var(--link);
 	cursor: pointer;
 	font-size: 20px;
 	transition: 0.2s;
@@ -166,7 +175,7 @@ body
 
 #Results li a:visited
 {
-	color: #ac77e7;
+	color: var(--visited);
 }
 
 #Results li a:hover
@@ -184,8 +193,8 @@ body
 {
     opacity: 0;
 	visibility: hidden;
-	color: #f9f9f9;
-	background-color: #373737;
+	color: var(--white);
+	background-color: var(--black);
 	border: none;
 	outline: none;
 	border-radius: 5px;
@@ -221,7 +230,7 @@ body
 
 .Error:hover
 {
-    color: #ff5959;
+    color: var(--red);
     transition: 0.2s;
 }
 
@@ -242,7 +251,7 @@ body
 .Error2:hover
 {
     color: #2c2c2c;
-    background: #f9f9f9;
+    background: var(--white);
     transition: 0.2s;
 }
 
@@ -256,7 +265,7 @@ body
 {
     margin-left: 50px;
     margin-bottom: 125px;
-	color: #ac77e7;
+	color: var(--visited);
 	cursor: pointer;
 	font-size: 22px;
 	transition: 0.2s;
@@ -282,15 +291,15 @@ body
 
 #NoSearchHistory:hover
 {
-    color: #ff5959;
+    color: var(--red);
     transition: 0.2s;
 }
 
 #ClearHistory
 {
     font-size: 15px;
-	color: #f9f9f9;
-	background-color: #373737;
+	color: var(--white);
+	background-color: var(--black);
 	border: none;
 	outline: none;
 	border-radius: 5px;
@@ -310,38 +319,8 @@ body
 	transition: 0.2s;
 }
 
-/*This will make the site responsive*/
-@media screen and (max-width: 800px)
-{
-    .SearchAtTop a
-    {
-        font-size: 30px;
-    }
-
-    .SearchAtTop #Searchbar
-    {
-        font-size: 15px;
-        width: 400px;
-        height: 40px;
-    }
-
-    .Error2
-    {
-        font-size: 32px;
-    }
-
-    #Results
-    {
-        margin-bottom: 150px;
-    }
-
-    #Results li
-    {
-        padding-left: 25px;
-    }
-}
-
-@media screen and (max-width: 500px)
+/* This will make this site responsive for mobile devices */
+@media only screen and (max-width: 500px)
 {
     .SearchAtTop a
     {
@@ -382,6 +361,6 @@ body
 
     #Results li
     {
-        padding-left: 25px;
+        margin-left: 10px;
     }
 }
