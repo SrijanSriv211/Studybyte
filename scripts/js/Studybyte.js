@@ -108,20 +108,24 @@ function GetResults()
 	document.title = OriginalQuery + " - Studybyte";
 
 	// Peform basic arithmetic calculations.
-	const CalculatedAns = ColorCalc(FormattedQuery);
-	if (!isNaN(CalculatedAns))
+	const CalculatedAns = 0;
+	if ((/[()+/*-.,%^]/).test(FormattedQuery))
 	{
-		// Format the string.
-		const MultiplySign = OriginalQuery.replace("x", "*").trim();
-		const Format = MultiplySign.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
-		const Expr = Format.replace(/\s+/g, "").split("").join(" ");
+		CalculatedAns = ColorCalc(FormattedQuery);
+		if (!isNaN(CalculatedAns))
+		{
+			// Format the string.
+			const MultiplySign = OriginalQuery.replace("x", "*").trim();
+			const Format = MultiplySign.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
+			const Expr = Format.replace(/\s+/g, "").split("").join(" ");
 
-		// Render calculated answer.
-		const li = document.createElement("li");
-		const SiteList = document.getElementById("Results");
-		li.setAttribute("id", "CalculatedAns");
-		li.textContent = Expr + " = " + CalculatedAns;
-		SiteList.appendChild(li);
+			// Render calculated answer.
+			const li = document.createElement("li");
+			const SiteList = document.getElementById("Results");
+			li.setAttribute("id", "CalculatedAns");
+			li.textContent = Expr + " = " + CalculatedAns;
+			SiteList.appendChild(li);
+		}
 	}
 
 	// Check for any edge cases.
