@@ -108,7 +108,7 @@ function GetResults()
 	document.title = OriginalQuery + " - Studybyte";
 
 	// Peform basic arithmetic calculations.
-	const CalculatedAns = 0;
+	let CalculatedAns = 0;
 	if ((/[()+/*-.,%^]/).test(FormattedQuery))
 	{
 		CalculatedAns = ColorCalc(FormattedQuery);
