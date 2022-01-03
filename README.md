@@ -3,6 +3,8 @@ Studybyte is a search engine designed to help students find educational content 
 
 [![Studybyte's Homepage Screenshot](./res/Branding/Screenshot.png)](https://light-lens.github.io/Studybyte)
 
+---
+
 ## Getting Started
 Visual Studio Code is recommended.
 
@@ -16,7 +18,7 @@ Start by cloning the repository with `git clone https://github.com/Light-Lens/St
 1. The Web crawler was created by [tasos-py](https://github.com/tasos-py).
 2. Check out [Search-Engines-Scraper](https://github.com/tasos-py/Search-Engines-Scraper) on GitHub
 
-***
+---
 
 ## FAQ
 ### 1. Why To Use Studybyte?
@@ -38,7 +40,7 @@ No, You don't need to have any kind of account to use Studybyte. Just open the s
 ### 5. How Do I Add My Website To Studybyte?
 Currently if you want to add a website to Studybyte's index then you have to add it in the source code manually and create a GitHub pull request. But soon the process will be automated with Google Forms.
 
-***
+---
 
 ## Features
 Studybyte has a feature known as Search Tags. Search Tags are some keywords which you can use to search instantly on other search engines from Studybyte's search bar. To use this feature you need to add these keywords at the beginning of your query.
@@ -62,6 +64,3 @@ You need to install the following on your machine.
 ## License and Contributions
 All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
 
-***
-
-<h1>Thanks to everyone for your AMAZING support! 😃😃😃</h1>
