@@ -169,8 +169,8 @@ function GetResults()
 		let RenderResultsIteration = InitMaxResults;
 		document.addEventListener("scroll", function(e)
 		{
-			let WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
-			let ScrollbarHeight = document.body.clientHeight - 1;
+			const WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
+			const ScrollbarHeight = document.body.clientHeight - 1;
 			if ((WindowHeight >= ScrollbarHeight))
 			{
 				try
@@ -191,7 +191,9 @@ function GetResults()
 	// Render all matching results.
 	// If the number of ranked pages is smaller than Maximum results,
 	// then just render results. Else enable infinite scrolling too.
-	let MaxResults = 10;
+	
+	const Height = parseInt((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 100);
+	let MaxResults = Height;
 	if (NumOFResults <= MaxResults) RenderResults(0, NumOFResults);
 	else
 	{

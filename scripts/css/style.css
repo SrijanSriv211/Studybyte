@@ -34,7 +34,7 @@ body
 
 ::-webkit-scrollbar
 {
-    width: 10px;
+    width: 7px;
     background: #1a1a1a;
 }
 
@@ -361,6 +361,6 @@ body
 
     #Results li
     {
-        margin-left: 10px;
+        margin-left: 20px;
     }
 }
