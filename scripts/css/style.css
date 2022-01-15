@@ -213,6 +213,30 @@ body
 	transition: 0.2s;
 }
 
+#ShowMore
+{
+    opacity: 0;
+	visibility: hidden;
+    font-size: 25px;
+    font-weight: normal;
+	color: var(--white);
+	background-color: transparent;
+	border: none;
+	outline: none;
+	transition: 0.2s;
+    position: relative;
+    top: 500%;
+    left: 50%;
+    transform: translate(-50%, -500%);
+    transition: 0.2s;
+}
+
+#ShowMore:hover
+{
+	color: var(--red);
+    transition: 0.2s;
+}
+
 .Error
 {
     position: relative;
@@ -224,7 +248,6 @@ body
     cursor: default;
     font-size: 50px;
     font-weight: normal;
-    font-weight: 400;
     transition: 0.2s;
 }
 
@@ -362,5 +385,11 @@ body
     #Results li
     {
         margin-left: 20px;
+    }
+
+    #ShowMore
+    {
+        opacity: 100;
+        visibility: visible;
     }
 }
