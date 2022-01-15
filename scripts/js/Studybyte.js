@@ -166,12 +166,13 @@ function GetResults()
 	// Handle the scrollbar for infinite scroll.
 	function HandleScroll(InitMaxResults)
 	{
+		// TODO: Fix this code, it is repeating a few pages in results.
 		let RenderResultsIteration = InitMaxResults;
-		document.addEventListener("scroll", function(e)
+		document.addEventListener("scroll", function()
 		{
 			const WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
 			const ScrollbarHeight = document.body.clientHeight - 1;
-			if ((WindowHeight >= ScrollbarHeight))
+			if (WindowHeight >= ScrollbarHeight)
 			{
 				try
 				{
@@ -185,15 +186,28 @@ function GetResults()
 					RenderResultsIteration += InitMaxResults;
 				}
 			}
-		});
+		}, true);
+
+		document.getElementById("ShowMore").addEventListener("click", function()
+		{
+			try
+			{
+				RenderResults(RenderResultsIteration, InitMaxResults);
+				RenderResultsIteration += InitMaxResults;
+			}
+
+			catch (err)
+			{
+				RenderResults(RenderResultsIteration, NumOFResults - RenderResultsIteration);
+				RenderResultsIteration += InitMaxResults;
+			}
+		}, true);
 	}
 
 	// Render all matching results.
-	// If the number of ranked pages is smaller than Maximum results,
-	// then just render results. Else enable infinite scrolling too.
-	
-	const Height = parseInt((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 100);
-	let MaxResults = Height;
+	// If the number of ranked pages is smaller than Maximum results, then just render results.
+	// Otherwise enable infinite scrolling and show more.
+	const MaxResults = parseInt((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 100);
 	if (NumOFResults <= MaxResults) RenderResults(0, NumOFResults);
 	else
 	{

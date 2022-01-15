@@ -50,9 +50,7 @@ function MatchingWords(Query, ResultLinks)
 function RankResultValues(Query, Links)
 {
 	let Rank_values = [];
-	for (let Link in Links)
-		Rank_values.push(MatchingWords(Query, Links[Link]));
-
+	for (let Link in Links) Rank_values.push(MatchingWords(Query, Links[Link]));
 	return Rank_values;
 }
 
@@ -61,14 +59,12 @@ function ColorRank(Values, Results)
 {
 	let MergedList = [];
 	let ResultsOnlyToRank = [];
-	for (let i in Values)
-		MergedList.push([Values[i], Results[i]]);
+	for (let i in Values) MergedList.push([Values[i], Results[i]]);
 
 	MergedList.sort().reverse();
 	for (let i in MergedList)
 	{
-		if (MergedList[i][0] > 0)
-			ResultsOnlyToRank.push(MergedList[i]);
+		if (MergedList[i][0] > 0) ResultsOnlyToRank.push(MergedList[i]);
 	}
 
 	return ResultsOnlyToRank;
@@ -98,11 +94,7 @@ function ColorCalc(arithmetic)
 	const rmExtraSpaces = MultiplySign.replace(/\s+/g, "");
 	const FormatExpr = rmExtraSpaces.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
 	
-	try
-	{
-		// Perform maths.
-		return Function("return " + FormatExpr)();
-	}
-
+	// Perform maths.
+	try { return Function("return " + FormatExpr)(); }
 	catch (err) { return NaN; }
 }
