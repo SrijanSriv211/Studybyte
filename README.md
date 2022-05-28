@@ -62,5 +62,5 @@ You need to install the following on your machine.
 - Visual Studio Code (or any other IDE)
 
 ## License and Contributions
-All code is licensed under an MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
+All code is licensed under a MIT license. This allows you to re-use the code freely, remixed in both commercial and non-commercial projects. The only requirement is to include the same license when distributing.
 
