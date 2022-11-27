@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Your search term(s) - Studybyte</title>
+	<link rel="icon" href="./res/Icons/Studybyte.png">
+	<link rel="stylesheet" href="./scripts/Style.css">
+	<link rel="stylesheet" href="./scripts/Studybyte.css">
+	<link rel="stylesheet" href="./scripts/ResponsiveDesign.css">
+</head>
+<body>
+	<script src="./scripts/Color.js"></script>
+	<script src="./scripts/Studybyte.js"></script>
+	<div id="Database">
+		<ul id="RankedResultList"></ul>
+		<ul id="LinkList"></ul>
+	</div>
+	<div id="Studybyte_result_search">
+		<div>
+			<h4><a href="index" title="Go To Home Page">Studybyte<b class="caret"></b></a></h4>
+			<h4 id="NumOfLinks">0 results found!</h4>
+			<input type="button" value="▲" id="ScrollToTop" title="Scroll To Top" onclick="SCROLLToTOP()">
+		</div>
+
+		<input type="text" placeholder="Type To Search..." title="Search" id="GetValue" onkeydown="IsEnter()" autocomplete="off"><br>
+		<input type="button" value="Studybyte" id="GetData" onclick="Studybyte_search()">
+		<script> Studybyte_result(); </script>
+		<script> Searchbar_Properties(); </script>
+		<script> SCROLLToTOP_Properties(); </script>
+	</div>
+</body>
+</html>

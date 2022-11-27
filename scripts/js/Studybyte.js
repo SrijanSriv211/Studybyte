@@ -96,83 +96,101 @@ function TryToSearch()
 function GetResults()
 {
 	// Retrive all indexed pages.
-	const Data = Database();
-	let SearchIndex = [];
-	let ListResults = [];
-	let ListOfSites = [];
-	let History = [];
-
-	// Retrive the query and Change the Title.
-	const OriginalQuery = localStorage.getItem("OriginalQuery");
-	const FormattedQuery = localStorage.getItem("FormattedQuery");
-	document.title = OriginalQuery + " - Studybyte";
-
-	// Peform basic arithmetic calculations.
-	let CalculatedAns = 0;
-	if ((/[()+/*-.,%^]/).test(FormattedQuery))
+	fetch("scripts/Pages.json").then(response => response.json()).then(data =>
 	{
-		CalculatedAns = ColorCalc(FormattedQuery);
-		if (!isNaN(CalculatedAns))
+		const Data = data["Pages"]
+		let SearchIndex = [];
+		let ListResults = [];
+		let ListOfSites = [];
+		let History = [];
+
+		// Retrive the query and Change the Title.
+		const OriginalQuery = localStorage.getItem("OriginalQuery");
+		const FormattedQuery = localStorage.getItem("FormattedQuery");
+		document.title = OriginalQuery + " - Studybyte";
+
+		// Peform basic arithmetic calculations.
+		let CalculatedAns = 0;
+		if ((/[()+/*-.,%^]/).test(FormattedQuery))
 		{
-			// Format the string.
-			const MultiplySign = OriginalQuery.replace("x", "*").trim();
-			const Format = MultiplySign.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
-			const Expr = Format.replace(/\s+/g, "").split("").join(" ");
-
-			// Render calculated answer.
-			const li = document.createElement("li");
-			const SiteList = document.getElementById("Results");
-			li.setAttribute("id", "CalculatedAns");
-			li.textContent = Expr + " = " + CalculatedAns;
-			SiteList.appendChild(li);
-		}
-	}
-
-	// Check for any edge cases.
-	if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined || FormattedQuery == NaN)
-		window.location = "index.html";
-
-	// Convert that indexed pages dict into a list.
-	for (let i = 0; i < Data.length; i++)
-		SearchIndex.push([Data[i].Title, Data[i].URL]);
-
-	// Code snippet from:
-	// https://stackoverflow.com/questions/7848004/get-column-from-a-two-dimensional-array/63860734
-	const arrayColumn = (arr, n) => arr.map(x => x[n]);
-
-	// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
-	ListOfSites = arrayColumn(SearchIndex, 0);
-	let StartTime = performance.now();
-
-	ListResults = Color(FormattedQuery, ListOfSites);
-
-	let EndTime = performance.now();
-	let NumOFResults = ListResults.length;
-
-	// Render all matching results.
-	function RenderResults(StartNum, InitMaxResults)
-	{
-		let IterNum = StartNum + InitMaxResults;
-		for (let i = StartNum; i < IterNum; i++)
-		{
-			if (ListOfSites.includes(ListResults[i][1]))
+			CalculatedAns = ColorCalc(FormattedQuery);
+			if (!isNaN(CalculatedAns))
 			{
-				let indexOfSite = arrayColumn(SearchIndex, 0).indexOf(ListResults[i][1]);
-				ColorRender(SearchIndex[indexOfSite][0], SearchIndex[indexOfSite][1]);
+				// Format the string.
+				const MultiplySign = OriginalQuery.replace("x", "*").trim();
+				const Format = MultiplySign.replace(/[a-zA-z!\"#$&':;<=>?@[\\\]_`{|}~·]/g, "");
+				const Expr = Format.replace(/\s+/g, "").split("").join(" ");
+
+				// Render calculated answer.
+				const li = document.createElement("li");
+				const SiteList = document.getElementById("Results");
+				li.setAttribute("id", "CalculatedAns");
+				li.textContent = Expr + " = " + CalculatedAns;
+				SiteList.appendChild(li);
 			}
 		}
-	}
 
-	// Handle the scrollbar for infinite scroll.
-	function HandleScroll(InitMaxResults)
-	{
-		// TODO: Fix this code, it is repeating a few pages in results.
-		let RenderResultsIteration = InitMaxResults;
-		document.addEventListener("scroll", function()
+		// Check for any edge cases.
+		if (FormattedQuery == "" || FormattedQuery == null || FormattedQuery == undefined || FormattedQuery == NaN)
+			window.location = "index.html";
+
+		// Convert that indexed pages dict into a list.
+		for (let i = 0; i < Data.length; i++)
+			SearchIndex.push([Data[i].Title, Data[i].URL]);
+
+		// Code snippet from:
+		// https://stackoverflow.com/questions/7848004/get-column-from-a-two-dimensional-array/63860734
+		const arrayColumn = (arr, n) => arr.map(x => x[n]);
+
+		// Color is the main algorithm behind searching and giving results for query in Studybyte search engine.
+		ListOfSites = arrayColumn(SearchIndex, 0);
+		let StartTime = performance.now();
+
+		ListResults = Color(FormattedQuery, ListOfSites);
+
+		let EndTime = performance.now();
+		let NumOFResults = ListResults.length;
+
+		// Render all matching results.
+		function RenderResults(StartNum, InitMaxResults)
 		{
-			const WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
-			const ScrollbarHeight = document.body.clientHeight - 1;
-			if (WindowHeight >= ScrollbarHeight)
+			let IterNum = StartNum + InitMaxResults;
+			for (let i = StartNum; i < IterNum; i++)
+			{
+				if (ListOfSites.includes(ListResults[i][1]))
+				{
+					let indexOfSite = arrayColumn(SearchIndex, 0).indexOf(ListResults[i][1]);
+					ColorRender(SearchIndex[indexOfSite][0], SearchIndex[indexOfSite][1]);
+				}
+			}
+		}
+
+		// Handle the scrollbar for infinite scroll.
+		function HandleScroll(InitMaxResults)
+		{
+			//! TODO: Fix this code, it is repeating a few pages in results.
+			let RenderResultsIteration = InitMaxResults;
+			document.addEventListener("scroll", function()
+			{
+				const WindowHeight = document.scrollingElement.scrollTop + document.scrollingElement.clientHeight;
+				const ScrollbarHeight = document.body.clientHeight - 1;
+				if (WindowHeight >= ScrollbarHeight)
+				{
+					try
+					{
+						RenderResults(RenderResultsIteration, InitMaxResults);
+						RenderResultsIteration += InitMaxResults;
+					}
+
+					catch (err)
+					{
+						RenderResults(RenderResultsIteration, NumOFResults - RenderResultsIteration);
+						RenderResultsIteration += InitMaxResults;
+					}
+				}
+			}, true);
+
+			document.getElementById("ShowMore").addEventListener("click", function()
 			{
 				try
 				{
@@ -185,65 +203,51 @@ function GetResults()
 					RenderResults(RenderResultsIteration, NumOFResults - RenderResultsIteration);
 					RenderResultsIteration += InitMaxResults;
 				}
-			}
-		}, true);
+			}, true);
+		}
 
-		document.getElementById("ShowMore").addEventListener("click", function()
+		// Render all matching results.
+		// If the number of ranked pages is smaller than Maximum results, then just render results.
+		// Otherwise enable infinite scrolling and show more.
+		const MaxResults = parseInt((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 100);
+		if (NumOFResults <= MaxResults) RenderResults(0, NumOFResults);
+		else
 		{
-			try
-			{
-				RenderResults(RenderResultsIteration, InitMaxResults);
-				RenderResultsIteration += InitMaxResults;
-			}
+			RenderResults(0, MaxResults);
+			HandleScroll(MaxResults);
+		}
 
-			catch (err)
-			{
-				RenderResults(RenderResultsIteration, NumOFResults - RenderResultsIteration);
-				RenderResultsIteration += InitMaxResults;
-			}
-		}, true);
-	}
+		// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
+		if (isNaN(CalculatedAns) && NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null || FormattedQuery == NaN)
+			window.location = "e.html";
 
-	// Render all matching results.
-	// If the number of ranked pages is smaller than Maximum results, then just render results.
-	// Otherwise enable infinite scrolling and show more.
-	const MaxResults = parseInt((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 100);
-	if (NumOFResults <= MaxResults) RenderResults(0, NumOFResults);
-	else
-	{
-		RenderResults(0, MaxResults);
-		HandleScroll(MaxResults);
-	}
+		// This piece of code will Change some window properties.
+		let TimeTaken = EndTime - StartTime;
+		let Seconds = (((TimeTaken % 60000) / 1000).toFixed(2));
 
-	// This piece of code will check whether the number of hidden links are equal to total number of links, and if yes or if the Query is undefined then send to "ERROR" page.
-	if (isNaN(CalculatedAns) && NumOFResults == 0 || FormattedQuery == undefined || FormattedQuery == null || FormattedQuery == NaN)
-		window.location = "e.html";
+		// Modify Searchbar and Num of results.
+		document.getElementById("Searchbar").value = OriginalQuery;
+		NumOfResultsElement = document.getElementById("NumOfResults");
+		if (NumOFResults == 0)
+			NumOfResultsElement.innerHTML = "1 result (" + Seconds + " seconds)";
 
-	// This piece of code will Change some window properties.
-	let TimeTaken = EndTime - StartTime;
-	let Seconds = (((TimeTaken % 60000) / 1000).toFixed(2));
+		else
+			NumOfResultsElement.innerHTML = "About " + NumOFResults + " results (" + Seconds + " seconds)";
 
-	// Modify Searchbar and Num of results.
-	document.getElementById("Searchbar").value = OriginalQuery;
-	NumOfResultsElement = document.getElementById("NumOfResults");
-	if (NumOFResults == 0)
-		NumOfResultsElement.innerHTML = "1 result (" + Seconds + " seconds)";
+		// Retrive and Save the Search History.
+		if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
+			History = JSON.parse(localStorage.getItem("UserHistory"));
 
-	else
-		NumOfResultsElement.innerHTML = "About " + NumOFResults + " results (" + Seconds + " seconds)";
+		// Save the search query in History.
+		History.push(OriginalQuery);
+		History.unshift(History.pop());
+		History = History.filter(function(item, index, inputarr)
+		{
+			return inputarr.indexOf(item) == index;
+		});
 
-	// Retrive and Save the Search History.
-	if (localStorage.getItem("UserHistory") != null || localStorage.getItem("UserHistory") != undefined)
-		History = JSON.parse(localStorage.getItem("UserHistory"));
-
-	// Save the search query in History.
-	History.push(OriginalQuery);
-	History.unshift(History.pop());
-	History = History.filter(function(item, index, inputarr) {
-		return inputarr.indexOf(item) == index;
+		localStorage.setItem("UserHistory", JSON.stringify(History));
 	});
-
-	localStorage.setItem("UserHistory", JSON.stringify(History));
 }
 
 // If you are redirected to "ERROR" page then this function will add the Original_Query to "Your search term was" and render it.

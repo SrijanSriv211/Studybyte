@@ -1,19 +1,30 @@
 # These imports are important for this program to run.
-import json
-import sys
-import os
+from genericpath import isfile
+import numpy, json, os
 
-# Setup
-os.system("title Crawler")
-print("Crawler.")
+# Arrange words in such a way to form a logical sentence.
+def ArrangeWords(Words):
+    # A number will represent the number of empty strings in a list.
+    # For example: 4 -> ["", "", "", ""].
+    for i in Words:
+        for j in i:
+            if isinstance(j, int):
+                EmptyList = [""] * j
+                i.extend(EmptyList)
+                i.remove(j)
+                break
 
-# All the queries
-Query = sys.argv[1].lower()
-LinksToExclude = ["facebook", "twitter", "reddit", "quora", "instagram", "amazon", "play.google", "apps.apple", "pinterest"]
+    GreetingSentence = [numpy.random.choice(i) for i in Words]
+
+    # Reconstruct the string to form a logical sentence.
+    FinalSentence = " ".join(GreetingSentence)
+    rm_extra_spaces = " ".join(FinalSentence.split())
+    return rm_extra_spaces
 
 # The main code.
 def ProcessJson(Filename):
-    # open("Pages.log", "w").write("") # Clear the Pages.log file.
+    if not os.path.isfile(f"{Filename}.json"):
+        with open(f"{Filename}.json", "w", encoding="utf-8") as file: file.write("")
 
     # Read the Json file.
     Json = open(f"{Filename}.json", "r", encoding="utf-8")
@@ -21,37 +32,42 @@ def ProcessJson(Filename):
     for Data in Content["results"]:
         for i in Content["results"][Data]:
             SiteTitle = i["title"].split("http")[0]
-            GenerateJson(SiteTitle, i["link"])
+            GenerateJson(Filename, SiteTitle, i["link"])
 
     # Close the Json file and Delete the Pages.json file.
     Json.close()
     os.remove(f"{Filename}.json")
 
-def GenerateJson(Title, Link):
+def GenerateJson(Filename, Title, Link):
     if Link.endswith("/"): Link = Link[:-1] # Remove "/" from the ending of the link.
 
-    # Ignore results from some websites.
-    for i in LinksToExclude:
-        if i in Link.lower(): return None
-
     # Write all the links and titles to a file in json manner.
-    Pages = open("Pages.log", "a", encoding="utf-8")
-    Pages.write("{\n")
-    Pages.write(f"\t\"Title\": \"{Title}\",\n")
-    Pages.write(f"\t\"URL\": \"{Link}\"\n")
-    Pages.write("},\n")
+    Pages = open(f"{Filename}.log", "a", encoding="utf-8")
+    Pages.write('{\n')
+    Pages.write(f'\t"Title": "{Title}",\n')
+    Pages.write(f'\t"URL": "{Link}"\n')
+    Pages.write('},\n')
     Pages.close()
 
 # Generate Files.
-os.system(f"python Crawler.py -e google,bing,duckduckgo -p 1 -i -q \"{Query}\" -o json,print -n Pages")
-ProcessJson("Pages")
+print("Crawler")
 
-# Exit the program.
-if len(sys.argv) >= 3:
-    if sys.argv[2].lower() == "-q":
-        os.system("echo|set /p=\"Continue.\"")
-        os.system("pause>nul")
-        sys.exit()
+list_of_queries = []
+T1 = [
+["class"], ["6", "7", "8", "9", "10", "11", "12", "all"],
+["maths", "english", "hindi", "social science", "science", "physics", "chemistry", "biology", "economics", "civics", "history", "geography"],
+["chapter"], ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "all"],
+["learncbse", "byjus", "vedantu", "tiwari academy", "topper", "brainly", "youtube", 4],
+["question answer", "notes", "explanation", "summary", 4]
+]
 
-    else:
-        print(f"Incorrect Flag.")
+S1 = ""
+for i in range(1000):
+    S1 = ArrangeWords(T1)
+
+    if S1 in list_of_queries: continue
+    list_of_queries.append(S1)
+
+    print(f"\n{S1}")
+    os.system(f'python Crawler.py -p 1 -q "{S1}" -o json,print -n Pages')
+    ProcessJson("Pages")

@@ -10,7 +10,7 @@ try:
     from shutil import get_terminal_size
 except ImportError:
     from .libs.get_terminal_size import get_terminal_size
-
+    
 from .utils import encode_str, decode_bytes
 from .libs import windows_cmd_encoding
 from .config import PYTHON_VERSION
