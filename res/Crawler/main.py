@@ -54,11 +54,11 @@ print("Crawler")
 
 list_of_queries = []
 T1 = [
-["class"], ["6", "7", "8", "9", "10", "11", "12", "all"],
+["class"], ["6", "7", "8", "9", "10", "11", "12"],
 ["maths", "english", "hindi", "social science", "science", "physics", "chemistry", "biology", "economics", "civics", "history", "geography"],
-["chapter"], ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "all"],
-["learncbse", "byjus", "vedantu", "tiwari academy", "topper", "brainly", "youtube", 4],
-["question answer", "notes", "explanation", "summary", 4]
+["chapter"], ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "all"],
+["learncbse", "byjus", "vedantu", "tiwari academy", "topper", "brainly", "youtube", 3],
+["question answer", "notes", "explanation", "summary", "chapter name", 3]
 ]
 
 S1 = ""
